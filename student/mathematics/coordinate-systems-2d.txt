@@ -1,6 +1,6 @@
 
 
-===== Mathematical Foundations: Coordinate Systems for the Plane =====
+===== Coordinate Systems for the Plane =====
 
 
 
