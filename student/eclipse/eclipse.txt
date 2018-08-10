@@ -1,6 +1,4 @@
-
-
-===== Eclipse Tips and Tricks =====
+===== Help using Eclipse =====
 
 
 
