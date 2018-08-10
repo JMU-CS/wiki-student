@@ -20,6 +20,6 @@ The former is self explanatory. The latter varies from autograder to
 autograder. Help is available on the feedback provided by the following
 autograders.
 
-  * [[Autograders using gradingtier (with Checkstyle, JUnit, and JaCoCo/EclEmma) for Java Submissions|gradingtier-summarizers]]
+  * [[gradingtier-summarizers | Autograders using gradingtier (with Checkstyle, JUnit, and JaCoCo/EclEmma) for Java Submissions]]
 
 
