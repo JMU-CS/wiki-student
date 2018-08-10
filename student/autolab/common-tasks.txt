@@ -75,6 +75,8 @@ automatic grading system. Note that, though there are different links,
 each one provides feedback on all of the criteria. The only thing that
 varies from link-to-link is the "Score for this problem" at the
 bottom, which shows the points awarded **only for that criterion**.
+See the [[student:autolab:grade-report | description of the grade report ]] 
+for more information.
 
 After the assignment has been completely graded, you may also receive
 feedback from the instructor on the quality of your code. You can
