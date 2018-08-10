@@ -1,6 +1,6 @@
 
 
-===== Mathematical Foundations: Angular Measure =====
+===== Angular Measure =====
 
 
 
