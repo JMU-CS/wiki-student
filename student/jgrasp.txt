@@ -61,8 +61,5 @@ In jGRASP, click on <key>Tools</key>, pull down to <key>Checkstyle</key> and ove
 jGRASP does not have a command that re-indents code, but you can trick it into doing so.
 
 
-  - 
-Click on  <key>View</key>+<key>Generate CSD</key> (or the {{jGRASP-viewcsd.png}} button).
-
-  - 
-Click on  <key>View</key>+<key>Remove CSD</key> (or the {{jGRASP-removecsd.png}} button).
+  - Click on  <key>View</key>+<key>Generate CSD</key> (or the {{jGRASP-viewcsd.png}} button).
+  - Click on  <key>View</key>+<key>Remove CSD</key> (or the {{jGRASP-removecsd.png}} button).
