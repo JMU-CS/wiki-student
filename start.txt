@@ -1,5 +1,4 @@
-Welcome to the CS wiki!
+===== JMU Computer Science Department Wiki =====
 
-Faculty Wiki: [[faculty:start]]
-
-Student Wiki:  [[student:start]]
+  * [[ faculty:start | Information for Faculty ]] (Authentication Required)
+  * [[ student:start | Information for Students]]
