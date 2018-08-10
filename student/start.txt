@@ -1,6 +1,6 @@
 ===== Information for Students =====
 
-  * [[student:autolab | Autolab ]]
-  * [[student:eclipse | Eclipse ]]
-  * [[student:java | Java ]]
-  * [[student:jgrasp | jGRASP ]]
+  * [[student:autolab:start | Autolab ]]
+  * [[student:eclipse:start | Eclipse ]]
+  * [[student:java:start | Java ]]
+  * [[student:jgrasp:start | jGRASP ]]
