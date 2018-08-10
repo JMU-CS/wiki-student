@@ -18,9 +18,10 @@ It is possible in Java to create complicated ''%%String%%''  objects using the c
 
 The static ''%%format()%%'' method in the ''%%String%%'' class is  passed one parameter called a //format string// and then any number  of other parameters. In the above example, the format string is  ''%%"CS%3d"%%'' and the one other parameter  is ''%%course%%''. A format string consists  of ''%%String%%'' literals and //format specifiers//. In the above  example, the format specifier is ''%%%3d%%''.
 
-Format specifiers have the following syntaxcommand_syntax.
+Format specifiers have the following syntax.
 
 %[//flags//][//width//][.//precision//]//conversion//
+
 Common values of //conversion// include  ''%%b%%'' for ''%%boolean%%'',  ''%%c%%'' for ''%%char%%'',  ''%%d%%'' for ''%%int%%'',  ''%%e%%'' for ''%%double%%'' in scientific notation,  ''%%f%%'' for ''%%double%%'', and  ''%%s%%'' for ''%%String%%''.
 
 Common values of the optional //flag// include  ''%%-%%'' for left-justified,  ''%%+%%'' to always include the sign,  ''%%0%%'' to pad with zeros,  ''%%,%%'' to use grouping separators,  ''%%(%%'' to put negative numbers in parentheses, and  a space character to use a space for the sign of a postive number  (as opposed to omitting it).
@@ -29,7 +30,7 @@ The optional //width// determines the total number of characters  that this port
 
 So, for example the format specifier ''%%%8d%%'' indicates an  ''%%int%%'' that will be right-justified in a field of width 8.  Similarly, the format specifier ''%%-%6.2f%%'' indicates a  ''%%double%%'' that will be left-justified in a field of width 6  with 2 places to the right of the decimal point.
 
-The format string in the invokation of the ''%%format()%%''  method should have the same number of format specifiers as there are  other parameters in the invokation. This is illustrated in the following  example.
+The format string in the invocation of the ''%%format()%%''  method should have the same number of format specifiers as there are  other parameters in the invocation. This is illustrated in the following  example.
 
 <code>
  int  year = 2017;
@@ -39,7 +40,7 @@ The format string in the invokation of the ''%%format()%%''  method should have 
  s = String.format("Year: %4d, Sales: $%,14.2f", year, sales);
 </code>
 
- After this code is executed, ''%%s%%'' will contain  ''%%%%Year: 2017, Sales: $ 1,050,987.00%%%%''
+After this code is executed, ''%%s%%'' will contain  ''%%%%Year: 2017, Sales: $ 1,050,987.00%%%%''
 
 ==== Printing a Formatted String ====
 
@@ -47,7 +48,7 @@ The format string in the invokation of the ''%%format()%%''  method should have 
 Obviously, once you have a formatted ''%%String%%'' there are many  things that you can do with it, including printing it (e.g., with either  the ''%%print()%%'' or ''%%println()%%'' methods, both of which  have a single ''%%String%%'' parameter. For example, the previous  example could easily be extended as follows.
 
 
-<code>
+<code java>
  int  year = 2017;
  double sales = 1050987.00;
  String s;
@@ -58,7 +59,7 @@ Obviously, once you have a formatted ''%%String%%'' there are many  things that 
 
 However, when all you want to do is print a formatted ''%%String%%'',  it is easier to do it in one step, rather than two (i.e., first calling  ''%%format()%%'' and then calling ''%%println()%%''. To accomodate  this, all objects that have a ''%%println()%%'' method also have  a ''%%printf()%%'' method that has the same syntax as the  ''%%format()%%'' method. Hence, the previous example could also be  implemented as follows.
 
-<code>
+<code java>
  int  year = 2017;
  double sales = 1050987.00;
  String s;
