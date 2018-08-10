@@ -1,0 +1,316 @@
+===== Help using Eclipse =====
+
+
+
+==== What is Eclipse? ====
+
+
+According to  www.eclipse.orghttp://www.eclipse.org, the Eclipse project is an "open development platform comprised of extensible frameworks, tools and runtimes for building, deploying and managing software across the lifecycle".
+
+
+==== Startup ====
+
+
+If Eclispe is running slowly you may want to increase the amount of memory allocated to it. You can do this by adding lines to the file ''%%eclipse.ini%%''. For example:
+
+
+<code>
+-vmargs
+-Xms512m
+-Xmx2048m
+-XX:PermSize=256m
+-XX:MaxPermSize=512m
+</code>
+
+The first line indicates that the subsequent lines should be sent to the virtual machine as arguments. The second sets the heap space to 128Mb initially. The third sets the maximum heap space to 521Mb. The last two set the starting and maximum amount of space to use for class names, objects that are never garbage collected, etc...) to 128Mb.
+
+
+==== Projects ====
+
+
+Eclipse organizes resources (including design documents,code, tests, data, external documentation) into //projects//. 
+
+
+
+=== Viewing ===
+
+
+Eclipse offers several different ways to view resources using what it calls //perspectives//. The most convenient way to view a project is using a browser that is appropriate for the language(s) you are working in. For a Java project, click on <key>Window</key>-<key>Perspective</key>-<key>Open Perspective</key>-<key>Java</key>. (Note: If Java isn't an option, and you have Eclipse setup for Java, you may need to click on <key>Other...</key>.)
+
+
+=== Creating ===
+
+
+To create a project:
+
+
+  - Click on <key>File</key>-<key>New</key> and select the appropriate kind of project (which may require you to first click on <key>Other...</key>).
+  - After the dialog box appear, enter a "Project name:", and whatever other information is appropriate.
+  - Click on <key>Finish</key>.
+If you are using Checkstyle, you must activate it for the newly created project. To do so:
+
+  - Right-click on the project in the "Package Explorer" and pull down to "Checkstyle". 
+  - Pull across to "Activate Checkstyle".
+
+=== Importing ===
+
+
+Eclipse projects can be exported as ''%%.zip%%'' files.  To import such a project, click on <key>File</key>+<key>Import</key>, expand "General", select "Existing Projects into Workspace", and click <key>Next</key>. Then, choose "Select archive file", browse to the appropriate archive file, select the relevant project(s) if necessary, and click <key>Finish</key>.
+
+
+=== Customizing the Formatter ===
+
+
+The way Eclipse formats code can be customized in a variety of different ways. These customizations can either be generic or project-specific. To create/modify a project-specific formatter:
+
+
+  - Right-click on the project in the "Package Explorer" and pull down to "Properties". 
+  - Expand the appropriate "[] Code Style" property (e.g., "Java Code Style").
+  - Click on "Formatter".
+  - Select "Enable project specific settings".
+  - Select the appropriate "Active profile". 
+  - Click on <key>Edit...</key>.
+  
+At this point, a dialog will open up that will allow you to change a wide variety of formatting options.
+
+
+=== Custom Key Bindings ===
+
+
+To save yourself some time, you can bind common commands to "shortcut keys". To do so, click on <key> Preferences</key> (which will either be under <key>Window</key> or <key>Eclipse</key> depending on your OS) and then <key>General</key>+<key>Keys</key>.
+
+
+=== Creating Files ===
+
+
+There are many ways to create files and add them to a project. The easiest is:
+
+
+  - Right-click on the appropriate folder. 
+  - Pull down to <key>New</key> and over to the appropriate kind of file.
+
+=== Adding Data Files (and Other Resources) to a Project ===
+
+
+Adding data files (and other resources like images) to a project can be a little tricky because of the way Eclipse organizes and executes code (i.e., the ''%%.java%%'' files are kept in the project's ''%%src%%'' directory, the ''%%.class%%'' files are kept in and loaded from the project's ''%%bin%%'' directory, and the interpreter is run from the project directory (with the classpath set to include the ''%%bin%%'' directory).
+
+
+In most cases, the easiest thing to do is paste (or drag) the files into the project (not the ''%%src%%'' directory/folder) using Eclipse. (Note: If you use another file system utility to put the files in the project directory they will be accessible to the program when you execute it but not visible within Eclipse).
+
+In some cases, you may instead need to first add a directory/folder (commonly named ''%%resources%%'', though it isn't required) to the project that will hold the resources (<key>New</key>+<key>Folder</key>), copy the resources to this directory/folder, and then modify the run configuration so that **they are copied to the ''%%bin%%'' directory at runtime** (click on <key>Run</key>+<key>Run Configurations</key>+ <key>Classpath</key>, select "User Entries", click on <key>Advanced</key>+<key>Add Folders</key>, and select the directory). 
+
+
+=== Adding Existing Source Files to a Project ===
+
+
+The easiest way to add existing source (e.g., ''%%.java%%'') files to a project is to "click-and-drag" them from a file explorer/finder window to the appropriate location in the Eclipse "Package Explorer".
+
+
+=== Using Third-Party .class/.jar Files ===
+
+
+You will sometimes be given the byte code (i.e., the ''%%.class%%'' files) for classes that were developed by a "third-party" (i.e., classes that are neither part of the Java library nor written by you). Such classes will either be delivered in a single ''%%.jar%%'' file or as a collection of ''%%.class%%'' files. You need to instruct Eclipse to use them when compiling and executing. To do so: 
+	
+
+  - Create a directory/folder for the ''%%.class%%'' files external to the workbench (e.g., ''%%existingcomponents%%'') or use an existing directory/folder that is in the workbench hierarchy. 
+  - Copy the ''%%.class%%'' files or ''%%.jar%%''    file to the appropriate folder    (e.g., ''%%existingcomponents%%'').
+  - Open Eclipse.
+  - Select a project.
+  - Click on <key>Project</key> and pull down to <key>Properties</key> (or type    <key>Alt</key>+<key>Enter</key>).
+  - Click on <key>Java Build Path</key>.
+  - Select the <key>Libraries</key> tab and click on one of the following. (Note: "External" here has the same meaning as above. An "External" file/folder is one that is not in the workbench. So, your selection here will depend on whether you saved the file/folder in the workbench hierarchy or not.) 
+    * <key>Add Class Folder...</key>
+    * <key>Add External Class Folder...</key>
+    * <key>Add JARs...</key>
+    * <key>Add External JARs...</key>
+  - Complete the rest of the process.
+  - You may need to close and re-open the project for the files to be found.
+
+==== Editing ====
+
+
+
+=== Shortcut Keys ===
+
+
+Type <key>Ctrl</key>+<key>Shift</key>+<key>L</key> to see a list of all of the shortcut keys.
+
+
+=== Fixing Indentation Problems ===
+
+
+To fix the indentation of a file:
+
+
+  - Select the appropriate section of the code.
+  - Type <key>Ctrl</key>+<key>I</key> or   click on <key>Source</key>-<key>Correct Indentation</key>.
+
+=== Completions ===
+
+
+Type <key>Ctrl</key>+<key>Space</key> to see a list of suggested completions. (Typing one or more characters before doing so will shorten the list.) 
+
+
+When the cursor is in a method, type <key>Ctrl</key>+<key>Shift</key>+<key>Space</key> to see a list of parmeter "hints".
+
+
+=== Matching Braces/Curly Brackets ===
+
+
+To find a matching curly bracket (either opening or closing) type <key>Ctrl</key>+<key>Shift</key>+<key>P</key>.
+
+
+==== Comparing Files ====
+
+
+
+=== Comparing Files in Workspaces ===
+
+
+To compare two files that are in a workspace, select both files (e.g., click on one and then ctrl-click on the other) then: 
+
+
+  - Right-click on one of the selected files.
+  - Pull down to "Compare With".
+  - Pull across to "Each Other".
+The two files will appear side-by-side in a window with a single scroll bar that you can use to move up and down through the two at the same time.
+
+
+=== Comparing External Files ===
+
+
+To compare any two files (either in a workspace or external to one), enter "Compare with Other Resource" in the "Quick Access" field (if necessary, first press <key>Ctrl</key>+<key>3</key> to open the Quick Access field). Then enter the names of the two files and click on <key>OK</key>.
+
+
+=== Comparing Different Versions of the Same File ===
+
+
+When you edit a file Eclipse actually keeps both the old version and the new version. To compare different versions of the same file (e.g., the current version with an earlier version):
+
+
+  - Right-click on the file.
+  - Pull down to "Compare With".
+  - Pull across to "Local History...".
+  - In the "History" window, select the other version you are interested in.
+
+==== Running ====
+
+
+In Eclipse, applications are started using the <key>Run</key> button or the "Run" menu.
+
+
+
+=== Command-Line Arguments ===
+
+
+It is sometimes necessary to pass parameters to an application at start-up.  Such parameters are typically called command-line arguments because applications used to be started only from the command line. You can instruct Eclispe to pass the a ''%%main()%%'' method arguments as follows.
+
+
+  - Expand the <key>Run</key> button (or click on the "Run" menu) and pull down to <key>Run Configurations...</key>.
+  - On the "Main" tab, select the project and the main class (i.e., the class that contains the ''%%main()%%'' method).
+  - On the "Arguments" tab, enter the arguments to pass in the "Program arguments:" field (delimited by spaces).
+Of course, since the only parameter of ''%%main()%%'' is a ''%%String[]%%'', all such arguments are treated as ''%%String%%'' objects.
+
+
+==== Testing Using JUnit ====
+
+
+The JUnit view (i.e., tab) can be configrued in a variety of ways.
+
+
+If you click on the "expand" arrow, you can select   <key>Activate on Error/Failure Only</key> in which case the JUNIT   view will only be come visible when there are failed tests.
+
+There are also toggles for <key>Show Failures Only</key> and   <key>Show Skipped Tests Only</key>.
+
+
+==== Instrumenting Code (Using the Debugger) ====
+
+
+Code can be executed in debug mode using the {{eclipse_debug.png}}   button.
+
+
+
+=== Setting/Clearing Breakpoints ===
+
+
+Simple breakpoints can be set/unset by right-cliking on the line number and pulling down to <key>Toggle Breakpoint</key>.
+
+
+Exception breakpoints (i.e., breakpoints that suspend execution when an exception is thrown) can be set using the {{eclipse_exception-breakpoint.png}} button that is available from the Breakpoint View. Execution can be suspended based on whether one or more exceptions is caught, uncaught, or both.
+
+Conditions can be added to breakpoints (i.e., so that the breakpoint suspends execution only when a Boolean is ''%%true%%'' or changes value) from the Breakpoints View. To so so, select the breakpoints, select "Conditional", choose the type of condition, and enter/choose the condition itself. (Note: The condition editor is below the dropdown and you may need to  increase the size of the Breakpoints View to see it.)
+
+
+=== Seeing and Skipping Breakpoints ===
+
+
+You can see all of the breakpoints that are currently set using the Breakpoints view (<key>Window</key>+<key>Show View</key>+<key>Breakpoints</key>).
+
+
+You can toggle between skipping and not skipping all breakpoints using the {{eclipse_skip-all-breakpoints.png}} button. (When Eclipse is skipping breakpoints, the breakpoints that are set will have a slash through them.)
+
+
+=== Writing to System.out ===
+
+
+It's quite common to instrument code outside of the debugger using calls to ''%%System.out.println()%%''. You can accomplish the same thing using conditional breakpoints, without adding "noise" to the actual code. To do so, add a conditional breakpoint that suspends when ''%%true%%'', includes the instrumentation code and evaluates to ''%%false%%''. For example,
+
+''%%System.out.print("Age: "+age); return false;%%''
+
+=== Managing the Variables View ===
+
+
+You can control what is shown in the Variables View by clicking on the {{eclipse_view-menu.png}}+<key>Java</key> and then selecting the items you are interested in. One particularly useful item is "Show References".
+
+
+==== Deploying ====
+
+
+
+=== Creating .jar Files ===
+
+
+To create a ''%%.jar%%'' file containing only ''%%.class%%'' files: 
+
+
+  - Click on <key>File</key>-<key>Export</key> and expand "Java".
+  - Select the "JAR File" wizard and click on <key>Next</key>.
+  - In the "Select the resources to export" tree, select the appropriate packages.
+  - Deselect the Eclipse-related files (e.g., ''%%.classpath%%'',   ''%%.project%%''.
+  - Choose **only**   "Export generated class files and resources" and   "Compress the contents of the JAR file".
+  - Enter the name of the "JAR file:".
+  - Click on <key>Finish</key>.
+
+=== Creating an Executable/Runnable .jar File ===
+
+
+Though it is possible to create an executable/runnable ''%%.jar%%'' using the wizard for a "Runnable JAR File", that wizard is fairly inflexible. Hence, it is better to do the following.
+
+
+  - Click on <key>File</key>-<key>Export</key>   and expand "Java".
+  - Select the "JAR File" wizard and click on   <key>Next</key>.
+  - In the "Select the resources to export" tree, select the   appropriate packages and the appropriate resource   directories/folders. **Note that the ''%%.jar%%'' file   will include a directory/folder containing the resources.   You will need to take this into account when loading resources   withing the program (i.e., you will need to include the directory   in the path).**
+  - Deselect the Eclipse-related files (e.g., ''%%.classpath%%'',   ''%%.project%%''.
+  - Select **only**   "Export generated class files and resources" and   "Compress the contents of the JAR file".
+  - Enter the name of the "JAR file:".
+  - Click on <key>Next</key>.
+  - Select **only** "Export class files with compile   warnings".
+  - Click on <key>Next</key>.
+  - If the default manifest file is appropriate select "Generate the   manifest file" otherwise select "Use existing manifest" and enter   the path. (For more information, see the   [[ http://java.sun.com/docs/books/tutorial/deployment/jar/appman.html |    tutorial ]].)
+  - Select "Seal some packages" but do not choose any packages to seal.
+  - Ener the name of the "Main class".
+  - Click on <key>Finish</key>.
+Remember that if your application uses resources you must load them "properly" or they will not be found   (i.e., not from the file system but from the ''%%.jar%%'' file).
+
+
+=== Creating HTML Documentation ===
+
+
+To create HTML documentation:
+
+
+  - Click on <key>File</key>-<key>Export</key>   and expand "Java".
+  - Select "Javadoc" and click on   <key>Next</key>.   
+  - If the "Javadoc command:" field is empty, click on   <key>Configure</key> and navigate to the ''%%bin%%''   directory for the Java Development Kit (JDK).
+  - Enter the "Destination:".
+  - Click on <key>Finish</key>.
