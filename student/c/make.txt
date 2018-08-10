@@ -1,0 +1,143 @@
+===== Using make =====
+
+==== Overview ====
+
+''%%make%%'' is a tool that is used to automate the building of  complex applications. Specifically, it uses the information  in a ''%%makefile%%''  to "automatically" compile, link, etc... the parts of  a complex application.
+
+
+A makefile contains a list of targets (i.e., source files, object  files, and executables), dependents (i.e., the files that a target  depends on), and commands/recipes (i.e., what needs to be done if  the target does not exist, if the target has an earlier time stamp  than a dependent, or if the target is actually a "pseudotarget"  without an associated file)
+
+
+==== Syntax ====
+
+
+The make command has the following syntax:
+
+
+|   **make** [**-**//option...//]   |
+
+where //option// denotes an option or switch (see below).
+
+
+==== Options ====
+
+
+The list of valid options/switches for the make command includes the following:
+
+^Option^Purpose^
+|A|Build all evaluated targets|
+|B|Build if times stamps are equal|
+|C|Suppress output messages|
+|f//makefile//|Use the given makefile|
+|N|Display commands but do not execute them|
+
+==== The makefile ====
+
+makefiles are normally named ''%%makefile%%''.  They typically  contain 2 (or more) lines for each target.  The first line  contains the target, a colon, and the dependents (delimited by spaces).  The second line contains a tab character and the command/recipe that  should be used to create the target.
+
+
+
+=== Targets ===
+
+
+A target is a valid file name or directory name.  A target cannot contain more than 256 characters but it can contain path information.
+  
+
+Multiple targets can be specified in the same dependency line; separate  them using spaces or tabs.
+
+
+=== Dependents ===
+
+
+A dependent is a valid file name.  It can contain path information.
+  
+
+Multiple dependents can be specified in the same dependency  line; seperate them using spaces or tabs.
+
+Of course, a dependent can also be a target elsewhere in the makefile.  The make command will update dependents that are targets first.  However,  some care needs to be taken when creating makefiles.
+
+Note: To split a "long" line, use the backslash (i.e., the \ character)  after a dependent.
+ 
+
+=== Example ===
+
+
+The following makefile has 3 description blocks.
+  
+
+<code bash>
+test: test.o module1.o
+	g++ test.o module1.o -o test
+  
+test.o: test.c module1.h
+	g++ -c test.c
+  
+module1.o: module1.h module1.c
+	g++ -c module1.c
+  
+</code>
+
+The first description block says that the target  ''%%test%%'' depends  on two files, ''%%test.o%%'' and ''%%module1.o%%''.   If ''%%test%%'' has an earlier  time stamp than either of these files, ''%%test%%''  should be rebuilt  using the [[student:c:gpp | g++ compiler]].
+ 
+The second description block says that ''%%test.o%%'' depends on  ''%%test.c%%'' and ''%%module1.h%%'' (because  ''%%test.c%%''''%%#include%%''s ''%%module1.h%%''), and  that it can be created with the [[student:c:gpp | g++ compiler]].
+
+The third description block says that  ''%%module1.o%%'' depends on ''%%module1.h%%'' (which  contains the declarations) and ''%%module1.c%%'' (which  contains the implemntations), and that it can be created with  the [[student:c:gpp | g++ compiler]].
+
+Assuming that this makefile is named ''%%makefile%%'', the application  ''%%test%%'' can be built with the following command:
+
+<code bash>
+make
+</code>
+
+
+=== Processing ===
+
+''%%make%%'' starts with the first target  (''%%test%%'' in the example above). But, before it  executes the command/recipe for this target it checks to see if  any of the dependents (''%%test.o%%'' and  ''%%module1.o%%'' in the example above) are, themselves,  targets (which both are in the example above). It then treats  the processing of each such dependent as a prerequisite to the  processing of the current target. Of course, the same process is  applied to each prerequisite.
+
+
+=== Predefined Rules ===
+
+
+The make command uses a number of predefined/implicit [[ http://www.gnu.org/software/make/manual/html_chapter/make_10.html#SEC105 | rules ]] that can greatly simplify makefiles.  For example,  ''%%.o%%'' files will automatically be created from  ''%%.c%%'' or ''%%.cpp%%'' files using the GCC.
+  
+
+While you are still learning to use the make command you should not  make use of these predefined rules.
+
+
+=== Using Variables in Place of Literals ===
+
+
+Since one often needs to compile/link using different options at different  times, people often use variables in place of literals. For example:
+
+
+<code bash>
+CC = cc -pedantic -Wall -ansi
+
+$(CC) -c example.c -o example.o
+</code>
+
+is equivalent to:
+
+<code bash>
+cc -pedantic -Wall -ansi -c example.c -o example.o
+</code>
+
+You could also accomplish the same thing as follows:
+
+<code bash>
+CFLAGS = -pedantic -Wall -ansi
+
+cc $(CFLAGS) -c example.c -o example.o
+</code>
+
+
+==== Error and Warning Messages ====
+
+
+To get a description of an error or warning message,  see the comprehensive list of [[ http://www.gnu.org/software/make/manual/make.html#Error-Messages | errors generated by make ]].
+
+
+==== More Information ====
+
+
+For more information, see  the [[ http://www.gnu.org/software/make/manual/make.html | //GNU Make Manual// ]].
