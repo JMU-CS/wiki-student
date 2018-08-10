@@ -1,0 +1,4 @@
+===== Information about Eclipse =====
+
+  - [[ studen:eclipse:eclipse | Help using Eclipse ]]
+  - [[ student:eclipse:eclemma | Help using EclEmma ]] (Code Coverage)
