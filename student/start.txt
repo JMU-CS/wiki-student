@@ -4,3 +4,4 @@
   * [[student:eclipse:start | Eclipse ]]
   * [[student:java:start | Java ]]
   * [[student:jgrasp:start | jGRASP ]]
+  * [[student:junit:start | JUnit ]]
