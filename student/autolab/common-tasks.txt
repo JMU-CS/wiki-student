@@ -1,0 +1,94 @@
+===== Autolab Common Tasks =====
+
+This page provides information about various common tasks.
+
+
+==== Loging In ====
+
+The login screen looks something like the following.
+
+{{student:autolab:login.png}}
+
+Note that you must use your ''dukes.jmu.edu'' email address and your
+Autolab (not your JMU) password.
+
+
+==== Courses ====
+
+The courses page looks something like the following:
+
+{{student:autolab:courses.png}}
+
+Your current courses are listed at the top of the page, and your
+completed courses (if any) are listed at the bottom of the page. For
+each course, the system shows its name, the semester, and the
+assignments. Clicking on an individual course will provide you with
+information about the assignments in that course.
+
+
+==== Assignments in a Course====
+
+If you "drill down" into a course you will see an assignments page that looks
+something like the following.
+
+{{student:autolab:assignments.png}}
+
+Clicking on an individual assignment will enable you to
+submit your code and view your submissions.
+
+
+==== Individual Assignments ==== 
+
+The page for an assignment looks something like the following.
+
+{{student:autolab:assignment.png}}
+
+You can submit your code by (1) affirming that you have complied with
+the JMU honor code and all course-specific policies, and (2) clicking
+on "SUBMIT".
+
+You can also see information about due dates/times, the number of
+times you can still submit (which may be infinite depending on the
+course/assignment), and your submission history.
+
+In some courses, you will also be able to click on "View writeup" to
+see the details of the assignment and/or on "Download the handout" to
+get any code/data that were provided for the assignment. In other courses you
+will have to get this information from the course WWW site or from
+Canvas.
+
+
+==== Submission Results ====
+
+After you submit your code, you will be presented with a page that
+looks something like the following.
+
+{{student:autolab:submissions.png}}
+
+If the points for your current submission are shown as dashes then you
+will need to **reload the page after waiting a few seconds** (perhaps
+more than once).
+
+Once the submission has been graded (i.e., when the points are listed
+as numbers), you can click on any of them to get the feedback from the
+automatic grading system. Note that, though there are different links,
+each one provides feedback on all of the criteria. The only thing that
+varies from link-to-link is the "Score for this problem" at the
+bottom, which shows the points awarded **only for that criterion**.
+
+After the assignment has been completely graded, you may also receive
+feedback from the instructor on the quality of your code. You can
+obtain this feedback (if it is provided) by clicking on the magnifying
+glass icon under the last submission.
+
+
+==== Individual Submissions ====
+
+If you click on the magnifying glass for the last submission, you will be
+presented with a page that looks something like the following.
+
+{{student:autolab:submission.png}}
+
+Any annotations/feedback will appear as gray lines in your code.
+You can expand an individual annotation by clicking on it, or expand/collapse
+all annotations by clicking on the buttons above the code.
