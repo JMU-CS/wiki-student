@@ -63,3 +63,34 @@ jGRASP does not have a command that re-indents code, but you can trick it into d
 
   - Click on  <key>View</key>+<key>Generate CSD</key> (or the {{student:jgrasp:jgrasp-viewcsd.png}} button).
   - Click on  <key>View</key>+<key>Remove CSD</key> (or the {{student:jgrasp:jgrasp-removecsd.png}} button).
+
+==== Using JUnit with jGRASP ====
+
+
+
+=== Configuration ===
+
+
+To configure jGRASP to work with JUnit, click on <key>Tools</key>,  pull down to <key>JUnit</key> and select <key>Configure</key>.  Then, in the textfield labeled "JUnit Home", browse to the directory/folder  that has ''%%junit.jar%%''.
+
+
+If you have properly configured jGRASP, the "Create JUnit test file"  button, {{jgrasp-CreateJUnitTestFile.png}}, will appear  whenever you open a ''%%.java%%'' file.
+
+Though it's not absolutely necessary (depending on how you create  your test classes), you should also add  ''%%junit.jar%%'' to the CLASSPATH for your workspace. To do  so, click on <key>Settings</key>-<key>PATH/CLASSPATH</key>  -<key>Workspace</key> and select the CLASSPATHS tab. Then, click on  <key>New</key> and add ''%%junit.jar%%''.
+
+
+=== Creating a Test Class ===
+
+
+To create a JUnit test class for an existing class, open the source  file for that class and click on {{jgrasp-CreateJUnitTestFile.png}}. This will create an empty  class for you to complete. (If you already have such a test class  it will ask if you want to re-use it.) It will also add the {{jgrasp-JUnitCompile.png}} and {{jgrasp-JUnitCompileAndRun.png}} buttons (for compiling and  running test classes). (Note: If you don't create the file this  way, you **must** add ''%%junit.jar%%'' to the CLASSPATH  for your workspace. See above.)
+
+
+Unless you understand what it is doint, you should probably delete  all of the code that jGrasp inserts into this class and start from  scratch.
+
+
+=== Compiling and Running a Test Class ===
+
+
+To compile a test class click on  {{jgrasp-JUnitCompile.png}} and to run  a test class click on {{jgrasp-JUnitCompileAndRun.png}}.  As always in jGrasp, the test class must have the focus to compile  and/or run it.
+
+
