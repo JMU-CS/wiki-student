@@ -3,7 +3,7 @@
 This page provides information about various common tasks.
 
 
-==== Loging In ====
+==== Logging In ====
 
 The login screen looks something like the following.
 
