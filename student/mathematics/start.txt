@@ -1,0 +1,3 @@
+===== Mathematical Foundations =====
+
+  - [[ student:mathematics:alphabets | Foreign Alphabets ]]
