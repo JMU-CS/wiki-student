@@ -31,7 +31,7 @@ To create a JAR file:
 
 
 
-|   jar cf //jar-file////input-files//   |
+|   jar cf //jar-file// //input-files//   |
 
 
 where //input-files// can include ''%%.class%%'' files,  packages, and resources of various kinds.
