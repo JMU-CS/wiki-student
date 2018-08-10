@@ -2,4 +2,4 @@
 
 The grade report shows the criteria that are used to determine the total grade, the points allocated to each criterion, and the points earned for each submission. It looks something like the following.
 
-{{student:autolab:ui-grade_report.png}}
+{{student:autolab:grade-report.png}}
