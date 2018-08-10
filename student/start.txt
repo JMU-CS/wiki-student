@@ -7,3 +7,4 @@
   * [[student:jgrasp:start | jGRASP ]]
   * [[student:junit:start | JUnit ]]
   * [[student:mathematics:start | Mathematical Foundations ]]
+  * [[student:webcat:start | Web-CAT ]]
