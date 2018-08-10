@@ -2,3 +2,4 @@
 
   * [[student:autolab | Autolab ]]
   * [[student:eclipse | Eclipse ]]
+  * [[student:java | Java ]]
