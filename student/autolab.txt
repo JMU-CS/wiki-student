@@ -1,4 +1,4 @@
-{{student:autolabjmu:autolabjmu.png}}
+{{student:autolab:autolabjmu.png}}
 
 [[ http://www.autolabproject.com/ | Autolab ]] is a system that allows
 students to submit their solutions to programming assignments and, in
