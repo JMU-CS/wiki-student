@@ -9,7 +9,7 @@ JMU.
 ==== Help with Common Tasks ====
 
 Help is available on a variety of 
-[[student:autolabjmu:common-tasks|common tasks]] performed by students.
+[[student:autolab:common-tasks|common tasks]] performed by students.
 
 
 ==== Help Interpreting Feedback from Autograders ====
@@ -20,6 +20,6 @@ The former is self explanatory. The latter varies from autograder to
 autograder. Help is available on the feedback provided by the following
 autograders.
 
-  * [[gradingtier-summarizers | Autograders using gradingtier (with Checkstyle, JUnit, and JaCoCo/EclEmma) for Java Submissions]]
+  * [[student:autolab:gradingtier-summarizers | Autograders using gradingtier (with Checkstyle, JUnit, and JaCoCo/EclEmma) for Java Submissions]]
 
 
