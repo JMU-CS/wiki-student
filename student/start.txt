@@ -2,7 +2,7 @@
 
   * [[student:autolab:start | Autolab ]]
   * [[student:eclipse:start | Eclipse ]]
-  * [[student:alphabets:start | Foreign Alphabets ]]
   * [[student:java:start | Java ]]
   * [[student:jgrasp:start | jGRASP ]]
   * [[student:junit:start | JUnit ]]
+  * [[student:mathematics:start | Mathematical Foundations ]]
