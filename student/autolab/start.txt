@@ -13,8 +13,7 @@ Help is available on a variety of
 
 ==== Help with Understanding Grade Reports ====
 
-Regardless of the autograder that is used, the grade report has the same structure. Help understanding it
-is available.
+Regardless of the autograder that is used, the grade report has the same structure.
 
   * [[student:autolab:grade-report|Help Understanding the Grade Report]]
 
