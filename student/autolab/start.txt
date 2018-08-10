@@ -11,11 +11,11 @@ Help is available on a variety of
 [[student:autolab:common-tasks|common tasks]] performed by students.
 
 
-==== Help with Understanding Grade Reports ====
+==== Help Understanding Grade Reports ====
 
 Regardless of the autograder that is used, the grade report has the same structure.
 
-  * [[student:autolab:grade-report|Help Understanding the Grade Report]]
+  * [[student:autolab:grade-report|Help Understanding Grade Reports]]
 
 
 ==== Help Interpreting Feedback from Autograders ====
