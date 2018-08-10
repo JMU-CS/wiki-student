@@ -1,3 +1,4 @@
 ===== Information for Students =====
 
   * [[student:autolab | Autolab ]]
+  * [[student:eclipse | Eclipse ]]
