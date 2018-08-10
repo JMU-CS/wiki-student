@@ -134,7 +134,7 @@ The ''%%Assert.assertEquals()%%'' method can be used to compare   the expected a
 
 When using ''%%Assert.assertEquals()%%'' to compare floating   point numbers (e.g., ''%%double%%'' values), one must remember   that the ''%%==%%'' operator must be used with care   because of the less-than-perfect precision of operations   on ''%%double%%'' values.  In JUnit, the implication of this is   that one should check to see if ''%%double%%'' values are   within a tolerance value of each other.  Hence, when   comparing ''%%double%%'' values one should use the following:
 
-Assert.assertEquals(//Description//, //ExpectedValue//, //ActualValue//, //tolerance//);
+''Assert.assertEquals(//Description//, //ExpectedValue//, //ActualValue//, //tolerance//);''
 
 
 ==== Testing Methods that Throw Exceptions ====
