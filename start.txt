@@ -1,1 +1,5 @@
 Welcome to the CS wiki!
+
+Faculty Wiki: [[faculty:start]]
+
+Student Wiki:  [[student:start]]
