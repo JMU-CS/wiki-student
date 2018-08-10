@@ -26,9 +26,8 @@ import org.junit.Test;
 
 and must include a class declaration of the following form:
 
-<code java>
-    public class //ClassName//Test
-</code>
+''public class //ClassName//Test''
+
 
 So, continuing with the example above, ''%%AtomTest.java%%''   would initially contain the following:
 
