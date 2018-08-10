@@ -18,7 +18,7 @@ For each class you want to test, you must create a file named   //ClassName//Tes
 
 The //ClassName//Test.java file must begin with the following line:
 
-<code>
+<code java>
 import static org.junit.Assert.*;
 
 import org.junit.Test;
@@ -26,7 +26,7 @@ import org.junit.Test;
 
 and must include a class declaration of the following form:
 
-<code>
+<code java>
     public class //ClassName//Test
 </code>
 
