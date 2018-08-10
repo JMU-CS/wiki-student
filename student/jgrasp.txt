@@ -1,0 +1,64 @@
+
+
+===== jGRASP Tips and Tricks =====
+
+
+
+==== What is jGRASP? ====
+
+
+According to [[ https://www.jgrasp.org/ | www.jGRASP.org ]], "jGRASP is a lightweight development environment, created specifically to   provide automatic generation of software visualizations to improve   the comprehensibility of software".
+
+
+==== Entering Command-Line Arguments ====
+
+
+Command-line arguments are the ''%%String%%'' objects that are passed   to the ''%%main()%%'' method (as a ''%%String[]%%''). They can   be set/entered in several ways. 
+
+
+One way is to click on <key>Build</key> and pull down   to <key>Run Arguments</key>. This will open an entry field below the tool   bar that you can use to enter the arguments (delimited by spaces) that will be passed to ''%%main()%%'' when you run the application.
+
+You can also "permanently" set the command-line arguments by clicking on   <key>Settings</key>, pulling down to <key>Compiler Settings</key>   and then over to <key>Workspace</key> or <key>File</key>, whichever   you prefer. Then select the "Compiler" tab and the "Flags/Args" tab.   The "Run" field under "FLAGS or ARGS" contains the command-line   arguments. When the box next to it is selected, no arguments are passed to   ''%%main()%%'', when it isn't whatever arguments are in the field are   passed to ''%%main()%%''.
+
+
+==== Setting the Tab Size ====
+
+
+To set the tab size, click on   <key>Settings</key>+<key>CSD Window</key> and then   select either File, Project or Workspace (depending on which   you want to change).  Then "unlock"   the tab size slider (by clicking on the default box) and change the   "Tab Size" to the value you want.
+
+
+==== Changing Tabs to Spaces (and Back) ====
+
+
+Some editors use tabs and some use spaces.  This makes it a little   difficult to move between editors.  Most, however, allow you   to switch between the two. In jGRASP: 
+
+
+  - Select the text you want to change.
+  - Click on <key>Edit</key>+<key>Spaces/Tabs</key>         and then <key>Tabify</key> or <key>Untabify</key>.
+
+==== Using checkstyle ====
+
+
+
+=== Selecting a Checks File ===
+
+
+In jGRASP, click on <key>Tools</key>, pull down     to <key>Checkstyle</key> and across     to <key>Settings</key>. In the field labeled "Checks File"     navigate to the ''%%.xml%%'' file. Then, click    on <key>OK</key>.
+
+
+You must exit and re-start jGRASP for the change to take effect.
+
+
+=== Running Checkstyle ===
+
+
+In jGRASP, click on <key>Tools</key>, pull down to <key>Checkstyle</key> and over to <key>Check File</key> (or click on {{jGRASP-RunCheckstyleOnFile.png}}).
+
+
+==== Cleaning-Up Indenting ====
+
+
+jGRASP does not have a command that re-indents code, but you can trick it into doing so.
+
+  - Click on  <key>View</key>+<key>Generate CSD</key> (or the {{jGRASP-viewcsd.png}} button).
+  - Click on  <key>View</key>+<key>Remove CSD</key> (or the {{jGRASP-removecsd.png}} button).
