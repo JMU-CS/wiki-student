@@ -20,7 +20,7 @@ The static ''%%format()%%'' method in the ''%%String%%'' class is  passed one pa
 
 Format specifiers have the following syntax.
 
-  %[//flags//][//width//][.//precision//]//conversion//
+%[//flags//][//width//][.//precision//]//conversion//
 
 Common values of //conversion// include  ''%%b%%'' for ''%%boolean%%'',  ''%%c%%'' for ''%%char%%'',  ''%%d%%'' for ''%%int%%'',  ''%%e%%'' for ''%%double%%'' in scientific notation,  ''%%f%%'' for ''%%double%%'', and  ''%%s%%'' for ''%%String%%''.
 
