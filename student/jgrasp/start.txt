@@ -1,3 +1,4 @@
 ===== Information about jGRASP =====
 
   - [[ student:jgrasp:help | Help using jGRASP ]]
+  - [[ student:jgrasp:installation | Installing jGRASP ]]
