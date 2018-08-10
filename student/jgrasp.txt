@@ -52,7 +52,7 @@ You must exit and re-start jGRASP for the change to take effect.
 === Running Checkstyle ===
 
 
-In jGRASP, click on <key>Tools</key>, pull down to <key>Checkstyle</key> and over to <key>Check File</key> (or click on {{jgrasp-RunCheckstyleOnFile.png}}).
+In jGRASP, click on <key>Tools</key>, pull down to <key>Checkstyle</key> and over to <key>Check File</key> (or click on {{student:jgrasp:jgrasp-RunCheckstyleOnFile.png}}).
 
 
 ==== Cleaning-Up Indenting ====
@@ -61,5 +61,5 @@ In jGRASP, click on <key>Tools</key>, pull down to <key>Checkstyle</key> and ove
 jGRASP does not have a command that re-indents code, but you can trick it into doing so.
 
 
-  - Click on  <key>View</key>+<key>Generate CSD</key> (or the {{jGRASP-viewcsd.png}} button).
-  - Click on  <key>View</key>+<key>Remove CSD</key> (or the {{jGRASP-removecsd.png}} button).
+  - Click on  <key>View</key>+<key>Generate CSD</key> (or the {{student:jgrasp:jgrasp-viewcsd.png}} button).
+  - Click on  <key>View</key>+<key>Remove CSD</key> (or the {{student:jgrasp:jgrasp-removecsd.png}} button).
