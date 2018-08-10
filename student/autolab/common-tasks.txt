@@ -7,7 +7,7 @@ This page provides information about various common tasks.
 
 The login screen looks something like the following.
 
-{{student:autolab:login.png}}
+{{login.png}}
 
 Note that you must use your ''dukes.jmu.edu'' email address and your
 Autolab (not your JMU) password.
@@ -17,7 +17,7 @@ Autolab (not your JMU) password.
 
 The courses page looks something like the following:
 
-{{student:autolab:courses.png}}
+{{courses.png}}
 
 Your current courses are listed at the top of the page, and your
 completed courses (if any) are listed at the bottom of the page. For
@@ -31,7 +31,7 @@ information about the assignments in that course.
 If you "drill down" into a course you will see an assignments page that looks
 something like the following.
 
-{{student:autolab:assignments.png}}
+{{assignments.png}}
 
 Clicking on an individual assignment will enable you to
 submit your code and view your submissions.
@@ -41,7 +41,7 @@ submit your code and view your submissions.
 
 The page for an assignment looks something like the following.
 
-{{student:autolab:assignment.png}}
+{{assignment.png}}
 
 You can submit your code by (1) affirming that you have complied with
 the JMU honor code and all course-specific policies, and (2) clicking
@@ -63,7 +63,7 @@ Canvas.
 After you submit your code, you will be presented with a page that
 looks something like the following.
 
-{{student:autolab:submissions.png}}
+{{submissions.png}}
 
 If the points for your current submission are shown as dashes then you
 will need to **reload the page after waiting a few seconds** (perhaps
@@ -87,7 +87,7 @@ glass icon under the last submission.
 If you click on the magnifying glass for the last submission, you will be
 presented with a page that looks something like the following.
 
-{{student:autolab:submission.png}}
+{{submission.png}}
 
 Any annotations/feedback will appear as gray lines in your code.
 You can expand an individual annotation by clicking on it, or expand/collapse
