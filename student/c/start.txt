@@ -2,4 +2,5 @@
 
   - [[ student:c:gdb | GDB Quick Reference ]] (Debugging)
   - [[ student:c:gpp | GPP Quick Reference ]] (Compiling and Linking)
+  - [[ student:c:make | make ]] (Building)
  
