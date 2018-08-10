@@ -32,7 +32,7 @@ So, for example the format specifier ''%%%8d%%'' indicates an  ''%%int%%'' that 
 
 The format string in the invocation of the ''%%format()%%''  method should have the same number of format specifiers as there are  other parameters in the invocation. This is illustrated in the following  example.
 
-<code>
+<code java>
  int  year = 2017;
  double sales = 1050987.00;
  String s;
