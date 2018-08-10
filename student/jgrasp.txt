@@ -1,6 +1,6 @@
 
 
-===== jGRASP Tips and Tricks =====
+===== Help using jGRASP =====
 
 
 
