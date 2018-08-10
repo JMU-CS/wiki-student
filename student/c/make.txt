@@ -140,4 +140,4 @@ To get a description of an error or warning message,  see the comprehensive list
 ==== More Information ====
 
 
-For more information, see  the [[ http://www.gnu.org/software/make/manual/make.html | //GNU Make Manual// ]].
+For more information, see  the [[ http://www.gnu.org/software/make/manual/make.html | GNU Make Manual ]].
