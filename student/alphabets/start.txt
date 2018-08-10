@@ -12,12 +12,12 @@ It is very common to use Greek letters as well (and even the occasional Hebrew l
 The Greek alphabet (both uppercase and lowercase) is shown below:
 
 ^  Lowercase     ^  Uppercase  ^  English Spelling  ^
-|  \(\alpha\)    |  \(\Alpha\)     |   alpha  |
-|  \(\beta\)     |  \(\Beta\)      |   beta   |
+|  \(\alpha\)    |  \(A\)     |   alpha  |
+|  \(\beta\)     |  \(B\)      |   beta   |
 |  \(\gamma\)    |  \(\Gamma\)     |   gamma  |
 |  \(\delta\)    |  \(\Delta\)     |   delta  |
-|  \(\epsilon\)  |  \(\Epsilon\)   |   epsilon  |
-|  \(\zeta\)     |  \(\Zeta\)      |   zeta  |
+|  \(\epsilon\)  |  \(E\)   |   epsilon  |
+|  \(\zeta\)     |  \(Z\)      |   zeta  |
 |  \(\eta\)      |  \(\Eta\)       |   eta  |
 |  \(\theta\)    |  \(\Theta\)     |   theta  |
 |  \(\iota\)     |  \(\Iota\)      |   iota  |
