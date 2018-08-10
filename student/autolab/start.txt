@@ -11,9 +11,17 @@ Help is available on a variety of
 [[student:autolab:common-tasks|common tasks]] performed by students.
 
 
+==== Help with Understanding Grade Reports ====
+
+Regardless of the autograder that is used, the grade report has the same structure. Help understanding it
+is available.
+
+  * [[student:autolab:grade-report|Help Understanding the Grade Report]]
+
+
 ==== Help Interpreting Feedback from Autograders ====
 
-There are two kinds of feedback in Autolab -- instructor-generated code 
+There are two kinds of feedback in Autolab - instructor-generated code 
 annotations and autograder-generated feedback on submission criteria/problems.
 The former is self explanatory. The latter varies from autograder to 
 autograder. Help is available on the feedback provided by the following
