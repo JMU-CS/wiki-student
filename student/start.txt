@@ -1,1 +1,3 @@
-Welcome to the student namespace
+===== Information for Students =====
+
+  * [[student:autolab | Autolab ]]
