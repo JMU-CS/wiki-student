@@ -30,10 +30,10 @@ The Greek alphabet (both uppercase and lowercase) is shown below:
 |  \(\pi\)       |  \(\Pi\)        |   pi  |
 |  \(\rho\)      |  \(R\)          |   rho  |
 |  \(\sigma\)    |  \(\Sigma\)     |   sigma  |
-|  \(\tau\)      |  \(\Tau\)       |   tau  |
+|  \(\tau\)      |  \(T\)       |   tau  |
 |  \(\upsilon\)  |  \(\Upsilon\)   |   upsilon  |
 |  \(\phi\)      |  \(\Phi\)       |   phi  |
-|  \(\chi\)      |  \(\Chi\)       |   chi  |
+|  \(\chi\)      |  \(X\)       |   chi  |
 |  \(\psi\)      |  \(\Psi\)       |   psi  |
 |  \(\omega\)    |  \(\Omega\)     |   omega  |
 	
