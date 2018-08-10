@@ -3,8 +3,7 @@
 [[ http://www.autolabproject.com/ | Autolab ]] is a system that allows
 students to submit their solutions to programming assignments and, in
 some cases, to get immediate feedback on (some aspects of) them. These
-pages contain information that is specific to the use of Autolab at
-JMU.
+pages contain information for students about how to use Autolab (some of which is specific to the use of Autolab at JMU).
 
 ==== Help with Common Tasks ====
 
