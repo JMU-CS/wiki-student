@@ -59,6 +59,10 @@ So, still continuing with the example   above, if the ''%%Atom%%'' class contain
     }
 </code>
 
+Note that the name of this method is completely arbitrary, but, as always, descriptive names are always a good
+idea. Some people simply use the name of the method being tested (as above), while others add a prefix or suffix that includes some form of the word "test" (e.g., ''%%testGetAtomicNumber()%%'', ''%%getAtomicNumber_Test()%%'',
+etc...).
+
 The body of the methods in the //ClassName//Test.java must contain   the test cases for the corresponding methods in the //ClassName//   class.  These test cases often involve some "setup" code and a call to   the ''%%Assert.assertEquals()%%'' method. So, for example, the   ''%%getAtomicNumber%%'' method in the ''%%Atom%%'' class is   supposed to return the atomic number of the calling ''%%Atom%%''   object. To partially test this method one might implement the   ''%%testGetAtomicNumber()%%'' method in the   ''%%AtomTest%%'' class as follows:
 
 <code java>
@@ -79,7 +83,7 @@ The body of the methods in the //ClassName//Test.java must contain   the test ca
     }
 </code>
  
-In the "setup" portion, this method creates an ''%%Atom%%''   objects (for oxygen). It then calls the   ''%%Assert.assertEquals()%%'' method to tell jUnit to do some testing.   This particular version of the ''%%Assert.assertEquals()%%'' method is   passed three parameters and has the following syntax:
+In the "setup" portion, this method creates an ''%%Atom%%''   objects (for oxygen). It then calls the   ''%%Assert.assertEquals()%%'' method to tell JUnit to do some testing.   This particular version of the ''%%Assert.assertEquals()%%'' method is   passed three parameters and has the following syntax:
 
 ''Assert.assertEquals(//Description//, //ExpectedValue//, //ActualValue//);''
  
@@ -110,7 +114,7 @@ The ''%%equals()%%''   method in the ''%%Atom%%'' class is supposed to compare t
     @Test
     public void testEquals()
     {
-        Atom    h, o;
+        Atom    h, hh, o;
   
         h  = new Atom("H", 1, 1);
         hh = new Atom("H", 1, 1);
@@ -339,7 +343,7 @@ where //Name// represents the name of the class being tested.
 For example, to compile and run ''%%AtomTest%%'':
 
 <code>
-javac -cp .;junit.jar;hamcrest-core.jar AtomTest.java
+javac -cp .;junit.jar AtomTest.java
 java -cp .;junit.jar;hamcrest-core.jarorg.junit.runner.JUnitCore AtomTest
 </code>
 
