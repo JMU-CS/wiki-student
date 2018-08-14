@@ -25,7 +25,7 @@ The //ClassName//Test.java file must begin with the following line:
 and must include a class declaration of the following form:
   
 |  public class //ClassName//Test extends TestCase  |
-|  //a//  |
+|  public class //ClassName//Test extends TestCase  |
 
 So, continuing with the example above, ''%%AtomTest.java%%''   would initially contain the following:
   
