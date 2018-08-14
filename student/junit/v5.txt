@@ -179,7 +179,7 @@ Alternatively, one can invoke the methods that is supposed to throw an expressio
       new Atom("O", -8, -16);
 
       // Shouldn’t get here
-      fail("Constrcutor should have thrown an IllegalArgumentException");
+      fail("Constructor should have thrown an IllegalArgumentException");
     }
     catch (IllegalArgumentException iae)
     {
