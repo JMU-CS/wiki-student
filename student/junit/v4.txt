@@ -14,7 +14,7 @@ JUnit is an open-source testing framework. It provides a way to write,   organiz
 ==== Creating Test Classes ====
 
 
-For each class you want to test, you must create a file named   //ClassName//Test.java where //ClassName// denotes the name   of the class being tested. So, for example, if you want to test the   class named   ''%%Atom%%'' you must create a file named ''%%AtomTest.java%%''.
+For each class you want to test, you must create a file. It is common to use naming system //ClassName//Test.java where //ClassName// denotes the name   of the class being tested. So, for example, if you want to test the   class named   ''%%Atom%%'' you would create a file named ''%%AtomTest.java%%''.
 
 
 The //ClassName//Test.java file must begin with the following line:
@@ -35,7 +35,6 @@ So, continuing with the example above, ''%%AtomTest.java%%''   would initially c
 <code java>
 import static org.junit.Assert.*;
 
-import org.junit.Before;
 import org.junit.Test;
 
 public class AtomTest
@@ -46,7 +45,7 @@ public class AtomTest
 
 (Note: The ''%%import static%%'' allows you to refer to   static members in the ''%%org.junit.Assert%%'' package without having   to include the class name.)
  
-The file //ClassName//Test.java contains methods that can be   used to test the class defined in //ClassName//.java.  Each such   method is preceeded by an ''%%@Test%%'' annotation.  (Note: An   annotation provides information about a program but is not part of   the program. Annotations have no effect on the operation of the   program.  Instead, they are used to provide information to tools   that might use the program as input.)
+The file //ClassName//Test.java contains methods that can be   used to test the class defined in //ClassName//.java.  Each such   method is preceded by an ''%%@Test%%'' annotation.  (Note: An   annotation provides information about a program but is not part of   the program. Annotations have no effect on the operation of the   program.  Instead, they are used to provide information to tools   that might use the program as input.)
 
 So, still continuing with the example   above, if the ''%%Atom%%'' class contains a ''%%public int   getAtomicNumber()%%'' method, then ''%%AtomTest.java%%''   might include the following method: 
 
