@@ -1,13 +1,14 @@
 
 
-===== JUnit Basics =====
+===== JUnit v4 Basics =====
 
 
 
 ==== Introduction ====
 
 
-JUnit is an open-source testing framework. It provides a way to write,   organize, and run repeatable test.
+JUnit is an open-source testing framework. It provides a way to write,   organize, and run repeatable test. This page provides a brief introduction to v4. Information is also available about 
+[[student:junit:v5 | version 5 (Jupiter) ]].
 
 
 ==== Creating Test Classes ====
