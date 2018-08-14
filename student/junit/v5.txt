@@ -223,13 +223,13 @@ Using these methods, it would be better to write the test of the   ''%%equals()%
 </code>
 
 
-==== The @Before Annotation ====
+==== The @BeforeEach and @BeforeAll Annotations ====
 
 
 Sometimes several tests need to use the same objects. This can be   accomplished using the ''%%@BeforeAll%%'' or ''%%BeforeEach%%'' annotations, which   instruct JUnit to run the methods with this annotation before the first test or before each test, respectively..
 
 
-The ''%%@Before%%'' annotation is very useful when   an individual test changes the state of an object since, in general,   one wants test to be independent. (Note that, in general, you should   not assume that the tests themselves will be run in a particular order.)
+The ''%%@BeforeEach%%'' and ''%%@BeforeAll%%'' annotations are very useful when   an individual test changes the state of an object since, in general,   one wants test to be independent. (Note that, in general, you should   not assume that the tests themselves will be run in a particular order.)
 
 To use these annotation you must import ''%%org.junit.jupiter.api.BeforeEach%%'' and/or
 ''%%org.junit.jupiter.api.BeforeAll%%''.
@@ -239,7 +239,7 @@ To use these annotation you must import ''%%org.junit.jupiter.api.BeforeEach%%''
 
 
 Information about how to download and install JUnit is available   from   [[ https://github.com/junit-team/junit/wiki/Download-and-Install | junit.org ]].
-
+The .jar file will be named something like ''%%junit-platform-console-standalone.jar%%'' (which is referred to below as ''%%junit.jar%%'' for simplicity).
 
 ==== Compiling and Running JUnit Tests from a Command Shell ====
 
@@ -261,27 +261,28 @@ The Java compiler needs to be able to "find" the JUnit classes and the Java inte
 You can set the ''%%CLASSPATH%%'' as follows:
 
 <code bash>
-export CLASSPATH=.://directory//junit.jar://directory//hamcrest-core.jar:$CLASSPATH
+export CLASSPATH=.://directory//junit.jar:$CLASSPATH
 </code>
 
-where //directory// denotes the name of the directory/folder that contains the files ''%%junit.jar%%'' and ''%%hamcrest-core.jar%%''.
+where //directory// denotes the name of the directory/folder that contains the file ''%%junit.jar%%''.
 
-For example, assuming that the two ''%%.jar%%'' fiels are in the current working directory, you can set the ''%%CLASSPATH%%'' as follows:
+For example, assuming that the ''%%.jar%%'' file is in the current working directory, you can set the ''%%CLASSPATH%%'' as follows:
 
 <code bash>
-export CLASSPATH=.:junit.jar:hamcrest-core.jar:$CLASSPATH
+export CLASSPATH=.:junit.jar:$CLASSPATH
 </code>
 
 After you have set the ''%%CLASSPATH%%'' you can compile your classes (including the test classes) and the usual way, and run a JUnit test as follows:
 
 <code bash>
-java org.junit.runner.JUnitCore //ClassName//Test
+java org.junit.platform.console.ConsoleLauncher --select-class  //ClassName//Test
 </code> 
+
 
 where //ClassName// is the name of the class being tested. For example, to run ''%%AtomTest%%'':
 
 <code>
-java org.junit.runner.JUnitCore AtomTest
+java org.junit.platform.console.ConsoleLauncher --select-class  AtomTest
 </code>
 
 
@@ -300,7 +301,7 @@ where //Name// represents tha name of the class being tested (and can contain wi
 
 To run:
 
-''java -cp .:junit.jar:hamcrest-core.jarorg.junit.runner.JUnitCore //ClassName//Test''
+''java -cp .;junit.jar org.junit.platform.console.ConsoleLauncher --select-class  //ClassName//Test''
 
 where //Name// represents the name of the class being tested.
 
@@ -308,7 +309,7 @@ For example, to compile and run ''%%AtomTest%%'':
 
 <code bash>
 javac -cp .:junit.jar AtomTest.java
-java -cp .:junit.jar hamcrest-core.jarorg.junit.runner.JUnitCore AtomTest
+java -cp .:junit.jar org.junit.platform.console.ConsoleLauncher --select-class   AtomTest
 </code>
 
 
@@ -324,7 +325,7 @@ If all of the tests are successful, an "OK" message will be printed. If not, a l
 == Configuration ==
 
 
-The Java compiler needs to be able to "find" the JUnit classes and the Java intepreter needs to be able to find both the JUnit classes and the Hamcrest classes. For this discussion, we will assume that the JUnit classes are in ''%%junit.jar%%'' and the Hamcrest classes are in ''%%hamcrest-core.jar%%'' (though the actual names will vary). You can either identify the location of these files each time you use the compiler/interpreter or you can set an operating system environment variable named ''%%CLASSPATH%%''.
+The Java compiler needs to be able to "find" the JUnit classes and the Java intepreter needs to be able to find the JUnit classes. For this discussion, we will assume that the JUnit classes are in ''%%junit.jar%%'' (though the actual names will vary). You can either identify the location of these files each time you use the compiler/interpreter or you can set an operating system environment variable named ''%%CLASSPATH%%''.
 
 
 == Using the CLASSPATH Environment Variable ==
@@ -332,24 +333,24 @@ The Java compiler needs to be able to "find" the JUnit classes and the Java inte
 
 You can set the ''%%CLASSPATH%%'' as follows:
 
-''set CLASSPATH=.;//directory//junit.jar;//directory//hamcrest.jar;%CLASSPATH%''
+''set CLASSPATH=.;//directory//junit.jar;%CLASSPATH%''
 
-where //directory// denotes the name of the directory/folder that contains the files ''%%junit.jar%%'' and ''%%hamcrest-core.jar%%''.
+where //directory// denotes the name of the directory/folder that contains the file ''%%junit.jar%%''.
 
-For example, assuming that the two ''%%.jar%%'' files are in the current working directory, you can set the ''%%CLASSPATH%%'' as follows:
+For example, assuming that the ''%%.jar%%'' file is in the current working directory, you can set the ''%%CLASSPATH%%'' as follows:
 
 <code>
-set CLASSPATH=.;junit.jar;hamcrest-core.jar;%CLASSPATH%
+set CLASSPATH=.;junit.jar;%CLASSPATH%
 </code>
 
 After you have set the ''%%CLASSPATH%%'' you can compile your classes (including the test classes) and the usual way, and run a JUnit test as follows:
 
-java org.junit.runner.JUnitCore //ClassName//Test
+java  org.junit.platform.console.ConsoleLauncher --select-class   //ClassName//Test
  
 where //ClassName// is the name of the class being tested. For example, to run ''%%AtomTest%%'':
 
 <code>
-java org.junit.runner.JUnitCore AtomTest
+java  org.junit.platform.console.ConsoleLauncher --select-class   AtomTest
 </code>
 
 
@@ -367,15 +368,15 @@ where //Name// represents tha name of the class being tested (and can contain wi
 
 To run:
 
-java -cp .;junit.jar;hamcrest-core.jarorg.junit.runner.JUnitCore //ClassName//Test
+java -cp .;junit.jar org.junit.platform.console.ConsoleLauncher --select-class   //ClassName//Test
 
 where //Name// represents the name of the class being tested.
 
 For example, to compile and run ''%%AtomTest%%'':
 
 <code>
-javac -cp .;junit.jar;hamcrest-core.jar AtomTest.java
-java -cp .;junit.jar;hamcrest-core.jarorg.junit.runner.JUnitCore AtomTest
+javac -cp .;junit.jar AtomTest.java
+java -cp .;junit.jar org.junit.platform.console.ConsoleLauncher --select-class   AtomTest
 </code>
 
 
