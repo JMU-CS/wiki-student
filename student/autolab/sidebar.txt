@@ -1,5 +1,6 @@
-  * [[student:autolab:common-tasks|Common Tasks]]
-  * [[student:autolab:grade-report|Understanding Grade Reports]]
-  * [[student:autolab:gradingtier-summarizers | Autograders for Java Submissions (gradingtier)]]
+  * Autolab 
+    - [[student:autolab:common-tasks|Common Tasks]]
+    - [[student:autolab:grade-report|Understanding Grade Reports]]
+    - [[student:autolab:gradingtier-summarizers | Autograders for Java Submissions (gradingtier)]]
 
 
