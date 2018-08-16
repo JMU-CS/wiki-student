@@ -29,8 +29,8 @@ system:
 
 Elements that can contain other elements have the following syntax:
 
-<code>**<**//tag// [ //attribute//**="**//value//**"** ] ... **>** [ //component// ... ] 
-  **</**//tag//**>**</code>
+''**<**//tag// [ //attribute//**="**//value//**"** ] ... **>** [ //component// ... ] 
+  **</**//tag//**>**''
 
 For example, the following might be such an element in a railroad system:
 
