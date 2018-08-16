@@ -1,0 +1,3 @@
+===== stu =====
+
+  - [[ student:stu:basics | stu Basics ]]
