@@ -1,0 +1,115 @@
+
+
+===== Localizing Java Programs =====
+
+
+
+==== Introduction ====
+
+
+Though the terms are often used in different ways, and sometimes   interchangeably, //localization// is the adaptation of a   product to meet the requirements of a particular locale (including   language and cultural differences) and //internationalization//   is the design of a product that facilitates   localization. Localization is often written as "l10n" and   internationalization is often written as "i18n".
+
+
+The most common adaptations involve satisfying requirements   involving the formatting of numbers, dates, times, addresses, and   currencies, and the use of different terminology (often because of   language differences) and symbology. This document is concerned with   features of Java that facilitate localization.
+
+
+==== Identifying a Locale ====
+
+
+Java has a [[ java.util.Locale | http://docs.oracle.com/javase/9/docs/api/java/util/Locale.html ]] class that   encapsulates the identifying attributes of a locale.  These   attributes include a //language// (defined in   [[ http://www.loc.gov/standards/iso639-2/php/code_list.php | ISO   639 ]]), a //script// or writing system (defined in   [[ http://unicode.org/iso15924/iso15924-codes.html | ISO   15924 ]]), a //country// or region (defined in   [[ https://www.iso.org/iso-3166-country-codes.html | ISO 3166 ]]),   and a //variant// (defined in   [[ https://tools.ietf.org/html/bcp47 | IETF BCP47 ]]) like   Canadian French or Swiss German.
+
+
+When the Java Virtual Machine is started it determines   the ''%%Locale%%'' of the processor it is running on. This   information can be obtained from within a program using the   [[ java.util.Locale#getDefault() | http://docs.oracle.com/javase/9/docs/api/java/util/Locale.html#getDefault() ]] method.
+
+
+==== Changing the Locale ====
+
+
+The Java Virtual Machine can be provided with the information is   should use to identify the ''%%Locale%%'' when it is started   using the ''%%-Duser.country%%''   and ''%%-Duser.language%%'' options. For example, when   executing an application named ''%%Test%%'' in the United   States one could tell the JVM to use the ''%%Locale%%'' for   Canadian French as follows:
+
+
+<code>
+java -Duser.country=CA -Duser.language=fr Test
+</code>
+
+It is also possible to change the ''%%Locale%%'' inside of a   program using   the [[ java.util.Locale#setDefault(java.util.Locale) | http://docs.oracle.com/javase/9/docs/api/java/util/Locale.html#setDefault(java.util.Locale) ]]   method.
+
+
+==== Localization of Terminology ====
+
+
+Some people/companies approach the localization of terminology as a   problem in machine translation but most use a simple mapping (and   rely on human translators to do the hard work of translation). Java   provides a [[ java.util.ResourceBundle | http://docs.oracle.com/javase/9/docs/api/java/util/ResourceBundle.html ]] class for   working which such mappings. To use it, one creates a file   containing a mapping between keys (in the programmer’s language) and   values (in the target language). Each key is, essentially,   a ''%%String%%'' literal that appears in the user interface   (e.g., "File", "Open", etc…).  One mapping is created for each   language, **including the programmer’s language**. The   appropriate mapping is then loaded (based on   the ''%%Locale%%'') and is used everywhere   a ''%%String%%'' literal would otherwise be used.
+
+
+For example, one might create one file   named ''%%Strings_en_US.properties%%'' in the   ''%%calc.ui%%'' package containing the following:
+
+<code>
+Cancel = Cancel
+File = File
+Open = Open
+</code>
+
+and another named ''%%Strings_fr_FR.properties%%'' (in the same package)   containing the following:
+
+<code>
+Cancel = Annuler
+File = Fichier
+Open = Ouvrir
+</code>
+
+Then, in the main class for the user interface one would load the   mapping for the default ''%%Locale%%'' as follows:
+
+<code> 
+public static final ResourceBundle STRINGS = 
+  ResourceBundle.getBundle("calc.ui.Strings");
+</code>
+
+and use it as follows:
+
+<code>
+JButton cancelButton = new JButton(STRINGS.getString("Cancel"));
+cancelButton.setActionCommand("Cancel");
+</code>
+
+Note that, one could use a Singleton rather than a visible static   attribute however it is slightly inconvenient and it is unlikely   that the additional flexibility it provides will be used (e.g., it   is unlikely that one will need the ability to have more than one   instance in the future). Note also that the static attribute need   not have public visibility if it is only used in the same class or   in the same package.
+
+
+==== Formatting ====
+
+
+Different locales have different formatting conventions involving   numbers (e.g., what symbol to use between the one’s place and the   one-tenth’s place, what symbol to use for groupings of places),   dates (e.g., what order to use for the year, month and day),   currencies (e.g., what currency symbol to use, whether the currency   symbol appears before or after the amount), and other things.
+
+
+
+=== Formatting Numbers ===
+
+
+There are versions of the ''%%printf()%%''     and ''%%format()%%'' methods in     the [[ java.io.PrintStream | http://docs.oracle.com/javase/9/docs/api/java/io/PrintStream.html ]] class that are     a ''%%Locale%%'' object and use it to determine the     appropriate formatting for numbers. The versions that are not     passed a ''%%Locale%%'' simply call the versions that are,     passing the default ''%%Locale%%''. Hence, if one uses these     methods one need not make any special accommodations to handle     locales.
+
+
+There is also a [[ java.text.NumberFormat | http://docs.oracle.com/javase/9/docs/api/java/text/NumberFormat.html ]] class     that provides even more flexibility, though it is less convenient.
+
+
+=== Formatting Currencies ===
+
+
+The ''%%NumberFormat%%'' class has a     static ''%%getCurrencyInstance()%%'' class that returns     a ''%%NumberFormat%%'' object that will format currency     information in a locale-specific way.
+
+
+=== Formatting Dates and Times ===
+
+
+The [[ java.text.DateFormat | http://docs.oracle.com/javase/9/docs/api/java/text/DateFormat.html ]] class has     a ''%%format()%%'' method that can be used to format dates in     a variety of ways. It can be used to     create ''%%SHORT%%'', ''%%MEDIUM%%'', ''%%LONG%%''     and ''%%FULL%%'' representations.
+
+
+==== For More Information ====
+
+
+More information is available from several sources on many topics, including:
+
+
+  * [[ https://docs.oracle.com/javase/tutorial/i18n/ | Localization/Internationalization in Java ]]
+  * [[ http://www.oracle.com/technetwork/articles/javase/locale-140624.html | 
+  Understanding ''%%Locale%%'' ]]
+  * [[ https://docs.oracle.com/javase/tutorial/i18n/text/shapedDigits.html | 
+  Using Different Number-Writing Systems ]]
