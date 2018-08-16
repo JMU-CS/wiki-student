@@ -1,0 +1,3 @@
+===== VisualParadigm ====
+
+  - [[ student:visualparadigm:tips | Tips and Tricks ]]
