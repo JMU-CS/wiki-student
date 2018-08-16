@@ -9,4 +9,5 @@
   * [[student:junit:start | JUnit ]]
   * [[student:mathematics:start | Mathematical Foundations ]]
   * [[student:stu:start | stu ]]
+  * [[student:visualparadigm:start | VisualParadigm ]]
   * [[student:webcat:start | Web-CAT ]]
