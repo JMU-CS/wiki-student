@@ -18,7 +18,7 @@ XML has two different kind of elements, those that can contain   component eleme
 
 XML elements that can't contain other elements have the following syntax   (sometimes called the abbreviated syntax for empty elements):
 
-<code>**<**//tag// [ //attribute//**="**//value//**"** ] ... **/>**</code>
+''**<**//tag// [ //attribute//**="**//value//**"** ] ... **/>**''
 
 For example, the following might be such an element in a railroad
 system:
