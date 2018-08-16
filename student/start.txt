@@ -8,4 +8,5 @@
   * [[student:jgrasp:start | jGRASP ]]
   * [[student:junit:start | JUnit ]]
   * [[student:mathematics:start | Mathematical Foundations ]]
+  * [[student:stu:start | stu ]]
   * [[student:webcat:start | Web-CAT ]]
