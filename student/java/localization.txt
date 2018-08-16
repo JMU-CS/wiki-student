@@ -16,10 +16,10 @@ The most common adaptations involve satisfying requirements   involving the form
 ==== Identifying a Locale ====
 
 
-Java has a [[ http://docs.oracle.com/javase/9/docs/api/java/util/Locale.html |  java.util.Locale | ]] class that   encapsulates the identifying attributes of a locale.  These   attributes include a //language// (defined in   [[ http://www.loc.gov/standards/iso639-2/php/code_list.php | ISO   639 ]]), a //script// or writing system (defined in   [[ http://unicode.org/iso15924/iso15924-codes.html | ISO   15924 ]]), a //country// or region (defined in   [[ https://www.iso.org/iso-3166-country-codes.html | ISO 3166 ]]),   and a //variant// (defined in   [[ https://tools.ietf.org/html/bcp47 | IETF BCP47 ]]) like   Canadian French or Swiss German.
+Java has a [[ http://docs.oracle.com/javase/9/docs/api/java/util/Locale.html |  java.util.Locale ]] class that   encapsulates the identifying attributes of a locale.  These   attributes include a //language// (defined in   [[ http://www.loc.gov/standards/iso639-2/php/code_list.php | ISO   639 ]]), a //script// or writing system (defined in   [[ http://unicode.org/iso15924/iso15924-codes.html | ISO   15924 ]]), a //country// or region (defined in   [[ https://www.iso.org/iso-3166-country-codes.html | ISO 3166 ]]),   and a //variant// (defined in   [[ https://tools.ietf.org/html/bcp47 | IETF BCP47 ]]) like   Canadian French or Swiss German.
 
 
-When the Java Virtual Machine is started it determines   the ''%%Locale%%'' of the processor it is running on. This   information can be obtained from within a program using the   [[ http://docs.oracle.com/javase/9/docs/api/java/util/Locale.html#getDefault() |  java.util.Locale#getDefault() | ]] method.
+When the Java Virtual Machine is started it determines   the ''%%Locale%%'' of the processor it is running on. This   information can be obtained from within a program using the   [[ http://docs.oracle.com/javase/9/docs/api/java/util/Locale.html#getDefault() |  java.util.Locale#getDefault() ]] method.
 
 
 ==== Changing the Locale ====
@@ -32,13 +32,13 @@ The Java Virtual Machine can be provided with the information is   should use to
 java -Duser.country=CA -Duser.language=fr Test
 </code>
 
-It is also possible to change the ''%%Locale%%'' inside of a   program using   the [[ http://docs.oracle.com/javase/9/docs/api/java/util/Locale.html#setDefault(java.util.Locale) |  java.util.Locale#setDefault(java.util.Locale) | ]]   method.
+It is also possible to change the ''%%Locale%%'' inside of a   program using   the [[ http://docs.oracle.com/javase/9/docs/api/java/util/Locale.html#setDefault(java.util.Locale) |  java.util.Locale#setDefault(java.util.Locale) ]]   method.
 
 
 ==== Localization of Terminology ====
 
 
-Some people/companies approach the localization of terminology as a   problem in machine translation but most use a simple mapping (and   rely on human translators to do the hard work of translation). Java   provides a [[ http://docs.oracle.com/javase/9/docs/api/java/util/ResourceBundle.html |  java.util.ResourceBundle | ]] class for   working which such mappings. To use it, one creates a file   containing a mapping between keys (in the programmer’s language) and   values (in the target language). Each key is, essentially,   a ''%%String%%'' literal that appears in the user interface   (e.g., "File", "Open", etc…).  One mapping is created for each   language, **including the programmer’s language**. The   appropriate mapping is then loaded (based on   the ''%%Locale%%'') and is used everywhere   a ''%%String%%'' literal would otherwise be used.
+Some people/companies approach the localization of terminology as a   problem in machine translation but most use a simple mapping (and   rely on human translators to do the hard work of translation). Java   provides a [[ http://docs.oracle.com/javase/9/docs/api/java/util/ResourceBundle.html |  java.util.ResourceBundle ]] class for   working which such mappings. To use it, one creates a file   containing a mapping between keys (in the programmer’s language) and   values (in the target language). Each key is, essentially,   a ''%%String%%'' literal that appears in the user interface   (e.g., "File", "Open", etc…).  One mapping is created for each   language, **including the programmer’s language**. The   appropriate mapping is then loaded (based on   the ''%%Locale%%'') and is used everywhere   a ''%%String%%'' literal would otherwise be used.
 
 
 For example, one might create one file   named ''%%Strings_en_US.properties%%'' in the   ''%%calc.ui%%'' package containing the following:
@@ -84,10 +84,10 @@ Different locales have different formatting conventions involving   numbers (e.g
 === Formatting Numbers ===
 
 
-There are versions of the ''%%printf()%%''     and ''%%format()%%'' methods in     the [[ http://docs.oracle.com/javase/9/docs/api/java/io/PrintStream.html |  java.io.PrintStream | ]] class that are     a ''%%Locale%%'' object and use it to determine the     appropriate formatting for numbers. The versions that are not     passed a ''%%Locale%%'' simply call the versions that are,     passing the default ''%%Locale%%''. Hence, if one uses these     methods one need not make any special accommodations to handle     locales.
+There are versions of the ''%%printf()%%''     and ''%%format()%%'' methods in     the [[ http://docs.oracle.com/javase/9/docs/api/java/io/PrintStream.html |  java.io.PrintStream ]] class that are     a ''%%Locale%%'' object and use it to determine the     appropriate formatting for numbers. The versions that are not     passed a ''%%Locale%%'' simply call the versions that are,     passing the default ''%%Locale%%''. Hence, if one uses these     methods one need not make any special accommodations to handle     locales.
 
 
-There is also a [[ http://docs.oracle.com/javase/9/docs/api/java/text/NumberFormat.html |  java.text.NumberFormat | ]] class     that provides even more flexibility, though it is less convenient.
+There is also a [[ http://docs.oracle.com/javase/9/docs/api/java/text/NumberFormat.html |  java.text.NumberFormat ]] class     that provides even more flexibility, though it is less convenient.
 
 
 === Formatting Currencies ===
@@ -99,7 +99,7 @@ The ''%%NumberFormat%%'' class has a     static ''%%getCurrencyInstance()%%'' cl
 === Formatting Dates and Times ===
 
 
-The [[ http://docs.oracle.com/javase/9/docs/api/java/text/DateFormat.html |  java.text.DateFormat | ]] class has     a ''%%format()%%'' method that can be used to format dates in     a variety of ways. It can be used to     create ''%%SHORT%%'', ''%%MEDIUM%%'', ''%%LONG%%''     and ''%%FULL%%'' representations.
+The [[ http://docs.oracle.com/javase/9/docs/api/java/text/DateFormat.html |  java.text.DateFormat ]] class has     a ''%%format()%%'' method that can be used to format dates in     a variety of ways. It can be used to     create ''%%SHORT%%'', ''%%MEDIUM%%'', ''%%LONG%%''     and ''%%FULL%%'' representations.
 
 
 ==== For More Information ====
