@@ -64,7 +64,7 @@ The easiest way to add an input or output parameter to an activity,     is to cl
 === Pins ===
 
 
-To add a pin to an action, hove over the action -- this will cause     icons to appear on the edge of the action. The pin icon is a small     square with an arrow. Hover over the icon and a second icon will     appear (one for adding an input pin and one for adding an output     pin). Click on the appropriate icon to add the pin.
+To add a pin to an action, hover over the action -- this will cause     icons to appear on the edge of the action. The pin icon is a small     square with an arrow. Hover over the icon and a second icon will     appear (one for adding an input pin and one for adding an output     pin). Click on the appropriate icon to add the pin.
 
 
 === Object/Data States ===
