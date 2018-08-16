@@ -3,3 +3,4 @@
   - [[ student:java:formatting | Formatting Strings ]]
   - [[ student:java:jar | .jar Files (i.e., Java Archives) ]]
   - [[ student:java:javadoc | javadocs ]]
+  - [[ student:java:localization | localization ]]
