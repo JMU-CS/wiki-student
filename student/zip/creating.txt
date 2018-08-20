@@ -21,7 +21,7 @@ To create a ''%%.zip%%'' file from the command shell, you can use the following 
 
   |   zip //archive//.zip //file// [//file//]...   |
 
-  |   zip //archive//.zip //file// [//file//]...   |
+|   zip //archive//.zip //file// [//file//]...   |
 
 ==== Using MS Windows ====
 
