@@ -12,3 +12,4 @@
   * [[student:visualparadigm:start | VisualParadigm ]]
   * [[student:webcat:start | Web-CAT ]]
   * [[student:xml:start | XML ]]
+  * [[student:zip:start | .zip Files ]]
