@@ -35,7 +35,7 @@ To create a ''%%.zip%%'' file from the File Explorer:
 
 If the Java Development Kit is installed and in your PATH, you   can also create a ''%%.zip%%'' file from the command shell   using the following command:
 
-   jar -cvf //archive//.zip //file// [//file//]...     |
+|   jar -cvf //archive//.zip //file// [//file//]...     |
 
 
 ==== Using OS X ====
