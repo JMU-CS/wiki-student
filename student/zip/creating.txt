@@ -19,7 +19,6 @@ To create a ''%%.zip%%'' file from the File manager:
 
 To create a ''%%.zip%%'' file from the command shell, you can use the following command:
 
-  |   zip //archive//.zip //file// [//file//]...   |
 
 |   zip //archive//.zip //file// [//file//]...   |
 
@@ -33,9 +32,10 @@ To create a ''%%.zip%%'' file from the File Explorer:
   - Click on the first file to select it.
   - Control-click on any other files to select them.
   - Right-click on one of the selected files and pull down to <key>Send To</key> and pull down to <key>Compressed (zipped) Folder</key>.
+
 If the Java Development Kit is installed and in your PATH, you   can also create a ''%%.zip%%'' file from the command shell   using the following command:
 
-  |   jar -cvf //archive//.zip //file// [//file//]...     |
+   jar -cvf //archive//.zip //file// [//file//]...     |
 
 
 ==== Using OS X ====
@@ -48,10 +48,11 @@ To create a ''%%.zip%%'' file from the Finder:
   - Click on the first file to select it.
   - Command-click on any other files to select them.
   - Right-click on one of the selected files and pull down to <key>Compress ... Items</key>.
+
 To create a ''%%.zip%%'' file from the command shell, you can use the following command:
 
-  |   zip //archive//.zip //file// [//file//]...     |
+|   zip //archive//.zip //file// [//file//]...     |
 
 If the Java Development Kit is installed and in your PATH, you   can also create a ''%%.zip%%'' file from the command shell using the following command:
 
-  |    jar -cvf //archive//.zip //file// [//file//]...     |
+|    jar -cvf //archive//.zip //file// [//file//]...     |
