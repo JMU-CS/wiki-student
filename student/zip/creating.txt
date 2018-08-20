@@ -17,9 +17,10 @@ To create a ''%%.zip%%'' file from the File manager:
   - Enter a filename (and location).
   - Select <key>.zip</key>.
   - Click on <key>Create</key>.
+
 To create a ''%%.zip%%'' file from the command shell, you can use the following command:
 
-  |   zip //archive//.zip //file// [//file//]...  |
+  |   zip //archive//.zip //file// [//file//]...   |
 
 
 ==== Using MS Windows ====
