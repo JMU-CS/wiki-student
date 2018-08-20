@@ -3,6 +3,7 @@
   * [[student:autolab:start | Autolab ]]
   * [[student:c:start | C/C++ ]]
   * [[student:checkstyle:start | Checkstyle ]]
+  * [[student:computer_labs:start | Computer Labs ]]
   * [[student:eclipse:start | Eclipse ]]
   * [[student:java:start | Java ]]
   * [[student:jgrasp:start | jGRASP ]]
