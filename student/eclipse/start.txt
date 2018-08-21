@@ -2,3 +2,4 @@
 
   - [[ student:eclipse:help | Help using Eclipse ]]
   - [[ student:eclipse:eclemma | Help using EclEmma ]] (Code Coverage)
+  - [[ student:eclipse:checkstyle | Help using the Checkstyle Plugin for Eclipse ]] (Static Analysis)
