@@ -1,0 +1,3 @@
+The JMU computational cluster is located in the EnGeo building and is currently comprised of 16 Dell PowerEdge servers with eight 2.4GHz cores and 32 GB RAM each. It is used for teaching CS 470 and doing research. For more information, contact Mike Lam.
+
+* [[https://w3.cs.jmu.edu/lam2mo/cs470_2018_01/cluster.html|Cluster Guide]]
