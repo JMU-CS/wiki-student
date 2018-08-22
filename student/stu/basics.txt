@@ -25,6 +25,6 @@ You can transfer files to "stu" using an SCP client (and the host name   ''%%stu
 You (should) have a directory named ''%%www%%'' in your home directory.   Any file that you put in that directory will be available to the   public as a "web page" (i.e., it will be served in response to an HTTP GET   request) from the server ''%%w3stu.cs.jmu.edu%%'' under your   e-ID.
 
 
-For example, if Prof. Fakename (i.e., ''%%fakenazx%%'')   put a file named ''%%test.html%%'' in his ''%%www%%''   it would be accessible to the public using the URL   as ''%%w3stu.cs.jmu.edu/fakenazx/test.html%%''.
+For example, if Prof. Fakename (i.e., ''%%fakenazx%%'')   put a file named ''%%test.html%%'' in her ''%%www%%''   directory it would be accessible to the public using the URL   as ''%%w3stu.cs.jmu.edu/fakenazx/test.html%%''.
 
 Of course, the HTTP server must have permission to read the file. So,   the file must be world-readable.
