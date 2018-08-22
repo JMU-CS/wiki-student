@@ -17,8 +17,7 @@ You can login to "stu" using an SSH client (and the host name   ''%%stu.cs.jmu.e
 ==== Transferring Files to stu ====
 
 
-You can transfer files to "stu" using an SCP client (and the host name   ''%%stu.cs.jmu.edu%%''). The "Tools" page may contain links to some   SCP clients.
-
+You can transfer files to "stu" using an SCP client (and the host name   ''%%stu.cs.jmu.edu%%''). 
 
 ==== Using stu as an HTTP Server ====
 
