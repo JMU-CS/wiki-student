@@ -26,7 +26,7 @@ it will look something like the following.
 
 {{failed-unit-test-summarizer_terse.png}}
 
-Or, you may also be given detailes about the failure, in which case
+Or, you may also be given details about the failure, in which case
 it will look something like the following.
 
 {{failed-unit-test-summarizer_verbose.png}}
