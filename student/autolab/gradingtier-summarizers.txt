@@ -15,7 +15,7 @@ Checkstyle) organized by file that looks something like the following.
 
 ==== Feedback about Correctness ====
 
-Feedback about correctness includes a list of test failures (generated
+Feedback about correctness (e.g., official tests and self tests) includes a list of test failures (generated
 by JUnit). You may be given information only about the test, in which case
 it will look something like the following.
 
@@ -44,5 +44,5 @@ the following.
 Note that if a method contains no branches then the branch coverage
 line will be omitted. Note also that JaCoCo uses the term "branches"
 differently from the way some other people do. Specifically, the
-number of "bracnhes" is the sume of the number of possible Boolean
+number of "branches" is the sum of the number of possible Boolean
 values in an expression.
