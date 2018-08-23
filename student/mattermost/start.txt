@@ -1,0 +1,3 @@
+====== Mattermost ======
+
+Mattermost is a team-chat service (a free and open source alternative to e.g. slack.com ). You might use this to chat with clubs or other special interests (such as professors' research labs). You can sign in with your JMU EID at https://chat.cs.jmu.edu by simply clicking "Sign in with: GitLab" (see figure) {{ :student:mattermost:screenshot_2018-08-23_15.09.34.png?nolink&400|}}
