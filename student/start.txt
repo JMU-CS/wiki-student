@@ -1,5 +1,7 @@
 ===== Information for Students =====
 
+==== Topics ====
+
   * [[student:autolab:start | Autolab ]]
   * [[student:c:start | C/C++ ]]
   * [[student:checkstyle:start | Checkstyle ]]
