@@ -18,3 +18,10 @@
   * [[student:webcat:start | Web-CAT ]]
   * [[student:xml:start | XML ]]
   * [[student:zip:start | .zip Files ]]
+
+==== Etiquette ====
+
+  - You must be logged-in (using your JMU email address) to make additions/changes.
+  - This wiki is not moderated. So, please be sure that your additions/changes are correct before you post them.
+  - Include an edit summary for any major change.
+  - Though wikis are searchable, they are much easier to use if they are organized hierarchically. So, please use organize additions appropriately. 
