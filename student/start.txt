@@ -17,6 +17,7 @@
   * [[student:mattermost:start | Mattermost ]]
   * [[student:utilities:start | Operating System Utilities ]]
   * [[student:stu:start | stu ]]
+  * [[student:typographic-conventions:start | Typographic Conventions ]]
   * [[student:visualparadigm:start | VisualParadigm ]]
   * [[student:webcat:start | Web-CAT ]]
   * [[student:xml:start | XML ]]
