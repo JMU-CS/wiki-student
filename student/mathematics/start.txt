@@ -3,3 +3,4 @@
   - [[ student:mathematics:angular-measure | Angular Measure ]]
   - [[ student:mathematics:coordinate-systems-2d | 2D Coordinate Systems ]]
   - [[ student:mathematics:alphabets | Foreign Alphabets ]]
+  - [[ student:mathematics:intervals | Intervals ]]
