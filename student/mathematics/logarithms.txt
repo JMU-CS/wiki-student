@@ -24,9 +24,7 @@ logarithms:
   - \(\log\quad u v = \log u + \log v\)
   - \(\log u/v = \log u - \log v\)
   - \(\log u^{k} =  k \log u \mbox{ for }  u \gt 0\)
-  - \(\log_{b}u = (\log_{b}a) (\log_{a}u) \mbox{ for }  u \gt 0\)
-To prove this result let  \(u= a^{p}\) (so that  \(p=\log_{a}u\)).  Then:
-\(\log_{b}u = \log_{b}a^{p} = p\log_{b}a =  (\log_{b}a) (\log_{a}u)\)
+  - \(\log_{b}u = (\log_{b}a) (\log_{a}u) \mbox{ for }  u \gt 0\) \\ To prove this result let  \(u= a^{p}\) (so that  \(p=\log_{a}u\)).  Then: \\ \(\log_{b}u = \log_{b}a^{p} = p\log_{b}a =  (\log_{b}a) (\log_{a}u)\)
   - \(\log_{b}u = \frac{1}{\log_{u}b}\)
   - Combining the previous two rules yields the following "change of base rule":
 \\
