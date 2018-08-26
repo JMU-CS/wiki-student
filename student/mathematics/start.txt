@@ -5,4 +5,4 @@
   - [[ student:mathematics:alphabets | Foreign Alphabets ]]
   - [[ student:mathematics:intervals | Intervals ]]
   - [[ student:mathematics:limits | Limits ]]
-  - [[ students:mathematics:logarithms | Logarithms ]]
+  - [[ student:mathematics:logarithms | Logarithms ]]
