@@ -20,7 +20,7 @@ If you don't understand, an example should clear things right up. What happens t
 
 Congratulations!  You've just taken your first limit.  How would you write this down?  There are two ways.  One way is to write: if \(n \rightarrow  \infty \) then \(1/n \rightarrow 0\) (i.e., if \(n\) goes to infinity then \(1/n\) goes to zero). Another way is to write:
 
-|   \(lim_{n \rightarrow  \oo} 1/n = 0\)   |
+|   \(lim_{n \rightarrow  \infty} 1/n = 0\)   |
 
 which says that the limit of \(1/n\) as \(n\) goes to infinity is zero.
 
@@ -59,4 +59,4 @@ There are a number of simple results/rules that make it very easy to find limits
   - Given two functions of \(x\), \(f_{1}\) and  \(f_{2}\), with finite limits, \(L_{1}\) and \(L_{2}\) it follows that \(lim_{x \rightarrow N}(f_{1} + f_{2}) = L_{1} + L_{2}\)
   - Given two functions of \(x\), \(f_{1}\) and  \(f_{2}\), with finite limits, \(L_{1}\) and \(L_{2}\) it follows that then \(lim_{x \rightarrow N}(f_{1} f_{2}) = L_{1} L_{2}\)
   - (L'Hopital's Rule) Given two differentiable functions of \(x\), 
-\(f_{1}\) and  \(f_{2}\), with infinite limits and derivatives \(f_{1}\prime\) and \(f_{2}\prime\), it follows that \(lim_{x \rightarrow \oo}(\frac{f_{1}}{f_{2}}) =  lim_{x \rightarrow \oo}(\frac{f_{1}\prime}{f_{2}\prime})\). 
+\(f_{1}\) and  \(f_{2}\), with infinite limits and derivatives \(f_{1}\prime\) and \(f_{2}\prime\), it follows that \(lim_{x \rightarrow \infty}(\frac{f_{1}}{f_{2}}) =  lim_{x \rightarrow \infty}(\frac{f_{1}\prime}{f_{2}\prime})\). 
