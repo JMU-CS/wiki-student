@@ -17,7 +17,7 @@ Run the "Activity Monitor" (e.g.,  <key>Command</key>+<key>Spacebar</key>, enter
 
 ==== UNIX/Linux ====
 
-From the command line, run ''%%top%%'' (and type <key>q</key> when done.
+From the command line, run ''%%top%%'' (and type <key>q</key> when done).
 
 
 In Gnome, run the ''%%gnome-system-monitor%%''.
