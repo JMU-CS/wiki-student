@@ -13,6 +13,7 @@
   * [[student:java:start | Java ]]
   * [[student:jgrasp:start | jGRASP ]]
   * [[student:junit:start | JUnit ]]
+  * [[student:kdiff:start | KDiff3 ]]
   * [[student:mathematics:start | Mathematical Foundations ]]
   * [[student:mattermost:start | Mattermost ]]
   * [[student:utilities:start | Operating System Utilities ]]
