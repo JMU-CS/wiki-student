@@ -21,3 +21,8 @@ The easiest way to see the prerequisite structure is to view the
 [[https://wiki.cs.jmu.edu/_media/student/curriculum/prereqfigure.pdf|prerequisite tree]], but you can also view the 
 [[https://wiki.cs.jmu.edu/_media/student/curriculum/prereqfigure.pdf|prerequisite tree]].
 
+==== Anticipated Course Offerings ====
+
+Although the CS department cannot guarantee that certain courses will be offered in the future, we plan course
+offerings ahead of time and do our best to follow the plan. Here is the
+[[http://www.jmu.edu/bscs/documents/course-offerings-2018-20.pdf|current plan]].
