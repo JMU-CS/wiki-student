@@ -2,4 +2,5 @@
 
 === Prerequisites ===
 
+[[student:eclipse|Information about Eclipse]]
 The easiest way to see the prerequisite structure is [[File:student:curriculum:prereqFigure.png]] to view the [[https://wiki.cs.jmu.edu/_media/student/curriculum/prereqfigure.pdf|prerequisite tree]].
