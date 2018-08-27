@@ -7,7 +7,7 @@ CS 159, and CS/MATH 227 only if they are fully admitted to the CS major or minor
 major or minor is granted as described below.
 
   * Students who have attempted CS 139/149, CS 159, or CS/MATH 227 at JMU may not attempt them elsewhere (that is, they must make any second attempts at JMU).
-  * Students must submit an application for full admission to the CS major or minor no earlier than the semester in which they complete CS 159. The application form is available [[http://www.jmu.edu/bscs/major/helpful-forms-links/index.shtml|here]].
+  * Students must submit an application for full admission to the CS major or minor no earlier than the semester in which they complete CS 159. The application form is available [[http://www.jmu.edu/bscs/major/helpful-forms-links/index.shtml|on the CS webpage]].
   * Students with a GPA of 3.0 or better in CS 139/149 and CS 159 who have attempted these classes only once are guaranteed full admission to the major or minor. Others will be granted full admission to the CS major or minor as space permits based on their GPA in CS 139/149 and CS 159 and faculty evaluation of their potential to succeed in the CS major or minor.
   * Students who have completed the CS minor may apply for full admission to the CS major no earlier than the semester in which they complete the last course in the CS minor.
   * CS minors with a GPA of 3.0 or higher in the CS minor will be fully admitted to the CS major; others will be admitted as space permits based on their minor GPA.
