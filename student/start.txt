@@ -8,6 +8,7 @@
   * [[https://w3.cs.jmu.edu/lam2mo/cs_clubs.html | Clubs]]
   * [[student:cluster:start | Cluster ]]
   * [[student:computer_labs:start | Computer Labs ]]
+  * [[student:curriculum:start | CS Curriculum ]]
   * [[student:eclipse:start | Eclipse ]]
   * [[student:gitlab:start | GitLab ]]
   * [[student:java:start | Java ]]
