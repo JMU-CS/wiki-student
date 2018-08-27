@@ -62,4 +62,4 @@ Because Web-CAT uses HTML and HTML does not preserve white   space, some of the 
 === Expected Exceptions ===
 
 
-When Web-CAT expects a method to throw an exception and it doesn't,   the hint will start with something like ''%%Expected exception: %%'',   will list the exception, and will list the number of occurrences.   In such cases, you will need to validate your code (i.e., check to make   sure that it satisfies all such specications).
+When Web-CAT expects a method to throw an exception and it doesn't,   the hint will start with something like ''%%Expected exception: %%'',   will list the exception, and will list the number of occurrences.   In such cases, you will need to validate your code (i.e., check to make   sure that it satisfies all such specifications).
