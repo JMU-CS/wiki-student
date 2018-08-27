@@ -2,4 +2,4 @@
 
 === Prerequisites ===
 
-The easiest way to see the prerequisite structure is to view the [[student:curriculum:prereqFigure.pdf|prerequisite tree]].
+The easiest way to see the prerequisite structure is to view the [[https://wiki.cs.jmu.edu/_media/student/curriculum/prereqfigure.pdf|prerequisite tree]].
