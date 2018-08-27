@@ -1,0 +1,5 @@
+==== Computer Science Curriculum ====
+
+=== Prerequisites ===
+
+The easiest way to see the prerequisite structure is to view the [[prereqFigure.pdf prerequisite tree]].
