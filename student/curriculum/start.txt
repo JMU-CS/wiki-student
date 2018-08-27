@@ -1,6 +1,6 @@
-==== Computer Science Curriculum ====
+===== Computer Science Curriculum =====
 
-=== Full Admission to the CS Major or Minor ===
+==== Full Admission to the CS Major or Minor ====
 
 Any student may declare a CS major or minor, but students may enroll in CS courses beyond CS 139/149,
 CS 159, and CS/MATH 227 only if they are fully admitted to the CS major or minor. Full admission to the
@@ -15,7 +15,7 @@ major or minor is granted as described below.
   * Students who are not granted full admission to the CS major or minor may file one additional application in the next regular semester after they are denied admission.
   * Transfer students who have completed the equivalent of CS 159 (or for whom this class is waived) are granted full admission to the CS major or minor. Other transfer students are subject to same process as non-transfer students.
 
-=== Prerequisites ===
+==== Prerequisites ====
 
 The easiest way to see the prerequisite structure is to view the 
 [[https://wiki.cs.jmu.edu/_media/student/curriculum/prereqfigure.pdf|prerequisite tree]], but you can also view the 
