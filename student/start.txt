@@ -22,6 +22,7 @@
   * [[student:typographic-conventions:start | Typographic Conventions ]]
   * [[student:visualparadigm:start | VisualParadigm ]]
   * [[student:webcat:start | Web-CAT ]]
+  * [[student:wireless:start | Wireless ]]
   * [[student:xml:start | XML ]]
   * [[student:zip:start | .zip Files ]]
 
