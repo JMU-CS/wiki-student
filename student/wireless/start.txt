@@ -1,0 +1,15 @@
+===== Wireless =====
+
+JMU IT has instructions for connecting to the ''JMU-Official-Wireless'' network from macOS and Windows here: [[http://www.jmu.edu/computing/desktop/wireless/]]
+
+If you're running Linux, you might need to set things up manually. For example, on Linux Mint 19 you need to click the "Connect to Hidden Network..." button. Here are the settings:
+
+  * **SSID:** JMU-Official-Wireless
+  * **Wireless security:** WPA & WPA2 Enterprise
+  * **Authentication:** Protected EAP (PEAP)
+  * **Anonymous identity:** <leave blank>
+  * **CA certificate:** /usr/share/ca-certificates/mozilla/AddTrust_External_Root.crt
+  * **PEAP version:** Version 0
+  * **Inner authentication:** MSCHAPv2
+  * **Username:** <your JMU e-ID>
+  * **Password:** <your JMU password>
