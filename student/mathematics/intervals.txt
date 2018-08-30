@@ -1,4 +1,4 @@
-===== Mathematical Foundations: Intervals =====
+===== Intervals =====
 
 ==== Definitions ====
 
