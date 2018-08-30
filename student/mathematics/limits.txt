@@ -1,6 +1,6 @@
 
 
-===== Mathematical Foundations: Limits =====
+===== Limits =====
 
 
 
