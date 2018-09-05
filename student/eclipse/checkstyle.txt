@@ -4,6 +4,18 @@
 
 [[ student:checkstyle:start | Checkstyle ]] is a static analysis tool. The Checkstyle plugin for Eclipse enables the use of Checkstyle from within [[ student:eclipse:start | Eclipse ]].
 
+==== Installation - Fall 2018 Special Instructions ====
+
+The normal Checkstyle installation process is not working reliably at the moment (circa 9/5/2018). However, it is possible to install version 8.11 "manually". To do so, in a WWW browser, go to:
+
+[[ https://bintray.com/eclipse-cs/eclipse-cs/update-site-archive/8.11.0 | v8.11 Download Site ]]
+
+then right-click on the link named net.sf.eclipsecs-updatesite_8.11.0.201807281521.zip (underneath the word "Downloads") and save the ''.zip'' file to a convenient location.
+
+Now start Eclipse and click on <key>Help</key>+<key>Install New Software</key>. When the dialog box opens, click on <key>Add...</key>. When the new dialog box opens, click on <key>Archive...</key>, navigate to the ''.zip'' file that you saved earlier, and click on <key>OK</key>. Then click on <key>Add</key> on the previous dialog.
+To actually start the installation process, select Checkstyle and click on <key>Next</key> or <key>Finish</key>.
+
+
 ==== Installation ====
 
 
