@@ -1,4 +1,5 @@
 ===== JMU Computer Science Department Wiki =====
 
   * [[ faculty:start | Information for Faculty ]] (Authentication Required)
+  * [[ ta:start      | Information for TAs ]]
   * [[ student:start | Information for Students]]
