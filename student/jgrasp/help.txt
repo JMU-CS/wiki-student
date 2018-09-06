@@ -34,7 +34,7 @@ Some editors use tabs and some use spaces.  This makes it a little   difficult t
 
 
   - Select the text you want to change.
-  - Click on <key>Edit</key>+<key>Spaces/Tabs</key>         and then <key>Tabify</key> or <key>Untabify</key>.
+  - Click on <key>Edit</key>+<key>Spaces/Tabs</key> and then <key>Tabify</key> or <key>Untabify</key>.
 
 
 ==== Setting the End of Line Character ====
