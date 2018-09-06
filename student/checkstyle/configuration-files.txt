@@ -1,6 +1,6 @@
 
 
-===== Checkstyle Configurarion Files =====
+===== Checkstyle Configuration Files =====
 
 
 A Checkstyle configuration file is a description of how a Java source
