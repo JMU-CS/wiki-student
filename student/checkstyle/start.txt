@@ -1,4 +1,4 @@
 ===== Checkstyle =====
 
   - [[ student:checkstyle:configuration-files | Configuration Files ]]
-  - [[ student:checkstyle:configuration-files | Common Defects ]]
+  - [[ student:checkstyle:common-defects | Common Defects ]]
