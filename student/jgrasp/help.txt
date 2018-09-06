@@ -36,7 +36,25 @@ Some editors use tabs and some use spaces.  This makes it a little   difficult t
   - Select the text you want to change.
   - Click on <key>Edit</key>+<key>Spaces/Tabs</key>         and then <key>Tabify</key> or <key>Untabify</key>.
 
-==== Using checkstyle ====
+
+==== Setting the End of Line Character ====
+
+Linux/Unix, MS-Windows, and OS X all use slightly different characters to indicate the end of a line and this can cause problems with some tools. As a general rule, it is safest to use the Linux/Unix standard.
+
+You can instruct jGRASP to use the Unix format when you save a file by clicking on <key>File</key>+<key>Save as</key> and then selecting "Binary/Unix" under "Format".
+
+
+==== Cleaning-Up Indenting ====
+
+
+jGRASP does not have a command that re-indents code, but you can trick it into doing so.
+
+
+  - Click on  <key>View</key>+<key>Generate CSD</key> (or the {{student:jgrasp:jgrasp-viewcsd.png}} button).
+  - Click on  <key>View</key>+<key>Remove CSD</key> (or the {{student:jgrasp:jgrasp-removecsd.png}} button).
+
+
+==== Using Checkstyle ====
 
 
 
@@ -55,14 +73,11 @@ You must exit and re-start jGRASP for the change to take effect.
 In jGRASP, click on <key>Tools</key>, pull down to <key>Checkstyle</key> and over to <key>Check File</key> (or click on {{student:jgrasp:jgrasp-RunCheckstyleOnFile.png}}).
 
 
-==== Cleaning-Up Indenting ====
+=== Correcting "File Must End in a Newline" Defects ===
+
+Most styleguides require that files end in a newline character. So, it is important to use the Linux/Unix [[ #Setting the End of Line Character | end of line character. ]]
 
 
-jGRASP does not have a command that re-indents code, but you can trick it into doing so.
-
-
-  - Click on  <key>View</key>+<key>Generate CSD</key> (or the {{student:jgrasp:jgrasp-viewcsd.png}} button).
-  - Click on  <key>View</key>+<key>Remove CSD</key> (or the {{student:jgrasp:jgrasp-removecsd.png}} button).
 
 ==== Using JUnit with jGRASP ====
 
