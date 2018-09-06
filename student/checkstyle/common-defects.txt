@@ -1,3 +1,3 @@
 ===== Common Checkstyle Defects =====
 
-  * File Must End in a Newline Character - Make sure that you are using the Linux/Unix end of line character (i.e., ''%%\n%%'') as opposed to the MS-Windows characters (i.e., ''%%\n\r%%'') or the OS X character (i.e., ''%%\r%%'').
+  * File does not end with a newline - Make sure that you are using the Linux/Unix end of line character (i.e., ''%%\n%%'') as opposed to the MS-Windows characters (i.e., ''%%\n\r%%'') or the OS X character (i.e., ''%%\r%%'').
