@@ -73,7 +73,7 @@ You must exit and re-start jGRASP for the change to take effect.
 In jGRASP, click on <key>Tools</key>, pull down to <key>Checkstyle</key> and over to <key>Check File</key> (or click on {{student:jgrasp:jgrasp-RunCheckstyleOnFile.png}}).
 
 
-=== Correcting "File Must End in a Newline" Defects ===
+=== Correcting "File does not end with a newline" Defects ===
 
 Most styleguides require that files end in a newline character. So, it is important to use the Linux/Unix [[ #Setting the End of Line Character | end of line character. ]]
 
