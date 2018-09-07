@@ -1,3 +1,34 @@
 ===== Common Checkstyle Defects =====
 
-  * File does not end with a newline - Make sure that you are using the Linux/Unix end of line character (i.e., ''%%\n%%'') as opposed to the MS-Windows characters (i.e., ''%%\n\r%%'') or the OS X character (i.e., ''%%\r%%'').
+**Incorrect indentation level M, expected N. [Indentation]**\\
+The statement is currently indented M spaces when it should be indented N spaces.
+
+**Missing a Javadoc comment [Javadoc Type]**\\
+Make sure your code has all of the necessary block comments and that each block comment has all of the necessary elements. See the Javadoc Help Page for more information.
+
+**'{' at column 1 should be on the previous line. [LeftCurly]**\\
+Move the opening curly-bracket to the end of the previous line. Make sure that there is a space before the curly-bracket.
+
+**Line is longer than 80 characters (found XXX). [LineLength]**\\
+Split the statement, which is currently XXX cgharacters long, into multiple lines. Be careful to indent subsequent lines appropriately and to split the statement so that subsequent lines begin with an operator.
+
+**Name 'XXXX' must match pattern '^[a-z][a-zA-Z0-9]*$'. [LocalVariableName]**\\
+Variable/attribute names must start with a lowercase letter, and contain only letters and numerals. 'XXXX' denotes the variable/attribute in question.
+
+**Name 'XXXX' must match pattern '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'. [LocalFinalVariableName]**\\
+"Constants" must be in all uppercase, and there must be an underscore character at word boundaries. 'XXXX' denotes the "constant" in question.
+
+**File does not end with a newline. [NewlineAtEndOfFile]**\\
+There must be a newline character at the end of every file. Move the cursor to the last character in the file and press Enter. Then, make sure that there are no other characters on the last line - the absolute last character must be a newline.
+
+**'X' should be on a new line. [OperatorWrap]**\\
+This is usually becase a long line was split and the operator, denoted by 'X', is at the end of a line rather than the beginning of the next one.
+
+**Unnecessary parentheses around assignment right-hand side. [UnnecessaryParentheses]**\\
+The expression on the right-hand side of an assignment operator has unnecessary parentheses that must be removed. For example, x = (x + 1); must be x = x + 1;.
+
+**'X' is not preceded with whitespace. [WhitespaceAround]**\\
+There must be a space before the operator (where 'X' denotes the operator in question).
+
+**'X' is not followed by whitespace. [WhitespaceAround]**\\
+There must be a space after the operator (where 'X' denotes the operator in question). 
