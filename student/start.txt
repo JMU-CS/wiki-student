@@ -21,6 +21,7 @@
   * [[student:stu:start | stu ]]
   * [[student:typographic-conventions:start | Typographic Conventions ]]
   * [[student:visualparadigm:start | VisualParadigm ]]
+  * [[student:VPN:start | VPN ]]
   * [[student:webcat:start | Web-CAT ]]
   * [[student:wireless:start | Wireless ]]
   * [[student:xml:start | XML ]]
