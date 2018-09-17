@@ -2,5 +2,5 @@
 
   - [[ student:visualparadigm:tips | Tips and Tricks ]]
 
-<!-- NOTE: The following paragraph is a requirement of our licensing agreement with Visual Paradigm -->
+/* NOTE: The following paragraph is a requirement of our licensing agreement with Visual Paradigm */
 Through the [[ https://www.visual-paradigm.com/partner/academic/ | Academic Partner Program ]], James Madison University is granted license for modeling software - [[ https://www.visual-paradigm.com/ | Visual Paradigm ]] for educational use.
