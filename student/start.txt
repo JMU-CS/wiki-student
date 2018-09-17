@@ -1,5 +1,9 @@
 ===== Information for Students =====
 
+==== TA Office Hours Fall 2018 ====
+
+{{:student:img_8339.jpg?nolink&800|}}
+
 ==== Topics ====
 
   * [[student:autolab:start | Autolab ]]
