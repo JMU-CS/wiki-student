@@ -1,8 +1,14 @@
 ===== Information for Students =====
 
-==== TA Office Hours Fall 2018 ====
+==== TA Hours ====
 
-{{:student:img_8339.jpg?nolink&800|}}
+The computer labs in ISAT/CS 248 and 250 are open Mon-Thu 5:00-11:00pm and Sun 1:00-11:00pm.
+If you go during those times, you can get help from a teaching assistant (TA).
+There are usually 3-4 TAs in the labs at any given time period.
+
+{{:student:ta-fa18.pdf|Fall 2018 TA Schedule}}
+
+{{:student:ta-fa18.png?200|}} 
 
 ==== Topics ====
 
