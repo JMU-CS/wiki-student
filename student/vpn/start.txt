@@ -1,9 +1,8 @@
 ====== For Windows and Mac ======
 
-Please go here for the download and instructions on the client (You'll need to authenticate with your e-ID): https://www.jmu.edu/computing/sslvpn/junospulse.shtml
+Please go here for the download and instructions on the client https://www.jmu.edu/computing/network/pulse-secure.shtml
 
 ====== For Linux ======
-
 
 These instructions assume an Ubuntu/Linux Mint installation. Much of it should apply to any Linux, however.
 
