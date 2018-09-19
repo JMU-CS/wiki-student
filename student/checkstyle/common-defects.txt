@@ -19,7 +19,7 @@ Variable/attribute names must start with a lowercase letter, and contain only le
 "Constants" must be in all uppercase, and there must be an underscore character at word boundaries. 'XXXX' denotes the "constant" in question.
 
 **File does not end with a newline. [NewlineAtEndOfFile]**\\
-There must be a newline character at the end of every file. Move the cursor to the last character in the file and press Enter. Then, make sure that there are no other characters on the last line - the absolute last character must be a newline.
+There must be a newline character at the end of every file. Move the cursor to the last character in the file and press Enter. Then, make sure that there are no other characters on the last line - the absolute last character must be a newline. Finally, make sure that your editor/IDE is using the appropriate end of line character.
 
 **'X' should be on a new line. [OperatorWrap]**\\
 This is usually becase a long line was split and the operator, denoted by 'X', is at the end of a line rather than the beginning of the next one.
