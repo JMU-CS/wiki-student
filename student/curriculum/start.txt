@@ -19,7 +19,7 @@ major or minor is granted as described below.
 
 The easiest way to see the prerequisite structure is to view the 
 [[https://wiki.cs.jmu.edu/_media/student/curriculum/prereqfigure.pdf|prerequisite tree]], but you can also view the 
-[[https://wiki.cs.jmu.edu/_media/student/curriculum/prereqfigure.pdf|prerequisite tree]].
+[[https://wiki.cs.jmu.edu/_media/student/curriculum/prereqtable.pdf|prerequisite table]].
 
 ==== Anticipated Course Offerings ====
 
