@@ -4,6 +4,8 @@ JMU IT has instructions for connecting to the ''JMU-Official-Wireless'' network 
 
 If you're running Linux, you might need to set things up manually. For example, on Linux Mint 19 you need to click the "Connect to Hidden Network..." button. Here are the settings:
 
+==== JMU-Official-Wireless ====
+
   * **SSID:** JMU-Official-Wireless
   * **Wireless security:** WPA & WPA2 Enterprise
   * **Authentication:** Protected EAP (PEAP)
@@ -13,3 +15,19 @@ If you're running Linux, you might need to set things up manually. For example, 
   * **Inner authentication:** MSCHAPv2
   * **Username:** <your JMU e-ID>
   * **Password:** <your JMU password>
+
+==== eduroam ====
+
+For a more automated connection setup, you can use the ''eduroam'' SSID and the [[https://cat.eduroam.org|eduroam CAT tool]]. Read the [[http://www.jmu.edu/computing/network/eduroam.shtml|JMU IT webpage]] for eduroam. 
+
+  - Go to [[https://cat.eduroam.org]]
+  - Choose 'James Madison University'
+  - Download the Linux Installer
+  - Run the Python script that you receive
+  - Click **Ok**
+  - Click **Yes**
+  - Enter ''eID@jmu.edu'' where ''eID'' is your JMU e-ID.
+  - Enter your JMU e-ID password
+  - You may need to tell Mint to attempt to connect to eduroam
+
+You will need to re-run this every time your password updates. 
