@@ -1,6 +1,6 @@
 ===== Wireless =====
 
-JMU IT has instructions for connecting to the ''JMU-Official-Wireless'' network from macOS and Windows here: [[http://www.jmu.edu/computing/desktop/wireless/]]
+JMU IT has instructions for connecting to the ''JMU-Official-Wireless'' network from macOS and Windows here: [[http://www.jmu.edu/computing/network/wireless-guide-generic.shtml]]
 
 If you're running Linux, you might need to set things up manually. For example, on Linux Mint 19 you need to click the "Connect to Hidden Network..." button. Here are the settings:
 
