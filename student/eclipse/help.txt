@@ -126,6 +126,8 @@ You will sometimes be given the byte code (i.e., the ''%%.class%%'' files) for c
   - Complete the rest of the process.
   - You may need to close and re-open the project for the files to be found.
 
+Remember, if you only have the byte code, you will not be able to edit these "third party" classes, but you will be able to use them in your source code.
+
 ==== Editing ====
 
 
