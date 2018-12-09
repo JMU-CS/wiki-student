@@ -110,6 +110,6 @@ More information is available from several sources on many topics, including:
 
   * [[ https://docs.oracle.com/javase/tutorial/i18n/ | Localization/Internationalization in Java ]]
   * [[ http://www.oracle.com/technetwork/articles/javase/locale-140624.html | 
-  Understanding ''%%Locale%%'' ]]
+  Understanding Locale ]]
   * [[ https://docs.oracle.com/javase/tutorial/i18n/text/shapedDigits.html | 
   Using Different Number-Writing Systems ]]
