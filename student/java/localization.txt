@@ -84,7 +84,7 @@ Different locales have different formatting conventions involving   numbers (e.g
 === Formatting Numbers ===
 
 
-There are versions of the ''%%printf()%%''     and ''%%format()%%'' methods in     the [[ http://docs.oracle.com/javase/9/docs/api/java/io/PrintStream.html |  java.io.PrintStream ]] class that are     a ''%%Locale%%'' object and use it to determine the     appropriate formatting for numbers. The versions that are not     passed a ''%%Locale%%'' simply call the versions that are,     passing the default ''%%Locale%%''. Hence, if one uses these     methods one need not make any special accommodations to handle     locales.
+There are versions of the ''%%printf()%%'' method in  the [[ http://docs.oracle.com/javase/9/docs/api/java/io/PrintStream.html |  java.io.PrintStream ]] class and and ''%%format()%%'' in the [[ http://docs.oracle.com/javase/9/docs/api/java/lang/String.html |  java.lang.String ]] class that are     a ''%%Locale%%'' object and use it to determine the     appropriate formatting for numbers. The versions that are not     passed a ''%%Locale%%'' simply call the versions that are,     passing the default ''%%Locale%%''. Hence, if one uses these     methods one need not make any special accommodations to handle     locales.
 
 
 There is also a [[ http://docs.oracle.com/javase/9/docs/api/java/text/NumberFormat.html |  java.text.NumberFormat ]] class     that provides even more flexibility, though it is less convenient.
