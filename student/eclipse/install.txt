@@ -24,14 +24,14 @@ Since you may customize Eclipse differently for different courses, you should ma
 If your course has a formatter, you should install it. (Note: You can use one formatter for all of your projects or you can use different formatters for different projects. If you need to use a different formatter for different projects, you will need to customize each project individually.)
 
 
-- If you have not already done so, download the formatter to an appropriate location on your local file system.
-- If you have not already done so, start Eclipse.
-- Click on <key>Preferences</key> (which will either be under <key>Window</key> or <key>Eclipse</key> depending on your OS)
-- Expand the appropriate "//Language//" (e.g., "Java"), expand "Code Style" and select "Formatter".
-- Click on <key>Import...</key> and navigate to the ''%%.xml%%'' file you downloaded.
-- Click on <key>OK</key>.
-- Select the appropriate "Active profile".
-- Click on <key>OK</key>.
+  - If you have not already done so, download the formatter to an appropriate location on your local file system.
+  - If you have not already done so, start Eclipse.
+  - Click on <key>Preferences</key> (which will either be under <key>Window</key> or <key>Eclipse</key> depending on your OS)
+  - Expand the appropriate "//Language//" (e.g., "Java"), expand "Code Style" and select "Formatter".
+  - Click on <key>Import...</key> and navigate to the ''%%.xml%%'' file you downloaded.
+  - Click on <key>OK</key>.
+  - Select the appropriate "Active profile".
+  - Click on <key>OK</key>.
 
 ==== Install and Use a Custom Checks Configuration File ====
 
@@ -54,10 +54,10 @@ If your course has a checks configuration file for Checkstyle, you should instal
 
 If your course has a custom code template, you should install it. (Note: You can use one template for all of your projects or you can use different templates for different projects. If you need to use a different template for different projects, you will need to customize each project individually.) 
 
-- If you have not already done so, download the code template an appropriate location on your local file system.
-- If you have not already done so, start Eclipse.
-- Click on <key>Preferences</key> (which will either be under <key>Window</key> or <key>Eclipse</key> depending on your OS)
-- Expand the appropriate "//Language//" (e.g., "Java"), expand "Code Style" and select "Code Templates".
-- Click on <key>Import...</key> and navigate to the ''%%.xml%%'' file you downloaded.
-- Click on <key>OK</key>.
-- Click on <key>OK</key>.
+  - If you have not already done so, download the code template an appropriate location on your local file system.
+  - If you have not already done so, start Eclipse.
+  - Click on <key>Preferences</key> (which will either be under <key>Window</key> or <key>Eclipse</key> depending on your OS)
+  - Expand the appropriate "//Language//" (e.g., "Java"), expand "Code Style" and select "Code Templates".
+  - Click on <key>Import...</key> and navigate to the ''%%.xml%%'' file you downloaded.
+  - Click on <key>OK</key>.
+  - Click on <key>OK</key>.
