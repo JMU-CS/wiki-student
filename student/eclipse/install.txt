@@ -37,18 +37,18 @@ If your course has a formatter, you should install it. (Note: You can use one fo
 
 If your course has a checks configuration file for Checkstyle, you should install the Checkstyle Plugin and then load the checks configuration file.(Note: You can use one checks configuration file for all of your projects or you can use different configurations for different projects. If you need to use a different different configuration for different projects, you will need to customize each project individually.)
 
-- If you have not already done so, download the checks configuration file to an appropriate location on your local file system.
-- If you have not already done so, start Eclipse.
-- If you have not already done so, install the Checkstyle plugin.
-- Click on <key>Preferences</key> (which will either be under <key>Window</key> or <key>Eclipse</key> depending on your OS)
-- Click on "Checkstyle".
-- Click on <key>New...</key>.
-- Select "External Configuration File", click on <key>Browse...</key>, and navigate to the ''%%.xml%%'' file you downloaded.
-- Enter a "Name" (e.g., "CS345StyleGuide").
-- Click on <key>OK</key>.
-- Select the appropriate configuration file.
-- Click on <key>Set as Default</key>.
-- Click on <key>OK</key>.
+  - If you have not already done so, download the checks configuration file to an appropriate location on your local file system.
+  - If you have not already done so, start Eclipse.
+  - If you have not already done so, [[ student:eclipse:checkstyle | install the Checkstyle plugin ]].
+  - Click on <key>Preferences</key> (which will either be under <key>Window</key> or <key>Eclipse</key> depending on your OS)
+  - Click on "Checkstyle".
+  - Click on <key>New...</key>.
+  - Select "External Configuration File", click on <key>Browse...</key>, and navigate to the ''%%.xml%%'' file you downloaded.
+  - Enter a "Name" (e.g., "CS999StyleGuide").
+  - Click on <key>OK</key>.
+  - Select the appropriate configuration file.
+  - Click on <key>Set as Default</key>.
+  - Click on <key>OK</key>.
 
 ==== Install and Use a Custom Code Template ====
 
