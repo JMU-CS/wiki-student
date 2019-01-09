@@ -310,9 +310,24 @@ Remember that if your application uses resources you must load them "properly" o
 
 To create HTML documentation:
 
-
   - Click on <key>File</key>-<key>Export</key>   and expand "Java".
   - Select "Javadoc" and click on   <key>Next</key>.   
   - If the "Javadoc command:" field is empty, click on   <key>Configure</key> and navigate to the ''%%bin%%''   directory for the Java Development Kit (JDK).
   - Enter the "Destination:".
   - Click on <key>Finish</key>.
+
+
+
+=== Adding Annotation Processing ===
+
+It is relatively to add a custom own annotation processor to an Eclipse project.
+
+  - Create a ''.jar'' file that contains the annotation(s), the class that implements the ''Processor'' interface (usually by extending ''AbstractProcessor''), and any supporting classes.
+  - Right-click on the project and select <key>Properties</key>.
+  - Navigate to <key>Java Compiler</key>-<key>Annotation Processing</key> and check "Enable annotation processing".
+  - Navigate to <key>Java Compiler</key>-<key>Annotation Processing</key>-<key>Factory Path</key>, check "Enable project specific settings", and add your ''.jar'' file to the list.
+  - Clean and build the project.
+
+If you use the ''Messager'' that is passed to the ''init()'' method of your ''Processor'', Eclipse will display your output within the editor. If you send output to the console, it will display it there.
+
+
