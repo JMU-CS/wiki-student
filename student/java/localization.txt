@@ -25,12 +25,14 @@ When the Java Virtual Machine is started it determines   the ''%%Locale%%'' of t
 ==== Changing the Locale ====
 
 
-The Java Virtual Machine can be provided with the information is   should use to identify the ''%%Locale%%'' when it is started   using the ''%%-Duser.country%%''   and ''%%-Duser.language%%'' options. For example, when   executing an application named ''%%Test%%'' in the United   States one could tell the JVM to use the ''%%Locale%%'' for   Canadian French as follows:
-
+The Java Virtual Machine can be provided with the information is   should use to identify the ''%%Locale%%'' when it is started   using the ''%%-Duser.country%%''   and ''%%-Duser.language%%'' options. For example, when   executing an application named ''%%Test%%'' in the United   States one could tell the JVM to use the ''%%Locale%%'' for  Canadian French using the following virtual machine (VM) options:
 
 <code>
-java -Duser.country=CA -Duser.language=fr Test
+-Duser.country=CA -Duser.language=fr
 </code>
+
+They can be passed to the VM from the command line when executing the ''%%java%%'' command. All IDEs also have a way of passing options to the VM (e.g., in Eclipse as part of the "Run Configuration"; in jGRASP as "RUN Arguments").
+
 
 It is also possible to change the ''%%Locale%%'' inside of a   program using   the [[ http://docs.oracle.com/javase/9/docs/api/java/util/Locale.html#setDefault(java.util.Locale) |  java.util.Locale#setDefault(java.util.Locale) ]]   method.
 
