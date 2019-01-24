@@ -297,7 +297,7 @@ Though it is possible to create an executable/runnable ''%%.jar%%'' using the wi
 
   - Click on <key>File</key>-<key>Export</key>   and expand "Java".
   - Select the "JAR File" wizard and click on   <key>Next</key>.
-  - In the "Select the resources to export" tree, select the   appropriate packages and the appropriate resource   directories/folders. **Note that the ''%%.jar%%'' file   will include a directory/folder containing the resources.   You will need to take this into account when loading resources   withing the program (i.e., you will need to include the directory   in the path). See the section on [[ student:javaresources | using resources ]]**
+  - In the "Select the resources to export" tree, select the   appropriate packages and the appropriate resource   directories/folders. **Note that the ''%%.jar%%'' file   will include a directory/folder containing the resources.   You will need to take this into account when loading resources   withing the program (i.e., you will need to include the directory   in the path). See the section on [[ student:java:resources | using resources ]]**
   - Deselect the Eclipse-related files (e.g., ''%%.classpath%%'',   ''%%.project%%'').
   - Select **only**   "Export generated class files and resources" and   "Compress the contents of the JAR file".
   - Enter the name of the "JAR file:".
