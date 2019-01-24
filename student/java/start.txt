@@ -4,5 +4,6 @@
   - [[ student:java:jar | .jar Files (i.e., Java Archives) ]]
   - [[ student:java:javadoc | javadocs ]]
   - [[ student:java:localization | Localization ]]
+  - [[ student:java:loookandfeel | Look and Feel ]]
   - [[ student:java:profiling | Profiling ]]
   - [[ student:java:resources | Using Resources ]]
