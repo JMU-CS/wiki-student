@@ -91,13 +91,19 @@ There are many ways to create files and add them to a project. The easiest is:
 
 === Adding Data Files (and Other Resources) to a Project ===
 
-
 Adding data files (and other resources like images) to a project can be a little tricky because of the way Eclipse organizes and executes code (i.e., the ''%%.java%%'' files are kept in the project's ''%%src%%'' directory, the ''%%.class%%'' files are kept in and loaded from the project's ''%%bin%%'' directory, and the interpreter is run from the project directory (with the classpath set to include the ''%%bin%%'' directory).
 
+==== For Beginners ====
 
-In most cases, the easiest thing to do is paste (or drag) the files into the project (not the ''%%src%%'' directory/folder) using Eclipse. (Note: If you use another file system utility to put the files in the project directory they will be accessible to the program when you execute it but not visible within Eclipse).
+For beginners, the easiest thing to do is paste (or drag) the files into the project (not the ''%%src%%'' directory/folder) using Eclipse. (Note: If you use another file system utility to put the files in the project directory they will be accessible to the program when you execute it but not visible within Eclipse).
 
-In some cases, you may instead need to first add a directory/folder (commonly named ''%%resources%%'', though it isn't required) to the project that will hold the resources (<key>New</key>+<key>Folder</key>), copy the resources to this directory/folder, and then modify the run configuration so that **they are copied to the ''%%bin%%'' directory at runtime** (click on <key>Run</key>+<key>Run Configurations</key>+ <key>Classpath</key>, select "User Entries", click on <key>Advanced</key>+<key>Add Folders</key>, and select the directory). 
+
+==== The More Maintainable Approach ====
+
+The more maintainable (and generally accepted) approach is to keep resources in their own directory/directories under a top-level directory named ''%%resources%%''. In order to ensure that Eclipse copies this files to ''%%bin%%'' directory, one has to be careful when creating the ''%%resources%%'' directory. There are two common ways to do so. Either click on <key>New</key>+<key>Source Folder</key> or click on <key>Build Path</key>+<key>New Source Folder</key>. This will create a directory with whatever name you give it at the same level as the ''%%src%%'' directory and instruct Eclipse to copy it when needed. You can then copy the projects resources into this directory (or sub-directories).
+
+Note that **if you create an "ordinary" folder (i.e., not a source folder), it will not be copied to the appropriate locations at the appropriate times**.
+
 
 
 === Adding Existing Source Files to a Project ===
