@@ -24,6 +24,8 @@ ImageIcon icon = new ImageIcon(url);
 
 ==== Resource Bundles ====
 
+The static ''%%getBundle()%%'' method in the ''%%ResourceBundle%%'' class can be passed a ''%%ClassLoader%%'' that it will use to locate the resources.  For example, if you want to get the  ''%%ResourceBundle%%'' with the prefix ''%%Strings%%'' that is  in the **top-level directory containing the class of the object referred to by ''%%this%%''** then  you would do the following:
+
 <code java>
 ResourceBundle strings;
 strings = ResourceBundle.getBundle("Strings", Locale.getDefault(), this.getClass().getClassLoader());
