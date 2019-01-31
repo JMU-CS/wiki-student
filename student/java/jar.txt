@@ -7,10 +7,7 @@
 ==== Overview ====
 
 
-The ''%%jar%%'' tool can be used to bundle multiple files into  a single file.  JAR files typiclaly contain the class files and  resources (e.g., images) required by an application.
-
-
-Resources in a JAR file can be accessed from the application using  a java.net.URL object created using the  java.lang.Class#getResource(java.lang.String)  method or the  java.lang.Class#getResourceAsStream(java.lang.String)  method or the  in the ''%%Class%%'' class.
+The ''%%jar%%'' tool can be used to bundle multiple files into  a single file.  JAR files typically contain the class files and  resources (e.g., images) required by an application.
 
 
 ==== Viewing the Contents of a JAR File ====
