@@ -100,7 +100,7 @@ For beginners, the easiest thing to do is paste (or drag) the files into the pro
 
 == The More Maintainable Approach ==
 
-The more maintainable (and generally accepted) approach is to keep resources in their own directory/directories under a top-level directory named ''%%resources%%''. In order to ensure that Eclipse copies this files to ''%%bin%%'' directory, one has to be careful when creating the ''%%resources%%'' directory. There are two common ways to do so. Either click on <key>New</key>+<key>Source Folder</key> or click on <key>Build Path</key>+<key>New Source Folder</key>. This will create a directory with whatever name you give it at the same level as the ''%%src%%'' directory and instruct Eclipse to copy it when needed. You can then copy the projects resources into this directory (or sub-directories).
+The more maintainable (and generally accepted) approach is to keep resources in their own directory/directories under a top-level directory named ''%%resources%%''. In order to ensure that Eclipse copies this files to ''%%bin%%'' directory, one has to be careful when creating the ''%%resources%%'' directory. There are two common ways to do so. Either click on <key>New</key>+<key>Source Folder</key> or click on <key>Build Path</key>+<key>New Source Folder</key>. This will create a directory with whatever name you give it at the same level as the ''%%src%%'' directory and instruct Eclipse to copy it to the appropriate **top-level directory** (not a directory named ''%%resources%%'') when needed. You can then copy the projects resources into this directory (or sub-directories).
 
 Note that **if you create an "ordinary" folder (i.e., not a source folder), it will not be copied to the appropriate locations at the appropriate times**.
 
