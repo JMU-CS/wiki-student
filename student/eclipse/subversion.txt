@@ -113,8 +113,7 @@ One way is to:
   - If you are not already, use the SVN perspective by clicking on <key>Window</key>-<key>Open Perspective</key>-<key>Other</key>, selecting "SVN Repository Exploring", and clicking on <key>OK</key>.
   - Right-click on the appropriate repository.
   - Pull down to "Find/Check Out As...".
-  - Check "Check out as a project configured using the New Project Wizard" and create the approrpiate kind of
-project.
+  - Check "Check out as a project configured using the New Project Wizard" and create the appropriate kind of project.
 
 Another way is to:
 
@@ -127,7 +126,7 @@ Another way is to:
 === Add a Project to an Existing Repository ===
 
 To add a project to an existing repository:
-  
+
   - Right-click on the appropriate project.
   - Pull down to "Team" and over to "Share Project...".
   - When the dialog box appears, select the appropriate repository type (i.e., SVN) and click on  <key>Next</key>.
@@ -140,20 +139,19 @@ When the SVN window appears, enter a commit comment (like "Initial Commit") and 
 
 === Add a File to Version Control ===
 
-
 To add a file to version control:
-  
- - Right-click on the appropriate file.
- - Pull down to "Team", over to "Add to Version Control" and click <key>OK</key>.
+
+  - Right-click on the appropriate file.
+  - Pull down to "Team", over to "Add to Version Control" and click <key>OK</key>.
   
 
 === Update ===
 
 
 To update your local working copy (from the repository):
-  
- - Right-click on the appropriate folder/file.
- - Pull down to "Team" and then to "Update".
+
+  - Right-click on the appropriate folder/file.
+  - Pull down to "Team" and then to "Update".
 
 == Viewing/Resolving Conflicts ==
 
@@ -165,15 +163,15 @@ unresolved conflicts".
 
 You can see the conflicts in several different ways:
 
- * Look at the text included in the working copy.
- * Compare "Base from Working Copy".
- * Use the "Team Synchronizing" perspective.
+  * Look at the text included in the working copy.
+  * Compare "Base from Working Copy".
+  * Use the "Team Synchronizing" perspective.
  
 After you make the appropriate changes and save the file(s):
 
- - Right-click on the file(s).
- - Pull down to <key>Team</key>-<key>Mark as Merged</key> (to inform Eclipse to remove the conflict icon and to inform Subversive that it should allow the commit.
- - Perform the commit.
+  - Right-click on the file(s).
+  - Pull down to <key>Team</key>-<key>Mark as Merged</key> (to inform Eclipse to remove the conflict icon and to inform Subversive that it should allow the commit.
+  - Perform the commit.
 
 You might also be interested in the video at
 [[ https://www.youtube.com/watch?v=7MB6T9ewidI | https://www.youtube.com/watch?v=7MB6T9ewidI ]]
@@ -182,10 +180,10 @@ You might also be interested in the video at
 
 
 To commit changes (to the repository):
-  
- - Right-click on the appropriate folder/file.
- - Pull down to "Team" and then to "Commit".
- - In the "Commit" window, Enter a descriptive comment and click <key>OK</key>.
+
+  - Right-click on the appropriate folder/file.
+  - Pull down to "Team" and then to "Commit".
+  - In the "Commit" window, Enter a descriptive comment and click <key>OK</key>.
   
 Note: Remember to follow the appropriate process when committing changes.
 That is, perform an update before the commit (and resolve any conflicts,
@@ -196,17 +194,17 @@ if necessary).
 
 
 To execute other SVN commands:
-  
- - Right-click on the appropriate folder/file.
- - Pull down "Team" and then to the command of interest.
+
+  - Right-click on the appropriate folder/file.
+  - Pull down "Team" and then to the command of interest.
 
 === Compare Versions of a File (i.e., diff) ===
 
 
 To compare different versions of the same file:
-  
- - Right-click on the appropriate file.
- - Pull down to "Compare with..." and over to the appropriate version.
+
+  - Right-click on the appropriate file.
+  - Pull down to "Compare with..." and over to the appropriate version.
 
 For example, to see if anybody else has committed changes to
 a file you are working on choose "Latest from repository".
@@ -229,9 +227,9 @@ file and the second person to commit needs to overwrite all of the
 changes that were made by the first person to commit. Obviously,
 the second person should carefully compare the two versions before
 taking this action, but if it is necessary, the second person can:
-  
- - Right-click on the appropriate folder/file.
- - Pull down to "Team" and then to "Mark as Merged".
+
+  - Right-click on the appropriate folder/file.
+  - Pull down to "Team" and then to "Mark as Merged".
 
 and then commit the folder/file.
 
@@ -240,7 +238,7 @@ and then commit the folder/file.
 
 If you are issuing SVN commands frequently, you may want to add
 buttons to the toolbar. To do so:
-  
+
   - Click on <key>Window</key>-<key>Perspective</key>-<key>Customize Perspective</key>.
   - Select the "Action Set Availability" tab and select "SVN".
   - Click on the "Tool Bar Availability" tab and select "SVN" (and everything underneath it, if necessary).
@@ -265,10 +263,11 @@ you access to many common SVN commands.
 === Commands in Subversion vs. Subversive ===
 
 
-The following Subversion commands would normally be preceeded by
+The following Subversion commands would normally be preceded by
 ''%%svn%%'' and the Subversive commands would be initiated by
 right-clicking on the file/folder.
 
+^ SVN Command ^ Subversive ^
 | ''%%add%%'' | <key>Team</key>-<key>Add to version Control...</key> |
 | ''%%checkout%%'' | <key>Import</key> |
 | ''%%commit%%'' | <key>Team</key>-<key>Commit</key> |
