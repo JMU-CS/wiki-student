@@ -153,7 +153,7 @@ To update your local working copy (from the repository):
   - Right-click on the appropriate folder/file.
   - Pull down to "Team" and then to "Update".
 
-== Viewing/Resolving Conflicts ==
+=== Viewing/Resolving Conflicts ===
 
 
 If you have any conflicts, when you perform an update
