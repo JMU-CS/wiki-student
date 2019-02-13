@@ -105,10 +105,7 @@ in the //Language// Perspective/Package Explorer).
 
 **Assuming you have already added one or more repository locations to
 Subversive**, you can check-out a repository for the first time and 
-create a local/working copy in a few ways.
-
-
-One way is to:
+create a local/working copy in a few ways. One way is to:
 
   - If you are not already, use the SVN perspective by clicking on <key>Window</key>-<key>Open Perspective</key>-<key>Other</key>, selecting "SVN Repository Exploring", and clicking on <key>OK</key>.
   - Right-click on the appropriate repository.
@@ -158,10 +155,7 @@ To update your local working copy (from the repository):
 
 If you have any conflicts, when you perform an update
 you will get a message like "One or more selected resources have 
-unresolved conflicts".
-
-
-You can see the conflicts in several different ways:
+unresolved conflicts". You can see the conflicts in several different ways:
 
   * Look at the text included in the working copy.
   * Compare "Base from Working Copy".
@@ -178,7 +172,6 @@ You might also be interested in the video at
 
 === Commit ===
 
-
 To commit changes (to the repository):
 
   - Right-click on the appropriate folder/file.
@@ -192,14 +185,12 @@ if necessary).
 
 === Other SVN Commands ===
 
-
 To execute other SVN commands:
 
   - Right-click on the appropriate folder/file.
   - Pull down "Team" and then to the command of interest.
 
 === Compare Versions of a File (i.e., diff) ===
-
 
 To compare different versions of the same file:
 
@@ -220,7 +211,6 @@ icons to move between the differences.
   
 
 === Overwriting a Previously Committed Change ===
-
 
 Sometimes two people have made conflicting changes to the same
 file and the second person to commit needs to overwrite all of the
@@ -254,7 +244,6 @@ access it click on
 <key>Window</key>-<key>Open Perspective</key> and then find the
 <key>Team Synchronizing</key> perspective (which may be under 
 <key>Other...</key>.
-
 
 Right-clicking on a folder/file in this perspective will give
 you access to many common SVN commands.
