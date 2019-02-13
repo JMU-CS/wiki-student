@@ -70,3 +70,254 @@ Some Subversions Repository Servers use ''%%http%%'' (or ''%%https%%'') as the c
   - After the dialog box opens, on the "General" tab enter the URL         in the "URL:" field and your JMU authentication information         (i.e., your JMU eID and password) in the "User:" and         "Password:" fields.  (Note: If you also select <key>Save         authentication</key> information you will not be prompted         for it in the future but you will be asked to create a master         Eclipse password if you have not done so already. Of course, you         should not save your authentication information if you are         using a "public" machine/account.)         
   - On the "SSH Settings" tab, select <key>Password</key>.
   - Click <key>Finish</key>.
+
+
+
+==== Using Subversive ====
+
+
+The Subversive plugin enables you to execute SVN commands from within
+Eclipse.
+
+
+In general, you should use the //Language// (e.g., Java) 
+Browsing Perspective when working on
+a project. The SVN Repository Exploring Perspective and Team
+Synchronizing Perspective, while useful, can be confusing because
+they provide information about the repository not about the (local
+copy of the) project which is your real concern.
+
+Also, remember that adding a file to a project does not necessarily
+add the file to version control. That is, you sometimes want to add
+files to a project and not put them in the repository. Hence, when you
+add a file to a project, if you want it to be under version control
+you will need to manually add it to version control (see below). The
+//Language// Perspective will put a ? icon on files that aren't under version
+control and a cylinder icon on files that are.  A file that has been
+changed (and saved) locally but not committed will have a > character to the
+left of its name. A file that has been changed but not saved locally will have
+an * character before it's name in the file tab (there will be no indicator
+in the //Language// Perspective/Package Explorer).
+
+
+=== Check-Out ===
+
+**Assuming you have already added one or more repository locations to
+Subversive**, you can check-out a repository for the first time and 
+create a local/working copy in a few ways.
+
+    
+    One way is to:
+    
+  - If you are not already, use the SVN perspective by
+            clicking on <key>Window</key>-<key>Open
+            Perspective</key>-<key>Other</key>, selecting "SVN
+            Repository Exploring", and clicking on <key>OK</key>.
+            
+  - Right-click on the appropriate repository.
+           
+  - Pull down to "Find/Check Out As...".
+            
+  - Check "Check out as a project configured using the New
+            Project Wizard" and create the approrpiate kind of
+            project.
+            
+    Another way is to:
+    
+  - Click on <key>File</key>-<key>Import</key>-<key>SVN</key>-<key>Project From SVN</key>.
+            
+  - Select "Use existing repository", select the appropriate
+              repository from the list, and click <key>Next</key>.
+           
+  - Add the project name to the end of the URL (since there may
+              be more than one project in the repository) and click
+              <key>Finish</key>.
+            
+  - Check "Check out as a project with the name specified",
+              fill in the project name, and click <key>Finish</key>.
+            
+
+=== Add a Project to an Existing Repository ===
+
+    To add a project to an existing repository:
+
+      
+  - Right-click on the appropriate project.
+              
+  - Pull down to "Team" and over to "Share Project...".
+              
+  - When the dialog box appears, select the appropriate
+              repository type (i.e., SVN) and click on
+              <key>Next</key>.
+  - When the next dialog box appears, check 
+              "Use existing repository location",
+              select the appropriate location, and click <key>Next</key>.
+              
+  - Select "Simple Mode". (Note: This will make it harder to 
+              create branches but easier to use the trunk.)
+  - Click on <key>Finish</key>.
+      When the SVN window appears, enter a commit comment 
+     (like "Initial Commit") and click <key>OK</key>.
+      
+
+=== Add a File to Version Control ===
+
+
+    To add a file to version control:
+
+      
+  - Right-click on the appropriate file.
+              
+  - Pull down to "Team",
+              over to "Add to Version Control" and click <key>OK</key>.
+              
+
+=== Update ===
+
+
+    To update your local working copy (from the repository):
+
+      
+  - Right-click on the appropriate folder/file.
+              
+  - Pull down to "Team" and then to "Update".
+
+== Viewing/Resolving Conflicts ==
+
+
+    If you have any conflicts, when you perform an update
+    you will get a message like "One or more selected resources have 
+    unresolved conflicts".
+
+    
+    You can see the conflicts in several different ways:
+    
+  * Look at the text included in the working copy.
+  * Compare "Base from Working Copy".
+  * Use the "Team Synchronizing" perspective.
+    After you make the appropriate changes and save the file(s):
+    
+  - Right-click on the file(s).
+  - Pull down to <key>Team</key>-<key>Mark as Merged</key> 
+            (to inform Eclipse to remove the conflict icon and to inform 
+            Subversive that it should allow the commit.
+  - Perform the commit.
+    You might also be interested in the video at
+    [[ https://www.youtube.com/watch?v=7MB6T9ewidI | https://www.youtube.com/watch?v=7MB6T9ewidI ]]
+
+=== Commit ===
+
+
+    To commit changes (to the repository):
+
+      
+  - Right-click on the appropriate folder/file.
+              
+  - Pull down to "Team" and then to "Commit".
+  - In the "Commit" window, Enter a descriptive comment and 
+              click <key>OK</key>.
+              
+    Note: Remember to follow the appropriate process when committing changes.
+    That is, perform an update before the commit (and resolve any conflicts,
+    if necessary).
+    
+
+=== Other SVN Commands ===
+
+
+    To execute other SVN commands:
+
+      
+  - Right-click on the appropriate folder/file.
+              
+  - Pull down "Team" and then to the 
+              command of interest.
+
+=== Compare Versions of a File (i.e., diff) ===
+
+
+    To compare different versions of the same file:
+
+      
+  - Right-click on the appropriate file.
+              
+  - Pull down to "Compare with..." and over to the appropriate
+              version.
+      For example, to see if anybody else has committed changes to
+      a file you are working on choose "Latest from repository".
+      
+      You can then use the toolbar above the diff window (which looks like
+      {{eclipse_diff-toolbar.gif }} to do many useful things.
+      You can use the buttons with left/right-arrow icons 
+      to "Copy All from Left to Right",
+      "Copy All Non-Conflicting Changes from Right to Left", 
+      "Copy Current Change from Left to Right", 
+      "Copy Current Change from Right to Left", and move between 
+      differences and changes. You can use the buttons with up/down-arrow
+      icons to move between the differences.
+      
+
+=== Overwriting a Previously Committed Change ===
+
+
+    Sometimes two people have made conflicting changes to the same
+    file and the second person to commit needs to overwrite all of the
+    changes that were made by the first person to commit. Obviously,
+    the second person should carefully compare the two versions before
+    taking this action, but if it is necessary, the second person can:
+
+      
+  - Right-click on the appropriate folder/file.
+              
+  - Pull down to "Team" and then to "Mark as Merged".
+    and then commit the folder/file.
+    
+
+=== Add SVN Buttons to the Java Perspective ===
+
+
+    If you are issuing SVN commands frequently, you may want to add
+    buttons to the toolbar. To do so:
+
+      
+  - Click on <key>Window</key>-<key>Perspective</key>-<key>Customize Perspective</key>.
+  - Select the "Action Set Availability" tab and
+              select "SVN".
+  - Click on the "Tool Bar Availability" tab and select "SVN"
+              (and everything underneath it, if necessary).
+  - Click <key>OK</key>.
+      
+
+=== The Synchronize Perspective ===
+
+
+    In addition to the other perspectives, Eclipse has a
+    Synchronize Team Perspective that allows you to highlight and work
+    with the files that have been changed since your last update.  To
+    access it click on 
+    <key>Window</key>-<key>Open Perspective</key> and then find the
+    <key>Team Synchronizing</key> perspective (which may be under 
+    <key>Other...</key>.
+
+    
+    Right-clicking on a folder/file in this perspective will give
+    you access to many common SVN commands.
+    
+
+=== Commands in Subversion vs. Subversive ===
+
+
+    The following Subversion commands would normally be preceeded by
+    ''%%svn%%'' and the Subversive commands would be initiated by
+    right-clicking on the file/folder.
+
+| ''%%add%%'' | <key>Team</key>-<key>Add to version Control...</key> |
+| ''%%checkout%%'' | <key>Import</key> |
+| ''%%commit%%'' | <key>Team</key>-<key>Commit</key> |
+| ''%%delete%%'' | <key>Delete</key> |
+| ''%%diff%%'' | <key>Compare With</key> |
+| ''%%resolve%%'' | <key>Team</key>-<key>Mark as Merged</key> |
+| ''%%propset%%'' | <key>Team</key>-<key>Set Property...</key> |
+| ''%%revert%%'' | <key>Team</key>-<key>Revert</key> |
+| ''update%%'' | <key>Team</key>-<key>Update</key> |
+
