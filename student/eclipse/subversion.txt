@@ -42,6 +42,7 @@ To start the installation using a WWW browser you should:
   - Start Eclipse.
   - Start a WWW browser.
   - Navigate to ''%%http://www.eclipse.org/subversive/%%''.
+  - Click on the <key>Downloads</key> link at the top of the page.
   - Drag the "Install" icon from the WWW browser into a running Eclipse workspace.
 
 === After the Process has Started ===
