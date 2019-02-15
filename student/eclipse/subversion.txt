@@ -266,4 +266,4 @@ right-clicking on the file/folder.
 | ''%%resolve%%'' | <key>Team</key>-<key>Mark as Merged</key> |
 | ''%%propset%%'' | <key>Team</key>-<key>Set Property...</key> |
 | ''%%revert%%'' | <key>Team</key>-<key>Revert</key> |
-| ''update%%'' | <key>Team</key>-<key>Update</key> |
+| ''%%update%%'' | <key>Team</key>-<key>Update</key> |
