@@ -25,6 +25,7 @@ There are usually 3-4 TAs in the labs at any given time period.
   * [[student:mathematics:start | Mathematical Foundations ]]
   * [[student:mattermost:start | Mattermost ]]
   * [[student:utilities:start | Operating System Utilities ]]
+  * [[student:utilities:start:keypairs | SSH Key Pairs ]]
   * [[student:stu:start | stu ]]
   * [[student:typographic-conventions:start | Typographic Conventions ]]
   * [[student:visualparadigm:start | VisualParadigm ]]
