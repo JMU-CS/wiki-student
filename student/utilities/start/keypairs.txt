@@ -13,7 +13,7 @@ If you have these files then you do not need to create a key-pair.
 
 === Creating a Key-Pair ===
 
-You can create a key-pair using the ''%%ssh-keygen%%'' utility from the command shell. (In versions of MS-Windows prior to 10 you should use the PuTTY Key Generator or the MSYS/MINGW shell, instead, both of which are available for free.)
+You can create a key-pair using the ''%%ssh-keygen%%'' utility from the command shell. (In versions of MS-Windows prior to 10 you will need to use the PuTTY Key Generator or the MSYS/MINGW shell, both of which are available for free.)
 
 To do so, enter the command:
 
