@@ -12,7 +12,7 @@ Computer Science Department.
 
 You can login to "stu" using an SSH client (and the host name   ''%%stu.cs.jmu.edu%%''). All modern operating systems should come   with command-line SSH client (usually named ''%%ssh%%''). GUI SSH   clients are also available, but add little.
 
-You can avoid the need to authenticate yourself (with your eID and password) each time you login [[ using a public/private key pair | student:utilities:start:keypairs]]. This is particularly useful when using another protocol (e.g., Subversion or Git) on top of SSH.
+You can avoid the need to authenticate yourself (with your eID and password) each time you login [[ student:utilities:start:keypairs | using a public/private key pair]]. This is particularly useful when using another protocol (e.g., Subversion or Git) on top of SSH.
 
 
 ==== Transferring Files to stu ====
