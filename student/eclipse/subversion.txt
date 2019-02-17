@@ -109,9 +109,9 @@ Subversive**, you can check-out a repository for the first time and
 create a local/working copy in a few ways. One way is to:
 
   - If you are not already, use the SVN perspective by clicking on <key>Window</key>-<key>Open Perspective</key>-<key>Other</key>, selecting "SVN Repository Exploring", and clicking on <key>OK</key>.
-  - Right-click on the appropriate repository.
-  - Pull down to "Find/Check Out As...".
-  - Check "Check out as a project configured using the New Project Wizard" and create the appropriate kind of project.
+  - Expand the appropriate repository.
+  - Right-click on the appropriate project.
+  - Pull down to "Check Out".
 
 Another way is to:
 
