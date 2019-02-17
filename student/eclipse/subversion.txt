@@ -3,12 +3,12 @@
 ===== Using Subversion with Eclipse =====
 
 There are two different Eclipse plugin that integrate Subversion (SVN)
-with Eclipse, Subversive and Subclipse.
+with Eclipse, Subversive and Subclipse. They are very similar in many ways.
 
 
-==== Installing Subversive ====
+==== Installation ====
 
-There are three different ways to start the process of installing Subversive.
+There are two different ways to start the process of installing Subversive or Subclipse.
 
 
 However, before you start note that **it may be difficult to install the SVN Connector on Windows machines running Eclipse Oxygen**. If this is your current environment then you have two options - install Eclipse Neon instead or figure out how to install the connector (which is available from Polarion.com) manually. (Bug report [[ https://bugs.eclipse.org/bugs/show_bug.cgi?id=518033 |  518033 ]] may prove usefule in this regard.)
@@ -22,8 +22,8 @@ To start the installation using the Eclipse Marketplace you should:
 
   - Start Eclipse.
   - Click on <key>Help</key>-<key>Eclipse Marketplace</key>.
-  - Enter ''%%Subversive%%'' in the "Find:" textfield and click on the magnifying glass.
-  - Click on "Install" in the "Subversive" pane. (Note: There is another SVN plug-in called Subclipse that is very similar to Subversive. Make sure you select "Subversive".)
+  - Enter ''%%Subversive%%'' or ''%%Subclipse%%'' in the "Find:" textfield and click on the magnifying glass.
+  - Click on "Install".
 
 === Starting the Process with the Installer ===
 
@@ -32,27 +32,16 @@ To start the installation using the installer you should:
   - Start Eclipse.
   - Click on <key>Help</key>-<key>Install New Software</key>.
   - In the "Work with" list, select the appropriate version of Eclipse.
-  - Expand the "Collaboration" node, and select the latest version of the "Subversive SVN Team Provider".
+  - Expand the "Collaboration" node, and select the latest version of the "Subversive" or "Subclipse".
   - Click on "Next" twice.
 
-=== Starting the Process with a WWW Browser ===
 
-To start the installation using a WWW browser you should:
-
-  - Start Eclipse.
-  - Start a WWW browser.
-  - Navigate to ''%%http://www.eclipse.org/subversive/%%''.
-  - Click on the <key>Downloads</key> link at the top of the page.
-  - Drag the "Install" icon from the WWW browser into a running Eclipse workspace.
 
 === After the Process has Started ===
 
-Regardless of how you start the process, after it is started you should:
+Regardless of how you start the process, after it is completed you should restart Eclipse.
 
-  - When the dialog box appears, click on <key>Confirm</key>.
-  - When the next dialog box appears (which may take a few minutes), check "I accept..." and then click on <key>Finish</key>.
-  - Restart Eclipse.
-  - You should now be prompted to install the SVN Connectors in a dialog box.  **IF NOT, YOU MUST FORCE THIS PROCESS MANUALLY  AS FOLLOWS:** Click on <key>Preferences</key> (which may be  under <key>Windows</key> or the         main <key>Eclipse</key> menu), expand "Team", and click on   "SVN".  This should open the dialog box. If not, click         on the "SVN Connector" tab, and click on "Get Connectors...".         
+  - You may now be prompted to install the SVN Connectors in a dialog box.  **IF NOT, YOU MUST FORCE THIS PROCESS MANUALLY  AS FOLLOWS:** Click on <key>Preferences</key> (which may be  under <key>Windows</key> or the         main <key>Eclipse</key> menu), expand "Team", and click on   "SVN".  This should open the dialog box. If not, click         on the "SVN Connector" tab, and click on "Get Connectors...".         
   - Select an appropriate connector -- SVN Kit can be used on all  platforms; Native JavaHL can only be used on Windows machines that  have an ''%%ssh%%'' client. So, you should probably use SVN Kit.  (Note: ''%%stu%%'' currently supports SVN 1.9.3, so any  connector for 1.9.3 or lower should work, but you should probably         use the most recent version lower than or equal to 1.9.3.)         
   - Click on <key>Finish</key>.
   - When the the next dialog box appears click on <key>Next</key>.
@@ -65,12 +54,13 @@ Regardless of how you start the process, after it is started you should:
 Some Subversions Repository Servers use ''%%http%%'' (or ''%%https%%'') as the communications protocol. ''%%stu%%'' uses ''%%ssh%%''.
 
 
-  - Learn the URL for the repository. (It is likely to be something like         ''%%svn+ssh://stu.cs.jmu.edu/cs/students/csXXX/SSYY/teamNN %%''         where XXX corresponds to the course number, SS corresponds to         the semester [either fa or sp], YY corresponds to the year,         and NN corresponds to the team number).         
+  - Learn the URL for the repository. (It is likely to be something like ''%%svn+ssh://stu.cs.jmu.edu/cs/students/csXXX/SSYY/teamNN %%'' where XXX corresponds to the course number, SS corresponds to the semester [either fa or sp], YY corresponds to the year, and NN corresponds to the team number). **Note:** If you are using a computer (e.g., your personal computer) in which your username is not your JMU eID, you should insert ''%%eID@%%'' between ''%%//%%'' and ''%%stu%%'' (where eID denotes your JMU eID).
   - If you are not already, use the SVN perspective by clicking         on <key>Window</key>-<key>Perspective</key>-<key>Open         Perspective</key>-<key>Other</key>, selecting "SVN         Repository Exploring", and clicking on <key>OK</key>.   
   - Click on {{eclipse_new-repository-location.gif}}.
-  - After the dialog box opens, on the "General" tab enter the URL         in the "URL:" field and your JMU authentication information         (i.e., your JMU eID and password) in the "User:" and         "Password:" fields.  (Note: If you also select <key>Save         authentication</key> information you will not be prompted         for it in the future but you will be asked to create a master         Eclipse password if you have not done so already. Of course, you         should not save your authentication information if you are         using a "public" machine/account.)         
-  - On the "SSH Settings" tab, select <key>Password</key>.
-  - Click <key>Finish</key>.
+  - After the dialog box opens, enter the URL in the "URL:" field.
+  - Complete the process.
+
+Depending on the particular plugin, you may be given the opportunity to <key>Save authentication</key> information in which case you will not be prompted for it in the future (but you will be asked to create a master Eclipse password if you have not done so already). Alternatively, you can create an [[SSH key pair | student:utilities:start:keypairs ]] to avoid having to repeatedly enter authentication information. In either case, **should not save your authentication information on a "public" machine**.
 
 
 
