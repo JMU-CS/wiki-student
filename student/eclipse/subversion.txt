@@ -60,7 +60,7 @@ Some Subversions Repository Servers use ''%%http%%'' (or ''%%https%%'') as the c
   - After the dialog box opens, enter the URL in the "URL:" field.
   - Complete the process.
 
-Depending on the particular plugin, you may be given the opportunity to <key>Save authentication</key> information in which case you will not be prompted for it in the future (but you will be asked to create a master Eclipse password if you have not done so already). Alternatively, you can create an [[SSH key pair | student:keypairs ]] to avoid having to repeatedly enter authentication information. In either case, **should not save your authentication information on a "public" machine**.
+Depending on the particular plugin, you may be given the opportunity to <key>Save authentication</key> information in which case you will not be prompted for it in the future (but you will be asked to create a master Eclipse password if you have not done so already). Alternatively, you can create an [[student:utilities:start:keypairs | SSH Key Pairs ]] to avoid having to repeatedly enter authentication information. In either case, **should not save your authentication information on a "public" machine**.
 
 
 
