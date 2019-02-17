@@ -65,10 +65,10 @@ Depending on the particular plugin, you may be given the opportunity to <key>Sav
 
 
 
-==== Using Subversive ====
+==== Using the Plugin ====
 
 
-The Subversive plugin enables you to execute SVN commands from within
+The Subversive and Subclipse plugins enable you to execute SVN commands from within
 Eclipse.
 
 
@@ -139,7 +139,7 @@ To add a file to version control:
 To update your local working copy (from the repository):
 
   - Right-click on the appropriate folder/file.
-  - Pull down to "Team" and then to "Update".
+  - Pull down to "Team" and then to "Update" (or "Update to HEAD")
 
 === Viewing/Resolving Conflicts ===
 
@@ -155,7 +155,7 @@ unresolved conflicts". You can see the conflicts in several different ways:
 After you make the appropriate changes and save the file(s):
 
   - Right-click on the file(s).
-  - Pull down to <key>Team</key>-<key>Mark as Merged</key> (to inform Eclipse to remove the conflict icon and to inform Subversive that it should allow the commit.
+  - Pull down to <key>Team</key> and then to <key>Mark as Merged</key> or <key>Mark as resolved</key> (to inform Eclipse to remove the conflict icon and to inform Subversive that it should allow the commit.
   - Perform the commit.
 
 You might also be interested in the video at
@@ -244,16 +244,16 @@ you access to many common SVN commands.
 
 
 The following Subversion commands would normally be preceded by
-''%%svn%%'' and the Subversive commands would be initiated by
+''%%svn%%'' and the plug-in commands would be initiated by
 right-clicking on the file/folder.
 
-^ SVN Command ^ Subversive ^
+^ SVN Command ^ Plugin ^                                            
 | ''%%add%%'' | <key>Team</key>-<key>Add to version Control...</key> |
 | ''%%checkout%%'' | <key>Import</key> |
 | ''%%commit%%'' | <key>Team</key>-<key>Commit</key> |
 | ''%%delete%%'' | <key>Delete</key> |
 | ''%%diff%%'' | <key>Compare With</key> |
-| ''%%resolve%%'' | <key>Team</key>-<key>Mark as Merged</key> |
+| ''%%resolve%%'' | <key>Team</key>-<key>Mark as Merged</key> or <key>Team</key>-<key>Mark as Resolved</key> |
 | ''%%propset%%'' | <key>Team</key>-<key>Set Property...</key> |
 | ''%%revert%%'' | <key>Team</key>-<key>Revert</key> |
 | ''%%update%%'' | <key>Team</key>-<key>Update</key> |
