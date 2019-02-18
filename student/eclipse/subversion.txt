@@ -140,7 +140,7 @@ Another way is to:
 To update your local working copy (from the repository):
 
   - Right-click on the appropriate folder/file.
-  - Pull down to "Team" and then to "Update" (or "Update to HEAD")
+  - Pull down to "Team" and then to "Update" or "Update to HEAD"
 
 === Viewing/Resolving Conflicts ===
 
@@ -257,4 +257,4 @@ right-clicking on the file/folder.
 | ''%%resolve%%'' | <key>Team</key>-<key>Mark as Merged</key> or <key>Team</key>-<key>Mark as Resolved</key> |
 | ''%%propset%%'' | <key>Team</key>-<key>Set Property...</key> |
 | ''%%revert%%'' | <key>Team</key>-<key>Revert</key> |
-| ''%%update%%'' | <key>Team</key>-<key>Update</key> |
+| ''%%update%%'' | <key>Team</key>-<key>Update</key> or  <key>Team</key>-<key>Update to HEAD</key>|
