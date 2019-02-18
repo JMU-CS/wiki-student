@@ -37,11 +37,11 @@ To start the installation using the installer you should:
 
 
 
-=== After the Process has Started ===
+=== After the Process is Completed ===
 
-Regardless of how you start the process, after it is completed you should restart Eclipse.
+Regardless of how you start the process, after it is completed you should restart Eclipse. 
 
-  - You may now be prompted to install the SVN Connectors in a dialog box.  **IF NOT, YOU MUST FORCE THIS PROCESS MANUALLY  AS FOLLOWS:** Click on <key>Preferences</key> (which may be  under <key>Windows</key> or the         main <key>Eclipse</key> menu), expand "Team", and click on   "SVN".  This should open the dialog box. If not, click         on the "SVN Connector" tab, and click on "Get Connectors...".         
+If you are installing Subclipse, you may be prompted to install the SVN Connectors in a dialog box.  **IF NOT AND YOU ARE USING SUBCLIPSE, YOU MUST FORCE THIS PROCESS MANUALLY  AS FOLLOWS:** Click on <key>Preferences</key> (which may be  under <key>Windows</key> or the         main <key>Eclipse</key> menu), expand "Team", and click on   "SVN".  This should open the dialog box. If not, click         on the "SVN Connector" tab, and click on "Get Connectors...". Then:
   - Select an appropriate connector -- SVN Kit can be used on all  platforms; Native JavaHL can only be used on Windows machines that  have an ''%%ssh%%'' client. So, you should probably use SVN Kit.  (Note: ''%%stu%%'' currently supports SVN 1.9.3, so any  connector for 1.9.3 or lower should work, but you should probably         use the most recent version lower than or equal to 1.9.3.)         
   - Click on <key>Finish</key>.
   - When the the next dialog box appears click on <key>Next</key>.
