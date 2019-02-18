@@ -211,7 +211,7 @@ the second person should carefully compare the two versions before
 taking this action, but if it is necessary, the second person can:
 
   - Right-click on the appropriate folder/file.
-  - Pull down to "Team" and then to "Mark as Merged".
+  - Pull down to "Team" and then to "Mark as Merged" or "Mark as Resolved".
 
 and then commit the folder/file.
 
