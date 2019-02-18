@@ -181,7 +181,7 @@ To execute other SVN commands:
   - Right-click on the appropriate folder/file.
   - Pull down "Team" and then to the command of interest.
 
-=== Compare Versions of a File (i.e., diff) ===
+=== Compare Versions of a File ===
 
 To compare different versions of the same file:
 
