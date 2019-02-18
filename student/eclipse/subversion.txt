@@ -162,6 +162,18 @@ After you make the appropriate changes and save the file(s):
 You might also be interested in the video at
 [[ https://www.youtube.com/watch?v=7MB6T9ewidI | https://www.youtube.com/watch?v=7MB6T9ewidI ]]
 
+
+
+=== Editing Conflicts ===
+
+If you have any conflicts after you perform an update, you can edit them
+as follows:
+
+  - Right-click on the file(s).
+  - Pull down to <key>Team</key> and then to <key>Edit Conflicts</key>.
+  - Use the icons to move between conflicts and accept particular edits.
+
+
 === Commit ===
 
 To commit changes (to the repository):
