@@ -49,6 +49,9 @@ If you are installing Subclipse, you may be prompted to install the SVN Connecto
   - When the next dialog appears check "I accept..." and click on  <key>Finish</key>.  You may get a warning that says you  are "installing software that contains unsigned content". You  can ignore it and click <key>OK</key>.         
   - Restart Eclipse.
 
+
+You can change the SVN interface by clicking on <key>Preferences</key>-<key>Team</key>-<key>SVN</key> and selecting the "SVN interface" from the "Client:" drop-down list.
+
 ==== Connecting to Subversion on stu ====
 
 === Protocol ===
