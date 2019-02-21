@@ -51,11 +51,15 @@ If you are installing Subclipse, you may be prompted to install the SVN Connecto
 
 ==== Connecting to Subversion on stu ====
 
+=== Protocol ===
+
 Some Subversions Repository Servers use ''%%http%%'' (or ''%%https%%'') as the communications protocol. ''%%stu%%'' uses ''%%ssh%%''.
 
 
+=== Identifying a Repository ===
+
   - Learn the URL for the repository. (It is likely to be something like ''%%svn+ssh://stu.cs.jmu.edu/cs/students/csXXX/SSYY/teamNN %%'' where XXX corresponds to the course number, SS corresponds to the semester [either fa or sp], YY corresponds to the year, and NN corresponds to the team number). **Note:** If you are using a computer (e.g., your personal computer) in which your username is not your JMU eID, you should insert ''%%eID@%%'' between ''%%//%%'' and ''%%stu%%'' (where eID denotes your JMU eID).
-  - If you are not already, use the SVN perspective by clicking         on <key>Window</key>-<key>Perspective</key>-<key>Open         Perspective</key>-<key>Other</key>, selecting "SVN         Repository Exploring", and clicking on <key>OK</key>.   
+  - If you are not already, use the SVN perspective by clicking on <key>Window</key>-<key>Perspective</key>-<key>Open Perspective</key>-<key>Other</key>, selecting "SVN Repository Exploring", and clicking on <key>OK</key>.   
   - Click on {{eclipse_new-repository-location.gif}}.
   - After the dialog box opens, enter the URL in the "URL:" field.
   - Complete the process.
@@ -66,7 +70,7 @@ The plugin will need to authenticate with ''%%stu%%'' every time an operation is
 
   * You may (it varies with the plugin) be given the opportunity to <key>Save authentication</key> information in which case you will not be prompted for it in the future. In this case, you will be asked to create a master Eclipse password if you have not done so already. 
 
-  * You can create an [[student:utilities:start:keypairs | SSH Key Pair ]] to avoid having to repeatedly enter authentication information.  In this case, you will need to tell Eclipse to use your private key by clicking on <key>Preferences</key>+<key>General</key>+<key>Network Connections</key>+<key>SSH2</key> and entering the path and file name on the ''%%General%%'' tab.
+  * You can create an [[student:utilities:start:keypairs | SSH Key Pair ]] to avoid having to repeatedly enter authentication information.  In this case, you will need to tell Eclipse to use your private key by clicking on <key>Preferences</key>-<key>General</key>-<key>Network Connections</key>-<key>SSH2</key> and entering the path and file name on the ''%%General%%'' tab.
 
 In either case, **should not save your authentication information on a "public" machine**.
 
