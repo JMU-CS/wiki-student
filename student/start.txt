@@ -30,6 +30,7 @@ There are usually 3-4 TAs in the labs at any given time period.
   * [[student:typographic-conventions:start | Typographic Conventions ]]
   * [[student:visualparadigm:start | VisualParadigm ]]
   * [[student:VPN:start | VPN ]]
+  * [[student:web_browsers:start | Web Browsers ]]
   * [[student:webcat:start | Web-CAT ]]
   * [[student:wireless:start | Wireless ]]
   * [[student:xml:start | XML ]]
