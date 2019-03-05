@@ -29,6 +29,7 @@ There are usually 3-4 TAs in the labs at any given time period.
   * [[student:stu:start | stu ]]
   * [[student:typographic-conventions:start | Typographic Conventions ]]
   * [[student:visualparadigm:start | VisualParadigm ]]
+  * [[student:vivifyscrum:start | VivifyScrum ]]
   * [[student:VPN:start | VPN ]]
   * [[student:web_browsers:start | Web Browsers ]]
   * [[student:webcat:start | Web-CAT ]]
