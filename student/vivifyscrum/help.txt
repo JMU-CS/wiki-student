@@ -8,14 +8,12 @@ This page contains information about how to use the Scrum board in VivifyScru,.
 To configure the Scrum Board, click on {{student:vivifyscrum:vivifyscrum_configure.png}} on the left-side menu.
 
 
-==== Working with the Product Backlog ====
-
-The product backlog will typically be the left-most column of the board and will be labeled "Backlog".
+==== Working with the Backlog Items ====
 
 
 === Adding a Product Backlog Item ===
 
-To add a product backlog item (PBI):
+The product backlog will typically be the left-most column of the board and will be labeled "Backlog". To add a product backlog item (PBI):
 
   - Hover the mouse over the bottom of the "Backlog" title bar until a <key>+</key> appears.
   - Click on the <key>+</key>.
@@ -24,7 +22,7 @@ To add a product backlog item (PBI):
     
 === Entering Value and Effort Estimates ===  
 
-To provide an effort estimate for a PBI:
+To provide an effort estimate for a backlog item:
 
   - Click on {{student:vivifyscrum:vivifyscrum_effort.png}} at the bottom of the PBI.
   - Select a estimate of business value value from the "Value" dropdown.
@@ -36,12 +34,26 @@ Depending on how the board is configured, it will either display just the effort
 
 To add a subitem to an item (e.g., a task to a story):
 
-  - Click on {{student:vivifyscrum:vivifyscrum_subitem.png}} at the bottom of the PBI.
+  - Click on {{student:vivifyscrum:vivifyscrum_subitem.png}} at the bottom of the item.
   - Pull down to "Create Subitem".
   - Enter a title.
   - Click on <key>SAVE</key>.
 
 Subitems will have a {{student:vivifyscrum:vivifyscrum_parentitem.png}} icon that you can click on to go to the associated parent item.
+
+=== Adding Checklists ===
+
+To add a checklist to an item (of any kind):
+
+  - Click on {{student:vivifyscrum:vivifyscrum_checklist.png}} at the bottom of the PBI.
+  - Pull down to "+ Add Checklist".
+  - Enter a description of the checklist item.
+  - Press <key>Enter</key>.
+  - Continue until all of the checklist items have been entered.
+
+Note that an item can have multiple checklists (though this is not standard practice).
+
+
 
 ==== Sprint Planning ====
 
