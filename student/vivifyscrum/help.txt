@@ -53,7 +53,7 @@ To add a checklist to an item (of any kind):
   - Press <key>Enter</key>.
   - Continue until all of the checklist items have been entered.
 
-Note that an item can have multiple checklists though it is not [[ student:vivifyscrum:practices | standard practice ]] to do so.
+Note that VivifyScrum allows an item to have multiple checklists though it is not [[ student:vivifyscrum:practices | standard practice ]] to do so.
 
 === Adding Assignees and Reviewers ===
 
