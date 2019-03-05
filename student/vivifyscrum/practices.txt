@@ -23,7 +23,6 @@ To add a product backlog item (PBI):
 ==== Sprint Planning ====
 
 Sprint Planning involves the following steps.
-    
   - On the right side of the board (midway down the board), click on <key>+</key> (and name it Sprint #, where # is replaced by the appropriate number).
   - Chose which PBIs you want to do in this sprint and drag them from the PBI column to the Sprint # column (i.e., to the sprint backlog).
   - Make sure that each feature in the sprint backlog has completion criteria (called a checklist). Add them by clicking on {{vivifyscrum_checklist.png}}.
