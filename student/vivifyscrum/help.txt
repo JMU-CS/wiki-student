@@ -32,6 +32,16 @@ To provide an effort estimate for a PBI:
 
 Depending on how the board is configured, it will either display just the effort estimate or the ratio of value to effort.
 
+=== Adding Subitems ===
+
+To add a subitem to an item (e.g., a task to a story):
+
+  - Click on {{student:vivifyscrum:vivifyscrum_subitme.png}} at the bottom of the PBI.
+  - Pull down to "Create Subitem".
+  - Enter a title.
+  - Click on <key>SAVE</key>.
+
+
 ==== Sprint Planning ====
 
 Sprint Planning involves the following steps.
