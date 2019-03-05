@@ -2,5 +2,5 @@
 
 VivifyScrum is a "web-based project management tool" for teams that use the agile development process known as scrum.
 
-  + [[student:vivifyscrum:practices | Best Practices ]] 
-  + [[student:vivifyscrum:practices | Help Using the Scrum Board ]] 
+* [[student:vivifyscrum:practices | Best Practices ]] 
+* [[student:vivifyscrum:practices | Help Using the Scrum Board ]] 
