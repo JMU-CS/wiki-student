@@ -36,11 +36,12 @@ Depending on how the board is configured, it will either display just the effort
 
 To add a subitem to an item (e.g., a task to a story):
 
-  - Click on {{student:vivifyscrum:vivifyscrum_subitme.png}} at the bottom of the PBI.
+  - Click on {{student:vivifyscrum:vivifyscrum_subitem.png}} at the bottom of the PBI.
   - Pull down to "Create Subitem".
   - Enter a title.
   - Click on <key>SAVE</key>.
 
+Subitems will have a {{student:vivifyscrum:vivifyscrum_parentitem.png}} icon that you can click on to go to the associated parent item.
 
 ==== Sprint Planning ====
 
