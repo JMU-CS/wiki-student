@@ -11,7 +11,7 @@ with Eclipse, Subversive and Subclipse. They are very similar in many ways.
 There are two different ways to start the process of installing Subversive or Subclipse.
 
 
-However, before you start note that **it may be difficult to install the SVN Connector on Windows machines running Eclipse Oxygen**. If this is your current environment then you have two options - install Eclipse Neon instead or figure out how to install the connector (which is available from Polarion.com) manually. (Bug report [[ https://bugs.eclipse.org/bugs/show_bug.cgi?id=518033 |  518033 ]] may prove usefule in this regard.)
+However, before you start note that **it may be difficult to install the SVN Connector on Windows machines running Eclipse Oxygen**. If this is your current environment then you have two options - install Eclipse Neon instead or figure out how to install the connector (which is available from Polarion.com) manually. (Bug report [[ https://bugs.eclipse.org/bugs/show_bug.cgi?id=518033 |  518033 ]] may prove useful in this regard.)
 
 
 === Starting the Process with the Eclipse Marketplace ===
