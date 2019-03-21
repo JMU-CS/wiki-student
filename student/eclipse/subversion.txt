@@ -115,7 +115,7 @@ To add a project to an existing repository:
   - Pull down to "Team" and over to "Share Project...".
   - When the dialog box appears, select the appropriate repository type (i.e., SVN) and click on  <key>Next</key>.
   - When the next dialog box appears, check "Use existing repository location", select the appropriate location, and click <key>Next</key>.
-  - Select "Simple Mode". (Note: This will make it harder to create branches but easier to use the trunk.)
+  - If prompted to choose a mode, select "Simple Mode". (Note: This will make it harder to create branches but easier to use the trunk.)
   - Click on <key>Finish</key>.
 
 When the SVN window appears, enter a commit comment (like "Initial Commit") and click <key>OK</key>.
