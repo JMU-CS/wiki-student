@@ -343,6 +343,6 @@ If you use the ''Messager'' that is passed to the ''init()'' method of your ''Pr
 
 To enable ''@SuppressWarning'' annotations for a particular project, right-click on the project name and pull down to <key>Properties</key>. Then, expand <key>Java Compiler</key>, expand <key>Annotation Processing</key>, click on <key>Errors/Warnings</key>, and check "Enable project specific settings".  Then check "Enable '@SuppressWarnings' annotations.
 
-To also ignore unhandled tokens in custom ''@SuppressWarnings'' annotations (as, for example, are included with JUnit), change the value of "Unhandled token in '@SuppressWarnings'" to <key>Ignore</key>.
+To also ignore unhandled tokens in custom ''@SuppressWarnings'' annotations (as, for example, are included with JUnit and Checkstyle), change the value of "Unhandled token in '@SuppressWarnings'" to <key>Ignore</key>.
 
 
