@@ -85,11 +85,9 @@ glass icon under the last submission.
 
 ==== Individual Submissions ====
 
-If you click on the magnifying glass for the last submission, you will be
+If you click on the magnifying glass for a submission, you will be
 presented with a page that looks something like the following.
 
 {{submission.png}}
 
-Any annotations/feedback will appear as gray lines in your code.
-You can expand an individual annotation by clicking on it, or expand/collapse
-all annotations by clicking on the buttons above the code.
+Any annotations/feedback will appear as gray boxes in your code.
