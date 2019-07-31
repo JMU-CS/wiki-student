@@ -43,8 +43,7 @@ The page for an assignment looks something like the following.
 
 {{assignment.png}}
 
-You can submit your code by (1) affirming that you have complied with
-the JMU honor code and all course-specific policies, and (2) clicking
+You can submit your code by (1) dragging a file to or clicking on the dashed box, (2) affirming that you have complied with the JMU honor code and all course-specific policies, and (3) clicking
 on "SUBMIT".
 
 You can also see information about due dates/times, the number of
