@@ -2,6 +2,14 @@
 
 This page provides information about various common tasks.
 
+==== Accessing Autolab ====
+
+Autolab can be loaded into any modern WWW browser from the following URL:
+
+  * [[https://autolab.cs.jmu.edu/ | https://autolab.cs.jmu.edu/ ]] 
+
+It is only available to members of the JMU community. So, if you are off-campus, you will first need to sign into the [[student:vpn:start | JMU Virtual Private Network (VPN) ]] .
+
 
 ==== Logging In ====
 
