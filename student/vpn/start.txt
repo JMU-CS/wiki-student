@@ -1,6 +1,6 @@
 ====== For Windows and Mac ======
 
-Please go here for the download and instructions on the client https://www.jmu.edu/computing/network/pulse-secure.shtml
+Please go here for the download and instructions on the client https://www.jmu.edu/computing/internet-and-network/pulse-secure.shtml
 
 ====== For Linux ======
 
