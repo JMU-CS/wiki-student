@@ -1,5 +1,5 @@
 ===== Computer Labs =====
-The Computer Science department maintains multiple computer labs running Linux Mint 19.
+The Computer Science department maintains multiple computer labs running Linux Mint 19.2.
 
 ==== Lab Hardware ====
 
@@ -25,19 +25,19 @@ All labs have the same software, including but not limited to the following:
   * Emacs 25.2.2
   * Vim 8.0
   * DrJava beta-20160913-225446
-  * Eclipse Photon
-  * jGrasp 204_04
-  * Netbeans 8.2
-  * Java 10.0.1
-  * gcc 7.3.0
-  * Go 1.10.1
-  * GHC 8.4.3
-  * Python 2.7.1
-  * Python 3.6.5
+  * Eclipse 2019-03
+  * jGrasp 205_06
+  * Apache Netbeans 11.1
+  * Java 11.0.4
+  * gcc 7.4.0
+  * Go 1.10.4
+  * GHC 8.0.2
+  * Python 2.7.15
+  * Python 3.6.8
   * Ruby 2.5.1
   * Git 2.17.1
   * Mercurial 4.5.3
   * Subversion 1.9.7
-  * Mathematica 11.0.0
-  * Visual Paradigm 15.0
-  * VMware Workstation 14.1.2
+  * Mathematica 12.0.0.0
+  * Visual Paradigm 16.0
+  * VMware Workstation 15.1.0
