@@ -25,7 +25,7 @@ All labs have the same software, including but not limited to the following:
   * Emacs 25.2.2
   * Vim 8.0
   * DrJava beta-20160913-225446
-  * Eclipse 2019-03
+  * Eclipse 2019-06
   * jGrasp 205_06
   * Apache Netbeans 11.1
   * Java 11.0.4
