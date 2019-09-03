@@ -5,3 +5,4 @@ You must complete an application to graduate by about the middle of the semester
 
 The application to graduate (for computer science) consists of the Application to Graduate form (obtainable from the registrar's web site), an copy of an unofficial transcript (available from MyMadison), and a complete CS Graduation Checksheet (available below). You choose a checksheet based on your catalog year. Your catalog year is the year you started at JMU (unless you have changed it officially with the registrar).
 
+   * {{student:graduation:degreechecklist15-16.pdf | Checklist '15-'16 }}
