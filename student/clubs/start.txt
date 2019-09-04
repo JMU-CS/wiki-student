@@ -23,6 +23,7 @@
 **PlayMU (Gaming Club)**
   * Faculty contact: Mike Lam (lam2mo)
   * Student contact: Henry Monk
+  * First meeting: Thu, Sep 5, from 7-9pm in EnGeo 2210
   * Website: [[https://beinvolved.jmu.edu/organization/playmu|BeInvolved]] | http://discord.gg/playmu
 
 **Robotics**
