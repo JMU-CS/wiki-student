@@ -26,6 +26,8 @@ The Cyber Defense Club is a student led group focused on learning about informat
   * Student contact: Maddie Brower
   * Weekly meetings: TBD in Forensics Lab, ISAT/CS 231
 
+The Forensics Club is for those interested in learning the basics of forensics as well as discussing current developments in the field. We engage in many forensics exercises like drive recovery and forensics scenarios. In the past, members of the group have given presentations on forensic topics and tools, recovered data from "broken" hard drives, participated in DFRWS and HoneyNet forensics challenges, and examined and developed forensic tools. We have even assisted the JMU Police Department with some of their forensics needs. The Forensics Club gives members insight into what a career in cyber forensics could be like by solving real-world forensics problems. 
+
 **PlayMU**
   * Faculty contact: Mike Lam (lam2mo)
   * Student contact: Henry Monk
