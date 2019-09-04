@@ -4,7 +4,7 @@
   * Regular meetings: TBD
 
 **Competitive Programming**
-  * Faculty contact: Mike Lam (lam2mo)
+  * Faculty contact: Mike Lam (lam2mo) & John Bowers (bowerscj)
   * Student contact: Eric Wolf
   * Weekly meetings: Fri, 3:30pm in ISAT/CS 246
   * Website: http://acm.cs.jmu.edu
