@@ -1,0 +1,49 @@
+**ACM / Coders Anonymous**
+  * Faculty contact: John Bowers (bowerscj)
+  * Student contact: Maddie Brower
+  * Regular meetings: TBD
+
+**Competitive Programming**
+  * Faculty contact: Mike Lam (lam2mo)
+  * Student contact: Eric Wolf
+  * Weekly meetings: Fri, 3:30pm in ISAT/CS 246
+  * Website: http://acm.cs.jmu.edu
+
+**Cyber Defense**
+  * Faculty contacts: Hossain Heydari (heydarmh) & Brett Tjaden (tjadenbc)
+  * Student contact: Andy Malone
+  * Weekly meetings: Fri, 3:30pm to 5:00pm in ISAT/CS 140
+  * Website: [[https://beinvolved.jmu.edu/organization/CyberDefenseClub|BeInvolved]]
+
+**Forensics**
+  * Faculty contact: Florian Buchholz (buchhofp)
+  * Student contact: Maddie Brower
+  * Weekly meetings: TBD in Forensics Lab, ISAT/CS 231
+
+**PlayMU (Gaming Club)**
+  * Faculty contact: Mike Lam (lam2mo)
+  * Student contact: Henry Monk
+  * Website: [[https://beinvolved.jmu.edu/organization/playmu|BeInvolved]] | http://discord.gg/playmu
+
+**Robotics**
+  * Faculty contact: Nathan Sprague (spragunr)
+  * Student contact: TBD
+  * Weekly meetings: TBD in Robotics Lab
+
+**UUG (Unix Users Group)**
+  * Faculty/staff contacts: Mike Lam (lam2mo) & Mike Ripley (ripleymj)
+  * Student contact: Mike McGloin
+  * Weekly meetings: Wed, 6:30pm in ISAT/CS 246
+  * Websites: www.jmunixusers.org
+
+**UPE (Upsilon Pi Epsilon)**
+  * Faculty contact: Mike Lam (lam2mo)
+  * Student contact: Jeremy Kesterson
+  * (no regular meetings)
+  * Website: https://upe.cs.jmu.edu/
+
+**WIT (Women in Technology)**
+  * Faculty contact: Dee Weikle (weikleda)
+  * Student contact: Mandy Pearce
+  * Regular meetings: Wed, 6:30pm
+  * Websites:[[https://beinvolved.jmu.edu/organization/wit|BeInvolved]] | [[https://w3.cs.jmu.edu/weikleda/wit/WITHome.html|Web]]
