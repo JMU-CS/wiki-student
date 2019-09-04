@@ -43,7 +43,7 @@ PlayMU is an organization with the sole intent of bringing in video gamers of al
   * Weekly meetings: Wed, 6:30pm in ISAT/CS 246
   * Websites: www.jmunixusers.org
 
-An organization for computer enthusiasts, and users of Unix-like operating systems such as Linux and macOS. Meetings are typically Wednesday nights, with an InstallFest to kick off each semester. Fall semesters focus on Linux development tools and processes, and spring focuses more on Linux internals and contemporary topics in the open source community.
+UUG is an organization for computer enthusiasts, and users of Unix-like operating systems such as Linux and macOS. Meetings are typically Wednesday nights, with an InstallFest to kick off each semester. Fall semesters focus on Linux development tools and processes, and spring focuses more on Linux internals and contemporary topics in the open source community.
 
 **UPE (Upsilon Pi Epsilon)**
   * Faculty contact: Mike Lam (lam2mo)
