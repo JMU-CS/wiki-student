@@ -3,7 +3,7 @@
 
 You must complete an application to graduate by about the middle of the semester **before** the semester you plan to graduate. For example, if you plan to graduate in May 20xx then you must turn in your application by about the middle of the fall semester 20xx-1. The registrar's web page has specific due dates.
 
-The application to graduate (for computer science) consists of the {{http://www.jmu.edu/registrar/wm_library/app_bach_deg.pdf | Application to Graduate form}}, a copy of an unofficial transcript (available from MyMadison), and a complete CS Graduation Checksheet (available below). You choose a checksheet based on your catalog year. Your catalog year is the year you started at JMU (unless you have changed it officially with the registrar).
+The application to graduate (for computer science) consists of the {{http://www.jmu.edu/registrar/wm_library/app_bach_deg.pdf | Application to Graduate form}}, a copy of an unofficial transcript (available from MyMadison), and a complete CS Graduation Checksheet for your catalog year (available below). Your catalog year is the year you started at JMU (unless you have changed it officially with the registrar).
 
    * {{student:graduation:degreechecklist15-16.pdf | Checklist '15-'16 }}
    * {{student:graduation:degreechecklist16-17.pdf | Checklist '16-'17 }}
