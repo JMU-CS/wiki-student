@@ -10,3 +10,5 @@ The application to graduate (for computer science) consists of the {{http://www.
    * {{student:graduation:degreechecklist17-18.pdf | Checklist '17-'18 }}
    * {{student:graduation:degreechecklist18-19.pdf | Checklist '18-'19 }}
    * {{student:graduation:degreechecklist19-20.pdf | Checklist '19-'20 }}
+
+Prepare you paperwork and take it to your minor/second major advisors and department heads for their signatures. Then take it your CS advisor for a signature, and then to the CS assistant department head. The CS department will forward the application to the registrar.
