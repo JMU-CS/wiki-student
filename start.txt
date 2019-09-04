@@ -4,4 +4,4 @@
 
   * [[ ta:start      | Information for TAs]] (Authentication Required)
 
-  * [[ student:start | Information for Students]] (Current and Prospective)
+  * [[ student:start | Information for Students]] (Current)
