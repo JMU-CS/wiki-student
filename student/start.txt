@@ -12,7 +12,7 @@ There are usually 3-4 TAs in the labs at any given time period.
   * [[student:autolab:start | Autolab ]]
   * [[student:c:start | C/C++ ]]
   * [[student:checkstyle:start | Checkstyle ]]
-  * [[https://w3.cs.jmu.edu/lam2mo/cs_clubs.html | Clubs]]
+  * [[student:clubs:start | Clubs]]
   * [[student:cluster:start | Cluster ]]
   * [[student:computer_labs:start | Computer Labs ]]
   * [[student:curriculum:start | CS Curriculum ]]
