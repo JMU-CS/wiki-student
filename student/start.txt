@@ -7,34 +7,37 @@ If you go during those times, you can get help from a teaching assistant (TA).
 There are usually 3-4 TAs in the labs at any given time period.
 
 
-==== Topics ====
+==== University/Department-Specific Resources ====
 
   * [[student:autolab:start | Autolab ]]
-  * [[student:c:start | C/C++ ]]
   * [[student:checkstyle:start | Checkstyle ]]
   * [[student:clubs:start | Clubs]]
   * [[student:cluster:start | Cluster ]]
   * [[student:computer_labs:start | Computer Labs ]]
   * [[student:curriculum:start | CS Curriculum ]]
-  * [[student:eclipse:start | Eclipse ]]
   * [[student:gitlab:start | GitLab ]]
   * [[student:graduation | Graduation Process and Forms ]]
+  * [[student:mattermost:start | Mattermost ]]
+  * [[student:stu:start | stu ]]
+  * [[student:VPN:start | VPN ]]
+  * [[student:webcat:start | Web-CAT ]]
+  * [[student:wireless:start | Wireless ]]
+
+==== Technical Topics ====
+
+  * [[student:c:start | C/C++ ]]
+  * [[student:eclipse:start | Eclipse ]]
   * [[student:java:start | Java ]]
   * [[student:jgrasp:start | jGRASP ]]
   * [[student:junit:start | JUnit ]]
   * [[student:kdiff:start | KDiff3 ]]
   * [[student:mathematics:start | Mathematical Foundations ]]
-  * [[student:mattermost:start | Mattermost ]]
   * [[student:utilities:start | Operating System Utilities ]]
   * [[student:utilities:start:keypairs | SSH Key Pairs ]]
-  * [[student:stu:start | stu ]]
   * [[student:typographic-conventions:start | Typographic Conventions ]]
   * [[student:visualparadigm:start | VisualParadigm ]]
   * [[student:vivifyscrum:start | VivifyScrum ]]
-  * [[student:VPN:start | VPN ]]
   * [[student:web_browsers:start | Web Browsers ]]
-  * [[student:webcat:start | Web-CAT ]]
-  * [[student:wireless:start | Wireless ]]
   * [[student:xml:start | XML ]]
   * [[student:zip:start | .zip Files ]]
 
