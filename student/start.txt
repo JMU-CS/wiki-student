@@ -17,6 +17,7 @@ There are usually 3-4 TAs in the labs at any given time period.
   * [[student:cluster:start | Cluster ]]
   * [[student:computer_labs:start | Computer Labs ]]
   * [[student:curriculum:start | CS Curriculum ]]
+  * [[student:freesoftware:start | Free Software ]]
   * [[student:gitlab:start | GitLab ]]
   * [[student:graduation | Graduation Process and Forms ]]
   * [[student:mattermost:start | Mattermost ]]
