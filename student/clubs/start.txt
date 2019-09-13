@@ -1,4 +1,4 @@
-=== ACM (Association for Computing Machinery) / Coders Anonymous ===
+==== ACM (Association for Computing Machinery) / Coders Anonymous ====
 
   * Faculty contact: John Bowers (bowerscj)
   * Student contact: Maddie Brower
@@ -7,7 +7,7 @@
 
 ACM brings together computing educators, researchers, and professionals to inspire dialogue, share resources, and address the field's challenges. As the world’s largest computing society, ACM strengthens the profession's collective voice through strong leadership, promotion of the highest standards, and recognition of technical excellence. ACM supports the professional growth of its members by providing opportunities for life‐long learning, career development, and professional networking.
 
-=== Competitive Programming ===
+==== Competitive Programming ====
 
   * Faculty contact: John Bowers (bowerscj) & Mike Lam (lam2mo)
   * Student contact: Eric Wolf
@@ -16,7 +16,7 @@ ACM brings together computing educators, researchers, and professionals to inspi
 
 Do you love to solve challenging problems? Would you like to increase your programming skills? Are you a competitive person? Do you want to prepare for interview exercises that companies like Google, Facebook, Amazon, Microsoft, Apple, and others give their future employees? Would you like to improve your ability to work in teams? If you answered “YES!” to any of these questions, then we have the perfect club for you! We solve programming problems in online and in-person team competitions. We meet weekly for practices and participate in several contests every year.
 
-=== Cyber Defense ===
+==== Cyber Defense ====
 
   * Faculty contacts: Hossain Heydari (heydarmh) & Brett Tjaden (tjadenbc)
   * Student contact: Andy Malone
@@ -25,7 +25,7 @@ Do you love to solve challenging problems? Would you like to increase your progr
 
 The Cyber Defense club is a student led group focused on learning about information security techniques and tools, and participates in cyber defense competitions such as CCDC, NCL, and NSA Codebreaker. Members can expect to learn about tools and techniques used in cyber defense and penetration testing through weekly demos and exercises as well as current information security news and trends.
 
-=== Forensics ===
+==== Forensics ====
 
   * Faculty contact: Florian Buchholz (buchhofp)
   * Student contact: Maddie Brower
@@ -34,7 +34,7 @@ The Cyber Defense club is a student led group focused on learning about informat
 
 The Forensics club is for those interested in learning the basics of forensics as well as discussing current developments in the field. We engage in many forensics exercises like drive recovery and forensics scenarios. In the past, members of the group have given presentations on forensic topics and tools, recovered data from "broken" hard drives, participated in DFRWS and HoneyNet forensics challenges, and examined and developed forensic tools. We have even assisted the JMU Police Department with some of their forensics needs. The Forensics Club gives members insight into what a career in cyber forensics could be like by solving real-world forensics problems. 
 
-=== PlayMU ===
+==== PlayMU ====
 
   * Faculty contact: Mike Lam (lam2mo)
   * Student contact: Henry Monk
@@ -43,7 +43,7 @@ The Forensics club is for those interested in learning the basics of forensics a
 
 PlayMU is an organization with the sole intent of bringing in video gamers of all backgrounds, genre preferences, and platforms together in a social environment.  Our primary focus is building community.  We want to be a place where you can have a conversation with anyone about whatever game you're playing, and find someone who shares your opinions.  Feel free to contact any officers through Discord if you have any questions!
 
-=== Robotics ===
+==== Robotics ====
 
   * Faculty contact: Nathan Sprague (spragunr)
   * Student contact: TBD
@@ -51,7 +51,7 @@ PlayMU is an organization with the sole intent of bringing in video gamers of al
 
 The Robotics club enables students who wish to continue robotics work outside of class. 
 
-=== UUG (Unix Users Group) ===
+==== UUG (Unix Users Group) ====
 
   * Faculty/staff contacts: Mike Lam (lam2mo) & Mike Ripley (ripleymj)
   * Student contact: Mike McGloin
@@ -60,7 +60,7 @@ The Robotics club enables students who wish to continue robotics work outside of
 
 UUG is an organization for computer enthusiasts, and users of Unix-like operating systems such as Linux and macOS. Meetings are typically Wednesday nights, with an InstallFest to kick off each semester. Fall semester meeetings focus on Linux development tools and processes, and Spring semester meetings focus more on Linux internals and contemporary topics in the open source community.
 
-=== UPE (Upsilon Pi Epsilon) ===
+==== UPE (Upsilon Pi Epsilon) ====
 
   * Faculty contact: Mike Lam (lam2mo)
   * Student contact: Jeremy Kesterson
@@ -69,7 +69,7 @@ UUG is an organization for computer enthusiasts, and users of Unix-like operatin
 
 Upsilon Pi Epsilon was founded in 1967 at Texas A&M University and is the first honor society for Computer Science. There are now over 100 chapters of UPE throughout the world. The mission of Upsilon Pi Epsilon is to recognize academic excellence at both the undergraduate and graduate levels in the computing sciences. UPE also encourages academic achievement by providing scholarships to outstanding students in computer science.
 
-=== WIT (Women in Technology) ===
+==== WIT (Women in Technology) ====
 
   * Faculty contact: Dee Weikle (weikleda)
   * Student contact: Mandy Pearce
