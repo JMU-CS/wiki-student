@@ -15,7 +15,7 @@ The notation \([a , b]\) is often used to denote the closed interval of real num
 
 
 \[
-[a,b] = \{x \in \Re : a \leq x \leq b \}
+[a,b] = \{x \in \mathbb{R} : a \leq x \leq b \}
 \]
 
 
@@ -23,7 +23,7 @@ Simlarly, the notation \((a , b)\) is often used to denote the open interval of 
 
 
 \[
-(a,b) = \{x \in \Re : a \lt x \lt b \}
+(a,b) = \{x \in \mathbb{R} : a \lt x \lt b \}
 \]
 
 
@@ -31,12 +31,12 @@ It is sometimes necessary to work with intervals that are said to be either half
 
 
 \[
-(a,b] = \{x \in \Re : a \lt x \leq b \}
+(a,b] = \{x \in \mathbb{R} : a \lt x \leq b \}
 \]
 
 
 
 \[
-[a,b) = \{x \in \Re : a \leq x \lt b \}
+[a,b) = \{x \in \mathbb{R} : a \leq x \lt b \}
 \]
 
