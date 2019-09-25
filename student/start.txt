@@ -30,6 +30,7 @@ There are usually 3-4 TAs in the labs at any given time period.
 
   * [[student:c:start | C/C++ ]]
   * [[student:eclipse:start | Eclipse ]]
+  * [[student:gcov:start | gcov/lcov ]]
   * [[student:java:start | Java ]]
   * [[student:jgrasp:start | jGRASP ]]
   * [[student:junit:start | JUnit ]]
