@@ -1,0 +1,145 @@
+====== gcov/lcov ======
+
+[[ https://gcc.gnu.org/onlinedocs/gcc/Gcov.html | ''gcov'' ]] is a test coverage tool for the GCC (GNU Compiler Collection). [[ https://wiki.documentfoundation.org/Development/Lcov | ''lcov'' ]] is a graphical front-end ''gcov''. "It collects ''gcov'' data for multiple source files and creates HTML pages containing the source code annotated with coverage information."
+
+==== Before Using gcov/lcov ====
+
+Before you can use gcov and lcov you must have written both the code and the unit tests. The unit tests may either use a framework/harness or not.
+
+For example, consider the following ''Shopper'' class in C++.
+
+<code C++>
+#ifndef edu_jmu_cs_Shopper_h
+#define edu_jmu_cs_Shopper_h
+ 
+class Shopper {
+ private:
+  double fee, purchases;
+  int account;
+ 
+ protected:
+  void setFee(double annualFee);
+ 
+ public:
+  explicit Shopper(int accountNumber);
+ 
+  void addToPurchases(double amount);
+
+  int getAccount();
+  
+  double getPurchases(void);
+};
+
+#endif
+</code>
+
+<code C++>
+#include "Shopper.h"
+     
+Shopper::Shopper(int accountNumber) {
+  account = accountNumber;
+  setFee(45.00);
+  purchases = 0.00;
+}
+     
+void Shopper::addToPurchases(double amount) {
+  purchases += amount;
+}
+     
+int Shopper::getAccount(void) {
+  return account;
+}
+     
+double Shopper::getPurchases(void) {
+  return purchases;
+}
+     
+void Shopper::setFee(double annualFee) {
+  fee = annualFee;
+}
+</code>
+
+This class could be tested using the following "home grown" unit tests.
+
+<code C++>
+#include <stdio.h>
+#include <string>
+#include "Shopper.h"
+
+void assertEquals(double expected, double actual, const std::string& msg = "") {
+  if (abs(expected - actual) > 0.01) printf("Failure: %s\n", msg.c_str());
+}
+
+void assertEquals(int expected, int actual, const std::string& msg = "") {
+  if (expected != actual) printf("Failure: %s\n", msg.c_str());
+}
+
+
+int main(int argc, const char* argv[]) {
+
+  Shopper shopper(20);
+  shopper.addToPurchases(10.00);
+
+  assertEquals(20, shopper.getAccount(), "getAccount()");
+}
+</code>
+
+==== Instrumenting the Code ====
+
+There are several command-line options that can be used to control the way [[ https://gcc.gnu.org/onlinedocs/gcc/Instrumentation-Options.html#Instrumentation-Options | GCC instruments code ]]. The easiest way to instrument code for ''gcov'' is to use the ''--coverage'' option. 
+
+Continuing with the example above, the two files would be compiled as follows:
+
+<code bash>
+g++ -c --coverage Shopper.cpp -o Shopper.o
+g++ -c --coverage ShopperTest.cpp -o ShopperTest.o
+</code>
+
+and then linked as follows:
+
+<code bash>
+g++ --coverage Shopper.o ShopperTest.o -o ShopperTest
+</code>
+
+When a file is compiled using the ''--coverage'' option a ''.gcno'' file is created that contains machine readable notes that will be used by ''gcov''.  Specifically, it contains information that can be used to reconstruct block graphs and associate source line numbers with blocks. 
+
+
+==== Executing the Instrumented Code ====
+
+Instrumented code can be executed in the normal fashion. For example, in Linux/Unix, the example above can be executed as follows:
+
+<code bash>
+./ShopperTest
+</code>
+
+This will create a machine readable ''.gcda'' file for each instrumented ''.o'' file. The ''.gcda'' files contain arc transition information, profile information, and summary information. 
+
+==== Executing gcov ====
+
+''gcov'' creates a human-readble ''.gcov'' file for each instrumented ''.o'' file. that contains coverage information. For example, the command:
+
+<code bash>
+gcov ShopperTest.cpp Shopper.cpp -m
+</code>
+
+will create two ''.gcov'' files (with de-mangled names).
+
+
+==== Executing lcov ====
+
+While ''.gcov'' files are human readable, they can be a little difficult to navigate and interpret. ''lcov'' can be used to create ''.html'' files from ''.gcov'' files. For example, the following commands can be used to create a report for the above example that excludes information about ''ShopperTest.cpp''.
+
+<code bash>
+lcov --quiet --rc lcov_branch_coverage=1 --no-external --capture --directory . --output-file coverage.info
+lcov --quiet --rc lcov_branch_coverage=1 --remove coverage.info '*Test*' --output-file coverage.info
+lcov --summary coverage.info
+genhtml  --legend --rc genhtml_branch_coverage=1 coverage.info -o tmp
+</code>
+
+The resulting ''.html'' files will be placed in the ''tmp'' directory.
+
+The color-coded report will look something like the following.
+
+{{:student:gcov:lcov_coverage-report.png}}
+
+This report makes it easy to see that the ''getPurchases()'' method was not covered by the tests.
