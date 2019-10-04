@@ -1,1 +1,22 @@
+====== Overview ======
+
+The Undergraduate Research Lab is comprised of CS faculty who are currently working with or actively seeking talented undergraduate research assistants to collaborate on research projects in a variety of fields. Students gain experience in all aspects of research, while working closely with faculty members to push the boundaries of human knowledge. Projects can be anywhere from a semester long collaboration to multiple years. If you are interested in research, are thinking about graduate school, or just want to learn more about what we’re up to, please contact one of the faculty members listed below.
+
+====== CS Research Seminar Talks ======
+
+The CS Research Seminar Talks are talks given by faculty members and undergraduate research assistants on a variety of topics at the cutting edge of computer science research. Talks happen on Fridays and occur roughly every couple of weeks. The format is a 30-40 minute research talk with 10-20 minutes reserved for questions. All CS students (and other interested students and faculty) are invited to attend.
+
+====== Participating Faculty ======
+
+  * [[https://users.cs.jmu.edu/bernstdh/|Prof. Bernstein]]
+  * [[https://w3.cs.jmu.edu/bowersjc/|Prof. Bowers]]
+  * [[https://users.cs.jmu.edu/foxcj/Web/|Prof. Fox]]
+  * [[https://w3.cs.jmu.edu/kirkpams/index.shtml|Prof. Kirkpatrick]]
+  * [[https://w3.cs.jmu.edu/lam2mo/|Prof. Lam]]
+  * [[https://w3.cs.jmu.edu/molloykp/|Prof. Molloy]]
+  * [[https://w3.cs.jmu.edu/spragunr/|Prof. Sprague]]
+  * [[https://w3.cs.jmu.edu/weikleda|Prof. Weikle]]
+
+====== Project Examples ======
+
 Coming soon...
