@@ -16,6 +16,7 @@ On the Fridays when there is no research seminar talk, some faculty and students
   * [[https://w3.cs.jmu.edu/lam2mo/|Prof. Lam]]
   * [[https://w3.cs.jmu.edu/molloykp/|Prof. Molloy]]
   * [[https://w3.cs.jmu.edu/spragunr/|Prof. Sprague]]
+  * [[https://hcientist.cs.jmu.edu/|Prof. Stewart]]
   * [[https://w3.cs.jmu.edu/weikleda|Prof. Weikle]]
 
 ====== Projects ======
