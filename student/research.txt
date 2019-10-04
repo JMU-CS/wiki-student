@@ -4,8 +4,9 @@ The Undergraduate Research Lab is comprised of CS faculty who are currently work
 
 ====== CS Research Seminar Talks ======
 
-The CS Research Seminar Talks are talks given by faculty members and undergraduate research assistants on a variety of topics at the cutting edge of computer science research. Talks happen on Fridays and occur roughly every couple of weeks. The format is a 30-40 minute research talk with 10-20 minutes reserved for questions. All CS students (and other interested students and faculty) are invited to attend.
+The CS Research Seminar Talks are talks given by faculty members and undergraduate research assistants on a variety of topics at the cutting edge of computer science research. Talks happen on Fridays at 12:20pm and occur roughly every couple of weeks, generally in ISAT/CS 243. The format is a 30-40 minute research talk with 10-20 minutes reserved for questions. All CS students (and other interested students and faculty) are invited to attend. Email announcements about each seminar will be sent to the CS listserv.
 
+On the Fridays when there is no research seminar talk, some faculty and students involved in research projects have an informal research meeting in the form of a [[ https://www.investopedia.com/terms/b/brown-bag-meeting.asp | brown bag ]] lunch at 12:20pm in ISAT/CS 246. There is generally a "quick update" session where everyone talks briefly about any ongoing research work, and often project groups will use this time as an opportunity to discuss technical topics and problems relevant to the project. Some people come to talk about their ongoing projects and others come just to hear about what is going on in the department. Everyone is welcome!
 ====== Participating Faculty ======
 
   * [[https://users.cs.jmu.edu/bernstdh/|Prof. Bernstein]]
