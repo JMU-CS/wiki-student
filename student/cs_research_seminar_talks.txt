@@ -11,6 +11,73 @@
 
 ===== Spring 2019 Talks =====
 
+==== 4 / 19 Rebecca Wild (JMU '20) ====
+
+The Effects of Finite Precision on the Simulation of the Double Pendulum
+
+We use mathematics to study physical problems because abstracting the information allows us to better analyze what could happen given any range and combination of parameters. The problem is that for complicated systems mathematical analysis becomes extremely cumbersome. The only effective and reasonable way to study the behavior of such systems is to simulate the event on a computer. However, the fact that the set of floating-point numbers is finite and the fact that they are unevenly distributed over the real number line raises a number of concerns when trying to simulate systems with chaotic behavior. In this research we seek to gain a better understanding of the effects finite precision has on the solution to a chaotic dynamical system, specifically the double pendulum.
+
+Advisor: Prof. Mike Lam
+
+==== 4 / 19 Adam Blalock (JMU '19) ====
+
+A Study of the Effect of Memory System Configuration on the Power Consumption of an FPGA Processor
+
+With electrical energy being a finite resource, feasible methods of reducing system power consumption continue to be of great importance within the field of computing, especially as computers proliferate. A victim cache is a small fully associative cache that “captures” lines evicted from L1 cache memory, thereby reducing lower memory accesses and compensating for conflict misses. Little experimentation has been done to evaluate its effect on system power behavior and consumption. This project investigates the performance and power consumption of three different processor memory designs for a sample program using a field programmable gate array (FPGA) and the Vivado Integrated Development Environment. 
+
+Advisor: Prof. Dee Weikle
+
+==== 4 / 11 Eliza Shoemaker (JMU '19) ====
+
+Data Science and Fake News Detection
+
+When classifying text with Machine Learning algorithms, textual features have to be extracted and used to train the classifier. We extract several different features: word counts, ngram counts, term frequency-inverse document frequency, sentiment analysis, lemmatization, and named entity recognition. Different features give classifiers different accuracies. We test the features on multiple classifiers to determine the best features for Fake News detection. We explore classifying news articles as either Fake News or as not Fake News using three datasets, which in total contain over 40,000 articles.
+
+Advisor: Prof. Ramon Mata-Toledo
+
+==== 4 / 11 Randy Shoemaker (JMU '19) ====
+
+Visualizing Chaos in the Bunimovich Stadium
+
+The Bunimovich stadium is a chaotic dynamical system in which a single particle, known as a billiard, moves indefinitely within a barrier without loss of momentum. Mathematicians and physicists have been actively researching its properties since it was discovered to be chaotic in the 1970’s. Current tools for visualizing the system's behavior are inadequate for visualizing a key aspect of its chaos: sensitive dependence. We developed software called the Bunimovich Stadia Evolution Viewer (BSEV) to ameliorate this issue. It provides visualizations that could help researchers gain insights into sensitive dependence.
+
+Advisor: Prof. Ramon Mata-Toledo
+
+==== 4 / 5 Prof. Michael Stewart ====
+
+WHAT THE WASM? Learn you a WebAssembly for great good! 
+
+Javascript’s monopoly on interactivity in the web is coming to an end. WebAssembly is a new open standard for delivering compiled client-side programs to web browsers. Currently JavaScript is the only native option for client-side scripting in the browser. WebAssembly aims to change this while delivering increased performance. At this point the tools are green-to-nonexistent but the standard is published and implemented in all major browsers. In this talk we will survey the state of WebAssembly, highlight the new scripting pipeline that WebAssembly provides, and in the course of this talk attendees will code an interactive webpage in a language that is not JavaScript. 
+
+==== 3 / 29 Prof. Nathan Sprague ====
+
+AlphaGo Zero and the Downfall of Humanity 
+
+In 1997 IBM's Deep Blue defeated World Chess Champion Gary Kasparov, marking the end of human dominance in the game of Chess. For nearly twenty years a similar victory proved elusive in the game of Go.  Even with dramatically more powerful computers, the best Go programs only reached the level of strong amateur play.
+
+This changed In October 2015 when DeepMind's AlphaGo became the first computer program to defeat a professional Human Go player. The AlphaGo team accomplished this using deep neural networks combined with Monte-Carlo Tree Search. Then, in 2017 DeepMind introduced AlphaGo Zero, an even stronger program trained entirely through self-play.  This talk will provide an overview of the AlphaGo Zero algorithm, as well as some discussion of the implications of this work.
+
+==== 3 / 15 Prof. Chris Mayfield ====
+
+POGIL in Computer Science: Faculty Motivation and Challenges
+
+Introductory computer science courses face multiple challenges, including a broad range of content, diverse teaching methods, and the need to help students develop skills such as problem solving, critical thinking, and teamwork. One evidence-based approach to address these challenges is Process Oriented Guided Inquiry Learning (POGIL), in which student teams work on classroom activities specifically designed to help them construct understanding and develop key skills. While POGIL has been widely used and studied in Chemistry and other STEM fields, much less is known about how it is used in Computer Science.
+
+In this study, we examined how faculty adopt POGIL for the first time in introductory CS classrooms. Using qualitative in-depth interviews, we investigated why faculty chose to adopt POGIL and their concerns about using it. Our results suggest that faculty motivations to use POGIL centered around improving student outcomes, including their learning and engagement. However, faculty also had concerns about using POGIL, which ranged from how POGIL impacts the curriculum to logistical and institutional barriers. We discuss the implications of these findings with respect to faculty development and active learning pedagogies.
+
+==== 3 / 1 Prof. Michael Lam ====
+
+Software Tools for Mixed-Precision Program Analysis 
+
+Floating-point representation and arithmetic remain the predominant mechanism for real-valued computation despite many well-known issues such as roundoff error. As high-performance computing continues to scale, many computational scientists are seeking to reduce precision when possible to accelerate performance and alleviate memory requirements. In this talk, I will describe several projects I have worked on that seek to facilitate such reduction of precision or in some other way provide insights about the accuracy or behavior of floating-point code, including a recent experimental prototype of an end-to-end source-level mixed-precision tuning system. All of the tools discussed are available as open source software.
+
+==== 2 / 22 Prof. Jason Forsyth (JMU Engineering) ====
+
+Applications of Wearable Computing for Physical Therapy and Rehabilitation
+
+Patients undergoing physical therapy or rehabilitation are often given exercises to strengthen muscle groups or joints that have been injured. Typically these exercises are observed in-person at the physician's office and the patient is instructed to continue them at home. Significant challenges exist in physical rehabilitation with patient adherence to their exercise regimen (often they forget to do the activities) and patient access to the physician (because fewer doctors are available). In this talk we will discuss wearable computing approaches to address this challenge through a system that will utilize inertial measurement units to provide real-time feedback to patients at home as they perform their exercises. Furthermore the system will capture those patient movements to transmit clinically relevant information to their physician for review. The wearable computing system addresses both adherence and access by increasing a patient’s self-efficacy when performing activities and enabling the physician to monitor their patient without having to travel to the doctor’s office. 
+
+Throughout the talk we will discuss applications of wearable computing for healthcare, related research questions in human-computer interaction and machine learning derived from this research, and an overview of initial results from the Wearable Computing Research Group in the Department of Engineering at James Madison University.
 ===== Fall 2018 Talks =====
 
 ==== 11 / 29 Prof. Dee Weikle ====
