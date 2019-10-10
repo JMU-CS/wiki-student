@@ -11,6 +11,11 @@ The CS Research Seminar Talks are talks given by faculty members and undergradua
   * Nov 15 - Prof. Nathan Sprague
   * Dec 6 - Prof. Dee Weikle
 
+==== Tentative Spring 2020 Schedule ====
+
+  * Prof. John Bowers - Circle packing for 3D printed infill design.
+  * Prof. Michael Lam
+  * Prof. Chris Mayfield
 ===== Fall 2019 Abstracts =====
 
 ==== 10 / 11 Jenna Horrall (JMU '20) ====
