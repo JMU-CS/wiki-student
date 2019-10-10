@@ -8,6 +8,30 @@
   * Dec 6 - Dee Weikle
 
 ===== Fall 2019 Abstracts =====
+
+==== 10 / 11 Jenna Horrall (JMU '20) ====
+
+Machine Learning Application to Sand Dune Model Prediction
+
+The ability to simulate the movement of sand dunes over a certain period of time is beneficial as they have a significant impact on a wide variety of people ranging from dry to coastal areas. Current physics-based simulation models are highly inefficient and computationally expensive. Here, we train a Generative Adversarial Network (GAN) to make video predictions of sand dune data in an attempt to decrease the computational effort required to run these simulations.
+
+Advisor: Dr. Barry Rountree (Lawrence Livermore National Laboratory)
+
+==== 10 / 11 Logan Moody (JMU '20) ====
+
+In high performance computing, many applications can easily generate terabytes to petabytes of floating-point data. Moving this data between nodes, over the internet, or within the memory, hierarchy presents a significant bottleneck to these programs. We propose a specialized accelerator to preform floating-point array compression using the ZFP compression algorithm. This talk will explore the potential benefits and difficulties of developing this accelerator.
+
+Advisor: Dr. Scott Lloyd (Lawrence Livermore National Laboratory)
+
+==== 10 / 5  Profs. John Bowers, Jason Forsyth (JMU Engineering), Michael Lam, Michael Kirkpatrick, Chris Mayfield, Kevin Molloy, Nathan Sprague, Michael Stewart, and Dee Weikle ====
+
+What is CS research? (Profs. Lam and Weikle)
+
+Followed by
+
+Faculty Flash Talks (Everyone)
+
+Join us for an overview of computer science research followed by 5-minute flash talks giving you an overview of ongoing research within the JMU CS department. Whether you are looking to get into research or just interested in learning more, you are welcome! 
 ====== Past Abstracts ======
 
 ===== Spring 2019 Talks =====
