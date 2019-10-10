@@ -1,0 +1,165 @@
+
+====== Past Talks ======
+
+===== Spring 2018 Talks =====
+
+
+==== 4 / 13 Mr. Zamua Nasrawt ====
+
+
+Less-Java, More Learning: Language Design for Introductory Programming
+
+Less-Java is a new procedural programming language with static, strong, and inferred typing, native unit testing, and support for basic object-oriented constructs.
+
+These features make programming in Less-Java more intuitive than traditional introductory languages, which will allow professors to dedicate more class time to overarching computer science concepts and less to syntax and language-specific quirks.
+
+==== 3 / 30 Prof. Steve Wang ====
+
+Fingerprint-protected storage security: the good, the bad, and the ugly
+
+How to use a fingerprint alone to protect a USB drive, a hard disk, or a remote web folder? Unlike passwords or cryptographic keys, whose comparisons are exact, even two consecutive readings of the same finger are not exactly the same; they are just close, making it hard to use a fingerprint to “encrypt” a USB or hard drive.
+
+In this talk, we will discuss the security problem, some insecure implementations (the bad), some elegant theoretical results that may be suitable for the problem (the good), and the still-open road to adapt the theoretical results to solve the problem (the ugly).
+
+==== 3 / 30 Prof. Dee Weikle ====
+
+A Plethora of Parallelism
+
+From the late 1980s to the early 2000s, computer architects have been using advanced architectural and organizational ideas to contribute significantly to the speed up of computing systems. In the early 2000s, power consumption became an issue that forced architects to develop multi-core solutions. While this has provided increased throughput it has also necessitated that programmers have a higher awareness of how the hardware manages and supports parallelism of different forms. This talk will discuss types of parallelism and introduce the latest attempt to continue performance improvements in computer architecture, domain specific accelerators (DSAs).
+
+==== 3 / 16 Prof. Laura Taalman ====
+
+Code x Design
+
+Code is a powerful secret weapon for creating 3D-printable designs, and mathematics gives you a universe of beautiful abstract forms to build from. In this talk we’ll discuss how software like Grasshopper, OpenSCAD, Structure Synth, and TopMod can be used to turn mathematical knots, curves, polyhedral wireframes, and procedurally generated forms into physical 3D printed objects. If you’re new to 3D design then this talk will show you ways that you can get started; if you’re an expert then you’ll learn some new tools to add to your design library. We’ll also have lots of cool 3D prints to show and pass around.
+
+==== 1 / 24 Prof. Michael Kirkpatrick ====
+
+Meltdown and Spectre: Complexity and the Death of Security
+
+Meltdown and Spectre are two newly announced computer vulnerabilities. These attacks exploit flaws in how computers are designed and cannot be fixed at this time. That is, these attacks constitute a completely new type of attack by manipulating complex design structures to create unanticipated behavior. This talk will examine how Meltdown and Spectre work, and show how they highlight a long- known principle of computer security: complexity makes devastating attacks possible.
+
+==== 1 / 19 Profs. Bowers, Lam, Mayfield, Stewart, Taalman, Weikle, and Yang ====
+
+What is CS Research?
+
+We will begin with a brief overview of computer science research given by Profs. Lam and Weikle followed by a series of 5-minute flash talks giving you a window into ongoing research projects at JMU by Profs. Bowers, Lam, Mayfield, Stewart, Taalman, Weikle, and Yang. Whether you are looking to get into research or just interested in learning more, you are more than welcome!
+
+===== Fall 2017 Talks =====
+
+
+==== 12 / 1 Prof. Michael Stewart ====
+
+Algorithms ruin everything
+
+I’ll be presenting 2 papers that touch on people’s perceptions of algorithms and their impact on society:
+
+Michael A. DeVito, Darren Gergle, and Jeremy Birnholtz. 2017. "Algorithms ruin everything": #RIPTwitter, Folk Theories, and Resistance to Algorithmic Change in Social Media. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI '17). ACM, New York, NY, USA, 3163-3174. DOI: https://doi.org/10.1145/3025453.3025659
+
+Tufekci, Zeynep. "Algorithmic Harms beyond Facebook and Google: Emergent Challenges of Computational Agency," Colorado Technology Law Journal vol. 13, no. 2 (2015): p. 203-218.
+
+==== 11 / 10 Diana Godja (Advisor: Prof. Nathan Sprague) ====
+
+Artificial Echolocation Using Deep Neural Networks
+
+Our study explores the effectiveness of bat-inspired echolocation as a practical sensory modality for extracting high-resolution depth information. Traditional ultrasonic depth sensors provide a single scalar depth estimate based on the time delay between an emitted pulse and the detection of an echo. Bats use a similar mechanism to extract depth information. However, bats and other echolocating animals are able to create a sensory percept that is much richer than a single distance measurement. We demonstrate that a deep neural network can be trained to accurately reconstruct two-dimensional depth fields by analyzing the echoes from a single 10 millisecond frequency-modulated chirp.
+
+==== 10 / 27 Andrew Jones (Advisor: Prof. Nathan Sprague) ====
+
+Preventing Blackout Catastrophe When Learning Sequentially with Elastic Weight Consolidation
+
+Artificial neural networks have become the dominant machine learning approach across a wide range of domains. Significant strides have been made on single-task learning. The problem of sequentially learning multiple tasks has proved to be more challenging. Naive approaches suffer from “catastrophic forgetting”: networks lose accuracy on previously learned tasks when trained on new tasks. The recently introduced Elastic Weight Consolidation (EWC) algorithm is a novel and promising approach that calculates the importance of individual weights to previously learned tasks. A penalty term is introduced that preserves weights in proportion to their importance. However, preserving weights via EWC eventually results in total network failure due to the limited capacity of a fixed-size network, a phenomenon referred to as “Blackout Catastrophe”. Our proposed algorithm addresses this problem by employing EWC until the network capacity has been reached and then increasing the size of the network to accommodate additional tasks. We further investigate the potential of Fisher Information, which is used by EWC to evaluate the importance of each weight for each task, to probabilistically predict when the network needs to expand to prevent blackout catastrophe - an insight which could theoretically allow the network to learn sequentially in perpetuity without the need for human supervision.
+
+==== 10 / 13 Patricia D. Soriano and Garrett Folks (Advisor: Prof. Michael Lam) ====
+
+ANALYSIS OF PARALLEL IMPLEMENTATIONS OF CENTRALITY ALGORITHMS
+
+Speaker: Patricia D. Soriano
+
+This talk explores parallel implementations of three network analysis algorithms for detecting node centrality: betweenness centrality (BC), eigenvalue centrality (EC), and degree and line importance (DIL). All solutions were written in the C programming language using OpenMP library for parallelization. We evaluated these implementations for accuracy and parallel scaling performance using five example networks. We found that the algorithms accurately reflect different notions of centrality. While DIL performs better in general because it is asymptotically faster than the other two algorithms, BC demonstrates better parallel strong scaling.
+
+TRAVELING SALESMAN: A HEURISTIC SCALING ANALYSIS
+
+Speaker: Garrett Folks
+
+In this talk, we analyze two heuristics that approximate the Traveling Salesman Problem: K-Opt search and ant colony optimization. Our goal was to explore how these heuristics perform when run in parallel on multiple CPU cores as well as using GPU computing. We found that the K-Opt search heuristic showed impressive performance scaling results, especially when executed on a GPU. We also parallelized portions of the ant colony optimization and found good scaling. We conjecture that the ant colony optimization could be greatly improved with the use of GPU computing.
+
+==== 10 / 6 Prof. Michael Lam ====
+
+Scheduling, Reproducibility, and Resilience
+
+Dr. Lam and JMU student Garrett Folks spent Summer 2017 doing research at Lawrence Livermore National Laboratory (LLNL) in California. LLNL is a Department of Energy lab that supports a variety of computational research in the broad area of high-performance and scientific computing. This survey talk will give an overview of three ongoing research collaborations between LLNL and academic institutions with a general theme of improving the performance and reliability of numeric code.
+
+==== 9 / 22 Kevin Münch ====
+
+Development of voice user interfaces and their impact to the userexperience of mobile applications
+
+Voice user interfaces help users in hands-free situations and whenever graphical interfaces cannot be used. Developing voice user interfaces is a complex process. Besides the technical challenges of understanding and synthesizing human speech, the design of the dialogs is the key part to create a good interface. An easy dialog design includes the right wording and sentence structure. In addition, voice user interfaces can be combined with graphical interfaces to ensure a better usability. This presentation introduces the process of voice user interface development and the design of understandable dialogs. It displays this process through a practical example. This example explains the development of an Android application to experience interactive fiction. The application implements a voice user interface, created during the research for the thesis which this presentation is based on.
+
+==== 9 / 15 Prof. Jingwei Yang ====
+
+A situation-centric, knowledge-driven requirements elicitation approach
+
+Human factors have been increasingly recognized as one of the major driving forces of requirement changes. We believe that the requirements elicitation (RE) process should largely embrace human-centered perspectives, and my work focuses on changing human intentions and desires over time. To support software evolution due to requirement changes, Situ framework has been proposed to model and detect human intentions by inferring their desires through monitoring environmental contexts and human behavioral contexts prior to or after system deployment. Earlier work on Situ reported that the technique is able to infer users’ desires with a certain degree of accuracy using the Conditional Random Fields method. However, new intention identification and new requirements elicitation still primarily depends on manual analysis.
+
+In this talk, I will discuss our attempt to find a computable way to identify users’ new intentions with limited help from human oracle. I will first discuss the feasibility of implementing the concept of Data-Information-Knowledge-Wisdom (DIKW) to bridge the gap between requirements and data pertaining to user behaviors and environmental contexts, and will then introduce our proposed situation-centric, knowledge-driven requirements elicitation approach using the Multi-strategy, Task-adaptive Learning (MTL) method and the Strategic Rationale (SR) model. Our case study shows that the proposed approach is able to identify users’ new intentions, and is especially effective to capture alternatives of low-level tasks. I will also demonstrate how these newly identified intentions can be fused to the existing domain knowledge network using the SR model, and harvest high-level wisdom, in terms of new requirements and design insights.
+
+===== Spring 2017 Talks =====
+
+==== 4 / 14 Prof. Chris Mayfield ====
+
+Adopting CS Principles in a Breadth-First Survey Course
+
+With the recent launch of AP CS Principles in 2016-17, many efforts are currently underway to share curriculum resources and prepare new teachers. The community has primarily focused on high school implementations, which have different situational factors than university courses (e.g., amount of class time). In this seminar, we present the design of a survey course that aligns with CS Principles and also continues the long tradition of breadth-first introductions to computer science at the college level. We describe the instructional strategies, assessments, and curriculum details, providing a model for how to modify existing CS0 courses. We also outline twelve lab activities that support the computational thinking practices and learning objectives of the AP curriculum framework. The course has run successfully for the past four years at two universities and three high schools via dual enrollment. Initial results suggest that the curriculum has a positive impact on student confidence levels and attitudes toward computer science.
+
+==== 3 / 31 Prof. Dee Weikle ====
+
+Workload Characterization: Some Motivation and Some Math
+
+Workload characterization, including establishing benchmarks, has become a critical part of computer architecture research. At its core, though, it is manipulating very large amounts of data. This talk will discuss some of the motivation behind doing workload characterization and at least one of the mathematical tools, Principal Component Analysis, that computer architects use to do characterization.
+
+==== 3 / 3 Prof. Nathan Sprague ====
+
+Deep Neural Networks vs. Space Invaders: Teaching a Computer to Play Atari
+
+Neural networks have seen a resurgence over the last decade as a result of algorithmic and hardware advances that have enabled the use of deep network architectures. These deep neural networks are now the dominant approach for a wide range of challenging computational problems. Some networks have shown human-level (or better) performance on tasks including visual object recognition, game playing, and translation. In this talk I will introduce artificial neural networks, describe recent progress in deep neural networks, and discuss the application of these networks to problems that involve reasoning and decision making.
+
+==== 2 / 10 Prof. Michael Kirkpatrick ====
+
+Two Talks for the Price of One: Evaluating CS1 Changes and Cognitivism as a CS Ed Foundation
+
+The first part of this talk presents the results of empirical research examining the impact of recent changes made to the introductory CS courses at JMU. We have examined 10 years of data to examine whether the JMU CS introductory sequence is achieving its goal of providing a basis for all students to succeed in the major, regardless of prior experience.
+
+The second part of this talk discusses why more research on CS education is needed. After presenting some counterintuitive and surprising empirical results, we will introduce cognitivism as a theory of learning. This theory uses principles of human cognitive architecture to explain how learning occurs. Cognitive load theory (CLT) builds on these principles to create a basis for efficient and enduring acquisition of biologically secondary knowledge. We will close by discussing the possibility that CLT provides a good framework for effective CS teaching.
+
+==== 1 / 27 Prof. John C. Bowers ====
+
+Circle packings and Polyhedra
+
+In this talk I will survey some recent developments in the field of circle packing, a theory of circle patterns that are packed together so that neighboring circles are tangent. Circle packings are theoretically interesting as discretizations of analytic functions and provide a method of computing maps between spaces, called quasi-conformal maps, that (approximately) maintain angles. A variety of interesting applications make use of circle packings, including brain anatomy mapping, computational experiments for investigating certain random-walk behaviors in quantum mechanics, and graph drawing. I will introduce the field of circle packing, discuss several of our recent theoretical results, and discuss a new heuristic for computing circle packings that we are currently applying to 3D-printing related applications.
+
+===== Fall 2016 Talks =====
+
+==== 11 / 4 Prof. Chris Fox ====
+
+LogicBench: Web Tools for Learning Logic
+
+There are many tools for helping students learn logic. Most tend to be rather clunky and restricted to classical propositional and predicate logic. The LogicBench project is an effort to make more elegant pedagogical tools for a wide range of logics, including modal and temporal logics.
+
+==== 10 / 21 Prof. David Bernstein ====
+
+Finding Alternatives to the Best Path
+
+This talk considers several different ways of thinking about alternatives to the best (e.g., shortest, minimum cost) path. It then defines the notion of the Best k-Similar Path and considers a linear optimization formulation of the problem of finding such paths. Next it considers a Lagrangian Relaxation heuristic for solving this problem (and other related problems). Finally, it concludes with some empirical results. Along the way it provides some background (for those who need it) on multivariate calculus and linear optimization.
+
+==== 10 / 7 Prof. Mike Lam ====
+
+Office Space and Salami - Automated Floating-Point Program Analysis
+
+Most computers use floating-point arithmetic to perform non-integer computations. However, floating-point representations provide limited precision and it can be difficult to quantify the resulting loss of accuracy. Because of this, computer programmers tend to use the highest available precision and "hope for the best." My research addresses this situation by providing automated techniques for analyzing and providing insights about the floating-point behavior of computer programs. Most of these techniques operate at the assembly and machine code level, adding instrumentation to detect problems or simulate alternative representations. In this talk, I will describe past efforts as well as my current research, including concrete projects that I would like to work on with undergraduate students.
+
+==== 9 / 22 Prof. John C. Bowers ====
+
+Cauchy Rigidity of convex c-Polyhedra
+
+A c-polyhedron is a generalization of circle packings on the sphere to circle patterns with specified inversive distances between adjacent circles where the underlying 1-skeleton need not be a triangulation. In this talk we prove that any two convex c-polyhedra with inversive congruent faces are inversive congruent. The proof follows the pattern of Cauchy’s proof o f his celebrated rigidity theorem for convex Euclidean polyhedra. The trick in applying Cauchy’s argument in this setting is in constructing hyperbolic polygons around each vertex in a c-polyhedron on which a variant of Cauchy’s arm lemma can be applied.
