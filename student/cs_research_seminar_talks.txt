@@ -1,11 +1,12 @@
 
 ====== Fall 2019 Schedule =====
 
-* Oct 4 - What is research? 
-* Oct 11 - Logan and Jenna
-* Oct 25 - Kevin Molloy
-* Nov 15 - Nathan Sprague
-* Dec 6 - Dee Weikle
+  * Oct 4 - What is resarch? 
+  * Oct 11 - Logan and Jenna
+  * Oct 25 - Kevin Molloy
+  * Nov 15 - Nathan Sprague
+  * Dec 6 - Dee Weikle
+
 ====== Past Talks ======
 
 ===== Spring 2019 Talks =====
