@@ -19,7 +19,9 @@ On the Fridays when there is no research seminar talk, some faculty and students
   * [[https://hcientist.cs.jmu.edu/|Prof. Stewart]]
   * [[https://w3.cs.jmu.edu/weikleda|Prof. Weikle]]
 
-====== Projects ======
+====== Active Projects ======
+
+Here is a short sampling of active projects conducted by JMU faculty members with students. 
 
 Feel free to add your project here!
 
