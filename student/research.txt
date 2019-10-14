@@ -56,8 +56,9 @@ Additive manufacturing (3D-printing) techniques are enabling lighter, stronger, 
    * Papers:
      * Journal paper (submitted): "Design optimization of a Graded Lattice Structure and its application to Additive Manufacturing"
      * Conference paper: [[ https://www.osti.gov/biblio/1479756-graded-infill-structure-wind-turbine-blade-accounting-internal-stress-big-area-additive-manufacturing | "Graded Infill Structure of Wind Turbine Blade Accounting for Internal Stress in Big Area Additive Manufacturing" ]]
-     * Conference paper: [[ https://dl.acm.org/citation.cfm?id=3092883 | "A framework for tool path optimization in fused filament fabrication." ]]
-     * Conference paper: [[ https://www.researchgate.net/publication/324953513_An_integrated_design_approach_for_infill_patterning_of_fused_deposition_modeling_and_its_application_to_an_airfoil | "An Integrated Design Approach for Infill Patterning of Fused Deposition Modeling and its Application to An Airfoil." ]]
+     * Conference paper*: [[ https://dl.acm.org/citation.cfm?id=3092883 | "A framework for tool path optimization in fused filament fabrication." ]]
+     * Conference paper*: [[ https://www.researchgate.net/publication/324953513_An_integrated_design_approach_for_infill_patterning_of_fused_deposition_modeling_and_its_application_to_an_airfoil | "An Integrated Design Approach for Infill Patterning of Fused Deposition Modeling and its Application to An Airfoil." ]]
+     * *Paper included JMU student work. 
    * Status: Ongoing and looking for new students!
 
 ===== Shadow Value Analysis =====
