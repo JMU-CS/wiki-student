@@ -48,7 +48,16 @@ Programming" ]]
   * Less-Java repository: [[ https://github.com/JMU-CS/less-java | GitHub ]]
   * Status: Ongoing and looking for new students!
 
+===== Infill Generation for Additive Manufacturing Design =====
 
+Additive manufacturing (3D-printing) techniques are enabling lighter, stronger, and more quickly designed industrial production. A 3D printed object is neither solid nor hollow, but instead is filled with a pattern of material called an infill. This project seeks to design new computational methods for generating infill patterns that allow for both stronger and lighter materials to be constructed, generally based on some user specified parameters or simulated stress data. For example, an airplane wing experiences more stress near its attachment to the fuselage than it does at the wingtip. Can we design an infill pattern for a 3D printed airplane wing that is both strong where the stress is highest, but lighter than a wing built using traditional methods?
+
+   * Faculty contact: [[ https://johncbowers.com | John C. Bowers ]]
+   * Papers:
+     * [[ https://www.osti.gov/biblio/1479756-graded-infill-structure-wind-turbine-blade-accounting-internal-stress-big-area-additive-manufacturing | "Graded Infill Structure of Wind Turbine Blade Accounting for Internal Stress in Big Area Additive Manufacturing" ]]
+     * [[ https://dl.acm.org/citation.cfm?id=3092883 | "A framework for tool path optimization in fused filament fabrication." ]]
+     * [[ https://www.researchgate.net/publication/324953513_An_integrated_design_approach_for_infill_patterning_of_fused_deposition_modeling_and_its_application_to_an_airfoil | "An Integrated Design Approach for Infill Patterning of Fused Deposition Modeling and its Application to An Airfoil." ]]
+   * Status: Ongoing and looking for new students!
 
 ===== Shadow Value Analysis =====
 
