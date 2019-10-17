@@ -27,4 +27,4 @@ Dr. Kirkpatrick also maintains an unofficial prerequisite graphic on his [[https
 
 Although the CS department cannot guarantee that certain courses will be offered in the future, we plan course
 offerings ahead of time and do our best to follow the plan. Here is the
-[[http://www.jmu.edu/bscs/documents/course-offerings-2018-20.pdf|current plan]].
+[[https://wiki.cs.jmu.edu/_media/student/curriculum/offerings.pdf|current plan]].
