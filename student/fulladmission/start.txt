@@ -1,3 +1,5 @@
+=== Full Admission to the CS Major or the CS Minor ===
+
 Any student may declare a CS major or minor, but students may enroll in CS courses beyond CS 139/149,
 CS 159, and CS/MATH 227 only if they are fully admitted to the CS major or minor. Full admission to the
 major or minor is granted as described below.
