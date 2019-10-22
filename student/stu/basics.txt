@@ -14,7 +14,8 @@ You can login to "stu" using an SSH client (and the host name   ''%%stu.cs.jmu.e
 
 You can avoid the need to authenticate yourself (with your eID and password) each time you login [[ student:utilities:start:keypairs | using a public/private key pair]]. This is particularly useful when using another protocol (e.g., Subversion or Git) on top of SSH.
 
-To log into a specific lab computer you first login to stu as normal and then you use "ssh L'room_number''computer_number'".
+To log into a specific lab computer you first login to stu as normal and then you use "ssh L[room_number][computer_number]" (fill in the information in the brackets without the brackets).
+
 
 ==== Transferring Files to stu ====
 
