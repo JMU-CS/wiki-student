@@ -43,7 +43,7 @@
     <table width="100%">
     <tbody>
       <tr>
-        <td align="right" valign="center">For Faculty &#10148;</td>
+        <td align="right" valign="center">For Faculty &amp; Staff &#10148;<br>(Requires Login)</td>
         
       </tr>
     </tbody>
@@ -60,7 +60,7 @@
     <table width="100%">
     <tbody>
       <tr>
-        <td align="right" valign="center">For TAs &#10148;</td>
+        <td align="right" valign="center">For TAs &#10148;<br>(Requires Login)</td>
         
       </tr>
     </tbody>
@@ -86,3 +86,7 @@
   </a>
 </div>
 </html>
+
+----
+
+This wiki contains information that is relevant to current students, teaching assistants, faculty and staff at the JMU Department of Computer Science. All members of the CS community are welcome to contribute to building this knowledge base and keeping it up to date (requires login via your EID). Additionally, visitors are welcome to peruse the [[student:start|For Current Students]] section of the wiki, however [[https://cs.jmu.edu|our public website]] is probably a more relevant place for visitors to start.
