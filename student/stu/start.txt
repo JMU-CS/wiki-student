@@ -1,3 +1,4 @@
 ===== stu =====
 
   - [[ student:stu:basics | stu Basics ]]
+  - [[ student:stu:ettiquette | stu Ettiquette ]]
