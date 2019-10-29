@@ -32,3 +32,13 @@ By default, Linux considers all processes equally important and allots them equa
   nice -n 19 ./long_running_job
 
 [[ https://linux.die.net/man/8/renice | renice ]] allows users to set the niceness of an already running command.
+
+===== Space Consumption =====
+
+Please be mindful of the disk space you consume, as it is also a shared resource.
+
+You can easily see how much space you are using by using du:
+
+  du -h $HOME
+  
+You can also use [[https://linux.die.net/man/1/ncdu | ncdu ]], which provides a more graphical representation of space consumption.
