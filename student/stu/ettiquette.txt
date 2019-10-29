@@ -1,1 +1,18 @@
-The student server is a shared resource, and as with any shared resource it is important to be considerate of others who are using the resource. Please make sure the machine remains responsive by closely monitoring any processes that you have running and terminating them if they are using an abnormal amount of CPU time, memory, or I/O bandwidth. You can use the [[ http://man7.org/linux/man-pages/man1/top.1.html | top ]] utility to monitor resource-intensive processes that are running on the system.
+===== Etiquette =====
+
+The student server is a shared resource, and as with any shared resource it is important to be considerate of others who are using the resource. Please make sure the machine remains responsive by closely monitoring any processes that you have running and terminating them if they are using an abnormal amount of CPU time, memory, or I/O bandwidth. This article describes tools that can be useful for monitoring resource-intensive processes that are running on the system.
+
+===== Monitoring =====
+==== top ====
+
+[[ http://man7.org/linux/man-pages/man1/top.1.html | top ]] provides insight into the overall load on a system and the details on  running processes. By default, top sorts processes by CPU usage though you can change the sort column with the ''<'' and ''>'' keys while top is running.  Top can also display only your processes with the ''-u'' command line option.
+
+The load average is another useful piece of information provided by top and consists of three numbers indicating the CPU and IO load over the last one, five, and 15 minute periods. 
+
+==== pidstat ====
+
+Disk IO is usually the culprit when top indicates a high load average combined with low CPU usage. [[ https://linux.die.net/man/1/pidstat | pidstat ]] can be used to display a user's per-process IO statistics over a given interval. Use ''pidstat -d 1'' to display IO statistics every one second. The example below shows two processes reading and writing to disk.
+
+  11:26:00 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+  11:26:01 AM  2069     39724    932.00      0.00      0.00      81  tar
+  11:26:01 AM  2069     39726      0.00    192.00      0.00       0  gzip
