@@ -1,6 +1,6 @@
 ===== Etiquette =====
 
-The student server is a shared resource, and as with any shared resource it is important to be considerate of others who are using the resource. Please make sure the machine remains responsive by closely monitoring any processes that you have running and terminating them if they are using an abnormal amount of CPU time, memory, or I/O bandwidth. This article describes tools that can be useful for monitoring resource-intensive processes that are running on the system.
+The student server is a shared resource, and as with any shared resource it is important to be considerate of others who are using the resource. Please make sure the machine remains responsive by closely monitoring any processes that you have running and terminating them if they are using an abnormal amount of CPU time, memory, or I/O bandwidth. This article describes tools that can be useful for monitoring and controlling resource-intensive processes that are running on the system.
 
 ===== Monitoring =====
 ==== top ====
@@ -16,3 +16,19 @@ Disk IO is usually the culprit when top indicates a high load average combined w
   11:26:00 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
   11:26:01 AM  2069     39724    932.00      0.00      0.00      81  tar
   11:26:01 AM  2069     39726      0.00    192.00      0.00       0  gzip
+
+===== Limits =====
+
+==== cpulimit ====
+
+[[ https://www.unix.com/man-page/debian/1/cpulimit/ | cpulimit ]] can limit the cpu usage of a running process. For example, the following command would limit PID 1234 to 25% CPU usage. You can identify PIDs with ''top'' or ''ps''.
+
+  cpulimit -p 1234 -l 25
+
+==== nice ====
+
+By default, Linux considers all processes equally important and allots them equal CPU time. The [[ https://linux.die.net/man/1/nice | nice ]] command can be used to run processes at a lower priority, thus making them "nicer". Niceness values range from -20 to +19, with higher numbers having a lower priority. Only the superuser can set negative niceness values. For example:
+
+  nice -n 19 ./long_running_job
+
+[[ https://linux.die.net/man/8/renice | renice ]] allows users to set the niceness of an already running command.
