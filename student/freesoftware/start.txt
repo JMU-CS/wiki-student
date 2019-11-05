@@ -1,4 +1,6 @@
-Many software and technologies companies make their commercial software or services available for free to university students:
+==== Zero-cost Software ====
+
+Many software and technologies companies make their commercial software or services available at no cost to university students:
 
   * Amazon's [[https://aws.amazon.com/education/awseducate/ | AWS Educate]]
   * GitHub's [[https://education.github.com/pack | Student Developer Pack]]
@@ -8,7 +10,9 @@ Many software and technologies companies make their commercial software or servi
 
 Besides VMWare products, other packages are available from [[https://onthehub.com/ | OnTheHub]]. Search for JMU and choose either "James Madison University" or "College of Integrated Science and Engineering" as the department to find other packages.
 
-**Important:** The above offerings are "free as in beer" not "free as in speech" (for more info, see "[[https://en.wikipedia.org/wiki/Gratis_versus_libre | gratis vs. libre]]" and the [[https://en.wikipedia.org/wiki/Free_software | Free Software]] movement). For the most part, these companies make their software and services available for free with the goal of acquiring you or your employer as a paying customer after you graduate.
+**Important:** The above offerings are "free as in beer" not "free as in speech" (for more info, see "[[https://en.wikipedia.org/wiki/Gratis_versus_libre |gratis vs. libre]]" and the [[https://en.wikipedia.org/wiki/Free_software |Free Software]] movement). For the most part, these companies make their software and services available for free with the goal of acquiring you or your employer as a paying customer after you graduate.
+
+==== Free/Libre Software ====
 
 Here are some popular "free as in speech" alternatives to commercial software:
 
