@@ -1,29 +1,50 @@
 ====== Advising FAQ ======
 
 Q. I'm just finishing up CS 149. What should I take next semester?
-  * A. CS 159 and CS 227.
 
+A. CS 159 and CS 227.
 
-Q. I'm just finishing up CS 159 and am applying for the major. I do not anticipate the 3.0 GPA requirement being a problem. What should I take next semester?
+----
+
+Q. I'm just finishing up CS 159 and am applying for the major. I think I'll **meet the 3.0 GPA requirement**. What should I take next semester?
+
 A. You will receive an email after being admitted to the major that will tell you which courses to sign up for. It will be one of CS 240 and CS 261, as well as possibly CS 345 or some other course.
 
-Q. I'm just finishing up CS 159 and am applying for the major. I *do* anticipate the 3.0 GPA requirement being a problem. What should I do?
+----
+
+Q. I'm just finishing up CS 159 and am applying for the major. I do anticipate the **3.0 GPA requirement being a problem**. What should I do?
+
 A. Make sure you meet with your CS 159 instructor to discuss your status and likelihood of admission to the major. If the latter is not a given, you should go ahead and register for CS 159 to save a seat in case you have to re-take it. If you are admitted to the major, drop CS 159 and see the previous question for what to do. If you are not admitted to the major, re-take CS 159 and see if you can use the remaining credits that semester to start picking up a minor or a second/alternative major.
 
-Q. I just finished CS 240 or 261. What should I take next semester?
-A. Whichever of the two that you haven't finished, plus anything else you can take given prerequisite and class scheduling restrictions.
+----
 
-Q. Can you give me an override into CS 330? It's the only CS elective I can take!
+Q. I just finished CS 240 or 261. What should I take next semester?
+
+A. Whichever of the two that you haven't finished, plus anything else you can take given prerequisite and class scheduling restrictions. See Dr. Kirkpatrick's [[https://w3.cs.jmu.edu/kirkpams/advising.shtml | unofficial prerequisite map]]. 
+
+----
+
+Q. Can you give me an **override into CS 330**? It's the only CS elective I can take!
+
 A. No. Every semester we have a dozen people with the same predicament and we cannot accommodate everyone. If you don't get in, wait until next semester when you have more prerequisites and thus more options. This would be a good time to start looking at picking up a minor with your extra class slots next semester.
 
-Q. Can you give me an override into CS xxx? I need it to graduate!
+----
+
+Q. Can you give me an **override into CS xxx**? I need it to graduate!
+
 A. If you absolutely need a specific course to graduate *this* semester, talk to the undergraduate program coordinator--they are the only person who can give you an override.
+----
 
-Q. I need to graduate in three semesters. Should I take CS 240 or CS 261 first?
+Q. I need to graduate in three semesters. Should I **take CS 240 or CS 261 first**?
+
 A. Yes, both. Sorry, they are both prerequisites for so many courses that if you haven't had either and you want to graduate in three semesters you'll need to do both at the same time (and probably 345 as well). It will be quite tough, but with these timing constraints you might as well get used to hard semesters. If you can afford it, it would be far better to stay longer and move at a more reasonable pace.
+----
 
-Q. I have a lot of extra class slots in my last two years. What should I do?
+Q. I have a lot of **extra class slots** in my last two years. What should I do?
+
 A. Congratulations! You've been on top of things and are well-positioned to pick up a minor or second major. Recommended minors include math, robotics, telecom, and logic & reasoning. Obviously, personal preference holds weight here as well. If you are interested in chemistry, music industry, or theatre, do it! JMU is a liberal arts college and you should take advantage of that.
+----
 
-Q. Do you offer courses during the summer or Maymester?
+Q. Do you offer courses during the **summer or Maymester**?
+
 A. We generally do not. On occasion, a faculty member may decide to offer one during the summer session, but that does not happen often and only for particular courses. We never offer courses during Maymester.
