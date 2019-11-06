@@ -1,6 +1,7 @@
 ====== Advising FAQ ======
 
 Q. I'm just finishing up CS 149. What should I take next semester?
+
 A. CS 159 and CS 227.
 
 Q. I'm just finishing up CS 159 and am applying for the major. I do not anticipate the 3.0 GPA requirement being a problem. What should I take next semester?
