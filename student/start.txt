@@ -11,7 +11,7 @@ There are usually 3-4 TAs in the labs at any given time period.
 
 ==== University/Department-Specific Resources ====
 
-  * [[student:autolab:start | Advising ]]
+  * [[student:advising:start | Advising ]]
   * [[student:autolab:start | Autolab ]]
   * [[student:checkstyle:start | Checkstyle ]]
   * [[student:clubs:start | Clubs]]
