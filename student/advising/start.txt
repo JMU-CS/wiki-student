@@ -1,6 +1,6 @@
 ====== Advising FAQ ======
 
-  * Q. I'm just finishing up CS 149. What should I take next semester?
+Q. I'm just finishing up CS 149. What should I take next semester?
   * A. CS 159 and CS 227.
 
 
