@@ -10,6 +10,7 @@ If you're running Linux, you might need to set things up manually. For example, 
   * **Wireless security:** WPA & WPA2 Enterprise
   * **Authentication:** Protected EAP (PEAP)
   * **Anonymous identity:** <leave blank>
+  * **Domain:** <leave blank>
   * **CA certificate:** /usr/share/ca-certificates/mozilla/AddTrust_External_Root.crt
   * **PEAP version:** Version 0
   * **Inner authentication:** MSCHAPv2
