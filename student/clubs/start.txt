@@ -41,7 +41,7 @@ The Forensics club is for those interested in learning the basics of forensics a
   * Weekly meetings: TBD in ISAT Computer Lab
   * Website: http://minorityprogrammers.org
 
-The Minority Program Coalition was started in 2019 at JMU by a group of diverse Computer Science / Computer Information Systems students looking to start a community where minorities are both accepted and have the opportunity to produce projects as undergrads.  Join MPC (the newest CS org) if you want to **develop** coding solutions with minorities tackling problems affecting underprivileged communities, **join** the only organization at JMU the develops impactful technical projects, and **educate** local/diverse communities through programming.
+The Minority Program Coalition was started in 2019 at JMU by a group of diverse Computer Science / Computer Information Systems students looking to start a community where minorities are both accepted and have the opportunity to produce projects as undergrads.  Join MPC (the newest CS org) if you want to **develop** coding solutions with minorities tackling problems affecting underprivileged communities, **join** the only organization at JMU that develops impactful technical projects, and **educate** local/diverse communities through programming.
 
 ==== PlayMU ====
 
