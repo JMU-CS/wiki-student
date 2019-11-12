@@ -49,6 +49,8 @@ Q. I'm not getting what I want. May I request an **override**?
 A. If you have an unusual circumstance, then it might be possible to work things out. However please don't ask for an override just because you "really want" a specific section of a course.
 
 
+
+
 ====== Upperclassmen Advising FAQ ======
 
 Q. I'm just finishing up CS 149. What should I take next semester?
