@@ -2,13 +2,13 @@
 
 Q. Can you tell me more about **CS 101**?
 
-A. CS 101 is a new course that gives a broad overview of computer science, rather than focus solely on programming. It's designed to be as difficult as CS 139/149, but it concentrates more on fundamental concepts than technical skills. See the [[https://w3.cs.jmu.edu/cs101/|CS 101 website]] for more details. This course is currently an elective, but there are plans to make it required for all CS majors at some point. It's definitely worth taking.
+A. CS 101 is a new course that gives a broad overview of computer science, rather than focus solely on programming. It's designed to be as difficult as CS 149, but it concentrates more on fundamental concepts than technical skills. See the [[https://w3.cs.jmu.edu/cs101/|CS 101 website]] for more details. This course is currently an elective, but there are plans to make it required for all CS majors at some point. It's definitely worth taking.
 
 ----
 
 Q. I have **no programming experience.** What should I do?
 
-A. About 2/3 of our incoming majors have no programming experience, and CS is only offered in about 25% of high schools nationwide. So we really don't expect students to have any background. There's nothing specific to prepare for CS 139/149, but I can give you a few pointers if you have some extra time this summer. The best place to start learning to program is [[http://code.org/|Code.org]].
+A. About 2/3 of our incoming majors have no programming experience, and CS is only offered in about 25% of high schools nationwide. So we really don't expect students to have any background. There's nothing specific to prepare for CS 149, but I can give you a few pointers if you have some extra time this summer. The best place to start learning to program is [[http://code.org/|Code.org]].
 
 ----
 
@@ -20,7 +20,7 @@ The Macbook Pro is fairly top of the line but overpriced. If you plan to buy a M
 
 ----
 
-Q. As a CS major, is there any ** software** I should purchase?
+Q. As a CS major, is there any **software** I should purchase?
 
 A. Nope, pretty much everything we use is free and open source. Some students prefer to buy Microsoft Office (you can get the student price at the bookstore). But I recommend using [[https://www.libreoffice.org/|LibreOffice]] instead, which not only is free but also superior in a number of ways. All the fancy development tools we use for doing computer science are freely available, developed by CS people for CS people. It's a great community to be a part of.
 
@@ -30,7 +30,8 @@ Q. When/where should I **get textbooks** for my courses?
 
 A. You should go ahead and buy/rent your books before the semester begins. Visit the [[https://www.jmu.edu/bookstore/|JMU bookstore]] website to find out what you'll need for each course. I recommend shopping around online to find the best deals (e.g., [[https://www.amazon.com/|Amazon]], [[https://www.ebay.com/|eBay]], [[http://www.bigwords.com/|Bigwords]]). Since the first day of class is only a few weeks away, you'll want to order soon. Of course, you can always visit the bookstore when you get here if you need anything last minute.
 
-======Freshmen Spring Enrollment FAQ ======
+
+====== Freshmen Spring Enrollment FAQ ======
 
 Q. What is the difference between **CS 227 and MATH 227**?
 
@@ -47,7 +48,6 @@ A. No, unless your math placement score prevents you. CS majors typically take b
 Q. I'm not getting what I want. May I request an **override**?
 
 A. If you have an unusual circumstance, then it might be possible to work things out. However please don't ask for an override just because you "really want" a specific section of a course. 
-
 
 
 ====== Upperclassmen Advising FAQ ======
@@ -85,16 +85,19 @@ A. No. Every semester we have a dozen people with the same predicament and we ca
 Q. Can you give me an **override into CS xxx**? I need it to graduate!
 
 A. If you absolutely need a specific course to graduate *this* semester, talk to the undergraduate program coordinator--they are the only person who can give you an override.
+
 ----
 
 Q. I need to graduate in three semesters. Should I **take CS 240 or CS 261 first**?
 
 A. Yes, both. Sorry, they are both prerequisites for so many courses that if you haven't had either and you want to graduate in three semesters you'll need to do both at the same time (and probably 345 as well). It will be quite tough, but with these timing constraints you might as well get used to hard semesters. If you can afford it, it would be far better to stay longer and move at a more reasonable pace.
+
 ----
 
 Q. I have a lot of **extra class slots** in my last two years. What should I do?
 
 A. Congratulations! You've been on top of things and are well-positioned to pick up a minor or second major. Recommended minors include math, robotics, telecom, and logic & reasoning. Obviously, personal preference holds weight here as well. If you are interested in chemistry, music industry, or theatre, do it! JMU is a liberal arts college and you should take advantage of that.
+
 ----
 
 Q. Do you offer courses during the **summer or Maymester**?
