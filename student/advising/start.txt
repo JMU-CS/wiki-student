@@ -1,22 +1,4 @@
 
-====== Freshmen Spring Enrollment FAQ ======
-
-Q. What is the difference between **CS 227 and MATH 227**?
-
-A. CS 227 and MATH 227 are essentially the same class. The main difference is CS 227 is taught by a CS professor (e.g., Mata-Toledo) and MATH 227 is taught by a Math professor (e.g., Jones). Only CS majors take that class, so just pick whichever one fits your schedule.
-
-----
-
-Q. Should I **wait** another semester to take **CS/MATH 227**?
-
-A. No, unless your math placement score prevents you. CS majors typically take both 159 and 227 their 2nd semester (in addition to any other math courses like calculus or stats). Both 159 and 227 are required in order to move on to CS 240 next fall.
-
-----
-
-Q. I'm not getting what I want. May I request an **override**?
-
-A. If you have an unusual circumstance, then it might be possible to work things out. However please don't ask for an override just because you "really want" a specific section of a course. 
-
 
 ====== Upperclassmen Advising FAQ ======
 
