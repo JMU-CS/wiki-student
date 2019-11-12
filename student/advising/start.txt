@@ -38,7 +38,7 @@ A. CS 227 and MATH 227 are essentially the same class. The main difference is CS
 
 ----
 
-Q. Should I wait another semester to take CS/MATH 227?
+Q. Should I **wait** another semester to take **CS/MATH 227**?
 
 A. No, unless your math placement score prevents you. CS majors typically take both 159 and 227 their 2nd semester (in addition to any other math courses like calculus or stats). Both 159 and 227 are required in order to move on to CS 240 next fall.
 
