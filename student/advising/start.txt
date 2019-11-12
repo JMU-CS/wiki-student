@@ -1,4 +1,55 @@
-====== Advising FAQ ======
+====== Incoming Freshmen FAQ ======
+
+Q. Can you tell me more about **CS 101**?
+
+A. CS 101 is a new course that gives a broad overview of computer science, rather than focus solely on programming. It's designed to be as difficult as CS 139/149, but it concentrates more on fundamental concepts than technical skills. See the [[https://w3.cs.jmu.edu/cs101/|CS 101 website]] for more details. This course is currently an elective, but there are plans to make it required for all CS majors at some point. It's definitely worth taking.
+
+----
+
+Q. I have **no programming experience.** What should I do?
+
+A. About 2/3 of our incoming majors have no programming experience, and CS is only offered in about 25% of high schools nationwide. So we really don't expect students to have any background. There's nothing specific to prepare for CS 139/149, but I can give you a few pointers if you have some extra time this summer. The best place to start learning to program is [[http://code.org/|Code.org]].
+
+----
+
+Q. What type of **laptop** is recommended for CS majors?
+
+A. Pretty much any laptop you can find will do. I finished my PhD on a $300 netbook with no problem. Now I have a Macbook Pro because I like the hardware. But it's more a question of personal preference than recommended specs. In my opinion, the most important aspect is how large/heavy it will be to carry around all day. 13-inch is popular among students and faculty. 15-inch has a nicer display but costs more.
+
+The Macbook Pro is fairly top of the line but overpriced. If you plan to buy a Mac, wait until the next model comes out. They always keep the same prices and upgrade the hardware periodically. Keep an eye on [[https://buyersguide.macrumors.com/#Retina_MacBook_Pro|MacRumors]] to know when to buy. And order via the [[https://www.apple.com/us-hed/shop|Apple Store for Education]] to get the student discount. Or just get yourself a reasonable PC and install [[https://www.linuxmint.com/|Linux Mint]] as a 2nd OS -- that's what we use in the CS labs.
+
+----
+
+Q. As a CS major, is there any ** software** I should purchase?
+
+A. Nope, pretty much everything we use is free and open source. Some students prefer to buy Microsoft Office (you can get the student price at the bookstore). But I recommend using [[https://www.libreoffice.org/|LibreOffice]] instead, which not only is free but also superior in a number of ways. All the fancy development tools we use for doing computer science are freely available, developed by CS people for CS people. It's a great community to be a part of.
+
+----
+
+Q. When/where should I **get textbooks** for my courses?
+
+A. You should go ahead and buy/rent your books before the semester begins. Visit the [[https://www.jmu.edu/bookstore/|JMU bookstore]] website to find out what you'll need for each course. I recommend shopping around online to find the best deals (e.g., [[https://www.amazon.com/|Amazon]], [[https://www.ebay.com/|eBay]], [[http://www.bigwords.com/|Bigwords]]). Since the first day of class is only a few weeks away, you'll want to order soon. Of course, you can always visit the bookstore when you get here if you need anything last minute.
+
+======Freshmen Spring Enrollment FAQ ======
+
+Q. What is the difference between **CS 227 and MATH 227**?
+
+A. CS 227 and MATH 227 are essentially the same class. The main difference is CS 227 is taught by a CS professor (e.g., Mata-Toledo) and MATH 227 is taught by a Math professor (e.g., Jones). Only CS majors take that class, so just pick whichever one fits your schedule.
+
+----
+
+Q. Should I wait another semester to take CS/MATH 227?
+
+A. No, unless your math placement score prevents you. CS majors typically take both 159 and 227 their 2nd semester (in addition to any other math courses like calculus or stats). Both 159 and 227 are required in order to move on to CS 240 next fall.
+
+----
+
+Q. I'm not getting what I want. May I request an **override**?
+
+A. If you have an unusual circumstance, then it might be possible to work things out. However please don't ask for an override just because you "really want" a specific section of a course.
+
+
+====== Upperclassmen Advising FAQ ======
 
 Q. I'm just finishing up CS 149. What should I take next semester?
 
