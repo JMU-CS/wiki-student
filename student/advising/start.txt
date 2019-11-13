@@ -1,5 +1,12 @@
 
 
+====== Helpful Resources ======
+
+  * [[https://www.jmu.edu/cs/academics/undergraduate/curriculum/index.shtml|Sample Plans of Study]]
+  * Dr. Kirkpatrick's [[https://w3.cs.jmu.edu/kirkpams/advising.shtml|Advising Page]]
+  * CS [[http://catalog.jmu.edu/preview_program.php?catoid=25&poid=7508&returnto=765|Undergraduate Catalog]]
+
+
 ====== Advising FAQ ======
 
 Q. I'm just finishing up CS 149. What should I take next semester?
