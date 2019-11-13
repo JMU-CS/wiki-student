@@ -1,6 +1,6 @@
 
 
-====== Helpful Resources ======
+====== Helpful Links ======
 
   * [[https://www.jmu.edu/cs/academics/undergraduate/curriculum/index.shtml|Sample Plans of Study]]
   * Dr. Kirkpatrick's [[https://w3.cs.jmu.edu/kirkpams/advising.shtml|Advising Page]]
