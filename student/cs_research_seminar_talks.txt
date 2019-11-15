@@ -8,7 +8,8 @@ The CS Research Seminar Talks are talks given by faculty members and undergradua
   * Oct 4 - What is resarch? 
   * Oct 11 - Jenna Horrall and Logan Moody
   * Oct 25 - Prof. Kevin Molloy
-  * Nov 15 - Prof. Nathan Sprague
+  * Nov 15 - Nathan Moore
+  * Nov 22 - Prof. Nathan Sprague
   * Dec 6 - Prof. Dee Weikle
 
 ==== Tentative Spring 2020 Schedule ====
@@ -16,7 +17,16 @@ The CS Research Seminar Talks are talks given by faculty members and undergradua
   * Prof. John Bowers - Circle packing for 3D printed infill design.
   * Prof. Michael Lam
   * Prof. Chris Mayfield
+
 ===== Fall 2019 Abstracts =====
+
+==== 11 / 15 Nathan Moore (JMU '20) ====
+
+POST: A Machine Learning Based Paper Organization and Scheduling Tool
+
+Organizing and assigning papers into sessions within a large conference is a formidable challenge. Some conference organizers, who are typically volunteers, have utilized event planning software to ensure simple constraints, such as two people cannot be scheduled to talk at the same time. In this work, we proposed utilizing natural language processing to find the topics within a corpus of conference submissions and then cluster them together into sessions. As a preliminary evaluation of this technique, we compare session assignments from previous conferences to ones generated with our proposed techniques.
+
+Advisors: Kevin Molloy and Michael Stewart
 
 ==== 10 / 11 Jenna Horrall (JMU '20) ====
 
