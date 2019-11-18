@@ -1,4 +1,4 @@
-Sample plans of study for new students: 
+Sample plans of study for new students. Options B and C are recommended for students interested in the Information Security Certificate because classes required for the certificate have CS 361 as a prerequisite.
  // //
 ====== Option A - Delay 261 ======
 
