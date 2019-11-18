@@ -11,10 +11,10 @@ Sample plans of study for new students. Options B and C are recommended for stud
 ====== Option  - Delay 345 ======
 
 |              ^ Fall           ^ Spring          ^
-^ Year 1    | CS 149 \\ Math 231/235\\ GenEd \\ GenEd \\ GenEd\\ | CS 159 \\ Math 232/236 \\ CS/MATH 227 \\ GenEd \\ GenEd      |
-^ Year 2   | CS 240 \\ CS 261 \\ MATH 220/318 \\ GenEd \\ GenEd \\ | CS 327 \\ CS 361 \\ GenEd \\ GenEd \\ Elective |
-^ Year 3   | CS 4xxS (CS Systems Elective) \\ CS 4xx (CS Elective) \\ GenEd \\ Elective \\ Elective \\ | CS 345 \\ CS 430 \\  GenEd \\ Elective \\ Elective |
-^ Year 4   | CS 412/452 \\ CS 4xx (CS Elective) \\  GenEd \\ Elective \\ Elective \\ | CS 4xx (CS Elective) \\ Elective \\ Elective \\ Elective \\ Elective |
+^ Year 1    | CS 149 \\ Math 231/235\\ GenEd \\ GenEd \\ GenEd\\ | CS 159 \\ Math 232/236 \\ CS/MATH 227 \\ GenEd \\ GenEd|
+^ Year 2   | CS 240 \\ CS 261 \\ MATH 220/318 \\ GenEd \\ GenEd \\ | CS 327 \\ CS 361 \\ GenEd \\ GenEd \\ Elective       |
+^ Year 3   | CS 4xxS (CS Systems Elective) \\ CS 4xx (CS Elective) \\ GenEd \\ Elective \\ Elective \\ | CS 345 \\ CS 430 \\  GenEd \\ Elective \\ Elective       |
+^ Year 4   | CS 412/452 \\ CS 4xx (CS Elective) \\  GenEd \\ Elective \\ Elective \\ | CS 4xx (CS Elective) \\ Elective \\ Elective \\ Elective \\ Elective       |
 \\ \\
 ====== Option C - Core Early ======
 
