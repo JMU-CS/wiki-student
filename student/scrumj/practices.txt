@@ -74,6 +74,6 @@ If Sprint N-1 contains open stories and/or deactivated stories, the best thing t
 
 4. Share the copy with all other team members and the product owner using their eid@dukes.jmu.edu account.
 
-Use the process for Sprint 1, starting with step 5.
+5.-13. Use the process for Sprint 1
 
 If Sprint N-1 does not contain either open stories or deactivated stories, the best thing to do is use the process for Sprint 1 (but using the appropriate sprint number).
