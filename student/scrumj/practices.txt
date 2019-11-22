@@ -1,0 +1,50 @@
+===== scrumj Practices and Conventions =====
+
+scrumj is not a full-featured project management tool. Hence, it must be supplemented in a variety of ways. The following conventions and practices describe one way to use scrumj.
+
+==== Conventions ====
+
+Each document contains the backlog for a single sprint. With that in mind:
+
+  * A scrumj document should contain only sprintable stories.
+  * The product backlog should be kept in a different document. It can contain both sprintable stories and epics. When sprintable stories are added to a sprint backlog they should be manually removed from the product backlog.
+  * Every task should have a description, effort (in hours), and assignee.
+  * Every acceptance criterion (also known as a definition of done) should have a description and assignee.
+  * The team member that is the assignee on a task should mark it as "Checked" when it is completed.
+  * The team member that is the assignee on an acceptance criterion task should mark it as "Checked" when it is confirmed.
+
+==== Practices for Creating Sprint Backlogs ====
+
+The recommended process for creating a backlog is slightly different for the first sprint and subsequent sprints.
+
+=== Sprint 1 ===
+
+Before the planning meeting, one team member should first: 
+
+1. Click on the [[ https://docs.google.com/spreadsheets/d/1bI35ElgIrMCnwfhddW3lgvfDJKuZNDEJL4yiaKWd6ig/copy | scrumj link ]] to create a copy of a blank document.
+
+2. Rename the copy to "Sprint1". (Note: It is a good idea to avoid the use of spaces.)
+
+3. Add the team members to the "Assignments" page using just their eids.
+
+4. Share the copy with all other team members and the product owner using their eid@dukes.jmu.edu account.
+
+After the planning meeting begins, one team member should then:
+
+5. Add all of the stories that the team expects to include in the sprint backlog. (In principle, this can be done by multiple players simultaneously but it is difficult to not create editing conflicts.)
+ 
+Then, multiple team members can simultaneously add details to each story:
+
+6. Copy the description of the story from the product backlog.
+
+7. Enter the number of story points.
+
+8. Add the tasks.
+
+9. Add the acceptance criteria.
+
+After the details of all of the stories have been entered, one team member should:
+
+10. Click on <key>Scrum</key>+<key>Update Assignments</key>.
+
+Help is available on the [[student:scrumj:help | using scrumj page ]].
