@@ -47,13 +47,13 @@ Then, multiple team members can simultaneously add details to each story:
 
 After the details of all of the stories have been entered, one team member should:
 
-10. Click on <key>Scrum</key>+<key>Update Assignments</key>.
+10. Click on <key>scrumj</key>+<key>Update Assignments</key>.
 
 If the team then decides to exclude some stories from the sprint, the best thing to do is:
 
 11. Click on "Deactivated?"
 
-12. Click on <key>Scrum</key>+<key>Update Assignments</key>.
+12. Click on <key>scrumj</key>+<key>Update Assignments</key>.
 
 Alternatively, you could delete. However, you will then lose all of the information you entered about them.
 
