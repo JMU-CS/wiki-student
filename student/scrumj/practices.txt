@@ -15,7 +15,9 @@ Each document contains the backlog for a single sprint. With that in mind:
 
 ==== Practices for Creating Sprint Backlogs ====
 
-The recommended process for creating a backlog is slightly different for the first sprint and subsequent sprints.
+The recommended process for creating a backlog is slightly different for the first sprint and subsequent sprints. 
+Help is available on the [[student:scrumj:help | using scrumj page ]].
+
 
 === Sprint 1 ===
 
@@ -47,4 +49,31 @@ After the details of all of the stories have been entered, one team member shoul
 
 10. Click on <key>Scrum</key>+<key>Update Assignments</key>.
 
-Help is available on the [[student:scrumj:help | using scrumj page ]].
+If the team then decides to exclude some stories from the sprint, the best thing to do is:
+
+11. Click on "Deactivated?"
+
+12. Click on <key>Scrum</key>+<key>Update Assignments</key>.
+
+Alternatively, you could delete. However, you will then lose all of the information you entered about them.
+
+After you have finalized the sprint backlog, remember to:
+
+13. Delete the stories from the product backlog.
+
+
+=== Sprint N ===
+
+If Sprint N-1 contains open stories and/or deactivated stories, the best thing to do is have one team member:
+
+1. Copy the document containing the backlog for Sprint N-1.
+
+2. Rename the copy to "SprintN" (with N replaced by the appropriate number).
+
+3. Click on <key>Scrum</key>+<key>Delete completed stories</key>.
+
+4. Share the copy with all other team members and the product owner using their eid@dukes.jmu.edu account.
+
+Use the process for Sprint 1, starting with step 5.
+
+If Sprint N-1 does not contain either open stories or deactivated stories, the best thing to do is use the process for Sprint 1 (but using the appropriate sprint number).
