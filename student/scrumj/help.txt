@@ -5,9 +5,9 @@ The user interface for scrumj looks something like the following:
 
 {{student:scrumj:ui.png}}
 
-Headings/labels are in **bold**. The headings/labels of cells that can't be edited are also **//italic//**.
+Headings/labels are in **bold**, the headings/labels of cells that can't be edited are in //**italic bold**//, and the headings/labels that can/should only be changed using the <key>scrumj</key> menu are in __**underlined bold**__
 
-In general, you should not use the "standard" spreadsheet commands to add/delete rows/columns/sheets. Instead, you should use the <key>scrumj</key> menu. Menu items that end in ellipses (i.e., ...) will prompt you for additional information.
+In general, you should not use the "standard" spreadsheet commands to add/delete rows/columns/sheets. Instead, you should use the <key>scrumj</key> menu. (Menu items that end in ellipses (i.e., ...) will prompt you for additional information.) Each tab is protected to help prevent you from making changes to cells that should only be changed from the <key>scrumj</key>. However, you can, if you think it is necessary, remove the protections using the "standard" spreadsheet commands (i.e., click on <key>Data</key>+<key>Protected sheets and ranges</key>). You can also reset the protections for stories by clicking on <key>scrumj</key>+<key>Fix protections on current story</key>.
 
 ====Getting Started====
 
