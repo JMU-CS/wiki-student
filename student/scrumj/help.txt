@@ -20,7 +20,7 @@ A story can be added to a sprint by clicking on <key>scrumj</key>+<key>Add one s
 ^ Color ^ Meaning ^
 | <html><span style="color:#00CC00">Green</span></html> | All tasks completed and all acceptance criteria confirmed |
 | <html><span style="color:#FFFF00">Yellow</span></html> | All tasks completed but some acceptance criteria unconfirmed |
-| <html><span style="color:#FFA500">OrangeGreen</span></html> | Some tasks incomplete but, somehow, all acceptance criteria confirmed |
+| <html><span style="color:#FFA500">Orange</span></html> | Some tasks incomplete but, somehow, all acceptance criteria confirmed |
 | <html><span style="color:#CC0000">Red</span></html> | Some tasks incomplete |
 | <html><span style="color:#000000">Black</span></html> | Story was deactivated during sprint planning meeting |
 
