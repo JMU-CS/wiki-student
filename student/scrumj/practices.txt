@@ -10,8 +10,8 @@ Each document contains the backlog for a single sprint. With that in mind:
   * The product backlog should be kept in a different document. It can contain both sprintable stories and epics. When sprintable stories are added to a sprint backlog they should be manually removed from the product backlog.
   * Every task should have a description, effort (in hours), and assignee.
   * Every acceptance criterion (also known as a definition of done) should have a description and assignee.
-  * The team member that is the assignee on a task should mark it as "Checked" when it is completed.
-  * The team member that is the assignee on an acceptance criterion task should mark it as "Checked" when it is confirmed.
+  * The team member that is the assignee on a task should "check" its status checkbox when it is completed.
+  * The team member that is the assignee on an acceptance criterion task should "check" its status checkbox when it is confirmed.
 
 ==== Practices for Creating Sprint Backlogs ====
 
@@ -25,11 +25,11 @@ Before the planning meeting, one team member should first:
 
 1. Click on the [[ https://docs.google.com/spreadsheets/d/1bI35ElgIrMCnwfhddW3lgvfDJKuZNDEJL4yiaKWd6ig/copy | scrumj link ]] to create a copy of a blank document.
 
-2. Rename the copy to "Sprint1". (Note: It is a good idea to avoid the use of spaces.)
+2. Rename the copy to "Sprint1". (Note: It is a good idea to avoid the use of spaces in identifiers of all kinds since they are often used as delimiters.)
 
 3. Set the start/end dates by clicking on <key>scrumj</key>+<key>Set dates...</key>.
 
-4. Add the team members to the "Assignments" page using just their eids.
+4. Add the team members to the "Assignments" page using just the ''local-part'' (i.e., the part before the ''@'' sign) of each member's email address (at JMU, this is the person's eid).
 
 5. Share the copy with all other team members and the product owner using their eid@dukes.jmu.edu account.
 
@@ -53,15 +53,15 @@ After the details of all of the stories have been entered, one team member shoul
 
 If the team then decides to exclude some stories from the sprint, the best thing to do is:
 
-11. Click on "Deactivated?"
+12. Click on "Deactivated?"
 
-12. Click on <key>scrumj</key>+<key>Update Assignments</key>.
+13. Click on <key>scrumj</key>+<key>Update Assignments</key>.
 
-Alternatively, you could delete. However, you will then lose all of the information you entered about them.
+Alternatively, you could delete the story. However, you will then lose all of the information you entered about them.
 
 After you have finalized the sprint backlog, remember to:
 
-13. Delete the stories from the product backlog.
+14. Delete the stories from the product backlog.
 
 
 === Sprint N ===
