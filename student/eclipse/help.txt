@@ -25,6 +25,15 @@ If Eclispe is running slowly you may want to increase the amount of memory alloc
 The first line indicates that the subsequent lines should be sent to the virtual machine as arguments. The second sets the heap space to 128Mb initially. The third sets the maximum heap space to 521Mb. The last two set the starting and maximum amount of space to use for class names, objects that are never garbage collected, etc...) to 128Mb.
 
 
+==== Workspaces ====
+
+A workspace is a directory that Eclipse uses to store preferences/configurations and projects. As a student, you will probably want to create a workspace for each course (since, for example, the style guide for each course may be different, and this information will be captured in the workspace's preferences/configurations).
+
+Eclipse can only use one workspace at a time (though it is possible to have multiple instances of Eclipse running at the same time, each with its own workspace).
+
+Each time you start Eclipse, you will prompted for the workspace to use. You can change the current workspace (and create a new one if necessary) by clicking on <mouse>File+Switch Workspace</mouse>. You can then choose an existing workspace or click on <mouse>Other...</mouse> to create a new one.
+
+
 ==== Projects ====
 
 
