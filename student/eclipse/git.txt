@@ -32,3 +32,11 @@ To add a project to version control:
   - Select the repository
 
 
+==== Summary of Common Git Commands ====
+
+Most Git documentation assumes that you are issuing ''git'' commands within a shell. The following table summarizes how to execute these commands using Egit.
+
+^ ''git'' Command ^ EGit Equivalent ^
+| ''add'' | Right-click on the file and then <key>Team+Add to Index</key> |
+| ''checkout '' | 
+| ''clone'' | Open the Git Perspective and click on |
