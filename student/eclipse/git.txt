@@ -25,7 +25,7 @@ A project should be added to version control only once. After that, files in the
 
 To add a project to version control:
 
-  - [[ Create a local repository | #creating_a_local_repository ]] (if you have not already done so)
+  - [[  #creating_a_local_repository | Create a local repository ]] (if you have not already done so)
   - Right-click on the project
   - Pull down to <key>Team+Share</key>
   - Cick on <key>Git</key>
