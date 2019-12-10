@@ -6,3 +6,4 @@
   - [[ student:eclipse:eclemma | Help using EclEmma ]] (Code Coverage)
   - [[ student:eclipse:checkstyle | Help installing and using the Checkstyle Plugin for Eclipse ]] (Static Analysis)
   - [[ student:eclipse:subversion | Help using Subversion with Eclipse ]] (Code Management)
+  - [[ student:eclipse:git | Help using Git with Eclipse ]] (Code Management)
