@@ -16,3 +16,19 @@ The easiest way to create a local repository is to:
 
   - Open the Git Perspective
   - Click on "Create a new local Git repository"
+
+Note that you should not put the repository under the directory containing the Eclipse workspace.
+
+==== Adding a Project to Version Control ====
+
+A project should be added to version control only once. After that, files in the project can be added to version control individually (or in groups). It is best to create a local repository for the easiest to add a project to version control
+
+To add a project to version control:
+
+  - [[ Create a local repository | #creating_a_local_repository ]] (if you have not already done so)
+  - Right-click on the project
+  - Pull down to <key>Team+Share</key>
+  - Cick on <key>Git</key>
+  - Select the repository
+
+
