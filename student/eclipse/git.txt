@@ -1,0 +1,18 @@
+===== Using Git with Eclipse =====
+
+The Eclipse plugin that integrate Git with Eclipse is called EGit.
+
+==== Installation ====
+
+EGit should have been installed when you installed Eclipse. If not, you can install it using any of the methods described on [[ https://www.eclipse.org/egit/download/ | the EGit downloads page ]]. 
+
+==== Opening the Git Perspective ====
+
+Eclipse enables you to present and interact with the same project in a variety of different ways, each of which is called a "perspective". To enable the Git perspective, click on <key>Window+Perspective+OpenPerspective</key> and select <key>Git</key> (if it is available) or <key>Other...+Git</key>.
+
+==== Creating a Local Repository ====
+
+The easiest way to create a local repository is to:
+
+  - Open the Git Perspective
+  - Click on "Create a new local Git repository"
