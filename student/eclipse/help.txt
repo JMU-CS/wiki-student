@@ -41,10 +41,9 @@ Eclipse organizes resources (including design documents,code, tests, data, exter
 
 
 
-=== Viewing ===
+=== Persepctives ===
 
-
-Eclipse offers several different ways to view resources using what it calls //perspectives//. The most convenient way to view a project is using a browser that is appropriate for the language(s) you are working in. For a Java project, click on <key>Window</key>-<key>Perspective</key>-<key>Open Perspective</key>-<key>Java</key>. (Note: If Java isn't an option, and you have Eclipse setup for Java, you may need to click on <key>Other...</key>.)
+Eclipse offers several different ways to present and interact with projects, each of which is called a //perspective//. The most convenient way to interact with a project is using a perspective that is appropriate for the language(s) you are using. For a Java project, click on <key>Window</key>-<key>Perspective</key>-<key>Open Perspective</key>-<key>Java</key>. (Note: If Java isn't an option, and you have Eclipse setup for Java, you may need to click on <key>Other...</key>.)
 
 
 === Creating ===
