@@ -61,6 +61,16 @@ The easiest way to instruct Git to commit files to the local repository is:
   - Click on <key>Commit</key>
 
 
+==== Pushing a Repository for the First Time ====
+
+The first time you push a local repository, you will be asked to provide several pieces of information.
+
+For most common Git work flows, the "Remote name" should be ''origin'' (indicating that this is the location from which everyone pulls).
+
+The "URI", "Host", "Protocol", and "Port" will vary with the Git host.
+
+You will also be asked to provide a "User" and "Password" for that host. If you select "Store in Secure Store", Eclipse will save this information for you locally, and you will not need to provide it each time you push. Otherwise, you will need to authenticate yourself each time you push.
+
 ==== Summary of Common Git Commands ====
 
 Most Git documentation assumes that you are issuing ''git'' commands within a shell. The following table summarizes how to execute these commands using Egit.
