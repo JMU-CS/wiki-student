@@ -6,6 +6,16 @@ The Eclipse plugin that integrate Git with Eclipse is called EGit.
 
 EGit should have been installed when you installed Eclipse. If not, you can install it using any of the methods described on [[ https://www.eclipse.org/egit/download/ | the EGit downloads page ]]. 
 
+
+==== Configuration ====
+
+To configure Git, click on <key>Window+Preferences</key>. Then, expand <key>Git</key> and click on <code>Configuration</code>.
+
+Since many Git servers use your email address for authentication, it is important that the ''user.email'' value exists and is correct. 
+
+You can edit an existing entry by clicking on it. You can add an entry by clicking on <key>Add Entry...</key> and then entering a key and value. Keys are hierarchical, with levels delimited by a ''.'' character (e.g., ''user.email'').
+
+
 ==== Opening the Git Perspective ====
 
 Eclipse enables you to present and interact with the same project in a variety of different ways, each of which is called a "perspective". To enable the Git perspective, click on <key>Window+Perspective+OpenPerspective</key> and select <key>Git</key> (if it is available) or <key>Other...+Git</key>.
