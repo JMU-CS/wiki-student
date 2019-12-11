@@ -1,6 +1,6 @@
 ===== Using Git with Eclipse =====
 
-The Eclipse plugin that integrate Git with Eclipse is called EGit.
+The Eclipse plugin that integrate Git with Eclipse is called EGit. For more information, see the [[ https://wiki.eclipse.org/EGit/User_Guide | Egit User Guide ]].
 
 ==== Installation ====
 
