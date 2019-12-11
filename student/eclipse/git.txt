@@ -102,6 +102,21 @@ At this point, you will have cloned the repository but you will not have any Ecl
   - Click on <key>Finish</key>
 
 
+==== Responding to ''non-fast-forward'' Messages  ====
+
+If you attempt to push changes that weren't made to the most recent revision (which the system considers the "official revision") the you will receive a ''non-fast-forward'' message. To remedy the situation, you must conduct retrieve the most recent central revision, resolve any conflicts that arise between it and your local revision, and then push the result (which will succeed because it only involves changes to the most recent revision). This can be accomplished in two different ways, using a merge or using a rebase. A merge is non-destructive (i.e., the existing branches are not changed in any way) whereas a rebase rewrites the project history.
+
+=== When Using a Centralized Workflow ===
+
+When you perform a pull with the rebase option, all of your commits are moved to the tip of the master branch. This eliminates the need for a merge commit every time someone needs to synchronize with the central repository. Hence,
+it is preferred by most organizations that use a centralized workflow.
+
+
+=== When Using an Alternative Workflow ===
+
+When using an alternative workflow, the team should agree on when merges and rebases will be used. Opinions differ on which is better because rebasing keeps the history flat and clean whereas merging keeps everything.
+
+
 
 
 
