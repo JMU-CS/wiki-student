@@ -14,7 +14,7 @@ Eclipse enables you to present and interact with the same project in a variety o
 
 The easiest way to create a local repository is to:
 
-  - Open the [[ Git Perspective | opening_the_git_perspective ]]
+  - Open the [[ Git Perspective | #opening_the_git_perspective ]]
   - Click on "Create a new local Git repository"
 
 Note that you should not put the repository under the directory containing the Eclipse workspace.
@@ -41,7 +41,7 @@ repository directory (again, outside of Eclipse) you will see that it now contai
 
 The easiest way to instruct Git to ignore files is to:
 
-  - Open the [[ Git Perspective | opening_the_git_perspective ]]
+  - Open the [[ Git Perspective | #opening_the_git_perspective ]]
   - Click on the "Git Staging" tab
   - Right-click on the file/directory
   - Pull down to <key>Ignore</key>
