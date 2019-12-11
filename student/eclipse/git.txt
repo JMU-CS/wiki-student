@@ -49,6 +49,18 @@ The easiest way to instruct Git to ignore files is to:
 You can also edit the <code>.gitignore</code> file (outside of Eclipse).
 
 
+==== Committing Files ====
+
+The easiest way to instruct Git to commit files to the local repository is:
+
+  - Open the [[ Git Perspective | opening_the_git_perspective ]]
+  - Click on the "Git Staging" tab
+  - Select the appropriate files in the "Unstaged Changes" list
+  - Click on <key>+</key>
+  - Enter a descriptive commit message 
+  - Click on <key>Commit</key>
+
+
 ==== Summary of Common Git Commands ====
 
 Most Git documentation assumes that you are issuing ''git'' commands within a shell. The following table summarizes how to execute these commands using Egit.
