@@ -46,7 +46,7 @@ The easiest way to instruct Git to ignore files is to:
   - Right-click on the file/directory
   - Pull down to <key>Ignore</key>
 
-You can also edit the <code>.gitignore</code> file (outside of Eclipse).
+You can also edit the ''.gitignore'' file (outside of Eclipse).
 
 
 ==== Committing Files ====
