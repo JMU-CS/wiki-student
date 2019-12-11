@@ -194,20 +194,26 @@ The two files will appear side-by-side in a window with a single scroll bar that
 
 === Comparing External Files ===
 
-
 To compare any two files (either in a workspace or external to one), enter "Compare with Other Resource" in the "Quick Access" field (if necessary, first press <key>Ctrl</key>+<key>3</key> to open the Quick Access field). Then enter the names of the two files and click on <key>OK</key>.
 
 
 === Comparing Different Versions of the Same File ===
 
-
 When you edit a file Eclipse actually keeps both the old version and the new version. To compare different versions of the same file (e.g., the current version with an earlier version):
-
 
   - Right-click on the file.
   - Pull down to "Compare With".
   - Pull across to "Local History...".
   - In the "History" window, select the other version you are interested in.
+
+
+=== Comparing with a Version in a Repository ===
+
+If you are managing your code (e.g., with Subversion or Git), you can compare the "local" version of the code with a version in the repository. To do so:
+
+  - Right-click on the file.
+  - Pull down to "Compare With".
+  - Pull across to to the appropriate revision (e.g., the ''HEAD Revision'' or the ''Previous Revision'')
 
 ==== Running ====
 
