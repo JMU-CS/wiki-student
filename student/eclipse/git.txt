@@ -41,7 +41,7 @@ repository directory (again, outside of Eclipse) you will see that it now contai
 
 The easiest way to instruct Git to ignore files is to:
 
-  - Open the [[ Git Perspective | #opening_the_git_perspective ]]
+  - Open the [[ #opening_the_git_perspective | Git Perspective  ]]
   - Click on the "Git Staging" tab
   - Right-click on the file/directory
   - Pull down to <key>Ignore</key>
