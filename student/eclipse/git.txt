@@ -37,9 +37,9 @@ The name of the local repository you are using for this project will now appear 
 If you look at the project directory (outside of Eclipse) you will see that it is now empty, and if you look at the
 repository directory (again, outside of Eclipse) you will see that it now contains all of the directories and files that were in the project' directory.
 
-==== Ignoring Files/Directories ====
+==== Ignoring Files ====
 
-The easiest way to instruct Git to ignore files/directories is to:
+The easiest way to instruct Git to ignore files is to:
 
   - Open the [[ Git Perspective | opening_the_git_perspective ]]
   - Click on the "Git Staging" tab
