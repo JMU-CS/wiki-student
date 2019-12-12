@@ -68,9 +68,7 @@ Eclipse projects can be exported as ''%%.zip%%'' files.  To import such a projec
 
 === Customizing the Formatter ===
 
-
 The way Eclipse formats code can be customized in a variety of different ways. These customizations can either be generic or project-specific. To create/modify a project-specific formatter:
-
 
   - Right-click on the project in the "Package Explorer" and pull down to "Properties". 
   - Expand the appropriate "[] Code Style" property (e.g., "Java Code Style").
@@ -81,6 +79,25 @@ The way Eclipse formats code can be customized in a variety of different ways. T
   
 At this point, a dialog will open up that will allow you to change a wide variety of formatting options.
 
+You can also import an existing formatter. To import a formatter for a specific project (which is probably what you should do if you are using one workspace for all of your courses):
+
+  - Right-click on the project and pull down to <key>Properties</key>
+  - Expand "[] Code Style" (e.g., "Java Code Style").
+  - Click on <key>Formatter</key>
+  - Click on <key>Import</key>
+  - Navigate to the appropriate ''.xml'' file and click <key>Ok</key>
+  - Click on <key>Apply</key>
+
+To import a formatter for all projects in a workspace (which is probably what you should do if you are using a different workspace for each course):
+
+  - Click on <key>Window+Preferences</key> or <key>Eclipse+Preferences</key> depending on your operating system
+  - Expand the language (e.g., "Java")
+  - Expand <key>Code Style</code>
+  - Click on <key>Formatter</key>
+  - Click on <key>Import</key>
+  - Navigate to the appropriate ''.xml'' file and click <key>Ok</key>
+  - Make it the "Active profile"
+  - Click on <key>Apply and close</key>
 
 === Custom Key Bindings ===
 
