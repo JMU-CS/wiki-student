@@ -63,8 +63,8 @@ You can set the checks file for a particular project or for all of the projects 
 === Setting the Checks File for a Workspace ===
  
   - Download the file to an appropriate location on your local           file system.
-  - In Eclipse, click on <key>Window+Properties</key>.
-  - Expand <key>Checkstyle</key>
+  - In Eclipse, click on <key>Window+Preferences</key> or <key>Eclipse+Preferences</key> (depending on your operating system).
+  - Expand <key>Checkstyle</key>.
   - Click on <key>New</key>.
   - Select "External Configuration File", enter a "Name:" and  the "Location:" of the file, and click <key>OK</key>.
   - Select the appropriate configuration file.
