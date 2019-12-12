@@ -43,11 +43,11 @@ To enable the Checkstyle plugin for a particular project:
   - Right-click on the project.
   - Click on <key>Checkstyle</key> and <key>Activate Checkstyle</key>. (Or, if there is no            <key>Checkstyle</key> entry, click on <key>Properties</key>           and then select "Checkstyle", check "Checkstyle active..." and           click on <key>OK</key>.)           
 
-==== Loading a Checks File ====
+==== Loading a Checks File (Configuration File) ====
 
+You can set the checks file for a particular project or for all of the projects in a workspace. If you use one workspace for all of your courses you should probably use the first approach. If you have a workspace for each course then you should probably use the second approach.
 
-If your course uses a custom checks file:
-
+=== Setting the Checks File for a Project ===
  
   - Download the file to an appropriate location on your local           file system.
   - In Eclipse, right-click on the project, and pull down to           <key>Properties</key>.
@@ -58,3 +58,18 @@ If your course uses a custom checks file:
   - Select the appropriate configuration file from the drop-down list.
   - Click on <key>OK</key>.
   - When the "Rebuild suggested" dialog appears, click on <key>Yes</key>.
+
+
+=== Setting the Checks File for a Workspace ===
+ 
+  - Download the file to an appropriate location on your local           file system.
+  - In Eclipse, click on <key>Window+Properties</key>.
+  - Expand <key>Checkstyle</key>
+  - Click on <key>New</key>.
+  - Select "External Configuration File", enter a "Name:" and  the "Location:" of the file, and click <key>OK</key>.
+  - Select the appropriate configuration file.
+  -  Click on <key>Set as Default</key>
+  - Click on <key>Apply and Close</key>.
+  - When the "Rebuild suggested" dialog appears, click on <key>Yes</key>.
+
+
