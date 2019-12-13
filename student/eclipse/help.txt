@@ -86,7 +86,7 @@ You can also import an existing formatter. To import a formatter for a specific 
   - Navigate to the appropriate ''.xml'' file and click <key>Ok</key>
   - Click on <key>Apply</key>
 
-To import a formatter for all projects in a workspace (which is probably what you should do if you are using a different workspace for each course), see the page on  [[eclipse:install#install_and_use_a_custom_formatter | installing Eclipse]].
+To import a formatter for all projects in a workspace (which is probably what you should do if you are using a different workspace for each course), see the page on  [[ student:eclipse:install#install_and_use_a_custom_formatter | installing Eclipse ]].
 
 === Custom Key Bindings ===
 
