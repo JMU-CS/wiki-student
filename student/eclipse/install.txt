@@ -39,7 +39,7 @@ If your course has a checks configuration file for Checkstyle, you should instal
 
   - If you have not already done so, download the checks configuration file to an appropriate location on your local file system.
   - If you have not already done so, start Eclipse.
-  - If you have not already done so, [[ student:eclipse:checkstyle | install the Checkstyle plugin ]].
+  - If you have not already done so, [[ student:eclipse:checkstyle#install | install the Checkstyle plugin ]].
   - Click on <key>Preferences</key> (which will either be under <key>Window</key> or <key>Eclipse</key> depending on your OS)
   - Click on "Checkstyle".
   - Click on <key>New...</key>.
