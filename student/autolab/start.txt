@@ -22,9 +22,10 @@ Regardless of the autograder that is used, the grade report has the same structu
 
 There are two kinds of feedback in Autolab - instructor-generated code 
 annotations and autograder-generated feedback on submission criteria/problems.
-The former is self explanatory. The latter varies from autograder to 
-autograder. Help is available on the feedback provided by the following
-autograders.
+
+The instructor-generated annotations appear at the bottom of the grade report under the **Remarks** heading. This part of the report contains one line for each annotation that always includes a textual comment and the relevant file and line number. It may also include a criterion and deduction.
+
+The autograder-generated feedback latter varies from autograder to autograder. Help is available on the feedback provided by the following autograders:
 
   * [[student:autolab:gradingtier-summarizers | Autograders using gradingtier (with Checkstyle, JUnit, and JaCoCo/EclEmma) for Java Submissions]]
 
