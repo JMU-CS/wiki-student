@@ -14,6 +14,7 @@ There are usually 3-4 TAs in the labs at any given time period.
   * [[student:curriculum:start | CS Curriculum ]]
   * [[student:fullAdmission:start | Full Admission to the Major or Minor ]]
   * [[student:graduation | Graduation Process and Forms ]]
+  * Advising for CS Minors
 
 ==== University/Department-Specific Resources ====
 
