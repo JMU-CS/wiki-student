@@ -53,6 +53,9 @@ To create a project:
   - Click on <key>File</key>-<key>New</key> and select the appropriate kind of project (which may require you to first click on <key>Other...</key>).
   - After the dialog box appear, enter a "Project name:", and whatever other information is appropriate.
   - Click on <key>Finish</key>.
+
+Unless you are specifically told to do so, **do not** create a %%module-info.java%% file (i.e. **do not** create a module).
+
 If you are using Checkstyle, you must activate it for the newly created project. To do so:
 
   - Right-click on the project in the "Package Explorer" and pull down to "Checkstyle". 
