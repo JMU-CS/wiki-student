@@ -1,10 +1,6 @@
 ===== Help using Eclipse =====
 
 
-
-==== What is Eclipse? ====
-
-
 According to  www.eclipse.org, the Eclipse project is an "open development platform comprised of extensible frameworks, tools and runtimes for building, deploying and managing software across the lifecycle".
 
 
