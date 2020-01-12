@@ -39,7 +39,7 @@ Each time you start Eclipse, you will prompted for the workspace to use. You can
 Eclipse organizes resources (including design documents,code, tests, data, external documentation) into //projects//. 
 
 
-=== Persepctives ===
+=== Perspectives ===
 
 Eclipse offers several different ways to present and interact with projects, each of which is called a //perspective//. The most convenient way to interact with a project is using a perspective that is appropriate for the language(s) you are using. For a Java project, click on <key>Window</key>-<key>Perspective</key>-<key>Open Perspective</key>-<key>Java</key>. (Note: If Java isn't an option, and you have Eclipse setup for Java, you may need to click on <key>Other...</key>.)
 
@@ -60,9 +60,7 @@ If you are using Checkstyle, you must activate it for the newly created project.
 
 === Importing ===
 
-
 Eclipse projects can be exported as ''%%.zip%%'' files.  To import such a project, click on <key>File</key>+<key>Import</key>, expand "General", select "Existing Projects into Workspace", and click <key>Next</key>. Then, choose "Select archive file", browse to the appropriate archive file, select the relevant project(s) if necessary, and click <key>Finish</key>.
-
 
 === Customizing the Formatter ===
 
@@ -93,15 +91,36 @@ To import a formatter for all projects in a workspace (which is probably what yo
 
 To save yourself some time, you can bind common commands to "shortcut keys". To do so, click on <key> Preferences</key> (which will either be under <key>Window</key> or <key>Eclipse</key> depending on your OS) and then <key>General</key>+<key>Keys</key>.
 
+=== Creating Packages ===
+
+Some courses require that code within a package be organized in packages and some do not. To create a package:
+
+  - Right-click on the appropriate project (in the package explorer).
+  - Pull down to <key>New</key>.
+  - Pull over to <key>Package</key>.
+  - Enter the name of the package in the "Name" field.
+  - Unless you are explicitly told to do so, **do not** check the "Create package-info.java" box.
+
 
 === Creating Files ===
 
-
 There are many ways to create files and add them to a project. The easiest is:
-
 
   - Right-click on the appropriate folder. 
   - Pull down to <key>New</key> and over to the appropriate kind of file.
+
+In particular, to create a  file that defines a class (i.e., describes the attributes and methods in the class):
+
+  - Right-click on the appropriate project or package (in the package explorer).
+  - Pull down to <key>New</key>.
+  - Pull over to <key>Class</key>.
+  - Enter the name of the package in the "Package" field (or leave it blank if the class is in the default package).
+  - Enter the name of the class in the "Name" field.
+  - Optionally, complete the other fields and make the appropriate selections.
+  - Click on <key>Finish</key>.
+
+To create a file that defines an interface or %%enum%%, simply pull over to <key>Interface</key> or <key>Enum</key> after pulling down to <key>New</key>.
+
 
 === Adding Data Files (and Other Resources) to a Project ===
 
@@ -121,7 +140,6 @@ Note that **if you create an "ordinary" folder (i.e., not a source folder), it w
 
 
 === Adding Existing Source Files to a Project ===
-
 
 The easiest way to add existing source (e.g., ''%%.java%%'') files to a project is to "click-and-drag" them from a file explorer/finder window to the appropriate location in the Eclipse "Package Explorer".
 
@@ -150,19 +168,16 @@ Remember, if you only have the byte code, you will not be able to edit these "th
 
 ==== Editing ====
 
-
+The editor in Eclipse is very sophisticated and supports (almost) everything that anyone could ask for. What follows are answers to some of the most common questions that arise.
 
 === Shortcut Keys ===
-
 
 Type <key>Ctrl</key>+<key>Shift</key>+<key>L</key> to see a list of all of the shortcut keys.
 
 
 === Fixing Indentation Problems ===
 
-
 To fix the indentation of a file:
-
 
   - Select the appropriate section of the code.
   - Type <key>Ctrl</key>+<key>I</key> or   click on <key>Source</key>-<key>Correct Indentation</key>.
@@ -184,7 +199,7 @@ To find a matching curly bracket (either opening or closing) type <key>Ctrl</key
 
 ==== Comparing Files ====
 
-
+Files can be compared in a variety of different ways.
 
 === Comparing Files in Workspaces ===
 
