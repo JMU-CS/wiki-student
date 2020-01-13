@@ -380,3 +380,6 @@ To enable ''@SuppressWarning'' annotations for a particular project, right-click
 To also ignore unhandled tokens in custom ''@SuppressWarnings'' annotations (as, for example, are included with JUnit and Checkstyle), change the value of "Unhandled token in '@SuppressWarnings'" to <key>Ignore</key>.
 
 
+==== Getting Installation Details ====
+
+Eclipse has a lot of plug-ins and it can be difficult to keep track of the versions of all of them. You can get this information by clicking on <key>Help</key>+<key>About Eclipse IDE</key>+<key>Installation Details</key>.
