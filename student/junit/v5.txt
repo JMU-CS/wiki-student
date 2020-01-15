@@ -386,7 +386,7 @@ java -cp .;junit.jar org.junit.platform.console.ConsoleLauncher --select-class  
 If all of the tests are successful, an "OK" message will be printed. If not, a long error message will be printed. Buried in the message will be information about where the errors occurred and what the errors were. To find them, look for the descriptions that you included in your calls to ''%%assertEquals()%%''.
 
 
-==== Integrating JUnit into a IDE ====
+==== Integrating JUnit into an IDE ====
 
 
   * [[ http://help.eclipse.org/luna/index.jsp?topic=%2Forg.eclipse.jdt.doc.user%2FgettingStarted%2Fqs-junit.htm | Eclipse ]]
