@@ -18,3 +18,12 @@ It also assumes you are enrolled in Duo. Make sure you're enrolled in Duo becaus
     * You can also type sms1, to send a list of Duo codes to your phone, which can then be entered to grant access.
     * If you have a Yubikey, you can use the codes it generates for Password#2 as well simply by connecting it to your computer and pressing the button.
   * You should now be connected to the VPN.
+
+
+====== For Chrome OS ======
+
+You can download the VPN client for Chrome OS (i.e., Chromebooks **not** the Chrome browser) from the chrome web store at https://chrome.google.com/webstore/detail/pulse-secure/eiddfaedmgnpnnojolcknhpjbmmpplgd
+
+After loading the app, you can connect to the VPN by clicking on the system tray. After clicking on the VPN entry, enter %%JMU SSLVPN%% for the "Name" and %%https://sslvpn.jmu.edu%% for the "URL", enter your "Username", and click on <key>Save</key>.
+
+
