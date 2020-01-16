@@ -22,19 +22,19 @@ It also assumes you are enrolled in Duo. Make sure you're enrolled in Duo becaus
 
 ====== For Chrome OS ======
 
-You can download the VPN client for Chrome OS (i.e., Chromebooks **not** the Chrome browser) from the chrome web store at https://chrome.google.com/webstore/detail/pulse-secure/eiddfaedmgnpnnojolcknhpjbmmpplgd
+You can launch the VPN client for Chrome OS (i.e., Chromebooks **not** the Chrome browser) from the chrome web store at https://chrome.google.com/webstore/detail/pulse-secure/eiddfaedmgnpnnojolcknhpjbmmpplgd
 
 After loading the app, you can create a connection as follows:
 
-  * Click on the system tray.
-  * Click on the VPN icon.
-  * Enter  %%JMU SSLVPN%% for the "Name", enter %%https://sslvpn.jmu.edu%% for the "URL", enter your "Username", and click on <key>Save</key>.
+  - Click on the system tray.
+  - Click on the VPN icon.
+  - Enter  %%JMU SSLVPN%% for the "Name", enter %%https://sslvpn.jmu.edu%% for the "URL", enter your "Username", and click on <key>Save</key>.
 
 After you've created a connection, you can connect to the VPN as follows:
 
-  * Click on the system tray.
-  * Click on the VPN icon.
-  * Click on  %%JMU SSLVPN%%.
-  * Enter your username and password.
-  * Proceed as described above.
+  - Click on the system tray.
+  - Click on the VPN icon.
+  - Click on  %%JMU SSLVPN%%.
+  - Enter your username and password.
+  - Proceed as described above.
 
