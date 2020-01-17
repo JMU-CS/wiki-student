@@ -89,7 +89,7 @@ Java adds an automatic constructor to all classes that do not    have a construc
 
 To change the color settings (for those who have difficulty with red/green colorblindness):
 
-Window -> Preferences -> General -> Editors -> Text Editors -> Annotations
+<key>Window+Preferences+General+Editors+Text Editors+Annotations</key>
 
 The settings for code coverage highlighting can be found within
  
