@@ -91,9 +91,12 @@ To change the color settings (for those who have difficulty with red/green color
 
 Window -> Preferences -> General -> Editors -> Text Editors -> Annotations
 
-The settings for code coverage highlighting can be found within 
+The settings for code coverage highlighting can be found within
+ 
 1) Full Coverage
+
 2) Partial Coverage
+
 3) No Coverage
 
 ==== For More Information ====
