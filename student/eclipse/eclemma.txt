@@ -85,6 +85,16 @@ Because of the way EclEmma works, in order to get 100% coverage    of an ''%%enu
 
 Java adds an automatic constructor to all classes that do not    have a constructor, including utility classes. So, unless you go    out of your way to do so, your test suite will not cover the    automatic constructor which means that the declaration of the    class may appear to be uncovered. If you want, you can construct    an instance of the utility class in one of your tests (and, so,    cover the automatic constructor).
 
+==== Accessibility Settings ====
+
+To change the color settings (for those who have difficulty with red/green colorblindness):
+
+Window -> Preferences -> General -> Editors -> Text Editors -> Annotations
+
+The settings for code coverage highlighting can be found within 
+1) Full Coverage
+2) Partial Coverage
+3) No Coverage
 
 ==== For More Information ====
 
