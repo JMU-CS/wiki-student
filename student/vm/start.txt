@@ -1,0 +1,9 @@
+===== Virtual Machine =====
+
+The Unix Users Group (UUG) maintains a [[https://en.wikipedia.org/wiki/Virtual_machine|virtual machine]] (VM) that allows you to use a Linux-based operating system regardless of what operating system is on your computer. The virtual machine also comes with a utility that automates the installation of software needed for various CS courses.
+
+First, you will need to download and install [[https://www.virtualbox.org/wiki/Downloads|VirtualBox]] if you do not already have it. Then, download the [[https://w3.cs.jmu.edu/uug/latest.ova|VM image]] (warning: it is a large file!) and double-click it to begin the setup process.
+
+There is a [[https://w3.cs.jmu.edu/cs101/virtual/index.html|CS 101 tutorial]] about the setup process, and the UUG also maintains a [[https://www.jmunixusers.org/presentations/vm/welcome-to-vm.html|getting started guide]] and a [[https://www.jmunixusers.org/presentations/vm/common-troubleshooting.html|troubleshooting common problems guide]]. If you run into other issues or have questions, feel free to attend a UUG meeting (see the [[student:clubs:start|CS clubs page]] for dates and times).
+
+If you are interested in seeing how the VM image is built or if you are interested in contributing, please visit the [[https://github.com/jmunixusers/cs-vm-build|project repository]] on Github.
