@@ -28,6 +28,7 @@ There are usually 3-4 TAs in the labs at any given time period.
   * [[student:mattermost:start | Chat Server]] ("Mattermost" chat.cs.jmu.edu)
   * [[student:stu:start | Student Server]] (stu.cs.jmu.edu)
   * [[student:research | Undergraduate Research Lab ]]
+  * [[student:vm:start | Virtual Machine ]]
   * [[student:VPN:start | VPN ]]
   * [[student:webcat:start | Web-CAT ]]
   * [[student:wireless:start | Wireless ]]
