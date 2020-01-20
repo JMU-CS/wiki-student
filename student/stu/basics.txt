@@ -17,10 +17,10 @@ You can avoid the need to authenticate yourself (with your eID and password) eac
 To log into a specific lab computer you first login to stu as normal and then you use "ssh L[room_number][computer_number]" (fill in the information in the brackets without the brackets).
 
 
-==== Transferring Files to stu ====
-
+==== Transferring Files to and From stu ====
 
 You can transfer files to "stu" using an SCP client (and the host name   ''%%stu.cs.jmu.edu%%''). 
+
 
 ==== Using stu as an HTTP Server ====
 
