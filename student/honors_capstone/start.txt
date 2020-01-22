@@ -1,0 +1,42 @@
+====== Honors Capstone Guidelines ======
+
+===== Purpose of this Document =====
+
+This document contains guidelines and rules for students who are majoring in Computer Science and working on an "Honors Capstone". It is a supplement to the Honors Project Info in the [[http://www.jmu.edu/honors/handbook/index.shtml|Honors College Handbook]] published by the JMU Honors Program.
+
+===== Categories of Computer Science "Honors Capstones" =====
+
+All students who major in Computer Science and graduate //With Distinction// are required to use the "honors capstones" to make a contribution to either the field/discipline of computer science or to make a contribution to society at large using computational thinking. These "honors capstones" usually fall into one of the following categories:
+
+**Theses**: To complete a thesis, a student must make a contribution to the body of knowledge in the field of computer science. Hence, completion of a thesis involves academic research and discovery.
+
+Theses are either //theoretical// or //empirical//. Theoretical theses generally involve formal mathematics, logic or some other formal method of analysis or description (e.g., an analysis of the worst case asymptotic bounds of a new sorting algorithm, an analysis of the strength of a new encryption algorithm, the development of a new programming language, the development of a new design notation, an analysis of the underpinnings of a software engineering methodology). Empirical theses generally employ the scientific method (e.g., an analysis of the performance characteristics of a new type of contention detection/resolution process for local area networks, an analysis of the effectiveness of a new software engineering process, an analysis of the usability of a particular product).
+
+**Projects**: To complete a project, a student must create a computational system that contributes to society. Hence, completion of a project involves the design and implementation of a suitably complex system of software and/or hardware system that benefits society.
+
+Projects usually involve software components, hardware components, or both. An example of a software-only project is the design and implementation of a new open source operating system. An example of a hardware-only project is the design and development of a new educational robot. Finally, an example of a mixed project is the design and implementation of a new biometric authentication device.
+
+The primary contribution of the project need not be technical. An example of such a project is the creation of a social networking site for the differently-abled.
+
+===== Composition of the Committee =====
+
+The project advisor must be a member of the Computer Science faculty. In most cases, readers will also be members of the Computer Science faculty. With the approval of the advisor, one reader may come from another department.
+
+===== Deliverables =====
+
+In all cases, students must complete and deliver a properly formatted (see the [[https://www.jmu.edu/honors/handbook/basic-guidelines.shtml#formatting|Honors College Handbook]] for details) written document and associated forms.
+
+In many cases, students must also deliver the artifacts (e.g., source code, hardware, documentation, data) that were produced/developed/used during the process.
+
+===== The Written Document =====
+
+The written document serves two purposes. First, it demonstrates that the student has the necessary depth of knowledge to undertake the research/development activity. Second, it describes the contribution that was made as a result of the research/development activity. The document typically contains the following chapters:
+
+  * **Introduction**: A non-technical discussion of the question/issue that motivated the activity and why that question/issue is important (either to the field or society at large). This chapter should also include an overview of the structure of the rest of the document.
+  * **Literature Review**: A critical discussion of the relevant literature. This chapter should demonstrate the student's knowledge.
+  * **Problem/Project Statement**: A technical description of the question/issue in relation to the existing literature on the subject. This chapter should highlight the need for the theses/project and carefully describe the undertaking.
+  * **Analysis/Results/Findings**: A discussion of the contribution itself. For a theoretical theses this will include the mathematical or logical "argument". For empirical theses this will include the research design and the statistical analysis. For projects, this will include a detailed description of the project and the way in which it benefits society.
+  * **Future Research**: A description of the questions/issues that were uncovered but not resolved.
+  * **References**: A collection of works cited in the earlier parts of the document.
+
+The committee will specify the style and format of the written document (including, the citation style, the footnote/endnote style, the use of first/third person). The style will be consistent with the category of the thesis/project. In addition, the committee will specify the "technology" to be used to produce the document. For example, the committee might require the use of LaTeX for a theoretical thesis and might require the use of OpenDoc for an open source project.
