@@ -28,6 +28,7 @@ In all cases, students must complete and deliver a properly formatted (see the [
 
 In many cases, students must also deliver the artifacts (e.g., source code, hardware, documentation, data) that were produced/developed/used during the process.
 
+Finally, students must present their results in a public forum. Currently the venue most commonly used for this purpose is the Friday research seminar series (see the [[student:research|research page]] for more info).
 ===== The Written Document =====
 
 The written document serves two purposes. First, it demonstrates that the student has the necessary depth of knowledge to undertake the research/development activity. Second, it describes the contribution that was made as a result of the research/development activity. The document typically contains the following chapters:
