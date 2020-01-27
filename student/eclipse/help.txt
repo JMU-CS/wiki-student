@@ -352,7 +352,7 @@ To create HTML documentation:
 
   - Click on <key>File</key>-<key>Export</key>   and expand "Java".
   - Select "Javadoc" and click on   <key>Next</key>.   
-  - If the "Javadoc command:" field is empty, click on   <key>Configure</key> and navigate to the ''%%bin%%''   directory for the Java Development Kit (JDK).
+  - If the "Javadoc command:" field is empty, click on   <key>Configure</key> and navigate to the ''%%bin%%''   directory for the Java Development Kit (JDK). Find and select the "javadoc" file, then click on <key>open</key>.
   - Enter the "Destination:".
   - Click on <key>Finish</key>.
 
