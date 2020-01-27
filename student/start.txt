@@ -45,6 +45,7 @@ There are usually 3-4 TAs in the labs at any given time period.
   * [[student:junit:start | JUnit ]]
   * [[student:kdiff:start | KDiff3 ]]
   * [[student:mathematics:start | Mathematical Foundations ]]
+  * [[student:utilities:sshfs | Mounting Remote Directories Locally ]]
   * [[student:utilities:start | Operating System Utilities ]]
   * [[student:scrumj:start | scrumj ]]
   * [[student:utilities:start:keypairs | SSH Key Pairs ]]
