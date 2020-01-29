@@ -5,11 +5,17 @@ The CS Research Seminar Talks are talks given by faculty members and undergradua
 
 ==== Tentative Spring 2020 Schedule ====
 
-  * Prof. John Bowers - Circle packing for 3D printed infill design.
-  * Prof. Michael Lam
-  * Prof. Chris Mayfield
-  * Prof. Dee Weikle
-  * Prof. Nathan Sprague
+  * Feb 7 - Prof. Michael Lam
+  * Feb 21 - Prof. Chris Mayfield
+  * Mar 6 - Prof. Dee Weikle
+  * Mar 27 - Prof. Nathan Sprague
+  * Apr 17 - Prof. Taalman
+  * Apr 24 - Prof. John Bowers. //Circle packing for 3D printed infill design.//
+
+**Undergraduate Thesis Presentations**
+
+  * William Lovo. //Analyzing Text Classifiers to Support DLP Systems// Advisor: Prof. Molloy
+
 
 ===== Fall 2019 Abstracts =====
 
