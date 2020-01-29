@@ -59,6 +59,13 @@ Most computers provide at least two different levels of floating-point precision
   * FloatSmith repository: [[ https://github.com/crafthpc/floatsmith | GitHub ]]
   * Status: Ongoing and looking for new students!
 
+===== ExamGen =====
+
+Writing exams is a drudgery for most professors. Often, problems must be revised or re-parameterized to avoid repeating a previous semesters' question verbatim. Faculty in Computer Science are uniquely positioned to avoid some of this monotony because we are accustomed to writing scripts and programs to automate a process. This project aims to help automate the generation of new exams using a combination of question banks, scriptable questions, and potentially some application of machine learning to balance the length and difficulty of an exam.
+
+  * Faculty contact: Dr. Lam
+  * Status: On hold temporarily, but looking for new students to re-activate it!
+
 ===== Less-Java =====
 
 Less-Java is a new programming language designed for use in an introductory programming class like our CS 149. It is designed to be simple but also to contain all necessary concepts for teaching programming. We have a prototype compiler and are in the process of improving it and running user studies to validate the usefulness of the language. See the [[ https://github.com/JMU-CS/less-java/wiki/Tutorial | tutorial ]] for examples of code in Less-Java, and see our [[ https://github.com/JMU-CS/less-java/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22 | "help wanted" ]] list for areas where you can get involved!
