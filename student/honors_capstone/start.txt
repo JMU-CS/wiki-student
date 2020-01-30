@@ -42,4 +42,4 @@ The written document serves two purposes. First, it demonstrates that the studen
 
 The committee will specify the style and format of the written document (including, the citation style, the footnote/endnote style, the use of first/third person). The style will be consistent with the category of the thesis/project. In addition, the committee will specify the "technology" to be used to produce the document. For example, the committee might require the use of LaTeX for a theoretical thesis and might require the use of OpenDoc for an open source project.
 
-A template for using LaTex is available at https://github.com/JMU-CS/HonorsThesisTemplate.git.  This template follows the honors college guidelines (https://www.jmu.edu/honors/handbook/basic-guidelines.shtml#formatting)
+A template for using LaTex is available at https://github.com/JMU-CS/HonorsThesisTemplate.git.  This template follows the honors college guidelines (https://www.jmu.edu/honors/handbook/basic-guidelines.shtml#formatting).
