@@ -7,7 +7,7 @@ The CS Research Seminar Talks are talks given by faculty members and undergradua
 
 **Faculty Research Talks**
 
-  * Feb 7 - Prof. Michael Lam
+  * Feb 7 - Prof. Mike Lam
   * Feb 21 - Prof. Chris Mayfield
   * Mar 6 - Prof. Dee Weikle
   * Mar 27 - Prof. Nathan Sprague
@@ -16,8 +16,18 @@ The CS Research Seminar Talks are talks given by faculty members and undergradua
 
 **Undergraduate Thesis Presentations**
 
-  * William Lovo. //Analyzing Text Classifiers to Support DLP Systems// Advisor: Prof. Molloy
+  * William Lovo: //Analyzing Text Classifiers to Support DLP Systems.// (Advisor: Prof. Molloy)
+  * Charles Hines: //Less-Java, More Type Safety// (Advisor: Prof. Lam)
 
+===== Fall 2020 Abstracts =====
+
+==== 2 / 7 Prof. Mike Lam ====
+
+Do You Understand IEEE Floating Point?
+
+Floating-point arithmetic is used for nearly all real-valued computation in modern software. CS 261 teaches the basics of the IEEE standard format as well as some of its caveats (e.g., rounding error and its non-uniform distribution). However, there are many other floating-point issues that cannot be covered in that course due to time constraints, and many of them may surprise even an experienced software developer. This talk will discuss some of these issues and explore the published results of a recent survey from Northwestern University that attempted to quantify the level of understanding of floating-point issues among software developers across academia, national labs, and industry. The talk will also highlight the importance of these findings to ongoing research projects here at JMU.
+
+====== Past Abstracts ======
 
 ===== Fall 2019 Abstracts =====
 
@@ -27,7 +37,7 @@ POST: A Machine Learning Based Paper Organization and Scheduling Tool
 
 Organizing and assigning papers into sessions within a large conference is a formidable challenge. Some conference organizers, who are typically volunteers, have utilized event planning software to ensure simple constraints, such as two people cannot be scheduled to talk at the same time. In this work, we proposed utilizing natural language processing to find the topics within a corpus of conference submissions and then cluster them together into sessions. As a preliminary evaluation of this technique, we compare session assignments from previous conferences to ones generated with our proposed techniques.
 
-Advisors: Kevin Molloy and Michael Stewart
+Advisors: Profs. Kevin Molloy and Michael Stewart
 
 ==== 10 / 11 Jenna Horrall (JMU '20) ====
 
@@ -43,7 +53,7 @@ In high performance computing, many applications can easily generate terabytes t
 
 Advisor: Dr. Scott Lloyd (Lawrence Livermore National Laboratory)
 
-==== 10 / 5  Profs. John Bowers, Jason Forsyth (JMU Engineering), Michael Lam, Michael Kirkpatrick, Chris Mayfield, Kevin Molloy, Nathan Sprague, Michael Stewart, and Dee Weikle ====
+==== 10 / 5  Profs. John Bowers, Jason Forsyth (JMU Engineering), Mike Lam, Michael Kirkpatrick, Chris Mayfield, Kevin Molloy, Nathan Sprague, Michael Stewart, and Dee Weikle ====
 
 What is CS research? (Profs. Lam and Weikle)
 
@@ -52,7 +62,6 @@ Followed by
 Faculty Flash Talks (Everyone)
 
 Join us for an overview of computer science research followed by 5-minute flash talks giving you an overview of ongoing research within the JMU CS department. Whether you are looking to get into research or just interested in learning more, you are welcome! 
-====== Past Abstracts ======
 
 ===== Spring 2019 Talks =====
 
@@ -110,7 +119,7 @@ Introductory computer science courses face multiple challenges, including a broa
 
 In this study, we examined how faculty adopt POGIL for the first time in introductory CS classrooms. Using qualitative in-depth interviews, we investigated why faculty chose to adopt POGIL and their concerns about using it. Our results suggest that faculty motivations to use POGIL centered around improving student outcomes, including their learning and engagement. However, faculty also had concerns about using POGIL, which ranged from how POGIL impacts the curriculum to logistical and institutional barriers. We discuss the implications of these findings with respect to faculty development and active learning pedagogies.
 
-==== 3 / 1 Prof. Michael Lam ====
+==== 3 / 1 Prof. Mike Lam ====
 
 Software Tools for Mixed-Precision Program Analysis 
 
@@ -143,13 +152,13 @@ Floating-point arithmetic is foundational to scientific computing in HPC, and ch
 
 Faculty Advisor: Prof. Lam
 
-==== 10 / 12 Prof. Michael Lam ====
+==== 10 / 12 Prof. Mike Lam ====
 
 Should we auto-generate compilers?
 
 Compilers draw from many areas of CS to solve a single problem: translating from one computer language to another. Some aspects of a compiler (e.g., parsing) are considered "solved" from a theoretical perspective, and others (e.g., optimization) are still open. A recent preprint paper from heavy-hitters in the world of compilers research asserts that the optimization portions of tomorrow's compilers will be autogenerated just like the parsing portions are now. Come discuss this possibility, and along the way you'll learn a bit about SMT solvers and superoptimizers.
 
-==== 10 / 5  Profs. John Bowers, Michael Lam, Chris Mayfield, Michael Stewart, and Dee Weikle ====
+==== 10 / 5  Profs. John Bowers, Mike Lam, Chris Mayfield, Michael Stewart, and Dee Weikle ====
 
 What is CS research? (Profs. Lam and Weikle)
 
@@ -227,7 +236,7 @@ Preventing Blackout Catastrophe When Learning Sequentially with Elastic Weight C
 
 Artificial neural networks have become the dominant machine learning approach across a wide range of domains. Significant strides have been made on single-task learning. The problem of sequentially learning multiple tasks has proved to be more challenging. Naive approaches suffer from “catastrophic forgetting”: networks lose accuracy on previously learned tasks when trained on new tasks. The recently introduced Elastic Weight Consolidation (EWC) algorithm is a novel and promising approach that calculates the importance of individual weights to previously learned tasks. A penalty term is introduced that preserves weights in proportion to their importance. However, preserving weights via EWC eventually results in total network failure due to the limited capacity of a fixed-size network, a phenomenon referred to as “Blackout Catastrophe”. Our proposed algorithm addresses this problem by employing EWC until the network capacity has been reached and then increasing the size of the network to accommodate additional tasks. We further investigate the potential of Fisher Information, which is used by EWC to evaluate the importance of each weight for each task, to probabilistically predict when the network needs to expand to prevent blackout catastrophe - an insight which could theoretically allow the network to learn sequentially in perpetuity without the need for human supervision.
 
-==== 10 / 13 Patricia D. Soriano and Garrett Folks (Advisor: Prof. Michael Lam) ====
+==== 10 / 13 Patricia D. Soriano and Garrett Folks (Advisor: Prof. Mike Lam) ====
 
 ANALYSIS OF PARALLEL IMPLEMENTATIONS OF CENTRALITY ALGORITHMS
 
@@ -241,7 +250,7 @@ Speaker: Garrett Folks
 
 In this talk, we analyze two heuristics that approximate the Traveling Salesman Problem: K-Opt search and ant colony optimization. Our goal was to explore how these heuristics perform when run in parallel on multiple CPU cores as well as using GPU computing. We found that the K-Opt search heuristic showed impressive performance scaling results, especially when executed on a GPU. We also parallelized portions of the ant colony optimization and found good scaling. We conjecture that the ant colony optimization could be greatly improved with the use of GPU computing.
 
-==== 10 / 6 Prof. Michael Lam ====
+==== 10 / 6 Prof. Mike Lam ====
 
 Scheduling, Reproducibility, and Resilience
 
