@@ -1,6 +1,6 @@
 ===== Mounting a Remote Filesystem Locally =====
 
-It can often be beneficial to mount a remote filesystem locally to your computer, allowing you to treat the contents as if they were local to your machine. This would, for example, allow you to use a local IDE to edit/compile/run files hosted on stu.cs.jmu.edu. This article describes how to mount your JMUCS home directory from a Linux client using [[https://github.com/libfuse/sshfs|sshfs]]. Implementations also exist for [[http://osxfuse.github.io/|Mac OS]] and [[https://github.com/billziss-gh/sshfs-win|Windows]] but I do not any any experience with them.
+It can often be beneficial to mount a remote filesystem locally to your computer, allowing you to treat the contents as if they were local to your machine. This would, for example, allow you to use a local IDE to edit/compile/run files hosted on stu.cs.jmu.edu. This article describes how to mount your JMUCS home directory from a Linux client using [[https://github.com/libfuse/sshfs|sshfs]]. Implementations also exist for [[http://osxfuse.github.io/|macOS]] (see below for details) and [[https://github.com/billziss-gh/sshfs-win|Windows]].
 
 ==== Prerequisites ====
 
@@ -27,3 +27,15 @@ When you are done using the remote filesystem you should unmount it using the ''
 <code>
 fusermount -u ~/mnt/stu
 </code>
+
+==== macOS ====
+
+Download and install both the "FUSE for macOS" and "SSHFS" packages from [[http://osxfuse.github.io/|this page]], following the instructions as prompted. When prompted, enable the "FUSE for macOS Preference Pane" to facilitate future updates. You will also need to enable a system extension in your Security & Privacy System Preferences.''
+
+{{:student:utilities:fuse01-pref_pane.png?600|}}
+
+{{:student:utilities:fuse02-ext_blocked.png?400|}}
+
+{{:student:utilities:fuse03-enable_ext.png?600|}}
+
+After everything is installed correctly, you should be able to follow the same command-line instructions described in the sections above.
