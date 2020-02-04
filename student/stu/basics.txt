@@ -21,7 +21,7 @@ To log into a specific lab computer you first login to stu as normal and then yo
 
 You can transfer files to "stu" using an SCP client (and the host name   ''%%stu.cs.jmu.edu%%''). 
 
-If you want a more seamless experience or the ability to edit files on "stu" using a local editor like Eclipse or VS Code, you can [[student:utilities:sshfs|mounting your home folder locally]]. The department strongly discourages the use of editor-specific plugins such as "Visual Studio Code Remote" for performance and security reasons, and students found using these extensions may be asked to stop.
+If you want a more seamless experience or the ability to edit files on "stu" using a local editor like Eclipse or VS Code, you can [[student:utilities:sshfs|mount your home folder locally]]. The department strongly discourages the use of editor-specific plugins such as "Visual Studio Code Remote" for performance and security reasons, and students found using these extensions may be asked to stop.
 ==== Using stu as an HTTP Server ====
 
 
