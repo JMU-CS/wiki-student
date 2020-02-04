@@ -7,7 +7,7 @@ The CS Research Seminar Talks are talks given by faculty members and undergradua
 
 **Faculty Research Talks**
 
-  * Feb 7 - Prof. Mike Lam //Do You Understand IEEE Floating Point?//
+  * Feb 7 - Prof. Mike Lam. //Do You Understand IEEE Floating Point?//
   * Feb 21 - Prof. Chris Mayfield
   * Mar 6 - Prof. Dee Weikle
   * Mar 27 - Prof. Nathan Sprague
