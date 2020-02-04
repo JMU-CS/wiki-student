@@ -18,7 +18,7 @@ sshfs <eid>@stu.cs.jmu.edu: ~/mnt/stu
 
 Where ''<eid>'' is your JMU username. The ''~/mnt/stu'' directory on your local machine now contains the contents of your JMUCS home directory. Changes made in one place will automatically be reflected in the other.
 
-See ''man sshfs'' for additional options; in particular, the ''-o idmap=user'' option is necessary if your UIDs do not match between the client and the server.
+See ''man sshfs'' for additional options; in particular, the ''-o idmap=user'' option is necessary if your UIDs do not match between the client and the server (this is likely the case on personal machines).
 
 ==== Unmounting the filesystem ====
 
