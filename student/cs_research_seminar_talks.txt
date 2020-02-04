@@ -16,8 +16,8 @@ The CS Research Seminar Talks are talks given by faculty members and undergradua
 
 **Undergraduate Thesis Presentations**
 
-  * William Lovo: //Analyzing Text Classifiers to Support DLP Systems.// (Advisor: Prof. Molloy)
-  * Charles Hines: //Less-Java, More Type Safety// (Advisor: Prof. Lam)
+  * Apr 10 - William Lovo: //Analyzing Text Classifiers to Support DLP Systems.// (Advisor: Prof. Molloy)
+  * Apr 10 - Charles Hines: //Less-Java, More Type Safety// (Advisor: Prof. Lam)
 
 ===== Spring 2020 Abstracts =====
 
