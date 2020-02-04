@@ -5,7 +5,9 @@ The student server is a shared resource, and as with any shared resource it is i
 ===== Monitoring =====
 ==== top ====
 
-[[ http://man7.org/linux/man-pages/man1/top.1.html | top ]] provides insight into the overall load on a system and the details on  running processes. By default, top sorts processes by CPU usage though you can change the sort column with the ''<'' and ''>'' keys while top is running.  Top can also display only your processes with the ''-u'' command line option.
+[[ http://man7.org/linux/man-pages/man1/top.1.html | top ]] provides insight into the overall load on a system and the details on  running processes. By default, top sorts processes by CPU usage though you can change the sort column with the ''<'' and ''>'' keys while top is running.
+
+It's a good idea to monitor your processes in a separate window while working on stu. To do this, start another ssh session to stu and run ''top -u $USER''; this will display only your processes. You can press ''k'' to kill processes directly from top. This will prompt you for a pid and default to the process at the top of the list.
 
 The load average is another useful piece of information provided by top and consists of three numbers indicating the CPU and IO load over the last one, five, and 15 minute periods. 
 
