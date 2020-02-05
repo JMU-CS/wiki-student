@@ -46,7 +46,7 @@ After everything is installed correctly, you should be able to follow the same c
 
 ==== Windows ====
 
-  - Ordered List ItemDownload the latest release of WinFsp from here: https://github.com/billziss-gh/winfsp/releases
+  - Download the latest release of WinFsp from here: https://github.com/billziss-gh/winfsp/releases
   - Download the latest release of SSHFS-Win from here, picking your version's architecture (Likely x64): https://github.com/billziss-gh/sshfs-win/releases
   - Install WinFsp. The default selection of components can be used.
   - Install SSHFS-Win, the default options are fine.
