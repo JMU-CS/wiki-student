@@ -1,13 +1,17 @@
 ===== Mounting a Remote Filesystem Locally =====
 
-It can often be beneficial to mount a remote filesystem locally to your computer, allowing you to treat the contents as if they were local to your machine. This would, for example, allow you to use a local IDE to edit/compile/run files hosted on stu.cs.jmu.edu. This article describes how to mount your JMUCS home directory from a Linux client using [[https://github.com/libfuse/sshfs|sshfs]]. Implementations also exist for [[http://osxfuse.github.io/|macOS]] (see below for details) and [[https://github.com/billziss-gh/sshfs-win|Windows]].
+It can often be beneficial to mount a remote filesystem locally to your computer, allowing you to treat the contents as if they were local to your machine. This would, for example, allow you to use a local IDE to edit/compile/run files hosted on stu.cs.jmu.edu. This article describes how to mount your JMUCS home directory using [[https://github.com/libfuse/sshfs|sshfs]].
 
 ==== Prerequisites ====
 
   - SSH access to the server hosting the filesystem you wish to mount. It can be helpful to set up [[student:utilities:start:keypairs|ssh keypairs]] as well.
-  - Install the [[https://github.com/libfuse/sshfs|sshfs]] client on your local machine. Most distributions package sshfs in their repositories and installing from there is far easier than compiling it yourself. For Ubuntu/Mint you could run ''apt-get install sshfs''.
+  - Install the [[https://github.com/libfuse/sshfs|sshfs]] client on your local machine. See the appropriate section below for your Operating System.
+
+==== Linux ====
+
+Most distributions package sshfs in their repositories and installing from there is far easier than compiling it yourself. For Ubuntu/Mint you could run ''apt-get install sshfs''.
    
-==== Mounting the remote filesystem ====
+=== Mounting the remote filesystem ===
 
 You must create a local mountpoint before mounting the remote filesystem (this must be done only once). Then the filesystem can be mounted.
 
@@ -20,7 +24,7 @@ Where ''<eid>'' is your JMU username. The ''~/mnt/stu'' directory on your local 
 
 See ''man sshfs'' for additional options; in particular, the ''-o idmap=user'' option is necessary if your UIDs do not match between the client and the server (this is likely the case on personal machines).
 
-==== Unmounting the filesystem ====
+=== Unmounting the filesystem ===
 
 When you are done using the remote filesystem you should unmount it using the ''fuermount'' command.
 
@@ -38,4 +42,6 @@ Download and install both the "FUSE for macOS" and "SSHFS" packages from [[http:
 
 {{:student:utilities:fuse03-enable_ext.png?600|}}
 
-After everything is installed correctly, you should be able to follow the same command-line instructions described in the sections above.
+After everything is installed correctly, you should be able to follow the same command-line instructions described in the Linux section above.
+
+==== Windows ====
