@@ -33,7 +33,6 @@ There are usually 3-4 TAs in the labs at any given time period.
   * [[student:research | Undergraduate Research ]]
   * [[student:vm:start | Virtual Machine ]]
   * [[student:VPN:start | VPN ]]
-  * [[student:webcat:start | Web-CAT ]]
   * [[student:wireless:start | Wireless ]]
 
 ==== Technical Topics ====
