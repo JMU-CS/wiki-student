@@ -86,3 +86,16 @@ Upsilon Pi Epsilon was founded in 1967 at Texas A&M University and is the first 
   * Websites:[[https://beinvolved.jmu.edu/organization/wit|BeInvolved]] | [[https://w3.cs.jmu.edu/weikleda/wit/WITHome.html|Web]]
 
 WIT's goal is to celebrate an active network of women in the technology industries by facilitating career development and empowering women to be the architects of change in the STEM field, and to create opportunities for personal and professional development inside and outside of the classroom.
+
+===== Other clubs =====
+
+The following clubs do not list CS faculty as the contact faculty member, but are relevant to Computer Science and our students enjoy participating with them.
+
+==== National Society for Black Engineers ====
+ 
+  * Faculty contact: Kyle Gipson (gipsonkg)
+  * Student contact: Roman Cook
+  * Regular meetings: ???
+  * Websites:[[https://nsbejmu.weebly.com/|Web]]
+
+The National Society of Black Engineers, as a national student and professional based organization, does hereby dedicate itself to the development of intensive programs for increasing Black and other ethnic minority participation in the fields of STEM and applied science.  These programs will be initiated within and outside the university community and will serve to strengthen relations between professional industry and the ethnic community. Members of this organization are encouraged to join and participate in their individual professional societies.  This organization will endeavor to provide general counseling to all members.
