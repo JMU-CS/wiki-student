@@ -29,7 +29,7 @@ This will create two files, one named ''%%id_rsa%%'' (your private key) and one 
 
 === Copying your Public Key to a Linux Server ===
 
-On Linux servers, a user's public keys are stored in the file ''%%~/.ssh/authorized_keys%%''. If you have ''%%ssh-copy-id%%'' on your computer, you can use it to upload your public key to a Linux server (e.g., ''%%stu.cs.jmu.edy%%'' and append it to this file. If not, you will need to upload the file manually (e.g., using SCP) and then append it to this file as follows:
+On Linux servers, a user's public keys are stored in the file ''%%~/.ssh/authorized_keys%%''. If you have ''%%ssh-copy-id%%'' on your computer, you can use it to upload your public key to a Linux server (e.g., ''%%stu.cs.jmu.edu%%'' and append it to this file. If not, you will need to upload the file manually (e.g., using SCP) and then append it to this file as follows:
 
 <code bash>
 cat id_rsa.pub >> ~/.ssh/authorized_keys
