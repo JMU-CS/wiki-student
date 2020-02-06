@@ -1,15 +1,15 @@
 ===== Mounting a Remote Filesystem Locally =====
 
-It can often be beneficial to mount a remote filesystem locally to your computer, allowing you to treat the contents as if they were local to your machine. This would, for example, allow you to use a local IDE to edit/compile/run files hosted on stu.cs.jmu.edu. This article describes how to mount your JMUCS home directory using [[https://github.com/libfuse/sshfs|sshfs]].
+It can often be beneficial to mount a remote filesystem locally to your computer, allowing you to treat the contents as if they were local to your machine. This would, for example, allow you to use a local IDE to edit/compile/run files hosted on stu.cs.jmu.edu. This article describes how to mount your JMUCS home directory using sshfs.
 
 ==== Prerequisites ====
 
   - SSH access to the server hosting the filesystem you wish to mount. It can be helpful to set up [[student:utilities:start:keypairs|ssh keypairs]] as well.
-  - Install the [[https://github.com/libfuse/sshfs|sshfs]] client on your local machine. See the appropriate section below for your Operating System.
+  - Install the sshfs client on your local machine. See the appropriate section below for your Operating System.
 
 ==== Linux ====
 
-Most distributions package sshfs in their repositories and installing from there is far easier than compiling it yourself. For Ubuntu/Mint you could run ''apt-get install sshfs''.
+Most distributions package [[https://github.com/libfuse/sshfs|sshfs]] in their repositories and installing from there is far easier than compiling it yourself. For Ubuntu/Mint you could run ''apt-get install sshfs''.
    
 === Mounting the remote filesystem ===
 
