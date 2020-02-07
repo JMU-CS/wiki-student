@@ -1,6 +1,6 @@
 ===== Computer Science Curriculum =====
 
-See the JMU Catalog for [[http://catalog.jmu.edu/content.php?catoid=25&navoid=761&filter[27]=CS | course descriptions]].
+See the JMU Catalog for [[http://catalog.jmu.edu/content.php?catoid=44&navoid=1776&filter[27]=CS | course descriptions]].
 
 ==== Prerequisites ====
 
