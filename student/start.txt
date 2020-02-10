@@ -19,7 +19,7 @@ There are usually 3-4 TAs in the labs at any given time period.
 ==== University/Department-Specific Resources ====
 
   * [[student:autolab:start | Autolab ]]
-  * [[Building Map]] (ISAT/CS and EnGeo room #s)
+  * [[Building Maps]] (ISAT/CS and EnGeo)
   * [[student:mattermost:start | Chat Server]] ("Mattermost" chat.cs.jmu.edu)
   * [[student:clubs:start | Clubs]]
   * [[student:cluster:start | Cluster ]]
