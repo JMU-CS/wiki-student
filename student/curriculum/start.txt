@@ -24,4 +24,4 @@ offerings ahead of time and do our best to follow the plan. Here is the
 
 ==== Plans of Study ====
 
-The following [[student:curriculum:plans|sample plans]] illustrates various ways to fulfill CS and JMU degree requirements. Options B and C are recommended for students interested in the Information Security Certificate because classes required for the certificate have CS 361 as a prerequisite.
+The following [[student:curriculum:plans|sample plans]] illustrate various ways to fulfill CS and JMU degree requirements. We encourage you to make your own 4-year plan based on these examples.
