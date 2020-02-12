@@ -1,0 +1,10 @@
+There are a few settings in Eclipse that remain from an older era of Java when the community thought that automatic serialization might be a good idea (it’s not).
+
+To correct these settings, Open your general Eclipse settings. 
+
+  * On Windows and Linux, choose the Window menu at the top, and then select Preferences…
+  * On MacOS, choose the Eclipse menu at the top, and then select Preferences…
+
+In the Preferences window, use the top left text box to search for "serial".
+In the filtered list, select the entry title “Errors/Warnings” that appears under “Compiler”, which is itself under “Java”.
+In the right side of the Preferences window, scroll down to the bottom of the “Potential programming problems” section, and ensure that especially your last 3 settings are as pictured (“Serializable…”, “Missing synchronized…”, and “Class overrides equals…” each set to ignore).
