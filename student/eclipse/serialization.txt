@@ -8,3 +8,6 @@ To correct these settings, Open your general Eclipse settings.
 In the Preferences window, use the top left text box to search for "serial".
 In the filtered list, select the entry title “Errors/Warnings” that appears under “Compiler”, which is itself under “Java”.
 In the right side of the Preferences window, scroll down to the bottom of the “Potential programming problems” section, and ensure that especially your last 3 settings are as pictured (“Serializable…”, “Missing synchronized…”, and “Class overrides equals…” each set to ignore).
+
+{{ :student:eclipse:serializationpreferences.png?600 |}}
+
