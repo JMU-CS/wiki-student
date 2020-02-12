@@ -37,8 +37,8 @@ The Forensics club is for those interested in learning the basics of forensics a
 
   * Faculty contact: Ramon Mata-Toledo (matatora)
   * Student contact: Kush Gupta (kush@minorityprogrammers.org)
-  * Initial meeting: Wed, Feb 5th @ 6PM - ISAT 243
-  * Weekly meetings: Wednesdays @ 6PM - 9PM - ISAT 243
+  * Initial meeting: Wed, Feb 5th, 6pm in ISAT/CS 243
+  * Weekly meetings: Wed, 6-9pm in ISAT/CS 243
   * Website: http://minorityprogrammers.org
 
 The Minority Programmers Association was started in 2019 at JMU by a group of diverse Computer Science / Computer Information Systems students looking to start a community where minorities are both accepted and have the opportunity to produce projects as undergrads.  Join MPA (the newest CS org) if you want to **develop** coding solutions with minorities tackling problems affecting underprivileged communities, **join** an organization at JMU that develops impactful technical projects, and **educate** local/diverse communities through programming.
