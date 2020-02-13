@@ -15,9 +15,9 @@ The CS Research Seminar Talks are talks given by faculty members and undergradua
   * Apr 24 - Prof. John Bowers. //Circle packing for 3D printed infill design.//
 
 **Undergraduate Thesis Presentations**
-
-  * Apr 10 - William Lovo: //Analyzing Text Classifiers to Support DLP Systems.// (Advisor: Prof. Molloy)
+  * Apr 10 - Jake Brazleton: //Using Software to Generate Acoustic Projections for 3D Models// (Advisor: Prof. Bowers)
   * Apr 10 - Charles Hines: //Less-Java, More Type Safety// (Advisor: Prof. Lam)
+  * Apr 10 - William Lovo: //Analyzing Text Classifiers to Support DLP Systems.// (Advisor: Prof. Molloy)
 
 ===== Spring 2020 Abstracts =====
 
