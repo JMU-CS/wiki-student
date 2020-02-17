@@ -11,15 +11,15 @@ See the JMU Catalog for the official [[http://catalog.jmu.edu/content.php?catoid
 ==== Prerequisites ====
 
 The easiest way to see the prerequisite structure is to view the 
-[[https://wiki.cs.jmu.edu/_media/student/curriculum/prereqfigure.pdf|prerequisite tree]], but you can also view the 
-[[https://wiki.cs.jmu.edu/_media/student/curriculum/prereqtable.pdf|prerequisite table]].
+[[https://wiki.cs.jmu.edu/_media/department/curriculum/prereqfigure.pdf|prerequisite tree]], but you can also view the 
+[[https://wiki.cs.jmu.edu/_media/department/curriculum/prereqtable.pdf|prerequisite table]].
 
 Dr. Kirkpatrick also maintains an unofficial prerequisite graphic on his [[https://w3.cs.jmu.edu/kirkpams/advising.shtml | advising website]].
 
 ==== Course Offerings ====
 
 Although the CS department cannot guarantee that certain courses will be offered in the future, we plan course
-offerings ahead of time and do our best to follow the plan. Here are the current [[https://wiki.cs.jmu.edu/_media/student/curriculum/offerings.pdf | anticipated course offerings]].
+offerings ahead of time and do our best to follow the plan. Here are the current [[https://wiki.cs.jmu.edu/_media/department/curriculum/offerings.pdf | anticipated course offerings]].
 
 ==== Plans of Study ====
 
