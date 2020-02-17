@@ -1,0 +1,34 @@
+Sample plans of study for new students: 
+ // //
+====== Option A - Delay 261 ======
+
+|              ^ Fall           ^ Spring          ^
+^ Year 1    | CS 149 \\ Math 231/235\\ GenEd \\ GenEd \\ GenEd\\ | CS 159 \\ Math 232/236 \\ CS/MATH 227 \\ GenEd \\ GenEd\\      |
+^ Year 2    | CS 240 \\ CS 345 \\ MATH 220/318 \\ GenEd \\ GenEd \\ | CS 261 \\ GenEd \\ GenEd \\ Elective \\ Elective \\ |
+^ Year 3    | CS 361 \\ CS 327 \\ GenEd \\ GenEd \\ Elective \\ | CS 430 \\ CS 4xxS (CS Systems Elective) \\ GenEd \\ Elective \\ Elective \\ |
+^ Year 4    | CS 412/452 \\ CS 4xx (CS Elective) \\  Elective \\ Elective \\ Elective \\ | CS 4xx (CS Elective) \\ CS 4xx (CS Elective) \\ Elective \\ Elective \\ Elective | 
+\\ \\
+====== Option  - Delay 345 ======
+
+|              ^ Fall           ^ Spring          ^
+^ Year 1    | CS 149 \\ Math 231/235\\ GenEd \\ GenEd \\ GenEd\\ | CS 159 \\ Math 232/236 \\ CS/MATH 227 \\ GenEd \\ GenEd      |
+^ Year 2   | CS 240 \\ CS 261 \\ MATH 220/318 \\ GenEd \\ GenEd \\ | CS 327 \\ CS 361 \\ GenEd \\ GenEd \\ Elective |
+^ Year 3   | CS 4xxS (CS Systems Elective) \\ CS 4xx (CS Elective) \\ GenEd \\ Elective \\ Elective \\ | CS 345 \\ CS 430 \\  GenEd \\ Elective \\ Elective |
+^ Year 4   | CS 412/452 \\ CS 4xx (CS Elective) \\  GenEd \\ Elective \\ Elective \\ | CS 4xx (CS Elective) \\ Elective \\ Elective \\ Elective \\ Elective |
+\\ \\
+====== Option C - Core Early ======
+
+|              ^ Fall           ^ Spring          ^
+^ Year 1    | CS 149 \\ Math 231/235\\ GenEd \\ GenEd \\ GenEd\\ | CS 159 \\ Math 232/236 \\ CS/MATH 227 \\ GenEd \\ GenEd\\      |
+^ Year 2    | CS 240 \\ CS 261 \\ MATH 220/318 \\ GenEd \\ GenEd \\ | CS 327 \\ CS 361 \\ GenEd \\ GenEd \\ Elective \\  |
+^ Year 3    | CS 345 \\ CS 4xxS (CS Systems Elective) \\ GenEd \\ Elective \\ Elective \\ | CS 430 \\ CS 412/452 \\ Elective \\ Elective \\ Elective \\ |
+^ Year 4    | CS 4xx (CS Elective) \\  CS 4xx (CS Elective) \\ GenEd \\ Elective \\ Elective \\ | CS 4xx (CS Elective) \\ GenEd \\ Elective \\ Elective \\ Elective |
+\\ \\
+====== Option D - Late Start ======
+It is also possible to compress the major, for example if it is started in the sophomore year. The following table shows one way to do this. (Note: the major requires at least five semesters to complete due to prerequisites).
+
+|              ^ Fall           ^ Spring          ^
+^ Year 1    | GenEd \\ GenEd \\ Elective \\ Elective \\ Elective\\ | GenEd \\ GenEd \\ GenEd \\ Elective \\ Elective |
+^ Year 2    | CS 149 \\ MATH 231/235 \\ MATH 220/318 \\ GenEd \\ GenEd \\ | CS 159 \\ MATH 232/236 \\ CS/MATH 227 \\ GenEd \\ GenEd |
+^ Year 3    | CS 240 \\ CS 261 \\ CS 345 \\ GenEd \\ Elective \\ | CS 327 \\ CS 361 \\ CS 430 \\ GenEd \\ GenEd |
+^ Year 4    | CS 412/452 \\ 4xxS (CS Systems Elective) \\ CS 4xx (CS Elective) \\  Elective \\ Elective \\ | CS 4xx (CS Elective) \\ CS 4xx (CS Elective) \\ Elective \\ Elective \\ Elective |
