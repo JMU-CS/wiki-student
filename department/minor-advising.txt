@@ -71,7 +71,7 @@ No, but you should plan ahead. You need submit your application //while// you ar
 The CS minor takes a **minimum of three semesters**; there is no way to complete the minor in less time than that because of the prerequisite structure. Realistically, the CS minor typically takes four or five semesters, because certain classes are really popular and fill up, while others (particularly electives) are offered at most once per year.
  
 **Are there CS courses that do not count toward the minor?**\\
-Yes. Currently, CS 101, CS 260, and CS 280 do not count toward the minor.
+Yes. Currently, CS 260 and CS 280 do not count toward the minor.
  
 **Does ISAT 344, ISAT 345, ISAT 460, etc., count toward the minor?**\\
 You have to be **very careful** here and consult the current [[https://www.jmu.edu/catalog/|JMU Catalog]], not the Catalog that was in place when you matriculated. Any course that is cross-listed with CS when you take it can count toward the minor. Currently, **__NONE__** of these courses are cross-listed anymore. If you register for any of those courses, they will not count toward the minor.
