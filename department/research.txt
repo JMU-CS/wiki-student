@@ -20,7 +20,7 @@ Many students who become involved in research elect to do an "[[https://www.jmu.
 
 The honors thesis generally consists of a three-semester sequence beginning in the Spring of your Junior year, where you enroll in a 1-credit CS499A course and work with your faculty advisor to do some preliminary research and write a project proposal. In the Fall of your Senior year, you enroll in a 3-credit CS499B and do the majority of the work. Finally, in the Spring of your Senior year, you enroll in a 2-credit CS499C and finish any leftover work while writing and finalizing your final report and/or software deliverable. You will also present your work as part of the research seminar series in your final semester.
 
-If you are interested in this option, you should find a project or problem that you'd like to work on and request a meeting with a faculty member who might be interested in advising you. You should also look at the [[student:honors_capstone:start|CS Honors Capstone Guidelines]].
+If you are interested in this option, you should find a project or problem that you'd like to work on and request a meeting with a faculty member who might be interested in advising you. You should also look at the [[department:honors_capstone:start|CS Honors Capstone Guidelines]].
 
 ===== Independent Study =====
 
