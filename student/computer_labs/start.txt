@@ -1,0 +1,1 @@
+#redirect department:computer_labs:start
