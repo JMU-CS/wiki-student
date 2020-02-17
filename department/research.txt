@@ -1,0 +1,106 @@
+====== Overview ======
+
+The Undergraduate Research Lab is comprised of CS faculty who are currently working with or actively seeking talented undergraduate research assistants to collaborate on research projects in a variety of fields. Students gain experience in all aspects of research, while working closely with faculty members to push the boundaries of human knowledge. Projects can be anywhere from a semester long collaboration to multiple years. If you are interested in research, are thinking about graduate school, or just want to learn more about what we’re up to, please contact one of the faculty members listed below.
+
+====== Getting Involved ======
+
+Interested in research! There are a variety of ways to get involved!
+
+===== Friday Seminars and Lunch Meetings =====
+
+The [[CS Research Seminar Talks]] are talks given by faculty members and undergraduate research assistants on a variety of topics at the cutting edge of computer science research. Talks happen on Fridays at 12:20pm and occur roughly every couple of weeks, generally in ISAT/CS 243. The format is a 30-40 minute research talk with 10-20 minutes reserved for questions. All CS students (and other interested students and faculty) are invited to attend. Email announcements about each seminar will be sent to the CS listserv.
+
+On the Fridays when there is no research seminar talk, some faculty and students involved in research projects have an informal research meeting in the form of a [[ https://www.investopedia.com/terms/b/brown-bag-meeting.asp | brown bag]] lunch at 12:20pm in ISAT/CS 246. There is generally a "quick update" session where everyone talks briefly about any ongoing research work, and often project groups will use this time as an opportunity to discuss technical topics and problems relevant to the project. Some people come to talk about their ongoing projects and others come just to hear about what is going on in the department.
+
+If you are interested in research but aren't sure what you'd like to do, who you would like to work with, or even how to get started, the best way to get started is to begin attending these two events. Everyone is welcome, even freshman students!
+
+===== Honors Theses =====
+
+Many students who become involved in research elect to do an "[[https://www.jmu.edu/honors/capstone-project.shtml | Honors Capstone Project]]" (or "honors thesis"). This option is open to any student and you do not need to be a member of the honors college. Many faculty prefer this option for students who wish to do research.
+
+The honors thesis generally consists of a three-semester sequence beginning in the Spring of your Junior year, where you enroll in a 1-credit CS499A course and work with your faculty advisor to do some preliminary research and write a project proposal. In the Fall of your Senior year, you enroll in a 3-credit CS499B and do the majority of the work. Finally, in the Spring of your Senior year, you enroll in a 2-credit CS499C and finish any leftover work while writing and finalizing your final report and/or software deliverable. You will also present your work as part of the research seminar series in your final semester.
+
+If you are interested in this option, you should find a project or problem that you'd like to work on and request a meeting with a faculty member who might be interested in advising you. You should also look at the [[student:honors_capstone:start|CS Honors Capstone Guidelines]].
+
+===== Independent Study =====
+
+If you cannot commit to a three-semester sequence, there is still the possibility to receive some academic credit for doing research through a mechanism called an Independent Study. To do this, you must find a faculty member willing to advise you and submit a proposal to the undergraduate program coordinator. You will then register for a 1-, 2-, or 3-credit CS 497 and conduct work as planned over the course of a single semester.
+
+===== Ad-hoc =====
+
+Of course, you can also always contribute to a project without receiving any academic credit. There are other rewards, such as the experience itself as well as a nice thing to put on your resume. If a project has funding there is also occasionally the opportunity to earn a bit of part-time income as a student research employee. All of these should be discussed individually with a faculty member that you'd like to work with.
+
+====== Participating Faculty ======
+
+  * [[https://users.cs.jmu.edu/bernstdh/|Prof. Bernstein]]
+  * [[https://w3.cs.jmu.edu/bowersjc/|Prof. Bowers]]
+  * [[https://users.cs.jmu.edu/foxcj/Web/|Prof. Fox]]
+  * [[https://w3.cs.jmu.edu/kirkpams/index.shtml|Prof. Kirkpatrick]]
+  * [[https://w3.cs.jmu.edu/lam2mo/|Prof. Lam]]
+  * [[https://w3.cs.jmu.edu/molloykp/|Prof. Molloy]]
+  * [[https://w3.cs.jmu.edu/spragunr/|Prof. Sprague]]
+  * [[https://hcientist.cs.jmu.edu/|Prof. Stewart]]
+  * [[https://w3.cs.jmu.edu/weikleda|Prof. Weikle]]
+
+====== Groups/Labs ======
+
+  * [[https://w3.cs.jmu.edu/lam2mo/lab.html|High Performance Analysis]]
+
+====== Active Projects ======
+
+Here is a short sampling of active projects conducted by JMU faculty members with students. 
+
+Feel free to add your project here!
+
+===== CRAFT and FloatSmith =====
+
+Most computers provide at least two different levels of floating-point precision (32-bit ''float'' and 64-bit ''double''). Many calculations do not require high levels of precision, but it is very difficult for programmers to determine which calculations do and which do not. This project aims to analyze floating-point code automatically and report which regions must be in higher precision and which regions can use lower precision. CRAFT is a general framework for floating-point analysis and FloatSmith is a tool that integrates CRAFT and some other related tools to do precision analysis on source code.
+
+  * Faculty contact: Dr. Lam
+  * Paper: [[ https://w3.cs.jmu.edu/lam2mo/papers/2013-Lam-ICS.pdf | "Automatically Adapting Programs for Mixed-Precision Floating-Point Computation" ]]
+  * Paper: [[ https://w3.cs.jmu.edu/lam2mo/papers/2016-Lam-IJHPCA.pdf | "Fine-Grained Floating-Point Precision Analysis" ]]
+  * Paper: [[ https://w3.cs.jmu.edu/lam2mo/papers/2019-Lam-Correctness.pdf | "Tool Integration for Source-Level Mixed Precision" ]]
+  * CRAFT repository: [[ https://github.com/crafthpc/craft | GitHub ]]
+  * FloatSmith repository: [[ https://github.com/crafthpc/floatsmith | GitHub ]]
+  * Status: Ongoing and looking for new students!
+
+===== ExamGen =====
+
+Writing exams is a drudgery for most professors. Often, problems must be revised or re-parameterized to avoid repeating a previous semesters' question verbatim. Faculty in Computer Science are uniquely positioned to avoid some of this monotony because we are accustomed to writing scripts and programs to automate a process. This project aims to help automate the generation of new exams using a combination of question banks, scriptable questions, and potentially some application of machine learning to balance the length and difficulty of an exam.
+
+  * Faculty contact: Dr. Lam
+  * Status: On hold temporarily, but looking for new students to re-activate it!
+
+===== Less-Java =====
+
+Less-Java is a new programming language designed for use in an introductory programming class like our CS 149. It is designed to be simple but also to contain all necessary concepts for teaching programming. We have a prototype compiler and are in the process of improving it and running user studies to validate the usefulness of the language. See the [[ https://github.com/JMU-CS/less-java/wiki/Tutorial | tutorial ]] for examples of code in Less-Java, and see our [[ https://github.com/JMU-CS/less-java/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22 | "help wanted" ]] list for areas where you can get involved!
+
+  * Faculty contacts: Dr. Lam and Dr. Stewart
+  * Paper: [[ https://w3.cs.jmu.edu/lam2mo/papers/2019-Nasrawt-CCSC.pdf | "Less-Java, More Learning:
+Language Design for Introductory
+Programming" ]]
+  * Less-Java repository: [[ https://github.com/JMU-CS/less-java | GitHub ]]
+  * Status: Ongoing and looking for new students!
+
+===== Infill Generation for Additive Manufacturing Design =====
+
+Additive manufacturing (3D-printing) techniques are enabling lighter, stronger, and more quickly designed industrial production. A 3D printed object is neither solid nor hollow, but instead is filled with a pattern of material called an infill. This project seeks to design new computational methods for generating infill patterns that allow for both stronger and lighter materials to be constructed, generally based on some user specified parameters or simulated stress data. For example, an airplane wing experiences more stress near its attachment to the fuselage than it does at the wingtip. Can we design an infill pattern for a 3D printed airplane wing that is both strong where the stress is highest, but lighter than a wing built using traditional methods?
+
+   * Faculty contact: [[ https://johncbowers.com | John C. Bowers ]]
+   * Papers:
+     * Journal paper (submitted): "Design optimization of a Graded Lattice Structure and its application to Additive Manufacturing"
+     * Conference paper: [[ https://www.osti.gov/biblio/1479756-graded-infill-structure-wind-turbine-blade-accounting-internal-stress-big-area-additive-manufacturing | "Graded Infill Structure of Wind Turbine Blade Accounting for Internal Stress in Big Area Additive Manufacturing" ]]
+     * Conference paper*: [[ https://dl.acm.org/citation.cfm?id=3092883 | "A framework for tool path optimization in fused filament fabrication." ]]
+     * Conference paper*: [[ https://www.researchgate.net/publication/324953513_An_integrated_design_approach_for_infill_patterning_of_fused_deposition_modeling_and_its_application_to_an_airfoil | "An Integrated Design Approach for Infill Patterning of Fused Deposition Modeling and its Application to An Airfoil." ]]
+     * //*Paper included JMU student authors.// 
+   * Status: Ongoing and looking for new students!
+
+===== Shadow Value Analysis =====
+
+Sometimes it is useful to run a program and perform a "shadow" calculation for every arithmetic operation. This allows you to try different precision levels or even different real-number encodings. It also enables you to visualize the changing levels of floating-point rounding error in the program's calculations.
+
+  * Faculty contact: Dr. Lam
+  * Paper: [[ https://w3.cs.jmu.edu/lam2mo/papers/2016-Lam-ESPT.pdf | "Floating-Point Shadow Value Analysis" ]]
+  * SHVAL repository [[ https://github.com/crafthpc/shval | GitHub ]]
+  * Status: On hold temporarily, but looking for new students to re-activate it!
+
