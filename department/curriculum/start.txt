@@ -23,4 +23,4 @@ offerings ahead of time and do our best to follow the plan. Here are the current
 
 ==== Plans of Study ====
 
-The following [[student:curriculum:plans|sample plans of study]] illustrate various ways to fulfill CS and JMU degree requirements. We encourage you to make your own 4-year plan based on these examples.
+The following [[department:curriculum:plans|sample plans of study]] illustrate various ways to fulfill CS and JMU degree requirements. We encourage you to make your own 4-year plan based on these examples.
