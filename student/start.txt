@@ -10,11 +10,11 @@ There are usually 3-4 TAs in the labs at any given time period.
 
 ==== CS Advising ====
 
-  * [[student:advising:start | Advising FAQ ]]
-  * [[student:curriculum:start | CS Curriculum ]]
-  * [[student:fullAdmission:start | Full Admission to the Major or Minor ]]
-  * [[student:graduation | Graduation Process and Forms ]]
-  * [[student:minor-advising | Advising for CS Minors]]
+  * [[department:advising:start| Advising FAQ ]]
+  * [[department:curriculum:start| CS Curriculum ]]
+  * [[department:fulladmission:start| Full Admission to the Major or Minor ]]
+  * [[department:graduation| Graduation Process and Forms ]]
+  * [[department:minor-advising| Advising for CS Minors]]
 
 ==== University/Department-Specific Resources ====
 
@@ -23,15 +23,15 @@ There are usually 3-4 TAs in the labs at any given time period.
   * [[student:mattermost:start | Chat Server]] ("Mattermost" chat.cs.jmu.edu)
   * [[student:clubs:start | Clubs]]
   * [[student:cluster:start | Cluster ]]
-  * [[student:computer_labs:start | Computer Labs ]]
-  * [[student:listserv:start | CS Listserv ]]
-  * [[student:cs-success:start | CS Success ]]
+  * [[department:computer_labs:start| Computer Labs ]]
+  * [[department:listserv:start| CS Listserv ]]
+  * [[department:cs-success:start| CS Success ]]
   * [[student:freesoftware:start | Free Software ]]
   * [[student:gitlab:start | GitLab]] (git.cs.jmu.edu)
-  * [[student:honors_capstone:start|Honors Capstone]]
-  * [[student:cs_research_seminar_talks|Research Seminar Talks]]
+  * [[department:honors_capstone:start|Honors Capstone]]
+  * [[department:cs_research_seminar_talks|Research Seminar Talks]]
   * [[student:stu:start | Student Server]] (stu.cs.jmu.edu)
-  * [[student:research | Undergraduate Research ]]
+  * [[department:research| Undergraduate Research ]]
   * [[student:vm:start | Virtual Machine ]]
   * [[student:VPN:start | VPN ]]
   * [[student:wireless:start | Wireless ]]
