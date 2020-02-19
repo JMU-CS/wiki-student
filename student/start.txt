@@ -25,12 +25,12 @@ There are usually 3-4 TAs in the labs at any given time period.
   * [[student:cluster:start | Cluster ]]
   * [[department:computer_labs:start| Computer Labs ]]
   * [[department:listserv:start| CS Listserv ]]
-  * [[department:cs-success:start| TA Hours/Review Sessions ]]
   * [[student:freesoftware:start | Free Software ]]
   * [[student:gitlab:start | GitLab]] (git.cs.jmu.edu)
   * [[department:honors_capstone:start|Honors Capstone]]
   * [[department:cs_research_seminar_talks|Research Seminar Talks]]
   * [[student:stu:start | Student Server]] (stu.cs.jmu.edu)
+  * [[department:cs-success:start| TA Hours/Review Sessions ]]
   * [[department:research| Undergraduate Research ]]
   * [[student:vm:start | Virtual Machine ]]
   * [[student:VPN:start | VPN ]]
