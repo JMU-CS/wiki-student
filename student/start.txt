@@ -8,6 +8,11 @@ The computer labs in ISAT/CS 248 and 250 are open Mon-Thu 5:00-11:00pm (Wed 6:00
 If you go during those times, you can get help from a teaching assistant (TA).
 There are usually 3-4 TAs in the labs at any given time period.
 
+====Review Sessions====
+
+Review sessions for 159 lead by TAs will be held in 246 Mon and Tues at 7:00pm-8:00pm.
+Review sessions for 149 lead by TAs will be held in 243 Mon and Tues at 7:00pm-8:00pm.
+
 ==== CS Advising ====
 
   * [[department:advising:start| Advising FAQ ]]
