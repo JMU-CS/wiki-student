@@ -25,7 +25,7 @@ There are usually 3-4 TAs in the labs at any given time period.
   * [[student:cluster:start | Cluster ]]
   * [[department:computer_labs:start| Computer Labs ]]
   * [[department:listserv:start| CS Listserv ]]
-  * [[department:cs-success:start| CS Success ]]
+  * [[department:cs-success:start| TA Hours/Review Sessions ]]
   * [[student:freesoftware:start | Free Software ]]
   * [[student:gitlab:start | GitLab]] (git.cs.jmu.edu)
   * [[department:honors_capstone:start|Honors Capstone]]
