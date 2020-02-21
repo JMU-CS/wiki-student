@@ -54,6 +54,7 @@ Review sessions for 149 lead by TAs will be held in 243 Mon and Tues at 7:00pm-8
   * [[student:mathematics:start | Mathematical Foundations ]]
   * [[student:utilities:sshfs | Mounting Remote Directories Locally ]]
   * [[student:utilities:start | Operating System Utilities ]]
+  * [[student:python:virtualenv|Python Virtual Environments]]
   * [[student:scrumj:start | scrumj ]]
   * [[student:utilities:start:keypairs | SSH Key Pairs ]]
   * [[student:typographic-conventions:start | Typographic Conventions ]]
