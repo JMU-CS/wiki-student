@@ -154,8 +154,7 @@ There are several ways to test for thrown exceptions in JUnit. The most common i
    * Test that the constructor validates properly.
    */
   @Test
-  public void constructor_IllegalArguments() 
-          throws IllegalArgumentException
+  public void constructor_IllegalArguments()
   {
     assertThrows(IllegalArgumentException.class, () -> {new Atom("O", -8, -16);});
   }
