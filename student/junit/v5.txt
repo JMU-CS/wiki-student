@@ -161,7 +161,6 @@ There are several ways to test for thrown exceptions in JUnit. The most common i
 </code>
 
 This approach uses a //Lambda expression//, a representation of a class with a single-method. 
-(Note that ''%%IllegalArgumentException%%'' is an unchecked   exception. Hence, this code will compile even if the test method does   not specify that it re-throws the exception. If you are testing for   a checked exception then the test method must specify that it re-throws   the exception.)
 
 
 Alternatively, one can invoke the methods that is supposed to throw an expression in a ''%%try-catch%%'' block, and use the ''%%fail()%%'' method. For example:
