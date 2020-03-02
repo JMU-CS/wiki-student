@@ -31,9 +31,7 @@ Note that you should not put the repository under the directory containing the E
 
 ==== Adding a Project to Version Control ====
 
-A project should be added to version control only once. After that, files in the project can be added to version control individually (or in groups). It is best to create a local repository for the easiest to add a project to version control
-
-To add a project to version control:
+A project should be added to version control only once. After that, files in the project can be added to version control individually (or in groups). To add a project to version control:
 
   - [[  #creating_a_local_repository | Create a local repository ]] (if you have not already done so)
   - Right-click on the project
@@ -42,7 +40,7 @@ To add a project to version control:
   - Browse to the local repository to use (or create a local repository in the parent folder of the project)
   - Click on <key>Finish</key>
 
-The name of the local repository you are using for this project will now appear next to the name of the project. In additions, the icons on any directories/files in the project will change to indicate that they have not yet been committed.
+The name of the local repository you are using for this project will now appear next to the name of the project. In addition, the icons on any directories/files in the project will change to indicate that they have not yet been committed.
 
 If you look at the project directory (outside of Eclipse) you will see that it is now empty, and if you look at the
 repository directory (again, outside of Eclipse) you will see that it now contains all of the directories and files that were in the project' directory.
