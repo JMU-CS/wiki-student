@@ -63,7 +63,7 @@ You can also edit the ''.gitignore'' file (outside of Eclipse).
 
 The easiest way to instruct Git to commit files to the local repository is:
 
-  - Open the [[ Git Perspective | opening_the_git_perspective ]]
+  - Open the [[ #opening_the_git_perspective|Git Perspective ]]
   - Click on the "Git Staging" tab
   - Select the appropriate files in the "Unstaged Changes" list
   - Click on <key>+</key>
