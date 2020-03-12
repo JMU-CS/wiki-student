@@ -22,7 +22,7 @@ If you have not yet taken CS 159 and you are not currently taking it, stop here.
 
 You will need to bring the following to your advising appointment:
 
-  * A completed [[https://www.jmu.edu/cs/documents/app-form-cs-minors.pdf|application]] for full admission to the CS major/minor.
+  * A completed [[https://www.jmu.edu/cs/documents/cs-application-for-Full-admission-2017.pdf|application]] for full admission to the CS major/minor.
   * A mostly completed [[https://www.jmu.edu/cs/documents/app-form-cs-minors.pdf|CS Minor Application Form]]. You can sketch in courses for the plan of study or leave it blank, but fill out the rest.
   * A Major/Minor Change Declaration submitted to MyMadison. If you need direction, here's a [[https://www.jmu.edu/computing/ittraining/e-training/mymadison-student-change-declare-major/story_html5.html|tutorial]].
 
