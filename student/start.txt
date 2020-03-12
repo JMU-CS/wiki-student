@@ -15,7 +15,7 @@ Review sessions for 149 lead by TAs will be held in 243 Mon and Tues at 7:00pm-8
 
 ==== CS Advising ====
 
-  * [[department:advising:start| Spring 2020 updates ]]
+  * [[department:sp20updates:start| Spring 2020 updates ]]
   * [[department:advising:start| Advising FAQ ]]
   * [[department:curriculum:start| CS Curriculum ]]
   * [[department:fulladmission:start| Full Admission to the Major or Minor ]]
