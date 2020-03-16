@@ -1,0 +1,13 @@
+If the VPN is unavailable, or overloaded, you can utilize SSH port forwarding to access resources like autolab.
+
+These directions are for the terminal based ssh tool. You can also use tools like Putty to accomplish a similar configuration.
+
+To create an SOCKS proxy through stu, for example, you could use the following command:
+
+<code>
+ssh -D9001 eid@stu.cs.jmu.edu
+</code>
+
+What this command is saying is to create a SOCKS proxy on the local machine at port 9001 that can be used as a SOCKS proxy. The endpoint is at stu. That is, anything that is reachable from stu itself can be reached with this proxy. Of note, you can use any port you like, just pick something that isn't in use by your machine. (On a typical desktop, most ports are going to be available. But you would want to likely pick a higher, above 1024 number so that you don't need administrative privileges.)
+
+To actually use the SOCKS proxy that you created, a typical use case would be to configure it under the proxy settings for your browser. To do this, you would select to use a SOCKS (v5, if asked) proxy with a host of localhost and a port of 9001.
