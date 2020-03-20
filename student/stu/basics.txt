@@ -13,13 +13,24 @@ Enter your password when prompted. Nothing will appear on the screen so type car
 You can avoid the need to authenticate yourself (with your eID and password) each time you login [[ student:utilities:start:keypairs | using a public/private key pair]]. This is particularly useful when using another protocol (e.g., Subversion or Git) on top of SSH.
 
 ==== Accessing Lab Computers====
-To log into a specific lab computer you first login to stu as normal and then you use "ssh L[room_number][computer_number]" (fill in the information in the brackets without the brackets).
+To log into a specific lab computer you first login to stu as normal and then ssh to a lab machine by hostname. The hostnames are based on the room and computer number and take the form "L[room_number][computer_number].cs.jmu.edu".
 
+^ Room         ^ Hostname Range          ^
+| ISAT/CS 143 | L143{40..71}.cs.jmu.edu  |
+| ISAT/CS 243 | L248{01..32}.cs.jmu.edu |
+| ISAT/CS 250 | L250{01..33}.cs.jmu.edu |
+
+This can be simplified by using the ''-J'' option to ssh. For example, the following command would jump through stu to reach a lab computer in ISAT/CS 250.
+
+    ssh -J <eid>@stu.cs.jmu.edu <eid>@l25005.cs.jmu.edu
+
+Setting up keypairs is highly recommended if you're doing this regularly to avoid multiple password prompts.
 
 ==== Transferring Files to and From stu ====
 You can transfer files to "stu" using an SCP client (and the host name  ''%%stu.cs.jmu.edu%%''). Modern operating systems include a command-line scp client named ''scp''. See [http://www.hypexr.org/linux_scp_help.php|this article]] for some usage examples. There are also GUI clients available that work like a file explorer. Options include [[https://winscp.net/eng/index.php|WinSCP]] and [[https://cyberduck.io/|Cyberduck]].
 
 If you want a more seamless experience or the ability to edit files on "stu" using a local editor like Eclipse or VS Code, you can [[student:utilities:sshfs|mount your home folder locally]]. The department strongly discourages the use of editor-specific plugins such as "Visual Studio Code Remote" for performance and security reasons, and students found using these extensions may be asked to stop.
+
 ==== Using stu as an HTTP Server ====
 
 
