@@ -84,7 +84,7 @@ Upsilon Pi Epsilon was founded in 1967 at Texas A&M University and is the first 
   * Faculty contact: Dee Weikle (weikleda)
   * Student contact: Nicole Stock
   * Regular meetings: Tues, 6:00pm, ISAT/CS 136
-  * Websites:[[https://beinvolved.jmu.edu/organization/wit|BeInvolved]] | [[https://jmuwit.github.io/]]
+  * Links: [[https://beinvolved.jmu.edu/organization/wit|BeInvolved]] | [[https://jmuwit.github.io/|Website]]
 
 WIT's goal is to celebrate an active network of women in the technology industries by facilitating career development and empowering women to be the architects of change in the STEM field, and to create opportunities for personal and professional development inside and outside of the classroom.
 
