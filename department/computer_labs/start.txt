@@ -14,7 +14,7 @@ The Computer Science department maintains multiple computer labs running Linux M
   * 4 x Dell Precision Workstation 3620, Intel Core i7-7700, 16GB RAM, Nvidia Quadro P2000 (5GB)
 
 === ISAT/CS 248 ===
-  * 30 x Apple iMac 14,3, Intel Core i5-4570S, 16GB RAM
+  * 30 x Dell Precision Workstation 3630, Intel Core i7-8700, 16GB RAM, Nvidia Quadro P2000 (5GB)
 
 === ISAT/CS 250 ===
   * 30 x Dell Precision Workstation 3620, Intel Core i7-7700, 16GB RAM, Nvidia Quadro P2000 (5GB)
