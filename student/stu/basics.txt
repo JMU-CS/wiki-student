@@ -27,7 +27,7 @@ This can be simplified by using the ''-J'' option to ssh. For example, the follo
 Setting up keypairs is highly recommended if you're doing this regularly to avoid multiple password prompts.
 
 ==== Transferring Files to and From stu ====
-You can transfer files to "stu" using an SCP client (and the host name  ''%%stu.cs.jmu.edu%%''). Modern operating systems include a command-line scp client named ''scp''. See [http://www.hypexr.org/linux_scp_help.php|this article]] for some usage examples. There are also GUI clients available that work like a file explorer. Options include [[https://winscp.net/eng/index.php|WinSCP]] and [[https://cyberduck.io/|Cyberduck]].
+You can transfer files to "stu" using an SCP client (and the host name  ''%%stu.cs.jmu.edu%%''). Modern operating systems include a command-line scp client named ''scp''. See [[http://www.hypexr.org/linux_scp_help.php|this article]] for some usage examples. There are also GUI clients available that work like a file explorer. Options include [[https://winscp.net/eng/index.php|WinSCP]] and [[https://cyberduck.io/|Cyberduck]].
 
 If you want a more seamless experience or the ability to edit files on "stu" using a local editor like Eclipse or VS Code, you can [[student:utilities:sshfs|mount your home folder locally]]. The department strongly discourages the use of editor-specific plugins such as "Visual Studio Code Remote" for performance and security reasons, and students found using these extensions may be asked to stop.
 
