@@ -8,7 +8,7 @@ JMU IT maintains a VPN that is available to everyone with an eID. This is one of
 All JMUCS students have SSH access to our student server, ''stu.cs.jmu.edu''. This is useful when you need access to a Linux environment but note that it is entirely command-line based. You can also jump through stu to reach internal Linux hosts like lab machines or the HPC cluster. See the article on [[student:stu:start|stu]] for more information. 
 
 ==== SSHFS ====
-SSHFS allows you to mount your JMUCS home directory locally on your computer. This is nice because it lets local tools like Eclipse or Visual Studio code work with your files directly. See the [[student:utilities:sshfs|Mounting a Remote Filesystem Locally]] article for more information.
+SSHFS allows you to mount your JMUCS home directory locally on your computer. This is nice because it lets local tools like Eclipse or Visual Studio Code work with your files directly. See the [[student:utilities:sshfs|Mounting a Remote Filesystem Locally]] article for more information.
 
 ==== Tunneling traffic through Stu ====
 This is mainly included as an option for when the VPN is overloaded or unavailable. You can forward traffic from your local web browser through stu to reach internal resources. See the article on [[student:utilities:sshportforward|ssh port forwarding]] for more information.
