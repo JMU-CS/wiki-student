@@ -34,6 +34,7 @@ Review sessions for 149 lead by TAs will be held in 243 Mon and Tues at 7:00pm-8
   * [[student:freesoftware:start | Free Software ]]
   * [[student:gitlab:start | GitLab]] (git.cs.jmu.edu)
   * [[department:honors_capstone:start|Honors Capstone]]
+  * [[department:remote_access:start|Remote Access]]
   * [[department:cs_research_seminar_talks|Research Seminar Talks]]
   * [[student:stu:start | Student Server]] (stu.cs.jmu.edu)
   * [[department:cs-success:start| TA Hours/Review Sessions ]]
