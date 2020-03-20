@@ -3,7 +3,9 @@
 Computer Science Department.
 
 ==== Logging in to stu ====
-You can login to "stu" using an SSH client (and the host name   ''%%stu.cs.jmu.edu%%''). All modern operating systems (including Windows 10) should come with command-line SSH client (usually named ''%%ssh%%''). GUI SSH clients are also available, but add little. To log in, type the following in a terminal/cmd window, replacing <eid> with your JMU username.
+You can login to "stu" using an SSH client (and the host name   ''%%stu.cs.jmu.edu%%''). All modern operating systems should come with command-line SSH client (usually named ''%%ssh%%''). Windows 10 users may need to install the client [[https://www.howtogeek.com/336775/how-to-enable-and-use-windows-10s-built-in-ssh-commands/|manually]], depending on version and edition. GUI SSH clients are also available, but add little.
+
+To log in, type the following in a terminal/cmd window, replacing <eid> with your JMU username.
 
     ssh <eid>@stu.cs.jmu.edu
 
