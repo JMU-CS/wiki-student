@@ -1,25 +1,23 @@
-
-
 ===== Help with stu.cs.jmu.edu =====
-
-
 "stu" is a server running Linux that is available to all students in the JMU
 Computer Science Department.
 
-
-
 ==== Logging in to stu ====
+You can login to "stu" using an SSH client (and the host name   ''%%stu.cs.jmu.edu%%''). All modern operating systems (including Windows 10) should come with command-line SSH client (usually named ''%%ssh%%''). GUI SSH clients are also available, but add little. To log in, type the following in a terminal/cmd window, replacing <eid> with your JMU username.
 
-You can login to "stu" using an SSH client (and the host name   ''%%stu.cs.jmu.edu%%''). All modern operating systems should come   with command-line SSH client (usually named ''%%ssh%%''). GUI SSH   clients are also available, but add little.
+    ssh <eid>@stu.cs.jmu.edu
 
+Enter your password when prompted. Nothing will appear on the screen so type carefully!
+
+=== Keypairs ===
 You can avoid the need to authenticate yourself (with your eID and password) each time you login [[ student:utilities:start:keypairs | using a public/private key pair]]. This is particularly useful when using another protocol (e.g., Subversion or Git) on top of SSH.
 
+==== Accessing Lab Computers====
 To log into a specific lab computer you first login to stu as normal and then you use "ssh L[room_number][computer_number]" (fill in the information in the brackets without the brackets).
 
 
 ==== Transferring Files to and From stu ====
-
-You can transfer files to "stu" using an SCP client (and the host name   ''%%stu.cs.jmu.edu%%''). 
+You can transfer files to "stu" using an SCP client (and the host name  ''%%stu.cs.jmu.edu%%''). Modern operating systems include a command-line scp client named ''scp''. See [http://www.hypexr.org/linux_scp_help.php|this article]] for some usage examples. There are also GUI clients available that work like a file explorer. Options include [[https://winscp.net/eng/index.php|WinSCP]] and [[https://cyberduck.io/|Cyberduck]].
 
 If you want a more seamless experience or the ability to edit files on "stu" using a local editor like Eclipse or VS Code, you can [[student:utilities:sshfs|mount your home folder locally]]. The department strongly discourages the use of editor-specific plugins such as "Visual Studio Code Remote" for performance and security reasons, and students found using these extensions may be asked to stop.
 ==== Using stu as an HTTP Server ====
