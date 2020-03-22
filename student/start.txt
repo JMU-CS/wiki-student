@@ -15,10 +15,6 @@ https://chat.cs.jmu.edu/jmu-cs/channels/cs-ta
 
 Info about Mattermost (chat server)\\
 https://wiki.cs.jmu.edu/student/mattermost/start 
-====Review Sessions====
-
-Review sessions for 159 lead by TAs will be held in 246 Mon and Tues at 7:00pm-8:00pm.
-Review sessions for 149 lead by TAs will be held in 243 Mon and Tues at 7:00pm-8:00pm.
 
 ==== CS Advising ====
 
