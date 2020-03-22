@@ -4,10 +4,17 @@
 
 ==== TA Hours ====
 
-The computer labs in ISAT/CS 248 and 250 are open Mon-Thu 5:00-11:00pm (Wed 6:00-11:00pm) and Sun 1:00-11:00pm.
-If you go during those times, you can get help from a teaching assistant (TA).
-There are usually 3-4 TAs in the labs at any given time period.
+**Zoom**
+For entering "The Lab" during TA Hours, click the corresponding link
+Sunday 1-5: https://zoom.us/j/366702019
+Evenings 5-11 meeting: https://zoom.us/j/319601515
 
+**MatterMost channel**
+TAs will monitor this channel during office hour times. This can work if your internet connection is slow for basic questions or if you are having trouble getting into the Zoom room and want help with that.
+https://chat.cs.jmu.edu/jmu-cs/channels/cs-ta
+
+Info about Mattermost (chat server)
+https://wiki.cs.jmu.edu/student/mattermost/start 
 ====Review Sessions====
 
 Review sessions for 159 lead by TAs will be held in 246 Mon and Tues at 7:00pm-8:00pm.
