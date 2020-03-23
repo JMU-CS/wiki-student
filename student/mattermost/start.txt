@@ -16,7 +16,7 @@ You can sign in with your JMU EID by:
 
 ==== Channels ====
 
-In Mattermost, channels can be public or private. A "channel" is a group chat that certain people may wish to join (unliek the "Town Square" channel which has EVERYONE in it. See more about channels on the [[https://docs.mattermost.com/help/getting-started/welcome-to-mattermost.html#channels|mattermost documentation]]
+In Mattermost, channels can be public or private. A "channel" is a group chat that certain people may wish to join (unlike the "Town Square" channel which has EVERYONE in it). See more about channels on the [[https://docs.mattermost.com/help/getting-started/welcome-to-mattermost.html#channels|mattermost documentation]].
 
 ==== Customization ====
 You can customize the color scheme of Mattermost, your notification preferences (on browser, desktop, and mobile), and even your [[https://docs.mattermost.com/help/settings/account-settings.html?highlight=nickname#nickname|nickname]].
