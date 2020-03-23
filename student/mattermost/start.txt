@@ -2,6 +2,8 @@
 
 Mattermost is a team-chat service (a free and open source alternative to e.g. slack.com, discordapp.com, teams.microsoft.com ). You might use this to chat generally with students, faculty, and alumni of JMUCS, with clubs or other special interests (such as professors' research labs), or to chat with TAs for help with coursework. 
 
+===== Quick Overview =====
+Find a quick tour here https://www.youtube.com/watch?v=8uBzF1K9Sf0
 ===== Signing Up/Signing In =====
 
 You can sign in with your JMU EID by:
