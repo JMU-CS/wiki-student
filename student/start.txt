@@ -7,7 +7,8 @@
 **TA Hours via Zoom**\\
 For entering "The Lab" during TA Hours, click the corresponding link
   * Sunday 1-5: https://zoom.us/j/366702019
-  * Evenings 5-11 meeting: https://zoom.us/j/319601515
+  * Evenings Mon/Tues/Thurs. 5-11 meeting (Wed: 6-11): https://zoom.us/j/319601515
+You will be entered into a main Zoom room with a lead TA able to put you in a breakout room where you can get individual help with your problem. You will be able to share your screen and a TA can not only speak with you, but annotate your code to help you figure out what your problems are. You do not have to share your video, but you may. Low bandwidth connections can focus on using audio and the chat. To enter the "line" you enter your name, class and problem in the chat window just like you wrote on the white board in physical lab hours. To see an example of what to expect, see this video: https://www.youtube.com/watch?v=op4dtT53ZTg
 
 **Fourth Hour**\\
 Available Mon. 7-8 pm and Tues. 7-8 pm. To attend at 7:00 or right before, go to evening online TA Hours at the link above and enter your name and Fourth Hour in the chat box. You will be added to a separate "breakout" room for the Fourth Hour session.
