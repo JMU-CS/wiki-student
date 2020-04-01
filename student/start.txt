@@ -13,9 +13,12 @@ You will be entered into a main Zoom room with a lead TA able to put you in a br
 **Fourth Hour**\\
 Available Mon. 7-8 pm and Tues. 7-8 pm. To attend at 7:00 or right before, go to evening online TA Hours at the link above and enter your name and Fourth Hour in the chat box. You will be added to a separate "breakout" room for the Fourth Hour session.
 
-**CS 159 Xtended**
+**CS 159 Xtended**\\
 There is no software you need to download, and you only need to make a Twitch account if you’d like to ask questions in our chat during the stream.\\
 https://www.twitch.tv/cs159review
+
+**CS 227 Practice**\\
+Available during normal evening online TA hours on Zoom from 5-7 on Monday and 4-5 and 6-7 on Wednesday. Please enter your name and CS 227 in the chat box. You will be added to a seperate "breakout" room for the practice session.
 
 **MatterMost channel**\\
 TAs will monitor this channel during office hour times. This can work if your internet connection is slow for basic questions or if you are having trouble getting into the Zoom room and want help with that.
