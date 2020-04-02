@@ -67,10 +67,17 @@ Tasks can be added to the task area by clicking on <key>scrumj</key>+<key>Add on
 
 A task or acceptance criteria will always be added at the end of the respective area and will be numbered accordingly. The user must enter the description and assignee (and effort for tasks). When a task is completed or an acceptance criteria is confirmed, the user should click on the corresponding status checkbox. The date will be entered automatically and, if permissions have been granted, the name of the person who clicked the status box will also be entered.
 
-The information in the effort summary, task summary, and acceptance criteria summary is calculated from the information in the task area and acceptance criteria area.
+The information in the effort
+====User Interaction====
+ summary, task summary, and acceptance criteria summary is calculated from the information in the task area and acceptance criteria area.
 
 A task can be removed by clicking on <key>scrumj</key>+<key>Delete one task...</key>. Similarly, an acceptance criterion can be removed by clicking on <key>scrumj</key>+<key>Delete one acceptance criterion...</key>.
 
 The deactivator can be used to exclude a story from the sprint. This is convenient when the team determines that a story won't be completed after all of the tasks (and, perhaps, acceptance criteria) have been entered, but before the sprint begins. Accordingly, a story can only be activated during the sprint planning meeting. Deactivating a story will allow it to be included in a subsequent sprint.
 
 The current story can be deleted by clicking on <key>scrumj</key>+<key>Delete current story</key>. 
+
+
+====Known Issues====
+
+Because of a defect in Google Sheets, you will sometimes get an error message when you try to make change to a story. This is because each sheet is protected (to prevent you from editing cells that you shouldn't), and the defect causes the protected ranges to be changed when they shouldn't be. The problems this causes can usually be corrected by clicking on <key>scrumj</key>+<key>Fix protections on current stories</key>. If this doesn't work, you can remove all protections (but you must then be careful not to change cells that you shouldn't change).
