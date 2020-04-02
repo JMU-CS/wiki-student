@@ -65,9 +65,9 @@ Students who are not in academic good standing must contact the Office of Academ
 
 Please wait until you get your final grade to decide if you will switch any of your courses to CR/NC.
 
-Since this is a unique semester, the rules for admission into the major are annotated with regard to those currently in CS149 and CS159.
+Since this is a unique semester, the rules for admission into the major are annotated with regard to those currently in CS149 and CS 159.
 
-**For CS 149 students.**
+**For CS 149 students**
 
 Students in CS 149 who take the CR/NC option and receive a CR may move on to CS 159. Keep in mind  that historically students who have scored below a B- in CS 149 have not been  able to make a high enough grade in CS 159 to continue in the major. In addition we have many examples of students who retook CS 149 and then did quite well in CS 159. If you are
 on the  fence with your CS 149 score, we suggest you retake the course. Also, talk with your CS advisor about what will work best for you.
@@ -76,7 +76,7 @@ In order to help alleviate stress this semester, retaking CS 149 after having ta
 
 If you select the grade option in CS149, you need to earn a B- or better in CS149 to continue to CS159.  The progression standards will remain in effect for admissions into the major.
 
-**For CS 159 students.**
+**For CS 159 students**
 
 Students in CS 159 who take the CR option may still apply for admission to the  major. If you had either an A or A- in CS 149 you will be automatically accepted if you receive a CR in CS 159. If you had a grade below an A- in CS 149, you may still apply and your CS 149 and CS 159 professors will meet to evaluate your application. The committee will work very hard to make a decision that is best for you, considering the current situation. If you are denied admission, you may retake CS 159
 without penalty. In other words, if you are denied admission this year, but then get a B+ or better in CS 159 next year, you would receive automatic admission to the major even though you retook CS 159.
