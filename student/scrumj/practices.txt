@@ -29,7 +29,7 @@ Before the planning meeting, one team member should first:
 
 3. Set the start/end dates by clicking on <key>scrumj</key>+<key>Set dates...</key>.
 
-4. Add *all* of the team members to the "Assignments" page using just the ''local-part'' (i.e., the part before the ''@'' sign) of each member's email address (at JMU, this is the person's eid). NOTE: You cannot add team members after a story has been added. So, you must add all team members now.
+4. Add **all** of the team members to the "Assignments" page using just the ''local-part'' (i.e., the part before the ''@'' sign) of each member's email address (at JMU, this is the person's eid). NOTE: You cannot add team members after a story has been added. So, you must add all team members now.
 
 5. Share the copy with all other team members and the product owner using their eid@dukes.jmu.edu account.
 
