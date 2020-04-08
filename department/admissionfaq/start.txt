@@ -6,6 +6,9 @@
 
 Yes. All students need to apply if they want to be fully admitted to the CS major or minor, even if they are guaranteed admission.
 
+== I am currently taking CS 159, but not CS/MATH 227. Should I still apply for full admission at the end of this semester? ==
+
+Yes. The admissions decision is made based on your CS 139/149 and CS 159 grades, so you should apply this semester. Note that if you are admitted, you will not be able to enroll in CS 240 or CS 261 until you have completed CS/MATH 227, but you would be able to take CS 345.
 ==== Application Form ====
 
 == The form asks me to enter my CS 159 grade, but I am currently enrolled in CS 159 and do not know what my grade will be yet. ==
