@@ -1,0 +1,7 @@
+===== Frequently Asked Questions about the Full Admission to the Major/Minor Process =====
+
+==== Application Form ====
+
+== The form asks me to enter my CS 159 grade, but I am currently enrolled in CS 159 and do not know what my grade will be yet. ==
+
+This entry is for students who have already completed CS 159 and have received a grade. If you are currently enrolled in CS 159, leave this field blank. We will obtain your grade from the Registrar's office once grades are available.
