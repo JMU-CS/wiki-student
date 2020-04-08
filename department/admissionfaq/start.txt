@@ -1,5 +1,11 @@
 ===== Frequently Asked Questions about the Full Admission to the Major/Minor Process =====
 
+==== Application Process ====
+
+== If I will receive guaranteed admission to the major based on my CS 149/159 GPA, do I still have to apply for admission? ==
+
+Yes. All students need to apply if they want to be fully admitted to the CS major or minor, even if they are guaranteed admission.
+
 ==== Application Form ====
 
 == The form asks me to enter my CS 159 grade, but I am currently enrolled in CS 159 and do not know what my grade will be yet. ==
