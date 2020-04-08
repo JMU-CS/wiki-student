@@ -18,6 +18,6 @@ This entry is for students who have already completed CS 159 and have received a
 
 ==== Scheduling classes ====
 
-== If I cannot register for CS 240, CS 261, and CS 345 until after I am fully admitted to the major, how can I register for classes when it is time for registration? ==
+== If I cannot register for CS 240, CS 261, and CS 345 until after I am fully admitted to the major/minor, how can I register for classes when it is time for registration? ==
 
 When registering for regular classes, we recommend that you determine at which times the CS classes you want to take are offered, and then sign up for "backup" classes during the same time slots. When the admissions decisions are made, you will be contacted by the undergraduate program director. We will then raise the caps on those CS classes, and if your are admitted you can register and drop your "backup" classes. This will happen approximately one week after grades are posted.
