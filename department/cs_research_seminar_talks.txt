@@ -18,7 +18,8 @@ The CS Research Seminar Talks are talks given by faculty members and undergradua
   * Apr 3 - TBD
   * Apr 3 - Charles Hines: //Less-Java, More Type Safety// (Advisor: Prof. Lam)
   * Apr 10 - Jake Brazleton: //Using Software to Generate Acoustic Projections for 3D Models// (Advisor: Prof. Bowers)
-  * Apr 10 - William Lovo: //Analyzing Text Classifiers to Support DLP Systems.// (Advisor: Prof. Molloy)
+  * Apr 10 - William Lovo: //Analyzing Text Classifiers to Support DLP Systems// (Advisor: Prof. Molloy)
+  * Apr 10 - Megan Gilbert: //Fourth Hour: A Pilot Study on the Impact of PI// (Advisor: Prof. Weikle)
 
 ===== Spring 2020 Abstracts =====
 
