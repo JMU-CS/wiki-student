@@ -13,7 +13,7 @@
   * Scheduler: add your name to the bottom of the waiting list
   * Calendar: https://users.cs.jmu.edu/bernstdh/Web/officehours.html
 
-**Dr. Bowers - CS 430, CS 480**
+**Dr. Bowers** - CS 430, CS 480
   * Twitch stream: [[https://www.twitch.tv/johncbowers|https://www.twitch.tv/johncbowers]]
   * Zoom room: [[https://zoom.us/j/283061478|https://zoom.us/j/283061478]]
   * General office hours: Every day: 1:30 - 3:00 pm with priority given to CS 480 on WF. 
