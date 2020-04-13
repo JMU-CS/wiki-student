@@ -34,7 +34,7 @@
 **Dr. Lam** - CS 430, CS 470
   * Office Hours: M/W 1:30-3:00 pm
   * Twitch stream: [[https://www.twitch.tv/sig_segv |https://www.twitch.tv/sig_segv]] 
-  * Zoom room (during office hours): [[https://zoom.us/j/957659124|https://zoom.us/j/957659124]]
+  * Zoom room (during office hours): (link on Canvas--email me for URL if you aren't in a class)
   * Calendar (for meetings outside office hours): [[https://calendly.com/lam2mo|https://calendly.com/lam2mo]]
 
 **Dr. Mayfield** - CS 374
