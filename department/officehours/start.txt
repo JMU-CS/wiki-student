@@ -1,9 +1,9 @@
-**Dr. Mohamed S Aboutabl** CS 227, CS 261
+**Dr. Mohamed S Aboutabl**-  CS 227, CS 261
   * Office Hours: Mon, Tue, Wed,  Thu, 2:30 pm -4:30 pm  via Zoom
   * Let me know via email and I will set up a Zoom meeting. I will send you the URL. 
   * All lectures have been uploaded to Canvas. 
 
-**Dr. Ramon A Mata-Toledo**. CS 227 (Sections 1, 2, 3)
+**Dr. Ramon A Mata-Toledo** - CS 227 (Sections 1, 2, 3)
   * Office Hours: M, T, Th, 10:00 am -12:00 pm
   * Let me know via email and I will set up a Zoom meeting. I will send you the URL. 
   * All lectures have uploaded to Canvas. 
@@ -20,7 +20,7 @@
   * MWF: 9:30-10:30 am with priority given to CS 430. 
   * Other times by appointment. 
 
-**Dr. Fox**—CS 412, CS 442
+**Dr. Fox** - CS 412, CS 442
   * Regular Office Hours: MTWTh 1:30-3:30
   * Zoom Room: [[https://zoom.us/j/7614055264|https://zoom.us/j/7614055264]]
   * Times by appointment: Any mutually agreed time
@@ -86,7 +86,7 @@ If you would like to meet outside of office hours, email me the times when you a
   * Office hours: Tuesday 10:20 ˜ 12:20, 13:50 - 15:20; Thursday 13:50 - 15:20
   * Zoom URL: [[https://zoom.us/j/4401425906 |https://zoom.us/j/4401425906]] 
 
-**Dr. Weikle** - CS159 and CS456
+**Dr. Weikle** - CS159, CS456
   * Office Hours: Zoom Link: [[https://zoom.us/j/568351473|https://zoom.us/j/568351473]]
   * Mon. 10:30-11:30, Wed. 1:15-2:15, Thurs. 3-4, Fri. 10-11, 1:15-2:15
   * Or Email with times weikleda@cs.jmu.edu
