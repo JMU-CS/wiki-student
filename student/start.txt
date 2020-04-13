@@ -46,6 +46,7 @@ https://wiki.cs.jmu.edu/student/mattermost/start
   * [[student:cluster:start | Cluster ]]
   * [[department:computer_labs:start| Computer Labs ]]
   * [[department:listserv:start| CS Listserv ]]
+  * [[department:officehours:start| Faculty Office Hours ]]
   * [[student:freesoftware:start | Free Software ]]
   * [[student:gitlab:start | GitLab]] (git.cs.jmu.edu)
   * [[department:honors_capstone:start|Honors Capstone]]
