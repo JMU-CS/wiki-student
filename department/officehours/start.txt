@@ -89,6 +89,6 @@ If you would like to meet outside of office hours, email me the times when you a
 **Dr. Weikle** - CS159, CS456
   * Office Hours: Zoom Link: [[https://zoom.us/j/568351473|https://zoom.us/j/568351473]]
   * Mon. 10:30-11:30, Wed. 1:15-2:15, Thurs. 3-4, Fri. 10-11, 1:15-2:15
-  * Or Email with times weikleda@cs.jmu.edu
+  * Or Email with times weikleda@jmu.edu
 	
 
