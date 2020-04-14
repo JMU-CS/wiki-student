@@ -96,4 +96,14 @@ without penalty. In other words, if you are denied admission this year, but then
 
 If you do not switch to the CR/NC option, you must have an average grade of 3.0 or better in CS 149 and CS 159 to continue in the major and the progression rules remain in effect for admissions into the major.
 
+====== CS Policy for Enrollment Limits ======
+
+The undergraduate catalog for the CS major/minor states:
+"Students may enroll in each of CS 149, CS 159, CS 240 and CS 261 at
+most twice." The CS department has decided to not count classes taken
+this semester toward this enrollment limit. It will therefore be ok to
+enroll in a course again next semester if you need to.
+
+====== CS Advisor ======
+
 If you have any questions, please set an appointment with the CS Advisor, Paige Normand: https://bit.ly/cs-advisor
