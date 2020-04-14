@@ -77,7 +77,7 @@ If you would like to meet outside of office hours, email me the times when you a
 **Dr. Stewart**
   * YouTube stream: [[http://tiny.cc/stewarttv|http://tiny.cc/stewarttv]] 
   * Twitch stream: [[https://www.twitch.tv/hcientist |https://www.twitch.tv/hcientist]] 
-  * Zoom room: [[http://tiny.cc/stewart-zoom  |http://tiny.cc/stewart-zoom ]] 
+  * Office Hours: M-F 2-3PM via zoom link in syllabus on Canvas.
 
 **Dr. Tjaden** - CS510, 633, and 635
   * Office hours: T,W,TH 2:15-3:15, F 1:00 - 3:00, or by appointment
