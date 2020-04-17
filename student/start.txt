@@ -18,7 +18,7 @@ There is no software you need to download, and you only need to make a Twitch ac
 https://www.twitch.tv/cs159review
 
 **CS 227 Practice**\\
-Available during normal evening online TA hours on Zoom from 5-7 on Monday and 4-5 and 6-7 on Wednesday. Please enter your name and CS 227 in the chat box. You will be added to a seperate "breakout" room for the practice session.
+Available during normal evening online TA hours on Zoom from 5-7 on Monday and 4-5 and 6-7 on Wednesday. Please enter your name and CS 227 in the chat box. You will be added to a separate "breakout" room for the practice session.
 
 **MatterMost channel**\\
 TAs will monitor this channel during office hour times. This can work if your internet connection is slow for basic questions or if you are having trouble getting into the Zoom room and want help with that.
