@@ -2,6 +2,8 @@ Sample plans of study for new students. Options B and C are recommended for stud
  // //
 ====== Option A - Delay 261 ======
 
+This option could be described as an "__**A**__pplications-early" or "__**A**__pplied" route. By taking 345 in your 3rd semester you "unlock" 3 CS electives 🏆, and by __also__ taking 240, you "unlock" an additional 3 🌈.
+
 |              ^ Fall           ^ Spring          ^
 ^ Year 1    | CS 149 \\ Math 231/235\\ GenEd \\ GenEd \\ GenEd\\ | CS 159 \\ Math 232/236 \\ CS/MATH 227 \\ GenEd \\ GenEd\\      |
 ^ Year 2    | CS 240 \\ CS 345 \\ MATH 220/318 \\ GenEd \\ GenEd \\ | CS 261 \\ GenEd \\ GenEd \\ Elective \\ Elective \\       |
