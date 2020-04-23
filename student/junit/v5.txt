@@ -146,24 +146,11 @@ When using ''%%Assert.assertEquals()%%'' to compare floating   point numbers (e.
 ==== Testing Methods that Throw Exceptions ====
 
 
-There are several ways to test for thrown exceptions in JUnit. The most common is to use the ''%%assertThrows()%%'' method. For example, suppose   the constructor of the ''%%Atom()%%'' class is required to throw an   ''%%IllegalArgumentException%%'' when the numeric parameters   are negative. One might test this is follows.
+There are several ways to test for thrown exceptions in JUnit. The most common is to use the ''%%assertThrows()%%'' method, but this approach depends on a feature of Java (and many languages called [[https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html|"lambda expressions"]], so we will demonstrate a less commonly used approach first.
 
+=== Testing for exceptions ===
 
-<code java>
-  /**
-   * Test that the constructor validates properly.
-   */
-  @Test
-  public void constructor_IllegalArguments()
-  {
-    assertThrows(IllegalArgumentException.class, () -> {new Atom("O", -8, -16);});
-  }
-</code>
-
-This approach uses a //Lambda expression//, a representation of a class with a single-method. 
-
-
-Alternatively, one can invoke the methods that is supposed to throw an expression in a ''%%try-catch%%'' block, and use the ''%%fail()%%'' method. For example:
+One can invoke the methods that is supposed to throw an expression in a ''%%try-catch%%'' block, and use the ''%%fail()%%'' method. For example:
 
 <code java>
   /**
@@ -186,8 +173,23 @@ Alternatively, one can invoke the methods that is supposed to throw an expressio
   }
 </code>
 
+=== Testing for exceptions canonically (with lambda expressions) ===
+
+Suppose the constructor of the ''%%Atom()%%'' class is required to throw an   ''%%IllegalArgumentException%%'' when the numeric parameters   are negative. One might test this is follows.
 
 
+<code java>
+  /**
+   * Test that the constructor validates properly.
+   */
+  @Test
+  public void constructor_IllegalArguments()
+  {
+    assertThrows(IllegalArgumentException.class, () -> {new Atom("O", -8, -16);});
+  }
+</code>
+
+This approach uses a //Lambda expression//, a representation of a class with a single-method. 
 ==== Other Useful Methods in the Assert Class ====
 
 
