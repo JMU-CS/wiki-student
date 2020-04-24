@@ -63,7 +63,7 @@ The Robotics club enables students who wish to continue robotics work outside of
 ==== UUG (Unix Users Group) ====
 
   * Faculty/staff contacts: Mike Lam (lam2mo) & Mike Ripley (ripleymj)
-  * Student contact: Mike McGloin
+  * Student contact: Ryan Showalter
   * Weekly meetings: Wed, 6:30pm in ISAT/CS 246
   * Website: www.jmunixusers.org
 
