@@ -119,6 +119,10 @@ When using an alternative workflow, the team should agree on when merges and reb
 
 
 
+==== Icons/Decorations ====
+
+Egit uses a variety of different icons/decorations to illustrate the state of files. They are described in the 
+[[ https://wiki.eclipse.org/EGit/User_Guide/State | Egit User's Guide ]]
 
 
 ==== Summary of Common Git Commands ====
@@ -133,4 +137,7 @@ Most Git documentation assumes that you are issuing ''git'' commands within a sh
 | ''push'' | Right-click on the project and then <key>Team+Push</key> |
 
 To add an entry to the ''.gitignore'' file, right-click on the file and then <key>Team+Ignore</key>.
+
+For more information, see the [[ https://wiki.eclipse.org/EGit/User_Guide | Egit User's Guide ]]
+
 
