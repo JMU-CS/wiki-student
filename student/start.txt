@@ -5,6 +5,7 @@
 ==== CS Advising ====
 
   * [[department:sp20updates:start| Spring 2020 updates ]]
+  *  [[department:advising-resources| Advising Resources]]
   * [[department:advising:start| Advising FAQ ]]
   * [[department:curriculum:start| CS Curriculum ]]
   * [[department:spring20admission|Full Admission to the Major or Minor in the Spring 2020 semester]]
