@@ -1,6 +1,10 @@
-Every student who declares the CS Major is assigned two advisors: \\
-  - An Academic Advisor: Paige Normand, the Departmental Advisor to all CS students
-  - A Faculty Advisor: a professor in the department who is available to answer more content-specific questions
+Every student who declares the CS Major is assigned two advisors in MyMadison: \\
+  - An Academic Advisor: **Paige Normand**, the Departmental Advisor to all CS students
+  - A Faculty Advisor: **a CS professor** who is available to answer content-specific questions
+
+You are always welcome to [[https://calendly.com/paigenormand/30min|book a meeting]] with Paige Normand or send her quick questions over email.
+ 
+To meet with your Faculty Advisor, email them or check [[https://www.jmu.edu/cs/people/faculty-staff/|their personal site]] for details about their calendar.
 
 ====== Reach out to Paige Normand if: ======
 
@@ -10,22 +14,20 @@ You have logistical questions about the CS curriculum like:
   * What should I do to improve my GPA?
 
 You have policy questions about the CS Major/Minor like: 
-    * How do I change my Catalog Year?
-    * How do I decide if I want to take a course "Repeat Forgive"?
-    * How can I take summer classes at my local Community College?
+  * How do I change my Catalog Year?
+  * How do I decide if I want to take a course "Repeat Forgive"?
+  * How can I take summer classes at my local Community College?
 
 You have questions or concerns about your college success, like:
   * How can I improve my time management?
   * Where can I get help with my [insert GenEd Course here]?
   * I'm feeling really unmotivated about my course work, what should I do?
-  * I'm a freshmen interested in Cyber Security, what should I be doing?
+  * I'm a freshmen interested in [insert CS topic here], what should I be doing?
+  
+====== Your Faculty Advisor is a resource for: ======
 
-You are always welcome to [[https://calendly.com/paigenormand/30min|book a meeting]] with Paige Normand.
-
-===== Your Faculty Advisor is a resource for questions like: =====
-
-  * Discussing future career paths
+  * Discussing future career paths, internships, research
   * Getting advice on which CS electives you should take
-  * Helping you understand your strengths and areas to improve in CS
-
-To meet with your Faculty Advisor, either email them or check [[https://www.jmu.edu/cs/people/faculty-staff/index.shtml|their personal site]] for details about their calendar.
+  * Reviewing your plan of study for sequencing and workload
+  * Helping you understand your strengths and areas to improve
+  * ​Identifying other resources on and off campus as needed
