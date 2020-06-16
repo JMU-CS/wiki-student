@@ -55,7 +55,7 @@
 
 <div class="square">
   <a href="https://wiki.cs.jmu.edu/ta/start" style="position:relative;">
-    <img class="bg" src="https://www.jmu.edu/cs/_images/action-links/third/female-presenting-autonomous-vehicle.jpg" alt="For faculty">
+    <img class="bg" src="https://www.jmu.edu/cs/_images/action-links/third/female-presenting-autonomous-vehicle.jpg" alt="For TAs">
     <h4>
     <table width="100%">
     <tbody>
@@ -72,7 +72,7 @@
 
 <div class="square">
   <a href="https://wiki.cs.jmu.edu/student/start" style="position:relative;">
-    <img class="bg" src="https://www.jmu.edu/cs/images/action-links/third/robotics-minor" alt="For faculty">
+    <img class="bg" src="https://www.jmu.edu/cise/cs/_images/action-links/third/robotics-minor.jpg" alt="For students">
     <h4>
     <table width="100%">
     <tbody>
