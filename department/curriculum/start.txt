@@ -21,6 +21,6 @@ Dr. Kirkpatrick also maintains an unofficial prerequisite graphic on his [[https
 Although the CS department cannot guarantee that certain courses will be offered in the future, we plan course
 offerings ahead of time and do our best to follow the plan. Here are the current [[https://wiki.cs.jmu.edu/_media/department/curriculum/offerings.pdf | anticipated course offerings]].
 
-==== Plans of Study ====
+==== Example Plans of Study ====
 
 The following [[department:curriculum:plans|sample plans of study]] illustrate various ways to fulfill CS and JMU degree requirements. We encourage you to make your own 4-year plan based on these examples.
