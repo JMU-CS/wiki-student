@@ -10,7 +10,7 @@ This option could be described as an "__**A**__pplications-early" or "__**A**__p
 ^ Year 3    | CS 361 \\ CS 327 \\ GenEd \\ GenEd \\ Elective \\ | CS 430 \\ CS 4xxS (CS Systems Elective) \\ GenEd \\ Elective \\ Elective \\       |
 ^ Year 4    | CS 412/452 \\ CS 4xx (CS Elective) \\  Elective \\ Elective \\ Elective \\ | CS 4xx (CS Elective) \\ CS 4xx (CS Elective) \\ Elective \\ Elective \\ Elective       | 
 \\ \\
-====== Option  - Delay 345 ======
+====== Option B - Delay 345 ======
 
 |              ^ Fall           ^ Spring          ^
 ^ Year 1    | CS 149 \\ Math 231/235\\ GenEd \\ GenEd \\ GenEd\\ | CS 159 \\ Math 232/236 \\ CS/MATH 227 \\ GenEd \\ GenEd|
