@@ -88,7 +88,7 @@ The easiest way to clone a remote repository is to:
   - Click on "Clone a Git repository"
   - Enter the "URI", "Host", "Repository path", and "Protocol"
   - Enter your authentication information for the Git server
-  - Select the appropriate branch (probably ''master'') and click on <key>Next</key>
+  - Select the appropriate branch (probably the main branch, the name of which may vary but should be apparent from the context) and click on <key>Next</key>
   - Enter the appropriate local directory for the "Destination", the appropriate "Remote name" (probably ''origin''), and click <key>Finish</key>.
 
 At this point, you will have cloned the repository but you will not have any Eclipse projects. To import a project from the repository, while still in the Git Perspective you should:
@@ -108,7 +108,7 @@ You can then choose the option to use "When pulling", either <key>Merge</key>, <
 
 === When Using a Centralized Workflow ===
 
-When you perform a pull with the rebase option, all of your commits are moved to the tip of the master branch. This eliminates the need for a merge commit every time someone needs to synchronize with the central repository. Hence,
+When you perform a pull with the rebase option, all of your commits are moved to the tip of the main branch. This eliminates the need for a merge commit every time someone needs to synchronize with the central repository. Hence,
 it is preferred by most organizations that use a centralized workflow.
 
 
