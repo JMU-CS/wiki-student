@@ -71,7 +71,7 @@ Some Subversions Repository Servers use ''%%http%%'' (or ''%%https%%'') as the c
 
 The plugin will need to authenticate with ''%%stu%%'' every time an operation is performed, and this can be quite inconvenient. There are two ways around this.
 
-  * You may (it varies with the plugin) be given the opportunity to <key>Save authentication</key> information in which case you will not be prompted for it in the future. In this case, you will be asked to create a master Eclipse password if you have not done so already. 
+  * You may (it varies with the plugin) be given the opportunity to <key>Save authentication</key> information in which case you will not be prompted for it in the future. In this case, you will be asked to create a central Eclipse password if you have not done so already. 
 
   * You can create an [[student:utilities:start:keypairs | SSH Key Pair ]] to avoid having to repeatedly enter authentication information.  In this case, you will need to tell Eclipse to use your private key by clicking on <key>Preferences</key>-<key>General</key>-<key>Network Connections</key>-<key>SSH2</key> and entering the path and file name on the ''%%General%%'' tab.
 
