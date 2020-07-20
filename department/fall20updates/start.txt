@@ -41,6 +41,9 @@ Sections 1 and 2 (Wang): will be taught in a hybrid manner. Students will be org
 **CS 345** \\
 All Sections (Fox and Riley)—Completely online with synchronous Zoom meetings for occasional lectures, frequent labs and team activities, and semester team project meetings. Two midterms and a final exam online during class meeting times.
 
+**CS 347**\\
+TBD
+
 **CS 354** \\
 TBD
 
