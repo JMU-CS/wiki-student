@@ -48,7 +48,7 @@ TBD
 Section 1 (Sprague/Molloy) -- Hybrid.  In general, Tuesdays will be face-to-face lectures with half of the class in person and the other half participating synchronously through Zoom.  Thursdays will be fully online synchronous Zoom meetings for labs and group activities.   As the semester progresses we may also have occasional face-to-face lab activities to facilitate working with the physical robots.
 
 **CS 361** \\
-Sections 1 and 2 (Buchholz) -- Hybrid
+Sections 1 and 2 (Buchholz) -- Hybrid. Recorded videos will emphasize important aspects of the reading assignments. face-to-face meetings will be used to go over problems, Q&A, as well as explaining and helping with the course projects.
 
 **CS 374** \\
 Section 1 (Norton)  - Fully online with synchronous Zoom. All assignments & exams online.
