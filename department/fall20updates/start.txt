@@ -1,6 +1,6 @@
 ====== Fall 2020 Course Offerings======
 
-This document describes the currently planned mode of delivery for courses being offered by faculty in the Computer Science Department. Changes may be made in response to changing conditions.
+This document describes the //currently// planned mode of delivery for courses being offered by faculty in the Computer Science Department. Changes may be made in response to changing conditions.
 
 **CS 101** \\
 All Sections (Simmons) - A combination of in person lectures and synchronous zoom lectures with recordings, predominantly Zoom/similar platform.  Group work will be conducted online using Zoom and/or similar platforms.  
