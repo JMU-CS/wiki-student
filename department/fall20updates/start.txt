@@ -25,7 +25,7 @@ Sections 3-5 (Mayfield) - Hybrid. Most Tuesdays will be held online using Zoom, 
 All Sections (Riley and Fox)—Completely online with synchronous Zoom meetings for problem-solving and questions twice per week. Interactive textbook (zyBook) with optional recorded lectures. No midterms or final exam, but weekly unit tests.
 
 **CS 240** \\
-All Sections (Kirkpatrick and Sprague))—Completely online with synchronous Zoom meetings for lecture, problem solving and questions. Interactive textbook (OpenDSA). 
+All Sections (Kirkpatrick and Sprague)—Completely online with synchronous Zoom meetings for lecture, problem solving and questions. Interactive textbook (OpenDSA). 
 
 **CS 261** \\
 All Sections  (Lam and Weikle) -- Fully online with synchronous Zoom (or similar) sessions for questions and lab work in groups during scheduled meeting times. Textbook readings, Canvas quizzes, and pre-recorded mini-lectures for preparation before in class labs. Programming assignments submitted on stu (JMU Computer Science server) but test suites will be provided to allow work on a personal computer. Assessments will include Canvas timed quizzes and tests as well as Gradescope-submitted pdfs for labs and possibly exams. Office hours in Zoom (or similar).
