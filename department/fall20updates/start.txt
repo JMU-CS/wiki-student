@@ -1,1 +1,70 @@
-Test test
+====== Fall 2020 Course Offerings======
+
+This document describes the currently planned mode of delivery for courses being offered by faculty in the Computer Science Department. Changes may be made in response to changing conditions.
+
+**CS 101** \\
+All Sections (Simmons) - A combination of in person lectures and synchronous zoom lectures with recordings, predominantly Zoom/similar platform.  Group work will be conducted online using Zoom and/or similar platforms.  
+
+**CS 149** \\
+Section 3 & 4 (Zhuojun Duan): Hybrid. Most Mondays and Wednesdays will be held online by Zoom, and most Fridays will be held in face to face(not all students at a time) and live streamed. All office hours will be online by Zoom. Assignments and exams should be submitted electronically(Canvas). Note: not all portions of class will be recorded, please attend the classes regularly. 
+
+Sections 5 & 6 (Weikle) - Online only. Synchronous Zoom (or similar) online active learning sessions (POGIL group activities or labs) during scheduled class times supported by asynchronous readings and pre-recorded videos. Assignments and exams submitted electronically. Office hours in Zoom (or similar).
+
+Section 8 (Bernstein) - Synchronous Zoom (or similar) lectures during most scheduled meeting times. Lectures will be recorded for asynchronous use. Occasional face-to-face meetings (with a portion of the students at a time) for question/answer sessions. Assignments and exams submitted electronically.
+
+Sections 11 & 12 (Bowers) - Online only. Synchronous Zoom (or similar) lectures, POGIL activities, and labs during scheduled meeting times. 
+
+(K. Richards) - Hybrid. Occasional face to face meetings (with a portion of students at a time) intermittently throughout the semester. Some synchronous meetings using Zoom, primarily for activities/Q&A. Recorded lectures and activities for asynchronous use. Assignments to be submitted electronically.
+
+**CS 159** \\
+Sections 1–2 (Norton)  - Fully online with synchronous Zoom. All assignments & exams online.
+
+Sections 3-5 (Mayfield) - Hybrid. Most Tuesdays will be held online using Zoom, and most Thursdays will be held in person and live streamed. Some but not all portions of class will be recorded. Students will be encouraged to participate during the regularly scheduled class times.
+
+**CS 227** \\
+All Sections (Riley and Fox)—Completely online with synchronous Zoom meetings for problem-solving and questions twice per week. Interactive textbook (zyBook) with optional recorded lectures. No midterms or final exam, but weekly unit tests.
+
+**CS 240** \\
+All Sections (Kirkpatrick and Sprague))—Completely online with synchronous Zoom meetings for lecture, problem solving and questions. Interactive textbook (OpenDSA). 
+
+**CS 261** \\
+All Sections  (Lam and Weikle) -- Fully online with synchronous Zoom (or similar) sessions for questions and lab work in groups during scheduled meeting times. Textbook readings, Canvas quizzes, and pre-recorded mini-lectures for preparation before in class labs. Programming assignments submitted on stu (JMU Computer Science server) but test suites will be provided to allow work on a personal computer. Assessments will include Canvas timed quizzes and tests as well as Gradescope-submitted pdfs for labs and possibly exams. Office hours in Zoom (or similar).
+
+**CS 327** \\
+Sections 1 and 2 (Wang): will be taught in a hybrid manner. Students will be organized into two groups: Purple and Gold. Students in the Purple Group will attend the class in person on Tuesdays and students in the Gold Group attend on Thursdays. Students not in personal attendance will watch pre-recorded lectures of the same content. All assignments must be turned in electronically to Canvas. Office hours will be held electronically with tools like Zoom. Exams are tentatively scheduled to be in person, with one group in the classroom (ISAT/CS 140) and the other in the designated lab room (ISAT/CS 248).
+
+**CS 345** \\
+All Sections (Fox and Riley)—Completely online with synchronous Zoom meetings for occasional lectures, frequent labs and team activities, and semester team project meetings. Two midterms and a final exam online during class meeting times.
+
+**CS 354** \\
+TBD
+
+**CS 361** \\
+Sections 1 and 2 (Buchholz) -- Hybrid
+
+**CS 374** \\
+Section 1 (Norton)  - Fully online with synchronous Zoom. All assignments & exams online.
+
+**CS 374** \\
+Section 2 (Richards) - Hybrid. A combination of occasional face-to-face meetings (with a portion of the students at a time) for question/answer sessions and lab tutorials, asynchronous recorded lectures, and occasional synchronous meetings using the zoom/similar platform. All assignments and exams submitted electronically.
+
+**CS 432** \\
+Section 1 (Lam) -- Fully online with regular synchronous video sessions for interactive lectures, problem solving sessions, and lab work. Textbook readings and reading quizzes on Canvas. Labs will be submitted via Gradescope. Programming assignments on stu. Take-home midterm(s) and final also submitted via Gradescope.
+
+**CS 445** \\ 
+Section 1 (Molloy).   Hybrid.  A combination of in person lectures and synchronous zoom lectures with recordings, predominantly Zoom/similar platform.  Group work will be conducted online using Zoom and/or similar platforms and student's will be expected to present their work live during class time.
+
+**CS 452** \\ 
+Section 1 (Bowers) - Online only. Synchronous lectures and problem solving sessions. Students will be required to present algorithms and proofs live during class time. 
+
+**CS 455** \\ 
+Section 1 (Aboutabl):  Hybrid.  Online Video Lectures (either synchronous on the class scheduled time, or pre-recorded that must be viewed by students before class time). In case of pre-recorded lectures, class will meet on Zoom (unless otherwise announced) to answer questions on the pre-recorded lectures. In both cases, attendance will be recorded. Office hours will be done in a similar arrangement. I will have some face-to-face meetings in the lab during certain projects, at which time at most 50% of the class can be in the room. Each such meeting will be repeated for the other 50% of the class.
+
+**CS 457** \\ 
+Sections 1 and 2  (Aboutabl):  Hybrid. Online Video Lectures (either synchronous on the class scheduled time, or pre-recorded that must be viewed by students before class time). In case of pre-recorded lectures, class will meet on Zoom (unless otherwise announced) to answer questions on the pre-recorded lectures. In both cases, attendance will be recorded. Office hours will be done in a similar arrangement. I will have some face-to-face meetings in the lab during certain projects, at which time at most 50% of the class can be in the room. Each such meeting will be repeated for the other 50% of the class.
+
+**CS 462** \\ 
+Section 1 (Bernstein) - Synchronous Zoom (or similar) lectures during most scheduled meeting times. Lectures will be recorded for asynchronous use. Occasional face-to-face meetings (with a portion of the students at a time) for question/answer sessions. Assignments and exams submitted electronically.
+
+**TECH 230** \\ 
+Section 1 (Bernstein) - Synchronous Zoom (or similar) lectures during most scheduled meeting times. Lectures will be recorded for asynchronous use. Occasional face-to-face meetings (with a portion of the students at a time) for question/answer sessions. Assignments and exams submitted electronically.
