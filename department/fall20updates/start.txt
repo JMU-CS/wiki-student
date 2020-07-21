@@ -1,6 +1,8 @@
 ====== Fall 2020 Course Offerings======
 
-This document describes the //currently// planned mode of delivery for courses being offered by faculty in the Computer Science Department. Changes may be made in response to changing conditions.
+This document describes the //currently// planned mode of delivery for courses being offered by faculty in the Computer Science Department. Changes may be made in response to changing conditions. 
+
+Note: JMU's grading policy has returned to normal, including the [[https://catalog.jmu.edu/content.php?catoid=41&navoid=1555&_ga=2.99565148.373648508.1595243189-1318295689.1572380449#credit-hours|CR/NC policy]]. 
 
 **CS 101** \\
 All Sections (Simmons) - A combination of in person lectures and synchronous zoom lectures with recordings, predominantly Zoom/similar platform.  Group work will be conducted online using Zoom and/or similar platforms.  
