@@ -62,6 +62,9 @@ Section 1 (Lam) -- Fully online with regular synchronous video sessions for inte
 **CS 445** \\ 
 Section 1 (Molloy).   Hybrid.  A combination of in person lectures and synchronous zoom lectures with recordings, predominantly Zoom/similar platform.  Group work will be conducted online using Zoom and/or similar platforms and student's will be expected to present their work live during class time.
 
+**CS 450**\\
+Section 1 (Tjaden) Online.
+
 **CS 452** \\ 
 Section 1 (Bowers) - Online only. Synchronous lectures and problem solving sessions. Students will be required to present algorithms and proofs live during class time. 
 
