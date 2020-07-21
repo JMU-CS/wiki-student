@@ -42,7 +42,7 @@ Sections 1 and 2 (Wang): will be taught in a hybrid manner. Students will be org
 All Sections (Fox and Riley)—Completely online with synchronous Zoom meetings for occasional lectures, frequent labs and team activities, and semester team project meetings. Two midterms and a final exam online during class meeting times.
 
 **CS 347**\\
-TBD
+Completely online. Short video lectures will be released frequently for asynchronous viewing. Two significant and open-ended projects will be assigned: a static website and a React app. Students will participate in weekly video chats with the teaching staff and a small group of their peers to critique projects. During scheduled lecture times, synchronous lab activities and office hours will be conducted over Zoom.  Students will set up and manage their own web servers and will need a reliable network connection and an SSH client. All work can be completed on personal machines or through the department's virtual machines. Other graded components are still being considered, but they will not depend on students being in a particular place at a particular time.
 
 **CS 354** \\
 Section 1 (Sprague/Molloy) -- Hybrid.  In general, Tuesdays will be face-to-face lectures with half of the class in person and the other half participating synchronously through Zoom.  Thursdays will be fully online synchronous Zoom meetings for labs and group activities.   As the semester progresses we may also have occasional face-to-face lab activities to facilitate working with the physical robots.
