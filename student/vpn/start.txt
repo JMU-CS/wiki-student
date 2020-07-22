@@ -10,7 +10,7 @@ It also assumes you are enrolled in Duo. Make sure you're enrolled in Duo becaus
 
   * Open a terminal.
   * Install openconnect: <code>sudo apt-get install openconnect</code>
-  * Connect to the vpn: <code>sudo openconnect --juniper vpn.jmu.edu</code>
+  * Connect to the vpn: <code>sudo openconnect --protocol=pulse vpn.jmu.edu</code>
   * You'll be asked for a Username, your e-ID goes there.
   * You'll be asked for a Password, the same password you use for Canvas/MyMadison goes there.
   * You'll be asked for a Password#2, there are several options you can choose here. You are essentially choosing how you want Duo to authenticate you.
