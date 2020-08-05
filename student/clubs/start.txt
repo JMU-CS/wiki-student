@@ -9,9 +9,9 @@ ACM brings together computing educators, researchers, and professionals to inspi
 
 ==== Competitive Programming ====
 
-  * Faculty contact: John Bowers (bowerscj) & Mike Lam (lam2mo)
-  * Student contact: Eric Wolf
-  * Weekly meetings: Fri, 3:30pm in ISAT/CS 246
+  * Faculty contact: John Bowers (bowerscj)
+  * Student contact: TBD
+  * Weekly meetings: TBD
   * Website: http://acm.cs.jmu.edu
 
 Do you love to solve challenging problems? Would you like to increase your programming skills? Are you a competitive person? Do you want to prepare for interview exercises that companies like Google, Facebook, Amazon, Microsoft, Apple, and others give their future employees? Would you like to improve your ability to work in teams? If you answered “YES!” to any of these questions, then we have the perfect club for you! We solve programming problems in online and in-person team competitions. We meet weekly for practices and participate in several contests every year.
