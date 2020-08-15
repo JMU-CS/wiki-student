@@ -20,7 +20,7 @@ Do you love to solve challenging problems? Would you like to increase your progr
 
   * Faculty contacts: Hossain Heydari (heydarmh) & Brett Tjaden (tjadenbc)
   * Student contact: Andy Malone
-  * Weekly meetings: Fri, 3:30pm to 5:00pm in ISAT/CS 140
+  * Weekly meetings: Mon, 7:30pm online
   * Website: [[https://beinvolved.jmu.edu/organization/CyberDefenseClub|BeInvolved]]
 
 The Cyber Defense club is a student led group focused on learning about information security techniques and tools, and participates in cyber defense competitions such as CCDC, NCL, and NSA Codebreaker. Members can expect to learn about tools and techniques used in cyber defense and penetration testing through weekly demos and exercises as well as current information security news and trends.
