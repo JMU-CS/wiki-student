@@ -2,7 +2,6 @@
 
   * Faculty contact: John Bowers (bowerscj)
   * Student contact: Maddie Brower
-  * Interest meeting: Thu, Sep 12, 6-6:30pm in ISAT/CS 246
   * Regular meetings: TBD
 
 ACM brings together computing educators, researchers, and professionals to inspire dialogue, share resources, and address the field's challenges. As the world’s largest computing society, ACM strengthens the profession's collective voice through strong leadership, promotion of the highest standards, and recognition of technical excellence. ACM supports the professional growth of its members by providing opportunities for life‐long learning, career development, and professional networking.
@@ -29,16 +28,14 @@ The Cyber Defense club is a student led group focused on learning about informat
 
   * Faculty contact: Florian Buchholz (buchhofp)
   * Student contact: Maddie Brower
-  * Initial meeting: Thu, Sep 12, 6:30pm in ISAT/CS 243
-  * Weekly meetings: TBD in Forensics Lab, ISAT/CS 231
+  * Weekly meetings: TBD
 
 The Forensics club is for those interested in learning the basics of forensics as well as discussing current developments in the field. We engage in many forensics exercises like drive recovery and forensics scenarios. In the past, members of the group have given presentations on forensic topics and tools, recovered data from "broken" hard drives, participated in DFRWS and HoneyNet forensics challenges, and examined and developed forensic tools. We have even assisted the JMU Police Department with some of their forensics needs. The Forensics Club gives members insight into what a career in cyber forensics could be like by solving real-world forensics problems. 
 ==== Minority Programmers Association ====
 
   * Faculty contact: Ramon Mata-Toledo (matatora)
   * Student contact: Kush Gupta (kush@minorityprogrammers.org)
-  * Initial meeting: Wed, Feb 5th, 6pm in ISAT/CS 243
-  * Weekly meetings: Wed, 6-9pm in ISAT/CS 243
+  * Weekly meetings: TBD
   * Website: http://minorityprogrammers.org
 
 The Minority Programmers Association was started in 2019 at JMU by a group of diverse Computer Science / Computer Information Systems students looking to start a community where minorities are both accepted and have the opportunity to produce projects as undergrads.  Join MPA (the newest CS org) if you want to **develop** coding solutions with minorities tackling problems affecting underprivileged communities, **join** an organization at JMU that develops impactful technical projects, and **educate** local/diverse communities through programming.
@@ -55,7 +52,7 @@ PlayMU is an organization with the sole intent of bringing in video gamers of al
 
   * Faculty contact: Nathan Sprague (spragunr)
   * Student contact: TBD
-  * Weekly meetings: TBD in Robotics Lab
+  * Weekly meetings: TBD
 
 The Robotics club enables students who wish to continue robotics work outside of class. 
 
@@ -63,7 +60,7 @@ The Robotics club enables students who wish to continue robotics work outside of
 
   * Faculty/staff contacts: Mike Lam (lam2mo) & Mike Ripley (ripleymj)
   * Student contact: Ryan Showalter
-  * Weekly meetings: Wed, 6:30pm in ISAT/CS 246
+  * Weekly meetings: Wed, time TBD
   * Website: www.jmunixusers.org
 
 UUG is an organization for computer enthusiasts, and users of Unix-like operating systems such as Linux and macOS. Meetings are typically Wednesday nights, with an InstallFest to kick off each semester. Fall semester meeetings focus on Linux development tools and processes, and Spring semester meetings focus more on Linux internals and contemporary topics in the open source community.
@@ -95,7 +92,7 @@ The following clubs do not list CS faculty as the contact faculty member, but ar
  
   * Faculty contact: Kyle Gipson (gipsonkg)
   * Student contact: Roman Cook
-  * Regular meetings: ???
+  * Regular meetings: TBD
   * Websites:[[https://nsbejmu.weebly.com/|Web]]
 
 The National Society of Black Engineers, as a national student and professional based organization, does hereby dedicate itself to the development of intensive programs for increasing Black and other ethnic minority participation in the fields of STEM and applied science.  These programs will be initiated within and outside the university community and will serve to strengthen relations between professional industry and the ethnic community. Members of this organization are encouraged to join and participate in their individual professional societies.  This organization will endeavor to provide general counseling to all members.
