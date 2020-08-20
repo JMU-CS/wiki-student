@@ -26,6 +26,13 @@ This can be simplified by using the ''-J'' option to ssh. For example, the follo
 
     ssh -J <eid>@stu.cs.jmu.edu <eid>@l25005.cs.jmu.edu
 
+You can do this transparently by adding the following to your ~/.ssh/config:
+
+    Match !host stu.cs.jmu.edu host *.cs.jmu.edu !exec "nc -z -w 1 %h %p"
+        ProxyJump stu.cs.jmu.edu
+
+This uses netcat to determine if you can connect directly to the host and if not, for all .cs.jmu.edu hosts other than stu, jump through stu. Connecting to a lab machine with this configuration is the same from on or off campus: ''ssh l25005.cs.jmu.edu''.
+
 Setting up keypairs is highly recommended if you're doing this regularly to avoid multiple password prompts.
 
 ==== Transferring Files to and From stu ====
