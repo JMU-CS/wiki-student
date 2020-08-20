@@ -42,6 +42,8 @@ Download and install both the "FUSE for macOS" and "SSHFS" packages from [[http:
 
 After everything is installed correctly, you should be able to follow the same command-line instructions described in the Linux section above.
 
+**WARNING FOR EARLY ADOPTERS:** There are [[https://github.com/osxfuse/osxfuse/issues/705|known issues]] with OSXFUSE on macOS 11.0 ("Big Sur"). If you upgrade to Big Sur, you will need to re-install the latest version of OSXFUSE (v3.11.0) and you may experience performance degradation.
+
 ==== Windows ====
 
   - Download the latest release of WinFsp from here: https://github.com/billziss-gh/winfsp/releases
