@@ -7,3 +7,5 @@ First, you will need to download and install [[https://www.virtualbox.org/wiki/D
 There is a [[https://w3.cs.jmu.edu/cs101/virtual/index.html|CS 101 tutorial]] about the setup process, and the UUG also maintains a [[https://www.jmunixusers.org/presentations/vm/welcome-to-vm.html|getting started guide]] and a [[https://www.jmunixusers.org/presentations/vm/common-troubleshooting.html|troubleshooting common problems guide]]. If you run into other issues or have questions, feel free to attend a UUG meeting (see the [[student:clubs:start|CS clubs page]] for dates and times).
 
 If you are interested in seeing how the VM image is built or if you are interested in contributing, please visit the [[https://github.com/jmunixusers/cs-vm-build|project repository]] on Github.
+
+**WARNING FOR MAC USERS:** There are [[https://forums.virtualbox.org/viewtopic.php?f=39&t=98763|known issues]] with VirtualBox on MacOS 11.0 ("Big Sur"). If you wish to use a VM on your machine, you should **NOT** upgrade to Big Sur at this time.
