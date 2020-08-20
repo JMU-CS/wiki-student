@@ -8,4 +8,4 @@ There is a [[https://w3.cs.jmu.edu/cs101/virtual/index.html|CS 101 tutorial]] ab
 
 If you are interested in seeing how the VM image is built or if you are interested in contributing, please visit the [[https://github.com/jmunixusers/cs-vm-build|project repository]] on Github.
 
-**WARNING FOR MAC USERS:** There are [[https://forums.virtualbox.org/viewtopic.php?f=39&t=98763|known issues]] with VirtualBox on MacOS 11.0 ("Big Sur"). If you wish to use a VM on your machine, you should **NOT** upgrade to Big Sur at this time.
+**WARNING FOR MAC USERS:** There are [[https://forums.virtualbox.org/viewtopic.php?f=39&t=98763|known issues]] with VirtualBox on macOS 11.0 ("Big Sur"). If you wish to use a VM on your machine, you should **NOT** upgrade to Big Sur at this time.
