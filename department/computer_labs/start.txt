@@ -22,30 +22,25 @@ The Computer Science department maintains multiple computer labs running Linux M
 ==== Lab Software ====
 
 All labs have the same software, including but not limited to the following:
-  * Apache Netbeans 11.1
-  * BlueJ 4.2.1
-  * DrJava beta-20160913-225446
-  * Eclipse 2019-06
-  * Emacs 25.2.2
-  * IntelliJ IDEA 2019.3.2
-  * jGrasp 205_06
-  * Jupyter 4.4.0
-  * Juptyer Notebook 5.2.2
-  * RStudio 1.2.1335
-  * Thonny 2.1.16
-  * Vim 8.0
-  * Visual Studio Code 1.41
-  * gcc 7.5.0
-  * Go 1.10.4
-  * GHC 8.0.2
-  * Java 11.0.7 (OpenJDK)
-  * Python 2.7.17
-  * Python 3.6.9
-  * Ruby 2.5.1
-  * Git 2.17.1
-  * Mercurial 4.5.3
-  * Subversion 1.9.7
-  * Mathematica 12.0.0.0
-  * Sage Math 8.1
-  * Visual Paradigm 16.0
-  * VMware Workstation 15.1.0
+  * Apache Netbeans 12.0
+  * BlueJ 4.2.2
+  * DrJava beta 20190813
+  * Eclipse 2020-20
+  * Emacs 26.3
+  * IntelliJ IDEA 2020.2
+  * jGrasp 206_04
+  * RStudio 1.3.1073
+  * Vim 8.1
+  * Visual Studio Code 1.48.0
+  * gcc 9.3.0
+  * Go 1.13.8
+  * GHC 8.6.5
+  * Java 11.0.8 (OpenJDK)
+  * Python 3.8.2
+  * Ruby 2.7.0p0
+  * Git 2.25.1
+  * Mercurial 5.3.1
+  * Subversion 1.13.0
+  * Sage Math 9.0
+  * Visual Paradigm 16.1
+  * VMware Workstation 15.5.5
