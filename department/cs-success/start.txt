@@ -1,30 +1,26 @@
-====== TA Hours Online Hours ======
+====== TA Online Hours ======
 
-**TA Hours via Zoom**\\
-For entering “The Lab” during TA Hours, click the corresponding link
+**TA Hours via Microsoft Teams**\\
+For an explanation of how to use “The Lab” during TA Hours, click the corresponding link
 
-Sunday 1-5: https://zoom.us/j/366702019 \\
-Evenings Mon/Tues/Thurs. 5-11 meeting (Wed: 6-11): https://zoom.us/j/319601515 
+https://docs.google.com/document/d/1nJmbjM3dp52VQnuFYnwjpe8Hwvi8Oypgjw2AftZel4g/edit?usp=sharing \\
+**Team Code: lb761mv**\\
+Sunday: 1-11 pm\\
+Monday, Tuesday, Thursday: 5-7 pm\\
+Wednesday: 5-7pm and 8-11 pm (TAs meet 7-8 pm)\\
 
-You will be entered into a main Zoom room with a lead TA able to put you in a breakout room where you can get individual help with your problem. You will be able to share your screen and a TA can not only speak with you, but annotate your code to help you figure out what your problems are. You do not have to share your video, but you may. Low bandwidth connections can focus on using audio and the chat. To enter the “line” you enter your name, class and problem in the chat window just like you wrote on the white board in physical lab hours. To see an example of what to expect, see this video: https://www.youtube.com/watch?v=op4dtT53ZTg
+You will be able to join the team - JMU CS TA Lab Hours - and you will want to choose The Lab channel on the left. In the channel there will be a post for the "Help Queue" with a current date and time. You will enter your Name, Class and Professor, whether you want a text chat, phone, or video help response, and a short description of your problem. When a Teaching Assistant (TA) is available they will react to your post with a smiling face. You can then expect shortly a response in the format you requested in Teams. In a Teams or Zoom Video chat, you and TAs will be able to share screens, annotate suggestions, and talk "in private". Please note that TAs will help each student in 10 minute increments and they will not be writing your code for you. Instead they will be helping you learn to write code yourself and helping you to navigate any technical problems.
 
 **Fourth Hour** \\
-Available Mon. 7-8 pm and Tues. 7-8 pm. To attend at 7:00 or right before, go to evening online TA Hours at the link above and enter your name and Fourth Hour in the chat box. You will be added to a separate “breakout” room for the Fourth Hour session.
+Monday and Tuesday 7-8pm
 
 **CS 159 Xtended** \\
-There is no software you need to download, and you only need to make a Twitch account if you’d like to ask questions in our chat during the stream.\\
-https://www.twitch.tv/cs159review
+Times TBD
 
 **CS 227 Practice** \\
-Available during normal evening online TA hours on Zoom from 5-7 on Monday and 4-5 and 6-7 on Wednesday. Please enter your name and CS 227 in the chat box. You will be added to a separate “breakout” room for the practice session.
+Monday 7-8 pm
 
-**MatterMost channel** \\
-TAs will monitor this channel during office hour times. This can work if your internet connection is slow for basic questions or if you are having trouble getting into the Zoom room and want help with that. https://chat.cs.jmu.edu/jmu-cs/channels/cs-ta
-
-Info about Mattermost (chat server) \\
-https://wiki.cs.jmu.edu/student/mattermost/start
-
-====== CS TA On Campus Hours (TBD) ======
+====== CS TAs are all Online Fall 2020 ======
 TAs are available to help students with the following courses: 
   * CS 101
   * CS 149
@@ -35,21 +31,27 @@ TAs are available to help students with the following courses:
 
 Drop in to work in a supportive community and one-on-one help from our TAs.
 
-**Where**: ISAT/CS 248 \\
+**Where**: Microsoft Teams - see link above \\
 **When**: \\
 Mon, Tue, Thur: 5:00-11:00pm\\
-Wednesday: 6:00-11:00pm\\
+Wednesday: 5:00-7:00, 8:00-11:00pm\\
 Sunday: 1:00-11:00pm\\
 
 ====== CS 149: 4th Hour ======
 A student-led walkthrough of the week's CS 149 topics. Open to all CS 149 students.
 
-**Where**: ISAT/CS 243\\
+**Where**: Microsoft Teams - see link above\\
 **When**: Mon & Tues 7:00-8:00pm
 
 
 ====== CS 159: Xtended ======
 A student-led weekly review session open to all students in CS 159.
 
-**Where**: ISAT/CS 246\\
-**When**: Mon & Tue 7:00-8:00pm
+**Where**: Microsoft Teams - see link above\\
+**When**: TBD\\
+
+====== CS 227: Problem Sessions ======
+A student-led weekly problem session to demonstrate working problems from CS227.
+
+**Where**: Microsoft Teams - see link above\\
+**When**: Monday 7-8 pm
