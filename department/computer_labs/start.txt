@@ -1,5 +1,5 @@
 ===== Computer Labs =====
-The Computer Science department maintains multiple computer labs running Linux Mint 19.2. Desktop machines may be accessed over the network. See the article on [[student:stu:basics|stu]] for more information.
+The Computer Science department maintains multiple computer labs running Linux Mint 20. Desktop machines may be accessed over the network. See the article on [[student:stu:basics|stu]] for more information.
 
 ==== Lab Hardware ====
 
