@@ -3,15 +3,14 @@ The Computer Science department maintains multiple computer labs running Linux M
 
 ==== Lab Hardware ====
 
-=== ISAT/CS 140 ===
-  * 28 x Dell Latitude E5550 Laptop, Intel Core i5-5300U, 8GB RAM
-
 === ISAT/CS 143 ===
   * 30 x Dell Precision Workstation 3420, Intel Core i7-7700, 16GB RAM, Nvidia Quadro P1000 (4GB)
 
-=== ISAT/CS 246 ===
-  * 36 x Dell Latitude E5550 Laptop, Intel Core i5-5300U, 8GB RAM
-  * 4 x Dell Precision Workstation 3620, Intel Core i7-7700, 16GB RAM, Nvidia Quadro P2000 (5GB)
+=== ISAT/CS 224 ===
+  * 6 x Dell Latitude 5501 Laptops, Intel Core i5-9300H, 16GB RAM
+
+=== ISAT/CS 236 ===
+  * 12 x Dell Latitude 5501 Laptops, Intel Core i5-9300H, 16GB RAM
 
 === ISAT/CS 248 ===
   * 30 x Dell Precision Workstation 3630, Intel Core i7-8700, 16GB RAM, Nvidia Quadro P2000 (5GB)
@@ -19,11 +18,15 @@ The Computer Science department maintains multiple computer labs running Linux M
 === ISAT/CS 250 ===
   * 30 x Dell Precision Workstation 3620, Intel Core i7-7700, 16GB RAM, Nvidia Quadro P2000 (5GB)
 
+=== ENGEO 2209 ===
+ * 12 x Dell Latitude 5501 Laptops, Intel Core i5-9300H, 16GB RAM
+
 ==== Lab Software ====
 
 All labs have the same software, including but not limited to the following:
   * Apache Netbeans 12.0
   * BlueJ 4.2.2
+  * CUDA 10.1 (desktops only)
   * DrJava beta 20190813
   * Eclipse 2020-20
   * Emacs 26.3
