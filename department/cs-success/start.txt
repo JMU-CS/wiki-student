@@ -1,9 +1,8 @@
 ====== TA Online Hours ======
 
 **TA Hours via Microsoft Teams**\\
-For an explanation of how to use “The Lab” during TA Hours, click the corresponding link
-
-https://docs.google.com/document/d/1nJmbjM3dp52VQnuFYnwjpe8Hwvi8Oypgjw2AftZel4g/edit?usp=sharing \\
+You can watch a [[https://youtu.be/1T6LyuqD9pk|Tutorial Video]] for getting started with TA hours. 
+For the an explanation of how to use “The Lab” during TA Hours, visit our [[https://docs.google.com/document/d/1nJmbjM3dp52VQnuFYnwjpe8Hwvi8Oypgjw2AftZel4g/edit?usp=sharing|Documentation]]. \\
 **Team Code: lb761mv**\\
 Sunday: 1-11 pm\\
 Monday, Tuesday, Thursday: 5-7 pm\\
