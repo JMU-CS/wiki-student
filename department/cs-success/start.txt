@@ -15,7 +15,7 @@ You will be able to join the team - JMU CS TA Lab Hours - and you will want to c
 Monday and Tuesday 7-8pm
 
 **CS 159 Xtended** \\
-Times TBD
+Tuesday and Wednesday 6-7pm
 
 **CS 227 Practice** \\
 Monday 7-8 pm
@@ -24,7 +24,7 @@ Monday 7-8 pm
 TAs are available to help students with the following courses: 
   * CS 101
   * CS 149
-  * CS 149
+  * CS 159
   * CS 227
   * CS 240
   * CS 261
@@ -48,7 +48,7 @@ A student-led walkthrough of the week's CS 149 topics. Open to all CS 149 studen
 A student-led weekly review session open to all students in CS 159.
 
 **Where**: Microsoft Teams - see link above\\
-**When**: TBD\\
+**When**: Tues and Wed 6-7pm
 
 ====== CS 227: Problem Sessions ======
 A student-led weekly problem session to demonstrate working problems from CS227.
