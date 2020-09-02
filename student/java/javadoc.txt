@@ -91,5 +91,5 @@ Note that the ''%%javadoc%%'' tool generates a large number of     "supporting" 
 
 The ''%%javadoc%%'' tool is very powerful and has a number of     capabilities that are not discussed here. For more information, see:
 
-  * [[ http://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html | Using the ''%%javadoc%%'' Tool ]]
-  * [[ http://www.oracle.com/technetwork/articles/java/index-137868.html | Writing Comments for the ''%%javadoc%%'' Tool ]]
+  * [[ http://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html | Using the javadoc Tool ]]
+  * [[ http://www.oracle.com/technetwork/articles/java/index-137868.html | Writing Comments for the javadoc Tool ]]
