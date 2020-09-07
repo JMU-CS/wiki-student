@@ -89,6 +89,7 @@ Upsilon Pi Epsilon was founded in 1967 at Texas A&M University and is the first 
 
 WIT's goal is to celebrate an active network of women in the technology industries by facilitating career development and empowering women to be the architects of change in the STEM field, and to create opportunities for personal and professional development inside and outside of the classroom.
 
+If you would like to get involved with WIT, please email us at jmuwit@gmail.com so we can add you to our mailing list!
 ===== Other clubs =====
 
 The following clubs do not list CS faculty as the contact faculty member, but are relevant to Computer Science and our students enjoy participating with them.
