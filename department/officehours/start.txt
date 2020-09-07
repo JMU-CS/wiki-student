@@ -39,12 +39,12 @@
   * CS 159 students: Connect to the "Waiting Room" channel on Discord. I'll meet with you one at a time or in small groups, in the order that you arrive.
   * Other students: Please email me to set up an appointment, and I will send you a Zoom link. I am also available to meet outside of office hours.
 
-**Dr. Molloy** - CS 149, CS 444
-  * Tuesday: 9:15 - 10:45, [[https://zoom.us/j/214145125|https://zoom.us/j/214145125]]
-  * Tuesday:  6:00 pm - 7:30 pm, [[https://zoom.us/j/825648776|https://zoom.us/j/825648776]]
-  * Thursday: 9:45 - 10:45, [[https://zoom.us/j/317109158|https://zoom.us/j/317109158]]
-  * Thursday: 12:45 pm - 1:45 pm, [[https://zoom.us/j/601869942|https://zoom.us/j/601869942]]
-  * Other times by appointment.
+**Dr. Molloy** - CS 149, CS 354, CS 445
+  * Zoom link for office hours: [[https://jmu-edu.zoom.us/j/84610674851]]
+  * Tuesday:  4:30 pm - 6:30 pm
+  * Wednesday: 2:30 - 4:30 pm
+  * Friday: 10:00 - 11:00 am
+  * Other times by appointment (email: molloykp@jmu.edu)
 
 **Dr. Norton** - CS 149 (combination of class time & former office hours)
   * Monday: 10am-12pm, 1:30pm-4:30pm
