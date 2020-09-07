@@ -8,9 +8,9 @@
   * Let me know via email and I will set up a Zoom meeting. I will send you the URL. 
   * All lectures have uploaded to Canvas. 
 
-**Dr. Bernstein** - CS 345, CS 488
-  * Office hours: M/F 1:30-2:30 & 3:30-4:30, W 1:30-2:30
-  * Scheduler: add your name to the bottom of the waiting list
+**Dr. Bernstein** - CS149, CS462, TECH230
+  * Office hours: Tue/Thu  2:30-4:00 (and by appointment) using Zoom 
+  * Scheduler: Send me an email for the meeting code and passcode
   * Calendar: https://users.cs.jmu.edu/bernstdh/Web/officehours.html
 
 **Dr. Bowers** - CS 430, CS 480
