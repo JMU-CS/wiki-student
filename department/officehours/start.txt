@@ -24,8 +24,8 @@
   *Other times by appointment.
 
 **Dr. Fox** - CS 412, CS 442
-  * Regular Office Hours: MTWTh 1:30-3:30
-  * Zoom Room: [[https://zoom.us/j/7614055264|https://zoom.us/j/7614055264]]
+  * Regular Office Hours: MTWTh 1:00-2:00 (Zoom Room only)
+  * Zoom Room: https://jmu-edu.zoom.us/j/89818815906
   * Times by appointment: Any mutually agreed time
 
 **Dr. Kirkpatrick** - CS 240, CS 280
