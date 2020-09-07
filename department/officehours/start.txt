@@ -39,12 +39,10 @@
   * Zoom room (during office hours): (link on Canvas--email me for URL if you aren't in a class)
   * Calendar (for meetings outside office hours): [[https://calendly.com/lam2mo|https://calendly.com/lam2mo]]
 
-**Dr. Mayfield** - CS 374
-  * Office Hours: M/W/F 1:30-3:00pm
-  * Zoom Room: [[https://zoom.us/j/237741060|https://zoom.us/j/237741060]]
-  * Schedule an appointment: [[https://calendly.com/mayfiecs/15min|https://calendly.com/mayfiecs/15min]]
-Or just drop in the waiting room during those times, and I'll meet with you as soon as I can.
-If you would like to meet outside of office hours, email me the times when you are available.
+**Dr. Mayfield** - CS 159
+  * Office Hours: M/W/F 2:20-4:00pm
+  * CS 159 students: Connect to the "Waiting Room" channel on Discord. I'll meet with you one at a time or in small groups, in the order that you arrive.
+  * Other students: Please email me to set up an appointment, and I will send you a Zoom link. I am also available to meet outside of office hours.
 
 **Dr. Molloy** - CS 149, CS 444
   * Tuesday: 9:15 - 10:45, [[https://zoom.us/j/214145125|https://zoom.us/j/214145125]]
