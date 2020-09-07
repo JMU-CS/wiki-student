@@ -82,9 +82,9 @@
 **Dr. Tjaden** - CS510, 633, and 635
   * Office hours: T,W,TH 2:15-3:15, F 1:00 - 3:00, or by appointment
 
-**Dr. Wang** - CS482
-  * Office hours: Tuesday 10:20 ˜ 12:20, 13:50 - 15:20; Thursday 13:50 - 15:20
-  * Zoom URL: [[https://zoom.us/j/4401425906 |https://zoom.us/j/4401425906]] 
+**Dr. Wang** - CS327, CS660
+  * Office hours: [Mon] 10:10 ~ 12:10; [Wed] 10:10 ~ 11:10; [Fri] 10:10 ~ 12:10;
+  * Zoom URL: [[https://jmu-edu.zoom.us/j/4401425906 |https://jmu-edu.zoom.us/j/4401425906]]
 
 **Dr. Weikle** - CS159, CS456
   * Office Hours: Zoom Link: [[https://zoom.us/j/568351473|https://zoom.us/j/568351473]]
