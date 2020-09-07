@@ -14,10 +14,8 @@
   * Calendar: https://users.cs.jmu.edu/bernstdh/Web/officehours.html
 
 **Dr. Bowers** - CS 430, CS 480
-  * Twitch stream: [[https://www.twitch.tv/johncbowers|https://www.twitch.tv/johncbowers]]
-  * Zoom room: [[https://zoom.us/j/283061478|https://zoom.us/j/283061478]]
-  * General office hours: Every day: 1:30 - 3:00 pm with priority given to CS 480 on WF. 
-  * MWF: 9:30-10:30 am with priority given to CS 430. 
+  * General office hours: M 10am-12pm, WF 2pm-5pm. 
+  * How to connect: either send me a private chat on [[https://teams.microsoft.com|Teams]] (sign in with your @dukes.jmu.edu email address and password) during office hours or sign up for a time slot on [[https://calendly.com/johncbowers/office-hours?month=2020-09|Calendly]]
   * Other times by appointment. 
 
 **Prof. Chao** - CS 149
