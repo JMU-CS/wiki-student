@@ -32,7 +32,7 @@
   * Regular Office Hours: M 2 - 3:30, F 11:00 - 1:00 (CS 280), F 2:00 - 5:00 (CS 240)
   * Times by appointment: T 10:30 - 12:00
   * Appointments: [[https://w3.cs.jmu.edu/kirkpams/appointment.shtml|https://w3.cs.jmu.edu/kirkpams/appointment.shtml]]
-  * M/T Zoom room (class-specific links on Canvas): [[https://us02web.zoom.us/j/82998366703?pwd=SERtamQ3WS9GbzZmMlFBYXFLZmk5Zz09]]
+  * M/T Zoom room (class-specific links on Canvas): [[https://jmu-edu.zoom.us/j/82998366703]]
 
 **Dr. Lam** - CS 430, CS 470
   * Office Hours: M/W 1:30-3:00 pm
