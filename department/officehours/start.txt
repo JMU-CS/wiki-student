@@ -3,11 +3,6 @@
   * Let me know via email and I will set up a Zoom meeting. I will send you the URL. 
   * All lectures have been uploaded to Canvas. 
 
-**Dr. Ramon A Mata-Toledo** - CS 227 (Sections 1, 2, 3)
-  * Office Hours: M, T, Th, 10:00 am -12:00 pm
-  * Let me know via email and I will set up a Zoom meeting. I will send you the URL. 
-  * All lectures have uploaded to Canvas. 
-
 **Dr. Bernstein** - CS149, CS462, TECH230
   * Office hours: Tue/Thu  2:30-4:00 (and by appointment) using Zoom 
   * Scheduler: Send me an email for the meeting code and passcode
@@ -23,10 +18,10 @@
   *Webex: https://jmu.webex.com/meet/Chaoaj
   *Other times by appointment.
 
-**Dr. Fox** - CS 412, CS 442
-  * Regular Office Hours: MTWTh 1:00-2:00 (Zoom Room only)
+**Dr. Fox** - CS 227, CS 345
+  * MTWTh 1:00-2:00 (Zoom Room only)
   * Zoom Room: https://jmu-edu.zoom.us/j/89818815906
-  * Times by appointment: Any mutually agreed time
+  * Other times by appointment
 
 **Dr. Kirkpatrick** - CS 240, CS 280
   * Regular Office Hours: M 2 - 3:30, F 11:00 - 1:00 (CS 280), F 2:00 - 5:00 (CS 240)
