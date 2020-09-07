@@ -85,7 +85,8 @@
   * Office Hours: M-F 2-3PM via zoom link in syllabus on Canvas.
 
 **Dr. Tjaden** - CS510, 633, and 635
-  * Office hours: T,W,TH 2:15-3:15, F 1:00 - 3:00, or by appointment
+  * Office hours: M,W, 2:45-4:00, or by appointment
+  * Zoom URL: [[ https://jmu-edu.zoom.us/j/88973216252| https://jmu-edu.zoom.us/j/88973216252]]
 
 **Dr. Wang** - CS327, CS660
   * Office hours: [Mon] 10:10 ~ 12:10; [Wed] 10:10 ~ 11:10; [Fri] 10:10 ~ 12:10;
