@@ -56,6 +56,15 @@
   * Calendly: [[https://bit.ly/cs-advisor |https://bit.ly/cs-advisor]] 
   * Zoom room: [[https://bit.ly/PaigeZoom |https://bit.ly/PaigeZoom]] 
 
+
+**Dr. Richards** - CS 149
+
+  *M/W 2-4PM
+  *T/Th 3-4 PM
+  *Please send an email to reserve your slot within the scheduled office hours. You will be provided with a Zoom link by email.
+  *You may also contact me via Microsoft Teams channel for CS149.
+  *Additional times available by appointment, please email to schedule appointment at richa3ke@jmu.edu
+
 **Prof. Riley**
   * Enter the waiting room, I'll admit in order of entry.
   * Tu 10-12 Zoom https://jmu-edu.zoom.us/j/81156323487
