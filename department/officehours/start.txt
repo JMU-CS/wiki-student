@@ -34,9 +34,8 @@
   * Appointments: [[https://w3.cs.jmu.edu/kirkpams/appointment.shtml|https://w3.cs.jmu.edu/kirkpams/appointment.shtml]]
   * M/T Zoom room (class-specific links on Canvas): [[https://jmu-edu.zoom.us/j/82998366703]]
 
-**Dr. Lam** - CS 430, CS 470
-  * Office Hours: M/W 1:30-3:00 pm
-  * Twitch stream: [[https://www.twitch.tv/sig_segv |https://www.twitch.tv/sig_segv]] 
+**Dr. Lam** - CS 261, CS 432
+  * Office Hours: Tu/Th/Fr 2:00-3:30 pm
   * Zoom room (during office hours): (link on Canvas--email me for URL if you aren't in a class)
   * Calendar (for meetings outside office hours): [[https://calendly.com/lam2mo|https://calendly.com/lam2mo]]
 
