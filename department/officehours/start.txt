@@ -78,9 +78,9 @@
   * Will use zoom to meet (more information soon)
 
 **Dr. Sprague**
-  * Office Hours: M/W/F 2:30-3:30 and T/Th 1:00-2:00
+  * Office Hours: M/F 12:00-1:30, Wed. 12:00-1:00, Thur. 9:00-10:00AM
   * Calendar: [[https://w3.cs.jmu.edu/spragunr/schedule.html|https://w3.cs.jmu.edu/spragunr/schedule.html]]
-  * Zoom room: [[https://zoom.us/j/238882490|https://zoom.us/j/238882490]]
+  * Zoom URL: Available through Canvas, or email me for the link.
 
 **Dr. Stewart**
   * YouTube stream: [[http://tiny.cc/stewarttv|http://tiny.cc/stewarttv]] 
