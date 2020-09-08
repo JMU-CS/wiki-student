@@ -50,10 +50,11 @@
   * Zoom link for office hours: [[https://jmu-edu.zoom.us/j/3255817493]]
   * Monday, Wednesday, Friday: 11:00am - 12:00pm and 3:00pm - 4:00 pm
 
-**Paige Normand** - Advisor and Outreach Coordinator 
+**Paige Normand** - CS 101
+  * Office Hours via Teams: Tuesdays 2-4; Fridays 9:30-11:30
   * Calendly: [[https://bit.ly/cs-advisor |https://bit.ly/cs-advisor]] 
   * Zoom room: [[https://bit.ly/PaigeZoom |https://bit.ly/PaigeZoom]] 
-  * Office Hours via Teams: Tuesdays 2-4; Fridays 9:30-11:30
+
 
 
 **Dr. Richards** - CS 149
