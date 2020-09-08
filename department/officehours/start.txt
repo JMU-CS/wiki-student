@@ -26,6 +26,10 @@
   * Zoom Room: https://jmu-edu.zoom.us/j/89818815906
   * Other times by appointment
 
+**Dr. Johnson** - CS 347
+  * TTh: 12:15-2:45 PM
+  * Send a direct message on Slack to receive a Zoom invitation.
+
 **Dr. Kirkpatrick** - CS 240, CS 280
   * Regular Office Hours: M 2 - 3:30, F 11:00 - 1:00 (CS 280), F 2:00 - 5:00 (CS 240)
   * Times by appointment: T 10:30 - 12:00
