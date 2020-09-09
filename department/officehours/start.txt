@@ -102,7 +102,7 @@
   * Office hours: [Mon] 10:10 ~ 12:10; [Wed] 10:10 ~ 11:10; [Fri] 10:10 ~ 12:10;
   * Zoom URL: [[https://jmu-edu.zoom.us/j/4401425906 |https://jmu-edu.zoom.us/j/4401425906]]
 
-**Dr. Weikle** - CS159, CS456
+**Dr. Weikle** - CS149, CS261
   * Office Hours: Zoom Link: [[https://zoom.us/j/568351473|https://zoom.us/j/568351473]]
   * Tues and Thurs. 3-4, Fri. 11-noon, and each day immediately after class
   * Or Email for passcode or additional times weikleda@jmu.edu
