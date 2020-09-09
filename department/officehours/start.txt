@@ -92,9 +92,7 @@
   * Zoom URL: Available through Canvas, or email me for the link.
 
 **Dr. Stewart**
-  * YouTube stream: [[http://tiny.cc/stewarttv|http://tiny.cc/stewarttv]] 
-  * Twitch stream: [[https://www.twitch.tv/hcientist |https://www.twitch.tv/hcientist]] 
-  * Office Hours: M-F 2-3PM via zoom link in syllabus on Canvas.
+  * On leave 2020-2021.
 
 **Dr. Tjaden** - CS510, 633, and 635
   * Office hours: M,W, 2:45-4:00, or by appointment
@@ -107,7 +105,7 @@
 **Dr. Weikle** - CS159, CS456
   * Office Hours: Zoom Link: [[https://zoom.us/j/568351473|https://zoom.us/j/568351473]]
   * Tues and Thurs. 3-4, Fri. 11-noon, and each day immediately after class
-  * Or Email with times weikleda@jmu.edu
+  * Or Email for passcode or additional times weikleda@jmu.edu
 
 **Dr. Zhuojun Duan** - CS 149
   *Office hours: Mon., Tu., Wed., and Thurs: 3:00-4:30pm. 
