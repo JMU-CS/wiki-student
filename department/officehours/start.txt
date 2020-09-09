@@ -106,7 +106,7 @@
 
 **Dr. Weikle** - CS159, CS456
   * Office Hours: Zoom Link: [[https://zoom.us/j/568351473|https://zoom.us/j/568351473]]
-  * Mon. 10:30-11:30, Wed. 1:15-2:15, Thurs. 3-4, Fri. 10-11, 1:15-2:15
+  * Tues and Thurs. 3-4, Fri. 11-noon, and each day immediately after class
   * Or Email with times weikleda@jmu.edu
 
 **Dr. Zhuojun Duan** - CS 149
