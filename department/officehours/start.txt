@@ -32,15 +32,10 @@
   * Other times by appointment
 
 **Dr. Heydari** - CS512, CS531
-
- •	Please send me an Email with your questions, heydarmh@jmu.edu. 
-
- •	If you would like to schedule a Zoom meeting, my Zoom meeting office hours are: Tuesday, Thursday, and Friday from 1:00 P.M. - 3:00 P.M. 
-
- •	Note: Please post your classroom related questions in the appropriate forum, so your classmates may also benefit from the QA. 
-
- •	If you have questions about the program and I am not available, please contact Carole Ritchie (room 219) at 540-568-8772 or email her at ritchica@jmu.edu. 
-
+  * Please send me an Email with your questions, heydarmh@jmu.edu. 
+  * If you would like to schedule a Zoom meeting, my Zoom meeting office hours are: Tuesday, Thursday, and Friday from 1:00 P.M. - 3:00 P.M. 
+  * Note: Please post your classroom related questions in the appropriate forum, so your classmates may also benefit from the QA. 
+  * If you have questions about the program and I am not available, please contact Carole Ritchie (room 219) at 540-568-8772 or email her at ritchica@jmu.edu. 
 
 **Dr. Johnson** - CS 347
   * TTh: 12:15-2:45 PM
@@ -78,15 +73,17 @@
   * Calendly: [[https://bit.ly/cs-advisor |https://bit.ly/cs-advisor]] 
   * Zoom room: [[https://bit.ly/PaigeZoom |https://bit.ly/PaigeZoom]] 
 
+**Dr. Tim Richards** - CS 374, IT 101
+  * Wed & Fri 9-11AM, 12-1PM and by appointment via Teams (or Zoom)
+  * Contact: richartm@jmu.edu
+  * Email me to setup a meeting during these virtual office hours and I will send you a confirmation with a link
 
-
-**Dr. Richards** - CS 149
-
-  *M/W 2-4PM
-  *T/Th 3-4 PM
-  *Please send an email to reserve your slot within the scheduled office hours. You will be provided with a Zoom link by email.
-  *You may also contact me via Microsoft Teams channel for CS149.
-  *Additional times available by appointment, please email to schedule appointment at richa3ke@jmu.edu
+**Dr. Kirsten Richards** - CS 149
+  * M/W 2-4PM
+  * T/Th 3-4 PM
+  * Please send an email to reserve your slot within the scheduled office hours. You will be provided with a Zoom link by email.
+  * You may also contact me via Microsoft Teams channel for CS149.
+  * Additional times available by appointment, please email to schedule appointment at richa3ke@jmu.edu
 
 **Prof. Riley**
   * Enter the waiting room, I'll admit in order of entry.
