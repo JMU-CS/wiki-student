@@ -61,7 +61,7 @@
   * Zoom link for office hours: [[https://jmu-edu.zoom.us/j/84610674851]]
   * Tuesday:  4:30 pm - 6:30 pm
   * Wednesday: 2:30 - 4:30 pm
-  * Friday: 10:00 - 11:00 am
+  * Friday: 11:00 - 12:00 pm
   * Other times by appointment (email: molloykp@jmu.edu)
 
 **Dr. Norton** - CS 159, CS374
