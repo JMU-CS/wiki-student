@@ -15,6 +15,12 @@
   * [[department:graduation| Graduation Process and Forms ]]
   * [[department:minor-advising| Advising for CS Minors]]
 
+==== Start-up Guides ====
+
+  * [[student:firstyearstartup:start | First-Year Start-up Guide ]]
+  * [[student:onlinesemestersurvival:start | Online Semester Survival Guide ]]
+  * [[student:cs149startup:start | CS149 Start-up Guide ]]
+
 ==== University/Department-Specific Resources ====
 
   * [[student:autolab:start | Autolab ]]
