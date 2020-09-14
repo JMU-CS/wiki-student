@@ -37,8 +37,10 @@
   * [[student:VPN:start | VPN ]]
   * [[student:wireless:start | Wireless ]]
 
-==== Class Start-up Guides ====
+==== Start-up Guides ====
 
+  * [[student:firstyearstartup:start | First-Year Start-up Guide ]]
+  * [[student:onlinesemestersurvival:start | Online Semester Survival Guide ]]
   * [[student:cs149startup:start | CS149 Start-up Guide ]]
 
 ==== Technical Topics ====
