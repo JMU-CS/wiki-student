@@ -1,0 +1,5 @@
+====== Online Semester Survival Guide ======
+
+===== Accessing Campus Computing Resource =====
+
+Many of the computing services used in CS classes, like [[student:autolab:start|Autolab]], require that your computer either be on the campus network or connected through a VPN. For students who are not currently living on campus, the best thing to do is to run Pulse Secure VPN to connect your computer to the campus network. The library has detailed text-based instructions for installing Pulse Secure VPN on [[https://www.lib.jmu.edu/connect/pulse-secure-windows-instructions/|Windows]] and [[https://www.lib.jmu.edu/connect/pulse-secure-mac-osx-instructions/|Mac]]. JMU IT also has a [[https://www.jmu.edu/computing/internet-and-network/pulse-secure.shtml|External page of instructions]] that includes screenshots. For Linux and ChromeOS users, we have [[student:vpn:start|compiled our own instructions]].
