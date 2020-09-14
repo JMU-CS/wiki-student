@@ -4,3 +4,5 @@ Each professor at JMU holds at least 5 scheduled office hours per week. This mea
 
 You can find CS professor office hours on the [[department:officehours:start| Faculty Office Hours ]] page. Additionally, the syllabus for each of your courses should list the office hours for that professor. Always check the syllabus before sending an email asking when office hours are. 
 ====== Departmental Clubs ======
+
+JMU computer science has a number of active clubs. Some of these run as official university clubs while some are unofficially run in-house in the department. All of our clubs are listed on [[student:clubs:start | Clubs]] page. If you are interested in joining or just finding out more information you can reach out to either the student contact for the club or the faculty advisor for more information. Clubs are a great way to get to know other CS students, deep dive into specific CS topics,, volunteer your CS skills, work to make CS a better and more inclusive field, and much more. All of our clubs take first-years and we encourage you to get involved early. 
