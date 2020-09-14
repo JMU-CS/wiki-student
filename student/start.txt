@@ -25,7 +25,7 @@
 
   * [[student:autolab:start | Autolab ]]
   * [[Building Maps]] (ISAT/CS and EnGeo)
-  * [[student:mattermost:start | Chat Server]] ("Mattermost" chat.cs.jmu.edu)
+  * [[student:mattermost:start | Chat Server]] 
   * [[student:clubs:start | Clubs]]
   * [[student:cluster:start | Cluster ]]
   * [[department:computer_labs:start| Computer Labs ]]
