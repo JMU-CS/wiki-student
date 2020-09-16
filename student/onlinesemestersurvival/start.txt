@@ -10,3 +10,6 @@ Many of the computing services used in CS classes, like [[student:autolab:start|
 
 ===== How do I access the student server (“stu”) from home to do my coursework? =====
 Many classes require the use of the gcc compiler for compiling C programs, which are available on the CS lab machines on campus. To access stu and the lab machines virtually at home, follow the guide written [[student:stu:basics|here]]. Don't want to use vim or nano to edit your program files? Mount your remote directory from stu onto your local machine and then open into the editor of your choice on your local machine by using our guide [[student:utilities:sshfs|here]].
+
+===== Where can I get help reviewing and debugging my code virtually? =====
+Since we are now online, it can be difficult to find someone to talk through your code with. A common practice for programmers that has been used for decades is [[https://en.wikipedia.org/wiki/Rubber_duck_debugging|Duck Debugging]]. This is a great way to work through bugs by yourself and at your own speed. If permitted by your instructor, it is also still possible to review your work with classmates through Zoom personal rooms. Every student has access to their own personal room on the zoom account associated with their @dukes.jmu.edu email. These rooms are a great way to continue working in groups and getting feedback from your peers.
