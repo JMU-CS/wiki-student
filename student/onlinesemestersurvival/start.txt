@@ -2,7 +2,7 @@
 
 ===== TA Resources =====
 
-The computer science department has a bunch of awesome TAs that are available to help with lower division classes like CS 101, CS 149, CS 159, CS 227, etc. They also run weekly review sessions for several of these courses. For the online semester, they are using Microsoft Teams to organize TA hours and connect with students. You can find information on when the TAs are available and how to connect with them at the [[department:cs-success:start| TA Hours/Review Sessions ]] page.
+The computer science department has a bunch of awesome teaching assistants (TAs) that are available to help with lower division classes like CS 101, CS 149, CS 159, CS 227, etc. They also run weekly review sessions for several of these courses. For the online semester, they are using Microsoft Teams to organize TA hours and connect with students. You can find information on when the TAs are available and how to connect with them at the [[department:cs-success:start| TA Hours/Review Sessions ]] page.
 
 ===== Accessing Campus Computing Resources =====
 
