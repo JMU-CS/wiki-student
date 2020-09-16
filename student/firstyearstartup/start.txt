@@ -28,3 +28,17 @@ We've all been there. "Googling" to the late and early hours of the day for help
 ===== Have other general questions and would like to speak to a fellow student? =====
 
 Our department ambassadors are here to help! Have a specific question? Just want to chat? Be sure to visit [[https://www.jmu.edu/cise/cs/contact-us/cs-ambassadors.shtml|here]] to schedule a video chat with one of our student ambassadors.
+
+===== University Resources for your non-CS Classes =====
+
+In addition to your CS classes, you're probably taking an SCOM, WRTC, and/or MATH class. Don't worry, the university has support for these classes, too!
+[[https://www.jmu.edu/learning/programs/index.shtml|The Learning Centers]] has trained peer tutors who can work with you one-on-one. This is a FREE SERVICE worth taking advantage of!
+  * [[https://www.jmu.edu/commcenter/|Communication Center]] can help with oral presentations and speech structure
+  * [[https://www.jmu.edu/uwc/|The Writing Center]] has tutors who can assist with any paper: from rhetorical analysis to lab reports
+  * The[[https://www.jmu.edu/smlc/| Science and Math Learning Center]] has drop-in hours with tutors (via web-ex) for many introductory courses in Math, Bio, Physics, Statistics, and Chemistry. 
+
+If you want help with study skills, time management, or adapting to online learning, schedule a meeting with [[https://www.jmu.edu/lsi/|Learning Strategies Instruction]].
+
+Also check out the Libraries extensive list of support for students adapting to [[https://www.lib.jmu.edu/temporary-online-teaching/|online learning]]. 
+
+Not sure where to even start? Schedule a meeting with the [[https://calendly.com/paigenormand/30min|CS Advisor]], Paige Normand: you can talk through your situation and she can help point you in the right direction. 
