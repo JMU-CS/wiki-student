@@ -67,6 +67,10 @@
   * [[student:xml:start | XML ]]
   * [[student:zip:start | .zip Files ]]
 
+==== Social ====
+  * [[student:gamenight:start | Game Nights ]]
+  * [[student:senior-wall:start | 20-21 Senior Wall ]]
+
 ==== Etiquette ====
 
   - You must be logged-in (using your JMU email address) to make additions/changes.
