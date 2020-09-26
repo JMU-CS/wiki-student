@@ -84,16 +84,9 @@ bottom, which shows the points awarded **only for that criterion**.
 See the [[student:autolab:grade-report | description of the grade report ]] 
 for more information.
 
-After the assignment has been completely graded, you may also receive
-feedback from the instructor on the quality of your code. You can
-obtain this feedback (if it is provided) by clicking on the magnifying
-glass icon under the last submission.
+After the assignment has been completely graded, you may also receive feedback from the instructor (e.g., on the quality of your code). This will be displayed in the "Remarks" section of the last submission.
 
 
 ==== Individual Submissions ====
 
-If you click on the magnifying glass for a submission, you will be presented with a page that contains a list of the files you submitted. If you click on the magnifying glass for a particular file you will be presented with a page that looks something like the following.
-
-{{submission.png}}
-
-Any annotations/feedback will appear as gray boxes in your code. You can expand an individual annotation by clicking on it, or expand/​collapse all annotations by clicking on the buttons above the code.
+If you click on the magnifying glass for a submission, you will be presented with a page that contains a list of the files you submitted. If you click on the magnifying glass for a particular file you will be presented with the source code that you submitted.
