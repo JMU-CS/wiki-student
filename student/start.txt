@@ -4,6 +4,7 @@
 
 ==== CS Advising ====
 
+  * [[department:firstyear-advising:start| Spring 2021: First Year Advising]]
   * [[department:fall20updates:start| Fall 2020 updates ]]
   *  [[department:advising-resources| Advising Resources]]
   * [[department:advising:start| Advising FAQ ]]
