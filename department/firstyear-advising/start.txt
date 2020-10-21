@@ -45,4 +45,6 @@ Any student wanting to withdraw from a class after the Oct 28th deadline can onl
 
 === Making a 4-year Plan ===
 
-We encourage you to meet with our CS Advisor, Paige Normand, to make a 4-year plan for graduation. You can schedule. a meeting with her here: [[https://bit.ly/cs-advisor|https://bit.ly/cs-advisor]]
+We encourage you to meet with our CS Advisor, Paige Normand, to make a 4-year plan for graduation. You can schedule. a meeting with her here: [[https://bit.ly/cs-advisor|https://bit.ly/cs-advisor]].
+
+Not sure if you should reach out to Paige Normand or your CS Faculty Advisor about a topic? Don't worry, there's a [[department:advising-resources:|Wiki Page]] for that!
