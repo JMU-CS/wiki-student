@@ -4,9 +4,9 @@ The following resources will help you determine which classes you need to take a
 
 ==== Requirements ====
 
-See the JMU Catalog for the official [[http://catalog.jmu.edu/preview_program.php?catoid=25&poid=7508 | Major Requirements]].
+See the JMU Catalog for the official [[http://catalog.jmu.edu/preview_program.php?catoid=41&poid=13272 | Major Requirements]].
 
-See the JMU Catalog for the official [[http://catalog.jmu.edu/content.php?catoid=25&navoid=761&filter[27]=CS | Course Descriptions]].
+See the JMU Catalog for the official [[http://catalog.jmu.edu/content.php?catoid=41&navoid=1548&filter[27]=CS | Course Descriptions]].
 
 ==== Prerequisites ====
 
