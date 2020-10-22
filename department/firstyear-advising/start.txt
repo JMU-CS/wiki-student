@@ -1,14 +1,59 @@
-====== Spring 2021 Enrollment ======
+====== First-Year Advising ======
 
-Spring 2021 enrollment appointments begin November 9th. Look at MyMadison for YOUR appointment date and time.
+  * [[#mid-semester_grades|Mid-Semester Grades]] -- Fri, Oct 23rd
+  * [[#withdraw_deadline|Withdraw Deadline]] -- Wed, Oct 28th
+  * [[#spring_enrollment|Spring Enrollment]] -- Week of Nov 9th
 
-If you do not know what to sign up for, please make an appointment with your advisor.  During OPEN ENROLLMENT, you can expect SOME movement in classes, so you are welcome to continue to look for classes through the second Tuesday of Spring semester 2021.  HOWEVER, do NOT count on finding a seat in a specific class. **Enroll in 15-16 credit hours during your advance registration appointment**, and SWAP when you find a course you really want with an open seat.
 
-===== Check for Holds! =====
+===== Mid-Semester Grades =====
 
-There are a number of students who are non-compliant with their immunizations and currently have a hold on their account that will prevent them from enrolling in spring classes. All have been sent multiple emails explaining what is missing and the consequences.  Check to make sure that YOU do not have a HOLD.  You MUST take care of holds prior to enrollment!
+Mid-semester grades will be posted **Friday, October 23rd**.
+Please check your grades in MyMadison.
+Some grades may be available now!
+These unofficial grades will give you a sense of where you stand in each of your courses.
 
-==== What courses should YOU take? ====
+=== D or F Grades ===
+
+If you have any mid-semester grades of D or F, please make plans to discuss your progress, possible options, and available resources.
+You'll receive an email from your First-Year Advisor asking you to make an appointment.
+
+
+===== Withdraw Deadline =====
+
+The deadline to Withdraw from a semester class is **Wednesday, Oct 28th**.
+Withdrawal from a course by this deadline will result in a "W" on your transcript.
+A "W" is not calculated into the GPA, but it is factored in to the formula for Satisfactory Academic Progress (SAP) used by Financial Aid.
+Any student receiving Financial Aid should review [[https://www.jmu.edu/financialaid/learn/sap/|https://www.jmu.edu/financialaid/learn/sap/]] AND consult with the Financial Aid office before withdrawing from a course.
+You do NOT need permission to withdraw, BUT, we highly recommend that you also discuss it with your advisor too.
+
+=== Withdrawing AFTER Oct 28th ===
+
+Any student wanting to withdraw from a class after the Oct 28th deadline can only do so when an instructor agrees to issue a final grade of "WP" (withdraw pass) or "WF" (Withdraw Fail) based on grade at time of withdrawal.
+This option is strictly at the discretion of the instructor, and most will only consider it if there is a legitimate issue or extenuating circumstance.
+We suggest that you come and discuss your need BEFORE you approach your professor.
+
+
+===== Spring Enrollment =====
+
+Spring 2021 enrollment appointments begin November 9th.
+Look at MyMadison for YOUR appointment date and time.
+(Most first-year students will enroll on Nov 11th or 12th.)
+
+If you do not know what to sign up for, please make an appointment with your advisor.
+During OPEN ENROLLMENT, you can expect SOME movement in classes, so you are welcome to continue to look for classes through the second Tuesday of Spring semester 2021.
+HOWEVER, do NOT count on finding a seat in a specific class.
+**Enroll in 15-16 credit hours during your advance registration appointment**, and then SWAP when you find a course you really want with an open seat.
+
+=== Check for Holds! ===
+
+There are a number of students who are non-compliant with their immunizations and currently have a hold on their account that will prevent them from enrolling in spring classes.
+All have been sent multiple emails explaining what is missing and the consequences.
+Check to make sure that YOU do not have a HOLD.
+You MUST take care of holds prior to enrollment!
+
+=== What courses should YOU take? ===
+
+See the [[department/curriculum/start|CS Curriculum]] page on the wiki.
 
 Most CS majors take five courses during their second semester, depending on the courses they took in the fall:
 
@@ -23,28 +68,18 @@ CS 159 and CS 227, MATH 23X, and two gen-eds.
 Remember that **you must complete Cluster 1 during your first year** -- so if you took only one of those courses this fall, you will need to take the other two in the spring.
 
 **Math 23X - Calculus**\\
-The CS major requires two Math courses: MATH 235 Calculus, and MATH 220 Statistics. You should take calculus during your freshman year and statistics during your sophomore year.
+The CS major requires two Math courses: MATH 235 Calculus, and MATH 220 Statistics.
+You should take calculus during your freshman year and statistics during your sophomore year.
 
-If your Math Placement Score was below 30, you will need to take MATH 231 and MATH 232 (two semesters) instead of MATH 235 (one semester). You need to complete either MATH 231 or MATH 235 before taking CS 240 (the course after CS 159).
+If your Math Placement Score was below 30, you will need to take MATH 231 and MATH 232 (two semesters) instead of MATH 235 (one semester).
+You need to complete either MATH 231 or MATH 235 before taking CS 240 (the course after CS 159).
 
-MATH 236 is NOT required for CS majors, but it's a good course to take anyway (as an elective).
-
-====== Mid-Semester Grades ======
-
-Mid-semester grades are due to be posted October 23rd. Please check your grades in MyMadison. Some grades may be available now!  Keep checking. These unofficial grades will give you a sense of where you stand in each of your courses.
-
-If during your review of your mid-term grades you find any mid-term grades of D or F, please make plans to come to discuss your progress, possible options, and available resources. You’ll receive an email from your First Year Advisor asking you to make an appointment.
-
-===== Withdraw Deadline - Oct 28th =====
-
-The deadline to Withdraw from a semester class is Oct 28th.  Withdrawal from a course by this deadline will result in a "W" on your transcript.  A "W" is not calculated into the GPA, but it is factored in to the formula for Satisfactory Academic Progress (SAP) used by Financial Aid. Any student receiving Financial Aid should review [[https://www.jmu.edu/financialaid/index.shtml|https://www.jmu.edu/financialaid/index.shtml]] AND consult with the Financial Aid office before withdrawing from a course.  You do NOT need our permission to withdraw, BUT, we highly recommend that you also discuss it with your First Year Advisor, too.
-
-==== Withdrawing AFTER Oct 28th ====
-
-Any student wanting to withdraw from a class after the Oct 28th deadline can only do so when an instructor agrees to issue a final grade of "WP" (withdraw pass) or "WF" (Withdraw Fail) based on grade at time of withdrawal. This option is strictly at the discretion of the instructor, and most will only consider it if there is a legitimate issue or extenuating circumstance. We suggest that you come and discuss your need BEFORE you approach your professor.
+MATH 236 is NOT required for CS majors, but it's a good course to take anyway as an elective.
 
 === Making a 4-year Plan ===
 
-We encourage you to meet with our CS Advisor, Paige Normand, to make a 4-year plan for graduation. You can schedule. a meeting with her here: [[https://bit.ly/cs-advisor|https://bit.ly/cs-advisor]].
+We encourage you to meet with our CS Advisor, Paige Normand, to make a 4-year plan for graduation.
+You can schedule a meeting with her here: [[https://bit.ly/cs-advisor|https://bit.ly/cs-advisor]].
 
-Not sure if you should reach out to Paige Normand or your CS Faculty Advisor about a topic? Don't worry, there's a [[department:advising-resources:|Wiki Page]] for that!
+Not sure if you should reach out to Paige Normand or your CS Faculty Advisor about a topic?
+Don't worry, there's a [[department:advising-resources:|Wiki Page]] for that!
