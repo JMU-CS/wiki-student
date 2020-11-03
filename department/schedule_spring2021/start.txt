@@ -1,3 +1,5 @@
+{{ :department:schedule_spring2021:fall20newsletter.pdf  | Fall 2020 Computer Science Advising Newsletter}}
+
 ====== Spring 2021 Schedule ======
 
 ^ Course ^ Section ^ Time ^ Room ^ Instructors ^
