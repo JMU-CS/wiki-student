@@ -9,7 +9,7 @@
   *  [[department:advising-resources| Advising Resources]]
   * [[department:advising:start| Advising FAQ ]]
   * [[department:curriculum:start| CS Curriculum ]]
-  * [[department:spring20admission|Full Admission to the Major or Minor in the Spring 2020 semester]]
+  * [[department:fall20admission|Full Admission to the Major or Minor in the Fall 2020 semester]]
   * [[department:fulladmission:start| Full Admission to the Major or Minor ]]
   * [[department:graduation| Graduation Process and Forms ]]
   * [[department:minor-advising| Advising for CS Minors]]
