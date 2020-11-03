@@ -1,6 +1,6 @@
-{{ :department:schedule_spring2021:fall20newsletter.pdf  | Fall 2020 Computer Science Advising Newsletter}}
-
 ====== Spring 2021 Schedule ======
+
+{{ :department:schedule_spring2021:fall20newsletter.pdf  | Fall 2020 Computer Science Advising Newsletter}}
 
 ^ Course ^ Section ^ Time ^ Room ^ Instructors ^
 |  149|  1|MWF 1030-1120  |  online|Duan  |
