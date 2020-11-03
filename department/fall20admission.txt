@@ -28,9 +28,9 @@ Any student may declare a CS major or minor, but students can only enroll in CS 
 
   * CS minors with a GPA of 3.0 or higher in the CS minor will be fully admitted to the CS major; others will be admitted as space permits based on their minor GPA.
 
-Students will be notified of their CS major or minor admission status by January 1st for admission in the spring semester (following application the previous fall semester), and by May 22nd for admission in the fall semester (following application the previous spring semester).
+  * Students will be notified of their CS major or minor admission status by January 1st for admission in the spring semester (following application the previous fall semester), and by May 22nd for admission in the fall semester (following application the previous spring semester).
 
-Students who are not granted full admission to the CS major or minor may file one additional application in the next regular semester after they are denied admission.
+  * Students who are not granted full admission to the CS major or minor may file one additional application in the next regular semester after they are denied admission.
 
-Transfer students who have completed the equivalent of CS 159 (or for whom this class is waived) are granted full admission to the CS major or minor. Other transfer students are subject to same process as non-transfer students.
+  * Transfer students who have completed the equivalent of CS 159 (or for whom this class is waived) are granted full admission to the CS major or minor. Other transfer students are subject to same process as non-transfer students.
 
