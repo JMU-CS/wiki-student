@@ -1,5 +1,13 @@
 Sample plans of study for new students. Options B and C are recommended for students interested in the Information Security Certificate because classes required for the certificate have CS 361 as a prerequisite.
- // //
+
+==== Making a 4-year Plan ====
+
+We encourage you to meet with our CS Advisor, Paige Normand, to make a 4-year plan for graduation.
+You can schedule a meeting with her here: [[https://bit.ly/cs-advisor|https://bit.ly/cs-advisor]].
+
+Not sure if you should reach out to Paige Normand or your CS Faculty Advisor about a topic?
+Don't worry, there's a [[department:advising-resources:|Wiki Page]] for that!
+
 ====== Option A - Delay 261 ======
 
 This option could be described as an "__**A**__pplications-early" or "__**A**__pplied" route. By taking 345 in your 3rd semester you "unlock" 3 CS electives 🏆, and by __also__ taking 240, you "unlock" an additional 3 🌈. \\
