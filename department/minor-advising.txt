@@ -14,7 +14,7 @@ CS/MATH 227 [optional]: Not required for the minor, but this is a prerequisite f
 
 **Requirements for admission to the CS minor**
 
-Students wishing to minor in CS must meet the [[https://jmu.edu/cs/academics/undergraduate/apply/index.shtml|admission requirements]]. These requirements apply to all students who are not officially declared CS minors at this time, regardless of what year you currently are.
+Students wishing to minor in CS must meet the [[https://jmu.questionpro.com/t/ARXgAZjXmj|admission requirements]]. These requirements apply to all students who are not officially declared CS minors at this time, regardless of what year you currently are.
 
 **How to apply for and declare the CS minor**
 
