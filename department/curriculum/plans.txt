@@ -20,7 +20,7 @@ For your CS Electives, you need 9 credits above CS 300 and two must be above 345
 ^ Year 4    | CS 412/452 \\ CS Elective \\  Elective \\ Elective \\ Elective \\ | CS Elective \\ CS Elective \\ Elective \\ Elective \\ Elective       | 
 \\ \\
 ====== Option B - Delay 345 ======
-For your CS Electives, you need 9 credits above CS 300 and two must be above 345.
+For your CS Electives, you need 9 credits above CS 300 and 6 credits must be above 345.
 
 |              ^ Fall           ^ Spring          ^
 ^ Year 1    | CS 149 \\ Math 231/235\\ GenEd \\ GenEd \\ GenEd\\ | CS 159 \\ Math 232/236 \\ CS/MATH 227 \\ GenEd \\ GenEd|
