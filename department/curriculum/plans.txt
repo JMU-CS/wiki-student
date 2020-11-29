@@ -42,7 +42,7 @@ For your CS Electives, you need 9 credits above CS 300 and six credits must be a
 \\ \\
 ====== Option D - Second-year Start ======
 It is also possible to compress the major, for example if it is started in the sophomore year. The following table shows one way to do this. (Note: the major requires at least five semesters to complete due to prerequisites).\\
-For your CS Electives, you need 9 credits above CS 300 and two must be above 345.
+For your CS Electives, you need 9 credits above CS 300 and six credits must be above 345.
 
 |              ^ Fall           ^ Spring          ^
 ^ Year 1    | GenEd \\ GenEd \\ Elective \\ Elective \\ Elective\\ | GenEd \\ GenEd \\ GenEd \\ Elective \\ Elective |
