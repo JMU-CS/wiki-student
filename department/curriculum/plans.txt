@@ -32,7 +32,7 @@ For your CS Electives, you need 9 credits above CS 300 and 6 credits must be abo
 
 
 ====== Option C - Core Early ======
-For your CS Electives, you need 9 credits above CS 300 and two must be above 345.
+For your CS Electives, you need 9 credits above CS 300 and six credits must be above 345.
 
 |              ^ Fall           ^ Spring          ^
 ^ Year 1    | CS 149 \\ Math 231/235\\ GenEd \\ GenEd \\ GenEd\\ | CS 159 \\ Math 232/236 \\ CS/MATH 227 \\ GenEd \\ GenEd\\      |
