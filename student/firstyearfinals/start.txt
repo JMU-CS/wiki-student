@@ -13,7 +13,7 @@
   * Ask your professor if they have advice on strategies for studying for the exam. 
 
 ==== Before the exam ====
-  *  Form a study group. The best way to test your knowledge is to try to explain the content to someone else. 
+  *  Form a study group. The best way to test your knowledge is to try to explain the content to someone else. (Introvert ProTip: just explaining it aloud works - did you know pets like to learn about CS topics?)
 
   * Don't forget to take breaks from your computer. Your brain needs time to synthesize information. After a big study session, take a walk, cook some food, listen to music, or do something that gets you away from your computer and lets your brain mull through the information. 
 
