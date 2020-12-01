@@ -1,0 +1,29 @@
+====== Preparing for Finals' Week ======
+
+===== Plan out the week =====
+  * View the [[https://www.jmu.edu/registrar/wm_library/1208_exam_schedule.pdf|JMU Exam Schedule]] and add all of your final times into your calendar (and set reminders!). Double check with your courses' Canvas pages to see if your professor has made any changes to the Final Exam Time. 
+
+  * Now block off your study time. Be strategic about planning your study time for when your Final will be.
+
+==== What to study ====
+  * Some professors provide study guides or practice exams - take advantage of these! Don't just scan them and see if you think you can do the problems, actually work through each one and be sure you understand the underlying concepts. You're likely to encounter similar questions on the exam.
+
+  * Review previous exams, quizzes, and/or PAs from the course.
+
+  * Ask your professor if they have advice on strategies for studying for the exam. 
+
+==== Before the exam ====
+  *  Form a study group. The best way to test your knowledge is to try to explain the content to someone else. 
+
+  * Don't forget to take breaks from your computer. Your brain needs time to synthesize information. After a big study session, take a walk, cook some food, listen to music, or do something that gets you away from your computer and lets your brain mull through the information. 
+
+  * Take care of your brain means taking care of yourself! Drink water. Get good sleep. Maintain your exercise routine. Be careful about your caffein consumption. Finals week is NOT the time to dramatically alter your schedule or habits. 
+
+  * Pulling an all-nighter is NOT an effective way to cram for a CS exam. Pace your studying starting now to set yourself up for success. 
+
+==== During the exam ====
+  *  It's easy to want to jump into an exam and get as much done as possible, but it is so important to slow down and carefully read the questions. Diagram your solution before you write the code.
+
+  * If you're submitting code, make sure it compiles.
+
+  * Write good comments in the code to help your professor understand what you were hoping to accomplish.
