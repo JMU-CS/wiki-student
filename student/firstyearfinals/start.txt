@@ -22,7 +22,9 @@
   * Pulling an all-nighter is NOT an effective way to cram for a CS exam. Pace your studying starting now to set yourself up for success. 
 
 ==== During the exam ====
-  *  It's easy to want to jump into an exam and get as much done as possible, but it is so important to slow down and carefully read the questions. Diagram your solution before you write the code.
+  *  It's easy to want to jump into an exam and get as much done as possible, but it is so important to slow down and carefully read the questions. 
+
+  * Diagram your solution before you write the code.
 
   * If you're submitting code, make sure it compiles.
 
