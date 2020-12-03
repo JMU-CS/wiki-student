@@ -19,7 +19,7 @@
 
   * Don't forget to take breaks from your computer. Your brain needs time to synthesize information. After a big study session, take a walk, cook some food, listen to music, or do something that gets you away from your computer and lets your brain mull through the information. 
 
-  * Taking care of your brain means taking care of yourself! Drink water. Get good sleep. Maintain your exercise routine. Be careful about your caffein consumption. Finals week is NOT the time to dramatically alter your schedule or habits. 
+  * Taking care of your brain means taking care of yourself! Drink water. Get good sleep. Maintain your exercise routine. Be careful about your caffeine consumption. Finals week is NOT the time to dramatically alter your schedule or habits. 
 
   * Pulling an all-nighter is NOT an effective way to cram for a CS exam. Pace your studying starting now to set yourself up for success. 
 
