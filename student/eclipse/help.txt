@@ -339,8 +339,8 @@ Though it is possible to create an executable/runnable ''%%.jar%%'' using the wi
   - Select **only** "Export class files with compile   warnings".
   - Click on <key>Next</key>.
   - If the default manifest file is appropriate select "Generate the   manifest file" otherwise select "Use existing manifest" and enter   the path. (For more information, see the   [[ http://java.sun.com/docs/books/tutorial/deployment/jar/appman.html |    tutorial ]].)
-  - Select "Seal some packages" but do not choose any packages to seal.
-  - Ener the name of the "Main class".
+  - If necessary, select "Seal some packages" but do not choose any packages to seal. (If grayed-out, you can skip this step.)
+  - If you didn't specify an existing manifest, enter the name of the "Main class".
   - Click on <key>Finish</key>.
 Remember that if your application uses resources you must load them "properly" or they will not be found   (i.e., not from the file system but from the ''%%.jar%%'' file).
 
