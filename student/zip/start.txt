@@ -1,3 +1,4 @@
 ===== Working with .zip Files =====
 
   - [[student:zip:creating | Creating ]]
+  - [[student:zip:emailing | Sending by Email ]]
