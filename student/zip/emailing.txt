@@ -1,3 +1,5 @@
+===== Emailing a .zip File =====
+
 The JMU email system strips-off ''%.zip%'' files because the system administrators deem them to be a security risk (because a user might accidentally expand them which could put files anywhere on the file system). So, you must rename ''%.zip%'' files before you can attach them to an email.
 
 The convention at JMU is to rename them to ''%.jmu%''.
