@@ -2,6 +2,8 @@
 
 ===== Information for Students =====
 
+In addition to using this page to find information, you can search the Wiki using the search field on the left or using a search engine (e.g., Google, DuckDuckGo, Bing) by including ''site:wiki.cs.jmu.edu'' with your search terms.
+
 ==== CS Advising ====
 
   * [[department:schedule_spring2021:start| Spring 2021 Schedule]]
