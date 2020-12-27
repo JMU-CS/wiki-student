@@ -11,13 +11,13 @@ EclEmma is a code coverage tool for Eclipse. There are two ways to install EclEm
 To install EclEmma using the Eclipse Marketplace you should:
 
 
- - Start Eclipse.
- - Click on <key>Help</key>-<key>Eclipse Marketplace</key>.
- - Enter ''%%EclEmma%%'' in the "Find:" textfield and click on the magnifying glass.
- - Click on "Install" in the "EclEmma Java Code Coveragee" pane.
- - When the dialog box appears, click on <key>Confirm</key>.
- - When the next dialog box appears (which may take a few minutes), check "I accept..." and then click on <key>Finish</key>.
- - Restart Eclipse.
+  - Start Eclipse.
+  - Click on <key>Help</key>-<key>Eclipse Marketplace</key>.
+  - Enter ''%%EclEmma%%'' in the "Find:" textfield and click on the magnifying glass.
+  - Click on "Install" in the "EclEmma Java Code Coveragee" pane.
+  - When the dialog box appears, click on <key>Confirm</key>.
+  - When the next dialog box appears (which may take a few minutes), check "I accept..." and then click on <key>Finish</key>.
+  - Restart Eclipse.
 
 ==== Installation from the Update Site ====
 
@@ -25,9 +25,9 @@ To install EclEmma using the Eclipse Marketplace you should:
 To install EclEmma using the update site you should:
 
 
- - Start Eclipse.
- - Click on <key>Help</key>-<key>Install New Software...</key>.
- - Enter ''%%http://update.eclemma.org/%%'' in the "Work with:" textfield and click <key>Add</key>.
- - Check the latest version and click on <key>Next</key>.
- - Complete the rest of the installation process.
- - Restart Eclipse.
+  - Start Eclipse.
+  - Click on <key>Help</key>-<key>Install New Software...</key>.
+  - Enter ''%%http://update.eclemma.org/%%'' in the "Work with:" textfield and click <key>Add</key>.
+  - Check the latest version and click on <key>Next</key>.
+  - Complete the rest of the installation process.
+  - Restart Eclipse.
