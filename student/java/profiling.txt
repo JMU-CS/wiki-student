@@ -13,7 +13,7 @@ To use the VisualVM for profiling/sampling:
   - Start the VisualVM (see below).
   - Execute your program (see below).
   - In the "Applications" pane, double-click on your program.
-  - Click on either the "Sampler" tab or the "Profiler" tab (see below).
+  - Click on either "Sampler" tab  or the "Profiler" tab (see below).
   - Click on <key>CPU</key> to start collecting data about CPU usage or <key>Memory</key> to start collecting data about memory usage (see below).
   - Use your program as appropriate.
   - Click on <key>Stop</key> to stop collecting data.
@@ -25,13 +25,12 @@ This section provides more information about some of the steps in the process.
 
 === Starting the VisualVM ===
 
-Depending on your operating system and the JDK, the VisualVM can be started from the command line by executing the program ''%%visualvm%%'' or ''%%jvisualvm%%''.
+Depending on your operating system and the JDK, the VisualVM can be started from the command line by executing the program ''%%visualvm%%'' or ''%%jvisualvm%%'' from the directory/folder in which it was installed.
 
 
 === Executing Your Program ===
 
-
-In principal, the VisualVM can be used with programs that are executed inside of an IDE (such as Eclipse), however, subtle issues often arise. So, if you have problems attempting to profile your program when you run it inside of your IDE you will need to run it outside of your IDE. The two easiest ways to do this are to execute the program from the command line and to use an [[ student:java:jar | executable/runnable JAR file ]].
+In principal, the VisualVM can be used with programs that are executed inside of an IDE (such as Eclipse), however, subtle issues often arise. So, if you have problems attempting to profile your program when you run it inside of your IDE you will need to run it outside of your IDE. The two easiest ways to do this are to: (1) execute the program from the command line or (2) use an [[ student:java:jar | executable/runnable JAR file ]].
 
 
 === Sampling vs. Profiling ===
