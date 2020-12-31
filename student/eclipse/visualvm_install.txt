@@ -1,0 +1,16 @@
+====== Integrating the VisualVM Profiler with Eclipse ======
+
+Note: These instructions assume that you have already [[student:java:profiling|downloaded and installed the VisualVM]].
+
+  - Download the %%.zip%% file containing the plugin from [[http://visualvm.github.io/idesupport.html|the IDE integration page]].
+  - Extract the %%.zip%% file to an appropriate location.
+  - Start Eclipse.
+  - Click on <key>Help</key>+<key>Install new software</key>.
+  - Click on <key>Add...</key>, click on <key>Local...</key> and navigate to the directory/folder containing the extracted plugin.
+  - Expand the tree and select "Visual VM Launcher Feature".
+  - Click on <key>Next</key> and complete the installation.
+  - Click on <key>Run</key>+<key>Run Configurations...</key>.
+  - Select "Java Application" and click on the new configuration button.
+  - Enter "VisualVM" for the "Name:".
+  - Next to the message about "Multiple launchers available", click on "Select one...", select "Use configuration specific settings", select "VisualVM Launcher", and click on <key>OK</key>.
+  - Click on <key>Apply</key> and <key>Close</key>.
