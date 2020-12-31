@@ -31,7 +31,7 @@ Depending on your operating system and the JDK, the VisualVM can be started from
 === Executing Your Program ===
 
 
-In principal, the VisualVM can be used with programs that are executed inside of an IDE (such as Eclipse), however, subtle issues often arise. So, if you have problems attempting to profile your program when you run it inside of your IDE you will need to run it outside of your IDE. The two easiest ways to do this are to execute the program from the command line and to used an [[ student:java:jar | executable/runnable JAR file ]].
+In principal, the VisualVM can be used with programs that are executed inside of an IDE (such as Eclipse), however, subtle issues often arise. So, if you have problems attempting to profile your program when you run it inside of your IDE you will need to run it outside of your IDE. The two easiest ways to do this are to execute the program from the command line and to use an [[ student:java:jar | executable/runnable JAR file ]].
 
 
 === Sampling vs. Profiling ===
