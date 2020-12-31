@@ -1,3 +1,5 @@
+NOTE: THIS PAGE IS BEING CREATED. IT SHOULD NOT BE USED AT THIS POINT.
+
 ====== Integrating the VisualVM Profiler with Eclipse ======
 
 Note: These instructions assume that you have already [[student:java:profiling|downloaded and installed the VisualVM]].
