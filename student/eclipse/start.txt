@@ -8,3 +8,4 @@
   - [[ student:eclipse:subversion | Help using Subversion with Eclipse ]] (Code Management)
   - [[ student:eclipse:git | Help using Git with Eclipse ]] (Code Management)
   - [[student:eclipse:serialization | Help ignoring automatic serialization in Eclipse]]
+  - [[ student:eclipse:visualvm_install | Help integrating VisualVM with Eclipse]] (Profiler)
