@@ -106,8 +106,8 @@
   * Office hours: M,W, 2:45-4:00, or by appointment
   * Zoom URL: [[ https://jmu-edu.zoom.us/j/88973216252| https://jmu-edu.zoom.us/j/88973216252]]
 
-**Dr. Wang** - CS327, CS660
-  * Office hours: [Mon] 10:10 ~ 12:10; [Wed] 10:10 ~ 11:10; [Fri] 10:10 ~ 12:10;
+**Dr. Wang** - CS482-0001, CS559, CS627
+  * Office hours: [Tu/Th] 12:00 ~ 14:30; or by appointment 
   * Zoom URL: [[https://jmu-edu.zoom.us/j/4401425906 |https://jmu-edu.zoom.us/j/4401425906]]
 
 **Dr. Weikle** - CS149, CS261
