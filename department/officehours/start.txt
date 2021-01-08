@@ -112,7 +112,7 @@
   * Zoom URL: [[ https://jmu-edu.zoom.us/j/88973216252| https://jmu-edu.zoom.us/j/88973216252]]
 
 **Dr. Wang** - CS482-0001, CS559, CS627
-  * Office hours: [Tu/Th] 12:00 ~ 14:30; or by appointment 
+  * Office hours: [Tu/Th] 12:00 ~ 14:30; or by appointment (wangxx@jmu.edu)
   * Zoom URL: [[https://jmu-edu.zoom.us/j/4401425906 |https://jmu-edu.zoom.us/j/4401425906]]
 
 **Dr. Weikle** - CS149, CS261
