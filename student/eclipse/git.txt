@@ -9,7 +9,7 @@ EGit should have been installed when you installed Eclipse. If not, you can inst
 
 ==== Configuration ====
 
-To configure Git, click on <key>Window+Preferences</key>. Then, expand <key>Git</key> and click on <key>Configuration</key>.
+To configure Git, click on <key>Window+Preferences</key>. Then, expand <key>Version Control</key>, expand <key>Git</key>, and click on <key>Configuration</key>.
 
 Since many Git servers use your email address for authentication, it is important that the ''user.email'' value exists and is correct. 
 
