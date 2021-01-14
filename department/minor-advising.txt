@@ -10,7 +10,7 @@ CS 149: This course is an introduction to programming; the course assumes you ha
 
 CS 159: The second part of the introduction to programming. While you are taking CS 159, set up an advising appointment with me to declare the minor. To continue beyond this course, you must apply for full admission before the last day of class.
 
-CS/MATH 227 [optional]: Not required for the minor, but this is a prerequisite for many CS courses. Many students take this as the same time as CS 159.
+CS/MATH 227 [optional]: Not required for the minor, but this is a prerequisite for many CS courses. Many students take this at the same time as CS 159.
 
 **Requirements for admission to the CS minor**
 
