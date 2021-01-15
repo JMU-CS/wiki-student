@@ -67,9 +67,9 @@ Tasks can be added to the task area by clicking on <key>scrumj</key>+<key>Add on
 
 A task or acceptance criteria will always be added at the end of the respective area and will be numbered accordingly. The user must enter the description and assignee (and effort for tasks). When a task is completed or an acceptance criteria is confirmed, the user should click on the corresponding status checkbox. The date will be entered automatically and, if permissions have been granted, the name of the person who clicked the status box will also be entered.
 
-The information in the effort
+The information in the effort summary, task summary, and acceptance criteria summary is calculated from the information in the task area and acceptance criteria area.
+
 ====User Interaction====
- summary, task summary, and acceptance criteria summary is calculated from the information in the task area and acceptance criteria area.
 
 A task can be removed by clicking on <key>scrumj</key>+<key>Delete one task...</key>. Similarly, an acceptance criterion can be removed by clicking on <key>scrumj</key>+<key>Delete one acceptance criterion...</key>.
 
