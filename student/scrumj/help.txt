@@ -15,7 +15,7 @@ A sprint backlog can be created using the [[ https://docs.google.com/spreadsheet
 
 When a sprint backlog is initially copied it contains just an Overview page and an Assignments page. The first things a user should do after copying a sprint is to re-name it (in the usual way), set the start/end dates (by clicking on <key>scrumj</key>+<key>Set dates...</key>), and add **all** of the team members to the Assignments page by entering their names in the cells to the right of the header/label. (Note: You cannot add team members after you have added a story, so add all of them now.) 
 
-Note that the first time you use the scrumj menu you may be asked to give a script attached to the document permission to run. You must give the script (which is named %%''scrumj.gs''%%) permission to do so.
+Note that the first time you use the scrumj menu you may be asked to give a script attached to the document permission to run. You must give the script (which is named ''%%scrumj.gs%%'') permission to do so.
 
 A story can be added to a sprint by clicking on <key>scrumj</key>+<key>Add one story</key> or <key>scrumj</key>+<key>Add multiple stories</key>. As with most names, it is better to avoid the use of spaces (which are normally used as delimiters) and special characters in story names.
 
