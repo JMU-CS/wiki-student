@@ -146,7 +146,7 @@ When using ''%%Assert.assertEquals()%%'' to compare floating   point numbers (e.
 ==== Testing Methods that Throw Exceptions ====
 
 
-There are several ways to test for thrown exceptions in JUnit. The most common is to use the ''%%assertThrows()%%'' method, but this approach depends on a feature of Java (and many languages called [[https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html|"lambda expressions"]], so we will demonstrate a less commonly used approach first.
+There are several ways to test for thrown exceptions in JUnit. The most common is to use the ''%%assertThrows()%%'' method, but this approach depends on an advanced feature of Java (and many languages) called [[https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html|"lambda expressions"]], so we will demonstrate a less commonly used, but simpler, approach first.
 
 === Testing for exceptions ===
 
