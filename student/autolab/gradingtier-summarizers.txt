@@ -10,7 +10,7 @@ assess Java programming assignments.
 If your code compiles on your local machine but doesn't compile on Autolab there are several possible explanations:
 
   - Your code does not conform to the specifications.
-  - Your code contains one or more non-ASCII characters. This is mostly commonly a "smart quote" in a comment (which is usually the result of a cut-and-paste from another document).
+  - Your code contains one or more non-ASCII characters. This is mostly commonly a "smart quote" or other special character (e.g., a copyright symbol, a degree symbol) in a comment (which is usually the result of a cut-and-paste from another document).
 
 
 ==== Feedback about Style ====
