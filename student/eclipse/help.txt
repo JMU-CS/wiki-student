@@ -154,12 +154,15 @@ You will sometimes be given the byte code (i.e., the ''%%.class%%'' files) for c
   - Open Eclipse.
   - Select a project.
   - Click on <key>Project</key> and pull down to <key>Properties</key> (or type    <key>Alt</key>+<key>Enter</key>).
-  - Click on <key>Java Build Path</key>.
-  - Select the <key>Libraries</key> tab and click on one of the following. (Note: "External" here has the same meaning as above. An "External" file/folder is one that is not in the workbench. So, your selection here will depend on whether you saved the file/folder in the workbench hierarchy or not.) 
+  - Click on <key>Java Build Path</key> and pull across to <key>Configure Build Path...</key>.
+  - Select the <key>Libraries</key> tab.
+  - Select the "Classpath" entry from the list.
+  - Click on one of the following. (Note: "External" here has the same meaning as above. An "External" file/folder is one that is not in the workbench. So, your selection here will depend on whether you saved the file/folder in the workbench hierarchy or not.) 
     * <key>Add Class Folder...</key>
     * <key>Add External Class Folder...</key>
     * <key>Add JARs...</key>
     * <key>Add External JARs...</key>
+  - Navigate to the appropriate location and select the appropriate file.
   - Complete the rest of the process.
   - You may need to close and re-open the project for the files to be found.
 
