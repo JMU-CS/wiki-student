@@ -11,6 +11,7 @@ If your code compiles on your local machine but doesn't compile on Autolab there
 
   - Your code does not conform to the specifications.
   - Your code contains one or more non-ASCII characters. This is mostly commonly a "smart quote" or other special character (e.g., a copyright symbol, a degree symbol) in a comment (which is usually the result of a cut-and-paste from another document).
+  - You have imported a package that is not available on Autolab. This happens most frequently when your IDE suggests a "fix" and you accept it without understanding what it is doing. For example, your IDE might suggest that you import something from an obsolete version of JUnit that is available on your machine but not on Autolab.
 
 
 ==== Feedback about Style ====
