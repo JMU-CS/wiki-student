@@ -311,6 +311,10 @@ You can control what is shown in the Variables View by clicking on the {{eclipse
 ==== Deploying ====
 
 
+=== Cross-Compiling ===
+
+You can compile Java programs to be compatible with earlier versions of Java (and earlier %%.class%% file formats), even if you are using a later version of the JDK. To do so, open the project properties and: click on (don't expand) <key>Java Compiler</key>. Then, select <key>Enable project specific settings</key>, de-select <key>Use compliance from execution environment</key>, un-select <key>Use default compliance settings</key>, and set the various compatibilities.
+
 
 === Creating .jar Files ===
 
