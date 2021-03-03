@@ -168,6 +168,25 @@ You will sometimes be given the byte code (i.e., the ''%%.class%%'' files) for c
 
 Remember, if you only have the byte code, you will not be able to edit these "third party" classes, but you will be able to use them in your source code.
 
+
+=== Incorporating Other Projects into a Project ===
+
+It is sometimes useful to give code in one project access to the code in another project. For example, when creating a library that will be used in multiple products, you want the project containing the product to have access to the project containing the library. As another example, it is common practice to put tests in one project and deployable code in another project (to facilitate deployment), in which case you want the project containing the tests to have access to the project containing the deployable code.
+
+To do so:
+
+  - Right-click on the project that depends on another project (e.g., the project containing the product).
+  - Pull down to "Build Path".
+  - Pull down to "Configure Build Path".
+  - Select the "Projects" tab.
+  - Select "Classpath".
+  - Click on <key>Add</key>.
+  - Click on the project that this project needs to access (e.g., the project containing the library).
+  - Click on <key>Ok</key>.
+  - Click on <key>Apply and Close</key>.
+
+
+
 ==== Editing ====
 
 The editor in Eclipse is very sophisticated and supports (almost) everything that anyone could ask for. What follows are answers to some of the most common questions that arise.
