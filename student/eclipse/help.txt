@@ -337,6 +337,7 @@ You can compile Java programs to be compatible with earlier versions of Java (an
   - Select (don't expand) <key>Java Compiler</key>.
   - Select <key>Enable project specific settings</key>.
   - De-select <key>Use compliance from execution environment</key>.
+  - De-select <key>Use --release option</key>.
   - De-select <key>Use default compliance settings</key>.
   - Set the various compatibilities/compliances.
 
