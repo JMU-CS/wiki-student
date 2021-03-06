@@ -1,0 +1,67 @@
+====== Important Dates ======
+
+  * [[#mid-semester_grades|Mid-Semester Grades]] -- (for Freshmen only) March 16, 2021
+  * [[#withdraw_deadline|Withdraw Deadline]] -- Friday, March 19, 2021
+  * [[#fall_2021_enrollment|Fall Enrollment]] -- Week of April 19th
+
+
+===== Freshmen Mid-Semester Grades =====
+
+Mid-semester grades will be posted **March 16, 2021**.
+Please check your grades in MyMadison.
+Some grades may be available earlier
+These unofficial grades will give you a sense of where you stand in each of your courses.
+
+=== D or F Grades ===
+
+If you have any mid-semester grades of D or F, please make plans to discuss your progress, possible options, and available resources with your professor and the CS Advisor, bit.ly/cs-advisor 
+
+
+===== Withdraw Deadline =====
+
+The deadline to Withdraw from a semester class is **Friday, March 19th**.
+Withdrawal from a course by this deadline will result in a "W" on your transcript.
+A "W" is not calculated into the GPA, but it is factored in to the formula for Satisfactory Academic Progress (SAP) used by Financial Aid.
+Any student receiving Financial Aid should review [[https://www.jmu.edu/financialaid/learn/sap/|https://www.jmu.edu/financialaid/learn/sap/]] AND consult with the Financial Aid office before withdrawing from a course.
+You do NOT need permission to withdraw, BUT, we highly recommend that you also discuss it with your advisor too.
+
+=== Withdrawing AFTER March 19 ===
+
+Any student wanting to withdraw from a class after the March 19th deadline can only do so when an instructor agrees to issue a final grade of "WP" (withdraw pass) or "WF" (Withdraw Fail) based on grade at time of withdrawal.
+This option is strictly at the discretion of the instructor, and most will only consider it if there is a legitimate issue or extenuating circumstance.
+We suggest that you come and discuss your need BEFORE you approach your professor.
+
+
+===== Fall 2021 Enrollment =====
+
+Fall 2021 enrollment appointments begin April 19th.
+Look at MyMadison for YOUR appointment date and time.
+Your enrollment day based on your standing - [[https://www.jmu.edu/registrar/students/fall_enroll_time.shtml|see details]]
+
+If you do not know what to sign up for, please make an appointment with the CS advisor.
+During OPEN ENROLLMENT, you can expect SOME movement in classes, so you are welcome to continue to look for classes through the second Tuesday of the Fall semester 2021.
+HOWEVER, do NOT count on finding a seat in a specific class.
+
+We recommend that you **enroll in 15-16 credit hours during your advance registration appointment**, and then SWAP when you find a course you really want with an open seat.
+
+=== Check for Holds! ===
+
+There are a number of students who are non-compliant with their immunizations and currently have a hold on their account that will prevent them from enrolling in spring classes.
+All have been sent multiple emails explaining what is missing and the consequences.
+Check to make sure that YOU do not have a HOLD.
+You MUST take care of holds prior to enrollment!
+
+=== What courses should YOU take? ===
+
+See the [[department/curriculum/start|CS Curriculum]] page on the wiki.
+
+Also see the [[department:advising:start|Advising FAQ]]
+
+
+=== Making a 4-year Plan ===
+
+We encourage you to meet with our CS Advisor, Paige Normand, to make a 4-year plan for graduation.
+You can schedule a meeting with her here: [[https://bit.ly/cs-advisor|https://bit.ly/cs-advisor]].
+
+Not sure if you should reach out to Paige Normand or your CS Faculty Advisor about a topic?
+Don't worry, there's a [[department:advising-resources:|Wiki Page]] for that!
