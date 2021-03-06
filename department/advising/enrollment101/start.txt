@@ -67,6 +67,9 @@ You can schedule a meeting with her here: [[https://bit.ly/cs-advisor|https://bi
 Not sure if you should reach out to Paige Normand or your CS Faculty Advisor about a topic?
 Don't worry, there's a [[department:advising-resources:|Wiki Page]] for that!
 
+
+----
+
 ==== Enrollment Timeline ====
 
 **1 month before Enrollment (early March)**
