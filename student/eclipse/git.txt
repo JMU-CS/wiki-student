@@ -25,7 +25,7 @@ Eclipse enables you to present and interact with the same project in a variety o
 The easiest way to create a local repository is to:
 
   - Open the [[ #opening_the_git_perspective | Git Perspective ]]
-  - Click on "Create a  Git repository"
+  - Click on "Create a local Git repository"  (or the icon for creating a Git repository).
 
 Note that you should not put the repository under the directory containing the Eclipse workspace.
 
