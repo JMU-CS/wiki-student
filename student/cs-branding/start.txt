@@ -1,0 +1,8 @@
+====== CS Department branded colors ======
+
+{{:student:cs_branded_colors.png?1000|}}
+
+.
+
+====== CS Department branded fonts ======
+{{:student:cs-branding:cs_branded_fonts.png?600|}}
