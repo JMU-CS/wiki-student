@@ -1,5 +1,8 @@
 ====== TA Online Hours ======
-
+**Online TA Hours Monday, March 15 are in Zoom as backup to Teams**
+Join the Zoom link below. A Lead TA will let you in and you can post your issue in the chat just like in Teams. You will be put in a separate breakout room with a TA.
+[[https://jmu-edu.zoom.us/j/87888895343?pwd=a24wcXhVWkxKWGsxRUJLcVNFVGc5QT09]]\\
+\\
 **TA Hours via Microsoft Teams**\\
 You can watch a [[https://youtu.be/1T6LyuqD9pk|Tutorial Video]] for getting started with TA hours. 
 For the an explanation of how to use “The Lab” during TA Hours, visit our [[https://docs.google.com/document/d/1nJmbjM3dp52VQnuFYnwjpe8Hwvi8Oypgjw2AftZel4g/edit?usp=sharing|Documentation]]. \\ 
