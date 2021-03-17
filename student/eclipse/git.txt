@@ -11,7 +11,7 @@ EGit should have been installed when you installed Eclipse. If not, you can inst
 
 To configure Git, click on <key>Window+Preferences</key>. Then, expand <key>Version Control</key>, expand <key>Git</key>, and click on <key>Configuration</key>.
 
-Since many Git servers use your email address for authentication, it is important that the ''user.email'' value exists and is correct. 
+Since many Git servers use your email address for authentication, it is important that the ''user.email'' value exists and is correct. It's useful if the "user.name" value exists an is your personal (e.g., first) and family (e.g., last) name
 
 You can edit an existing entry by clicking on it. You can add an entry by clicking on <key>Add Entry...</key> and then entering a key and value. Keys are hierarchical, with levels delimited by a ''.'' character (e.g., ''user.email'').
 
