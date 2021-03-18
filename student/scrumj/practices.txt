@@ -25,7 +25,7 @@ Before the planning meeting, one team member should first:
 
 1. Click on the [[ https://docs.google.com/spreadsheets/d/1bI35ElgIrMCnwfhddW3lgvfDJKuZNDEJL4yiaKWd6ig/copy | scrumj link ]] to create a copy of a blank document.
 
-2. Rename the copy to "Sprint1". (Note: It is a good idea to avoid the use of spaces in identifiers of all kinds since they are often used as delimiters.)
+2. Rename the copy to "Sprint1_TeamXX" where XX is replaced by your team number. (Note: It is a good idea to avoid the use of spaces in identifiers of all kinds since they are often used as delimiters.)
 
 3. Set the start/end dates by clicking on <key>scrumj</key>+<key>Set dates...</key>.
 
@@ -70,7 +70,7 @@ If Sprint N-1 contains open stories and/or deactivated stories, the best thing t
 
 1. Copy the document containing the backlog for Sprint N-1.
 
-2. Rename the copy to "SprintN" (with N replaced by the appropriate number).
+2. Rename the copy to "SprintN_TeamXX" (with N replaced by the appropriate number and XX replaced by your team number).
 
 3. Click on <key>Scrum</key>+<key>Delete completed stories</key>.
 
