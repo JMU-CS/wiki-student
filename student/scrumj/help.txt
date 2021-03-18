@@ -11,7 +11,7 @@ In general, you should not use the "standard" spreadsheet commands to add/delete
 
 ====Getting Started====
 
-A sprint backlog can be created using the [[ https://docs.google.com/spreadsheets/d/1bI35ElgIrMCnwfhddW3lgvfDJKuZNDEJL4yiaKWd6ig/copy | scrumj link ]] (which actually makes a copy of an empty sprint backlog). 
+A sprint backlog can be created using the [[ https://docs.google.com/spreadsheets/d/1bI35ElgIrMCnwfhddW3lgvfDJKuZNDEJL4yiaKWd6ig/copy | scrumj link ]] (which actually makes a copy of an empty sprint backlog).  This document should then be shared with all members of the team (including the product owner).
 
 When a sprint backlog is initially copied it contains just an Overview page and an Assignments page. The first things a user should do after copying a sprint is to re-name it (in the usual way), set the start/end dates (by clicking on <key>scrumj</key>+<key>Set dates...</key>), and add **all** of the team members to the Assignments page by entering their names in the cells to the right of the header/label. (Note: You cannot add team members after you have added a story, so add all of them now.) 
 
