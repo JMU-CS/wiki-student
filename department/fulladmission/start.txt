@@ -9,16 +9,16 @@ Please also see our [[department:admissionfaq:|Frequently Asked Questions]] abou
 
 === Full Admission to the CS Major or the CS Minor ===
 
-Any student may declare a CS major or minor, but students may enroll in CS courses beyond CS 139/149,
+Any student may declare a CS major or minor, but students may enroll in CS courses beyond CS 149,
 CS 159, and CS/MATH 227 only if they are fully admitted to the CS major or minor. Full admission to the
 major or minor is granted as described below.
 
-  * Students who have attempted CS 139/149, CS 159, or CS/MATH 227 at JMU may not attempt them elsewhere (that is, they must make any second attempts at JMU).
+  * Students who have attempted CS 149, CS 159, or CS/MATH 227 at JMU may not attempt them elsewhere (that is, they must make any second attempts at JMU).
 
-  * Students must submit an application for full admission to the CS major or minor no earlier than the semester in which they complete CS 159. The application is done electronically via an online survey. You need to have a PDF file of your unofficial transcript ready for upload. For the Fall 2020 major and  minor applications, use the following link:
-      https://jmu.questionpro.com/t/ARXgAZjXmj
+  * Students must submit an application for full admission to the CS major or minor no earlier than the semester in which they complete CS 159. The application is done electronically via an online survey. You need to have a PDF file of your unofficial transcript ready for upload. For the Spring 2021 major and  minor applications, use the following link:
+      https://jmu.questionpro.com/t/ARXgAZlotf
 
-  * Students with a GPA of 3.0 or better in CS 139/149 and CS 159 who have attempted these classes only once are guaranteed full admission to the major or minor. Others will be granted full admission to the CS major or minor as space permits based on their GPA in CS 139/149 and CS 159 and faculty evaluation of their potential to succeed in the CS major or minor.
+  * Students with a GPA of 3.0 or better in CS 149 and CS 159 who have attempted these classes only once are guaranteed full admission to the major or minor. Others will be granted full admission to the CS major or minor as space permits based on their GPA in CS 149 and CS 159 and faculty evaluation of their potential to succeed in the CS major or minor.
 
   * Students who have completed the CS minor may apply for full admission to the CS major no earlier than the semester in which they complete the last course in the CS minor.
 
