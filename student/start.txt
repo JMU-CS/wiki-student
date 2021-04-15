@@ -6,6 +6,7 @@ In addition to using this page to find information, you can search the Wiki usin
 
 ==== CS Advising ====
 
+  * [[department:schedule_fall2021:start| Fall 2021 Schedule]]
   * [[department:schedule_spring2021:start| Spring 2021 Schedule]]
   * [[department:advising:enrollment101:start| Enrollment Advice]]
   *  [[department:advising-resources| Advising Resources]]
