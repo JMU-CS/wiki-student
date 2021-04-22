@@ -29,4 +29,8 @@ The autograder-generated feedback latter varies from autograder to autograder. H
 
   * [[student:autolab:gradingtier-summarizers | Autograders using gradingtier (with Checkstyle, JUnit, and JaCoCo/EclEmma) for Java Submissions]]
 
+==== Troubleshooting ====
 
+If you have trouble, you should consult the following guide before contacting your professor.
+
+  *[[student:autolab:troubleshooting|Troubleshooting Autolab]]
