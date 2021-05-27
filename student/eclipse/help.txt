@@ -393,7 +393,7 @@ To create HTML documentation:
 
 === Adding Annotation Processing ===
 
-It is relatively to add a custom own annotation processor to an Eclipse project.
+It is relatively easy to add a custom own annotation processor to an Eclipse project.
 
   - Add a directory to the project named ''META_INF'' that contains a directory named ''services'' that, in turn, contains a text file named ''java.annotation.processing.Processor'' that contains a single line with the name of the class that implements the ''Processor'' interface.
   - Create a ''.jar'' file that contains the annotation(s), the class that implements the ''Processor'' interface (usually by extending ''AbstractProcessor''), and any supporting classes.
