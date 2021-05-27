@@ -402,7 +402,7 @@ It is relatively easy to add a custom own annotation processor to an Eclipse pro
   - Navigate to <key>Java Compiler</key>-<key>Annotation Processing</key>-<key>Factory Path</key>, check "Enable project specific settings", and add your ''.jar'' file to the list.
   - Clean and build the project.
 
-If you use the ''Messager'' that is passed to the ''init()'' method of your ''Processor'', Eclipse will display your output within the editor. If you send output to the console, it will display it there.
+If you use the ''Messager'' that is passed to the ''init()'' method of your ''Processor'', Eclipse will display your output within the editor. If you send output to the console, it will display it there. (Note: You may need to click on <key>Window</key>-<key>Show View</key>-<key>Error Log</key> to see the output.)
 
 
 
