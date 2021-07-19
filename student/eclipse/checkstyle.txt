@@ -13,7 +13,7 @@ The easiest way to install the Eclipse Checkstyle Plugin is as follows.
   - Drag the "Install" icon from the WWW browser onto the title bar of a running Eclipse workspace.
   - When the dialog box appears, check "Checkstyle Plug-in" and click on <key>Confirm</key>.
   - Check "I accept..." and click on <key>Finish</key>.
-  - If you get a message about "unsigned content", click <key>OK</key>.
+  - If you get a message about "unsigned content", click <key>Install anyway</key> or <key>OK</key>.
   - Restart Eclipse.
 
 Several alternative methods are discussed at the [[ http://eclipse-cs.sourceforge.net/#!/install |  Checkstyle Plugin site ]].
