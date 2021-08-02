@@ -37,7 +37,10 @@ Eclipse organizes resources (including design documents,code, tests, data, exter
 
 === Perspectives ===
 
-Eclipse offers several different ways to present and interact with projects, each of which is called a //perspective//. The most convenient way to interact with a project is using a perspective that is appropriate for the language(s) you are using. For a Java project, click on <key>Window</key>-<key>Perspective</key>-<key>Open Perspective</key>-<key>Java</key>. (Note: If Java isn't an option, and you have Eclipse setup for Java, you may need to click on <key>Other...</key>.)
+Eclipse offers several different ways to present and interact with projects, each of which is called a //perspective//. The most convenient way to interact with a project is using a perspective that is appropriate for the language(s) you are using and the task you are performing. For example, for most tasks in a Java project you'll want to use the Java Perspective. As another example, for most git tasks, you'll want to use the Git Perspective.
+
+To open a perspective, click on <key>Window</key>-<key>Perspective</key>-<key>Open Perspective</key> and then choose the perspective you want. Note, if the perspective you want isn't an option, you may need to click on <key>Other...</key>
+and do a little looking.
 
 
 === Creating ===
