@@ -311,7 +311,7 @@ Conditions can be added to breakpoints (i.e., so that the breakpoint suspends ex
 === Seeing and Skipping Breakpoints ===
 
 
-You can see all of the breakpoints that are currently set using the Breakpoints view (<key>Window</key>+<key>Show View</key>+<key>Breakpoints</key>).
+You can see all of the breakpoints that are currently set using the Breakpoints view (<key>Window</key>+<key>Show View</key>+<key>Breakpoints</key>). (Note: If <key>Breakpoints</key> is not an option, you may need to click on <key>Other...</key> and expand <key<Debug</key>.
 
 
 You can toggle between skipping and not skipping all breakpoints using the {{eclipse_skip-all-breakpoints.png}} button. (When Eclipse is skipping breakpoints, the breakpoints that are set will have a slash through them.)
