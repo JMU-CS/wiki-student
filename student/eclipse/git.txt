@@ -98,6 +98,7 @@ At this point, you will have cloned the repository but you will not have any Ecl
   - Select on the project(s) of interest
   - Click on <key>Finish</key>
 
+Note: Some versions of Eclipse/Egit have a defect that require you to close Eclipse at this point and re-start it.
 
 ==== Responding to ''non-fast-forward'' Messages  ====
 
