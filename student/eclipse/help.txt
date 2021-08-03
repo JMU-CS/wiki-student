@@ -326,10 +326,7 @@ It's quite common to instrument code outside of the debugger using calls to ''%%
 
 === Managing the Variables View ===
 
-You can see vaariables in the Variables View. To open it, click on <key>Window</key>+<key>Show View</key>+<key>Variables</key>). (Note: If <key>Variables</key> is not an option, you may need to click on <key>Other...</key> and expand <key>Debug</key>.)
-
-
-You can control what is shown in the Variables View by clicking on the {{eclipse_view-menu.png}}+<key>Java</key> and then selecting the items you are interested in. One particularly useful item is "Show References".
+You can control what is shown in the Variables View by clicking on <key>⋮</key>+<key>Java</key> and then selecting the items you are interested in. One particularly useful item is "Show References".
 
 
 ==== Deploying ====
