@@ -149,9 +149,10 @@ The easiest way to add existing source (e.g., ''%%.java%%'') files to a project 
 === Using Third-Party .class/.jar Files ===
 
 
-You will sometimes be given the byte code (i.e., the ''%%.class%%'' files) for classes that were developed by a "third-party" (i.e., classes that are neither part of the Java library nor written by you). Such classes will either be delivered in a single ''%%.jar%%'' file or as a collection of ''%%.class%%'' files. You need to instruct Eclipse to use them when compiling and executing. To do so: 
-	
+You will sometimes be given the byte code (i.e., the ''%%.class%%'' files) for classes that were developed by a "third-party" (i.e., classes that are neither part of the Java library nor written by you). Such classes will either be delivered in a single ''%%.jar%%'' file or as a collection of ''%%.class%%'' files. If given both (or a choice), you should (almost always) use the ''%%.jar%%'' file.
 
+To instruct Eclipse to use them when compiling and executing:
+	
   - Create a directory/folder for the ''%%.class%%'' files external to the workbench (e.g., ''%%existingcomponents%%'') or use an existing directory/folder that is in the workbench hierarchy (e.g., the top-level directory for the project). Note that it will be easier to copy/move a project if you use a directory/folder that is in the project hierarchy.
   - Copy the ''%%.class%%'' files or ''%%.jar%%''    file to the appropriate directory folder.
   - Open Eclipse.
