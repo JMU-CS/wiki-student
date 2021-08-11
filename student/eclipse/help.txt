@@ -143,7 +143,7 @@ Note that **if you create an "ordinary" folder (i.e., not a source folder), it w
 
 === Adding Existing Source Files to a Project ===
 
-The easiest way to add existing source (e.g., ''%%.java%%'') files to a project is to "click-and-drag" them from a file explorer/finder window to the appropriate location in the Eclipse "Package Explorer".
+The easiest way to add existing source (e.g., ''%%.java%%'') files to a project is to "click-and-drag" them from a file explorer/finder window to the appropriate location in the Eclipse "Package Explorer". (Note: If this doesn't work, it may be because you are not using the "Java Perspective".)
 
 
 === Using Third-Party .class/.jar Files ===
