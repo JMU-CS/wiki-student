@@ -64,7 +64,7 @@ Also see the [[department:advising:start|Advising FAQ]]
 === Making a 4-year Plan ===
 
 We encourage you to meet with our CS Advisor, Paige Normand, to make a 4-year plan for graduation.
-You can schedule a meeting with her here: [[https://bit.ly/cs-advisor|https://bit.ly/cs-advisor]].
+You can schedule a meeting with her here: [[https://jmu-cs.as.me/advisor|https://jmu-cs.as.me/advisor]].
 
 Not sure if you should reach out to Paige Normand or your CS Faculty Advisor about a topic?
 Don't worry, there's a [[department:advising-resources:|Wiki Page]] for that!
