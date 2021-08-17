@@ -6,10 +6,9 @@
   * Let me know via email and I will set up a Zoom meeting. I will send you the URL. 
   * All lectures have been uploaded to Canvas. 
 
-**Dr. Bernstein** - CS149, CS462, TECH230
-  * Office hours: Tue/Thu  2:30-4:00 (and by appointment) using Zoom 
-  * Scheduler: Send me an email for the meeting code and passcode
-  * Calendar: https://users.cs.jmu.edu/bernstdh/Web/officehours.html
+**Dr. Bernstein**
+  * Office hours: https://users.cs.jmu.edu/bernstdh/Web/officehours.html (and by appointment)
+  * For Zoom Meetings: Send me an email and I'll send you the meeting code and passcode
 
 **Dr. Bowers** - CS 430, CS 480
   * General office hours: M 10am-12pm, WF 2pm-5pm. 
