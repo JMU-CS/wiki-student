@@ -77,7 +77,7 @@ Don't worry, there's a [[department:advising-resources:|Wiki Page]] for that!
 **1 month before Enrollment (early March)**
   * Check for any holds on your account and ensure they are resolved well before enrollment
   * To see holds, go to MyMadison > Student Center > Holds (under, to the right of your ID picture)
-  * Schedule a meeting with Advisor(s). CS Advisor: Paige Normand, [[https://bit.ly/cs-advisor|https://bit.ly/cs-advisor]]
+  * Schedule a meeting with Advisor(s). CS Advisor: Paige Normand, [[https://jmu-cs.as.me/advisor|https://jmu-cs.as.me/advisor]]
   * If you have a minor or a second major, also talk to that advisor
 
 **Ten Days before Enrollment**
