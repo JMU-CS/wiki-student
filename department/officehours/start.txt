@@ -31,11 +31,6 @@
   *Contact by email: duanzx@jmu.edu. Students will be provided with a Zoom link by email.
   *Other times by appointment.
 
-**Dr. Fox** - CS 227, CS 345
-  * MTWTh 1:00-2:00 (Zoom Room only)
-  * Zoom Room: https://jmu-edu.zoom.us/j/89818815906
-  * Other times by appointment
-
 **Dr. Heydari** - CS512, CS531
   * Please send me an Email with your questions, heydarmh@jmu.edu. 
   * If you would like to schedule a Zoom meeting, my Zoom meeting office hours are: Tuesday, Thursday, and Friday from 1:00 P.M. - 3:00 P.M. 
@@ -70,9 +65,10 @@
   * Other times by appointment (email: molloykp@jmu.edu)
 
 **Prof. Normand** - CS 101
-  * Office Hours: Online Monday 10am-12; In-Person Thursday 2-4
-  * Calender: [[https://jmu-cs.as.me/advisor|https://jmu-cs.as.me/advisor]] 
+  * Office Hours: Online Monday 10am-12; In-Person Thursday 2-4, ISAT/CS 246A
+  * Calendar: [[https://jmu-cs.as.me/advisor|https://jmu-cs.as.me/advisor]] 
   * Zoom room: [[https://bit.ly/PaigeZoom |https://bit.ly/PaigeZoom]] 
+  * Other times by appointment: normanap@jmu.edu
 
 **Dr. Tim Richards** - CS 374, IT 101
   * Wed & Fri 9-11AM, 12-1PM and by appointment via Teams (or Zoom)
