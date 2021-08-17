@@ -46,9 +46,8 @@
   * Appointments: [[https://w3.cs.jmu.edu/kirkpams/appointment.shtml|https://w3.cs.jmu.edu/kirkpams/appointment.shtml]]
   * M/T Zoom room (class-specific links on Canvas): [[https://jmu-edu.zoom.us/j/82998366703]]
 
-**Dr. Lam** - CS 430, CS 470
-  * Office Hours: Mo-Fr 11:00am-noon
-  * Zoom room (during office hours): (link on Canvas--email me for URL if you aren't in a class)
+**Dr. Lam** - CS 261, CS 432
+  * Office Hours: TBD
   * Calendar (for meetings outside office hours): [[https://calendly.com/lam2mo|https://calendly.com/lam2mo]]
 
 **Dr. Mayfield** - CS 159
