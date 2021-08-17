@@ -65,7 +65,8 @@
   * Other times by appointment (email: molloykp@jmu.edu)
 
 **Prof. Normand** - CS 101
-  * Office Hours: Online Monday 10am-12; In-Person Thursday 2-4, ISAT/CS 246A
+  * Office: ISAT/CS 246A
+  * Office Hours: Online Monday 10am-12; In-Person Thursday 2-4
   * Calendar: [[https://jmu-cs.as.me/advisor|https://jmu-cs.as.me/advisor]] 
   * Zoom room: [[https://bit.ly/PaigeZoom |https://bit.ly/PaigeZoom]] 
   * Other times by appointment: normanap@jmu.edu
