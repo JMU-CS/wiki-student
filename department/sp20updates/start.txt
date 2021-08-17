@@ -106,4 +106,4 @@ enroll in a course again next semester if you need to.
 
 ====== CS Advisor ======
 
-If you have any questions, please set an appointment with the CS Advisor, Paige Normand: https://bit.ly/cs-advisor
+If you have any questions, please set an appointment with the CS Advisor, Paige Normand: https://jmu-cs.as.me/advisor
