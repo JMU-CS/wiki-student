@@ -22,11 +22,11 @@ Autolab (not your JMU) password.
 
 ==== Handling Login Problems ====
 
-If you've forgotten your Autolab password (which is different from your normal JMU password, because Autolab does not use JMU's authentication system), you can reset it by clicking on the "Forgot your password?" link at the bottom of the login page.
+If you've forgotten your Autolab password (which is different from your normal JMU password, because Autolab does not use JMU's authentication system) or never used Autolab at JMU before, you can reset/set your password by clicking on the "Forgot your password?" link at the bottom of the login page.
 
 If you can login to Autolab but the course you are looking for is not listed, it probably means that you added the course after your professor uploaded the roster. So, you will need to contact your professor.
 
-If Autolab doesn't recognize your email address, you can register at the login page by clicking on the "Register" link at the bottom of the page. Remember, you must use your ''dukes.jmu.edu'' email address.
+If Autolab doesn't recognize your email address, you should contact your professor. They may then register your or ask you to register yourself by clicking on the "Register" link at the bottom of the login page. If you register yourself, remember that you must use your ''dukes.jmu.edu'' email address.
 
 ==== Courses ====
 
