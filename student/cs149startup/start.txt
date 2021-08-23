@@ -2,9 +2,9 @@ This document will help you get your computer ready to go for CS 149. Setting up
 
 ====== Code Editor ======
 
-The first thing you need for CS 149 is a Java code editor. Think of this as Microsoft Word for Java code. All sections of CS 149 in fall 2020 are using the jGRASP IDE. IDE stands for integrated development environment and is just a fancy term for a code editor (with a few extra bells and whistles).
+The first thing you need for CS 149 is a Java code editor. Think of this as Microsoft Word for Java code. All sections of CS 149 in fall 2021 are using the jGRASP IDE. IDE stands for integrated development environment and is just a fancy term for a code editor (with a few extra bells and whistles).
 
-jGRASP is very easy to download, install, and set-up. So that you do not also need to separately install a Java installation, we recommend you install the version of jGRASP that comes bundled with OpenJDK, which is the open source version of the Java development kit, as well as the Checkstyle and JUnit tools. 
+jGRASP is very easy to download, install, and set-up (see how quickly [[https://youtube.com/playlist?list=PLv0EaZTS9xfkQ-WqFGcO8zGgIs-2KThBY|Dr. Bowers does it in this YouTube playlist]]). So that you do not also need to separately install a Java installation, we recommend you install the version of jGRASP that comes bundled with OpenJDK, which is the open source version of the Java development kit, as well as the Checkstyle and JUnit tools. 
 
 To download the jGRASP installer, navigate to [[https://jgrasp.org|http://jgrasp.org]], click the "Download" link on the left-hand menu, and scroll down until you see the gray box that begins with "jGRASP" followed by the version with the words "Bundled with OpenJDK" below it. There are three green buttons below this, "jGRASP Bundled exe", "jGRASP Bundled pkg", and "jGRASP Bundled zip". If you are using Windows, select the "exe" button. If you are on a Mac, select the "pkg" button. This will start the download for the proper installer.
 
