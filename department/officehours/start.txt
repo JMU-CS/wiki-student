@@ -6,8 +6,8 @@
 
 
 **Dr. Bernstein**
-  * Office hours: https://users.cs.jmu.edu/bernstdh/Web/officehours.html (and by appointment)
-  * For Zoom Meetings: Send me an email and I'll send you the meeting code and passcode
+  * Office Hours: https://users.cs.jmu.edu/bernstdh/Web/officehours.html
+ 
 
 **Dr. Bowers** - CS 430, CS 480
   * General office hours: M 10am-12pm, WF 2pm-5pm. 
