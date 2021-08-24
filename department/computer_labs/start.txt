@@ -1,13 +1,10 @@
 ===== Computer Labs =====
-The Computer Science department maintains multiple computer labs running Linux Mint 20. Desktop machines may be accessed over the network. See the article on [[student:stu:basics|stu]] for more information.
+The Computer Science department maintains multiple computer labs running Linux Mint 20.2. Desktop machines may be accessed over the network. See the article on [[student:stu:basics|stu]] for more information.
 
 ==== Lab Hardware ====
 
-=== ISAT/CS 143 ===
-  * 30 x Dell Precision Workstation 3420, Intel Core i7-7700, 16GB RAM, Nvidia Quadro P1000 (4GB)
-
 === ISAT/CS 224 ===
-  * 6 x Dell Latitude 5501 Laptops, Intel Core i5-9300H, 16GB RAM
+  * 5 x Dell Latitude 5501 Laptops, Intel Core i5-9300H, 16GB RAM
 
 === ISAT/CS 236 ===
   * 12 x Dell Latitude 5501 Laptops, Intel Core i5-9300H, 16GB RAM
@@ -18,6 +15,9 @@ The Computer Science department maintains multiple computer labs running Linux M
 === ISAT/CS 250 ===
   * 30 x Dell Precision Workstation 3620, Intel Core i7-7700, 32GB RAM, Nvidia Quadro P2000 (5GB)
 
+=== ENGEO 2204 ===
+  * 30 x Dell Precision Workstation 3420, Intel Core i7-7700, 16GB RAM, Nvidia Quadro P1000 (4GB)
+
 === ENGEO 2209 ===
  * 12 x Dell Latitude 5501 Laptops, Intel Core i5-9300H, 16GB RAM
 
@@ -25,25 +25,25 @@ The Computer Science department maintains multiple computer labs running Linux M
 
 All labs have the same software, including but not limited to the following:
   * Apache Netbeans 12.0
-  * BlueJ 4.2.2
-  * CUDA 10.1 (desktops only)
+  * BlueJ 5.0.1
+  * CUDA 11.2 (desktops only)
   * DrJava beta 20190813
-  * Eclipse 2020-20
+  * Eclipse 2021-06
   * Emacs 26.3
-  * IntelliJ IDEA 2020.2
-  * jGrasp 206_04
-  * RStudio 1.3.1073
+  * IntelliJ IDEA 2021.2
+  * jGrasp 206_08
+  * RStudio 1.4.1717
   * Vim 8.1
-  * Visual Studio Code 1.48.0
+  * Visual Studio Code 1.59.0
   * gcc 9.3.0
   * Go 1.13.8
   * GHC 8.6.5
-  * Java 11.0.8 (OpenJDK)
-  * Python 3.8.2
+  * Java 16.0.1 (OpenJDK)
+  * Python 3.8.10
   * Ruby 2.7.0p0
   * Git 2.25.1
   * Mercurial 5.3.1
   * Subversion 1.13.0
   * Sage Math 9.0
-  * Visual Paradigm 16.1
-  * VMware Workstation 15.5.5
+  * Visual Paradigm 16.3
+  * VMware Workstation 16.1.2
