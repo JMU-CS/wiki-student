@@ -3,23 +3,13 @@ The Computer Science department maintains multiple computer labs running Linux M
 
 ==== Lab Hardware ====
 
-=== ISAT/CS 224 ===
-  * 5 x Dell Latitude 5501 Laptops, Intel Core i5-9300H, 16GB RAM
-
-=== ISAT/CS 236 ===
-  * 12 x Dell Latitude 5501 Laptops, Intel Core i5-9300H, 16GB RAM
-
-=== ISAT/CS 248 ===
-  * 30 x Dell Precision Workstation 3630, Intel Core i7-8700, 16GB RAM, Nvidia Quadro P2000 (5GB)
-
-=== ISAT/CS 250 ===
-  * 30 x Dell Precision Workstation 3620, Intel Core i7-7700, 32GB RAM, Nvidia Quadro P2000 (5GB)
-
-=== ENGEO 2204 ===
-  * 30 x Dell Precision Workstation 3420, Intel Core i7-7700, 16GB RAM, Nvidia Quadro P1000 (4GB)
-
-=== ENGEO 2209 ===
- * 12 x Dell Latitude 5501 Laptops, Intel Core i5-9300H, 16GB RAM
+^ Location         ^ Type        ^ Qty ^ Description ^
+| ISAT/CS 224     | Laptop    | 5       | Dell Latitude 5501, Intel Core i5-9300H, 16GB RAM |
+| ISAT/CS 236     | Laptop    | 12      |Dell Latitude 5501, Intel Core i5-9300H, 16GB RAM |
+| ISAT/CS 248     | Desktop | 30     | Dell Precision Workstation 3630, Intel Core i7-8700, 16GB RAM, Nvidia Quadro P2000 (5GB) |
+| ISAT/CS 250     | Desktop | 30     | Dell Precision Workstation 3620, Intel Core i7-7700, 32GB RAM, Nvidia Quadro P2000 (5GB) |
+| ENGEO 2204   | Desktop | 30     | Dell Precision Workstation 3420, Intel Core i7-7700, 16GB RAM, Nvidia Quadro P1000 (4GB) |
+| ENGEO 2209   | Laptop    | 12      | Dell Latitude 5501 Laptops, Intel Core i5-9300H, 16GB RAM |
 
 ==== Lab Software ====
 
