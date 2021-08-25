@@ -49,6 +49,7 @@ In addition to using this page to find information, you can search the Wiki usin
 ==== Technical Topics ====
 
   * [[student:c:start | C/C++ ]]
+  * [[student:canvas:start | Canvas ]]
   * [[student:checkstyle:start | Checkstyle ]]
   * [[student:eclipse:start | Eclipse ]]
   * [[student:gcov:start | gcov/lcov ]]
