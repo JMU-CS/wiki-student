@@ -2,7 +2,7 @@
   * Office Hours (all via Zoom) :    https://jmu-edu.zoom.us/j/88604390066?pwd=L3E0QnpyT3hHYTgxemMrMXJnZnFyZz09 
                 * Undergraduate Students (CS-457 and advisees) **Mon** and **Thu** 1:30pm -> 3:00pm
                 * Graduate InfoSec Students (CS-515, CS-610): **Sat** 11:00am -> 12:30pm   and  **Tue** 6:30pm -> 8:00pm
-  * If all of these time conflict with your class schedule, let me know via email and I will try to set up a special Zoom meeting for you.
+  * If all of these times conflict with your class schedule, let me know via email and I will try to set up a special Zoom meeting for you.
 
 
 **Dr. Bernstein**
