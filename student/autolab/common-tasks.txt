@@ -10,6 +10,8 @@ Autolab can be loaded into any modern WWW browser from the following URL:
 
 It is only available to members of the JMU community. So, if you are off-campus, you will first need to sign into the [[student:vpn:start | JMU Virtual Private Network (VPN) ]] .
 
+==== Disable non-JMU VPN =====
+If you are using any non-JMU VPN, FANTASTIC! 🙌 The only thing is you must disable this to use autolab.
 ===== Android Access to JMU wifi =====
 
 Note: some of these settings may differ slightly on different Android devices
