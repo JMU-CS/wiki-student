@@ -1,14 +1,14 @@
 ====== Important Dates ======
 
-  * [[#mid-semester_grades|Mid-Semester Grades]] -- (for Freshmen only) March 16, 2021
-  * [[#withdraw_deadline|Withdraw Deadline]] -- Friday, March 19, 2021
-  * [[#fall_2021_enrollment|Fall Enrollment]] -- Week of April 19th
+  * [[#mid-semester_grades|Mid-Semester Grades]] -- (for Freshmen only) October 19th, 2021
+  * [[#withdraw_deadline|Withdraw Deadline]] -- Wednesday, October 27th, 2021
+  * [[#enrollment_windows|Spring Enrollment]] -- Week of November 8th
   * [[#enrollment_timeline|Enrollment Timeline]] -- how to plan for a hassle-free enrollment
 
 
 ===== Freshmen Mid-Semester Grades =====
 
-Mid-semester grades will be posted **March 16, 2021**.
+Mid-semester grades will be posted **October 19th, 2021**.
 Please check your grades in MyMadison.
 Some grades may be available earlier
 These unofficial grades will give you a sense of where you stand in each of your courses.
@@ -19,15 +19,15 @@ If you have any mid-semester grades of D or F, please make plans to discuss your
 
 ===== Withdraw Deadline =====
 
-The deadline to Withdraw from a semester class is **Friday, March 19th**.
+The deadline to Withdraw from a semester class is **Wednesday, October 27th**.
 Withdrawal from a course by this deadline will result in a "W" on your transcript.
 A "W" is not calculated into the GPA, but it is factored in to the formula for Satisfactory Academic Progress (SAP) used by Financial Aid.
 Any student receiving Financial Aid should review [[https://www.jmu.edu/financialaid/learn/sap/|https://www.jmu.edu/financialaid/learn/sap/]] AND consult with the Financial Aid office before withdrawing from a course.
 You do NOT need permission to withdraw, BUT, we highly recommend that you also discuss it with your advisor too.
 
-=== Withdrawing AFTER March 19 ===
+=== Withdrawing AFTER October 27th ===
 
-Any student wanting to withdraw from a class after the March 19th deadline can only do so when an instructor agrees to issue a final grade of "WP" (withdraw pass) or "WF" (Withdraw Fail) based on grade at time of withdrawal.
+Any student wanting to withdraw from a class after the October 27th deadline can only do so when an instructor agrees to issue a final grade of "WP" (withdraw pass) or "WF" (Withdraw Fail), based on their grade at time of withdrawal.
 This option is strictly at the discretion of the instructor, and most will only consider it if there is a legitimate issue or extenuating circumstance.
 We suggest that you come and discuss your need BEFORE you approach your professor.
 
@@ -35,14 +35,14 @@ We suggest that you come and discuss your need BEFORE you approach your professo
 
 ----
 
-===== Fall 2021 Enrollment =====
+===== Enrollment Windows =====
 
-Fall 2021 enrollment appointments begin April 19th.
+Spring 2022 enrollment appointments begin November 8th.
 Look at MyMadison for YOUR appointment date and time.
-Your enrollment day based on your standing - [[https://www.jmu.edu/registrar/students/fall_enroll_time.shtml|see details]]
+Your enrollment day based on your standing - [[https://www.jmu.edu/registrar/students/spring_enroll_time.shtml|see details]]
 
 If you do not know what to sign up for, please make an appointment with the CS advisor.
-During OPEN ENROLLMENT, you can expect SOME movement in classes, so you are welcome to continue to look for classes through the second Tuesday of the Fall semester 2021.
+During OPEN ENROLLMENT, you can expect SOME movement in classes, so you are welcome to continue to look for classes through the second Tuesday of the Spring semester 2022.
 HOWEVER, do NOT count on finding a seat in a specific class.
 
 We recommend that you **enroll in 15-16 credit hours during your advance registration appointment**, and then SWAP when you find a course you really want with an open seat.
@@ -89,6 +89,10 @@ Don't worry, there's a [[department:advising-resources:|Wiki Page]] for that!
   * If you get an error: //read the error//. 
   * If you have an error about a prerequisite: you have to contact the department responsible for the course you need. Start with contacting the listed professor and check the department’s Faculty and Staff listing to see if they have a departmental advisor. 
   * See [[https://www.jmu.edu/registrar/students/FAQ.shtml#Set-2-A|error FAQs]]
+
+**Enrollment Resources**
+  * [[https://www.jmu.edu/computing/mymadison/tutorials/tutorials-students.shtml|MyMadison Tutorials]]
+  * [[department:waitlist:start|Using the wait list correctly]] 
 
 **If something else goes wrong during your Enrollment**
   * take a deep breath.
