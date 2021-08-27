@@ -40,7 +40,11 @@ Download and install both the "FUSE for macOS" and "SSHFS" packages from [[http:
 
 {{:student:utilities:fuse03-enable_ext.png?600|}}
 
-After everything is installed correctly, you should be able to follow the same command-line instructions described in the Linux section above.
+After everything is installed correctly, you should be able to follow the same command-line instructions described in the Linux section above except that you should use the following command to unmount the remote filesystem:
+
+<code>
+umount ~/mnt/stu
+</code>
 
 **WARNING FOR EARLY ADOPTERS:** There are [[https://github.com/osxfuse/osxfuse/issues/705|known issues]] with OSXFUSE on macOS 11.0 ("Big Sur"). If you upgrade to Big Sur, you will need to re-install the latest version of OSXFUSE (v3.11.0) and you may experience performance degradation.
 
