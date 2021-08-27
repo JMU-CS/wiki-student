@@ -43,4 +43,4 @@ All labs have the same software, including but not limited to the following:
 See below for the current ''known_hosts'' file for all JMUCS lab machines. You'll need to replace or merge it with your existing ''~/.ssh/known_hosts'', removing any duplicate hosts.
 
 
-{{jmucs-known_hosts.txt?linkonly}} Last updated: 2021-08-26
+{{jmucs-known_hosts.txt?linkonly}} Last updated: 2021-08-27
