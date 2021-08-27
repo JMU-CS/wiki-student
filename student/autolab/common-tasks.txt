@@ -18,8 +18,9 @@ The login screen looks something like the following.
 {{login.png}}
 
 Note that you must use your ''dukes.jmu.edu'' email address and your
-Autolab (not your JMU) password.
+Autolab (**not your JMU**) password.
 
+For your first sign-in, you will not know your password and should use the "[[https://autolab.cs.jmu.edu/auth/users/password/new|Forgot your password?]]" mechanism (don't worry, we know you didn't forget it 😉). 
 ==== Handling Login Problems ====
 
 If you've forgotten your Autolab password (which is different from your normal JMU password, because Autolab does not use JMU's authentication system) or never used Autolab at JMU before, you can reset/set your password by clicking on the "Forgot your password?" link at the bottom of the login page.
