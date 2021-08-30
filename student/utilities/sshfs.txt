@@ -60,3 +60,7 @@ umount ~/mnt/stu
     * In the folder box, type in the following, substituting your EID: <code>\\sshfs\eid@stu.cs.jmu.edu</code>
     * Click finish, and type in your EID password.
   - You should now have your stu home directory mounted at the drive letter you specified
+
+=== Unmounting the filesystem ===
+
+When you are done using the remote filesystem you should unmount it by right clicking the Network drive and selecting "Disconnect"
