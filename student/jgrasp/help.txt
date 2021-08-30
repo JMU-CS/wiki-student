@@ -67,6 +67,11 @@ In jGRASP, click on <key>Tools</key>, pull down     to <key>Checkstyle</key> and
 You must exit and re-start jGRASP for the change to take effect.
 
 
+=== Setting the checkstyle binary ("JAR file") ===
+  - Download an appropriate checkstyle jar file, either provided by your instructor or from [[https://github.com/checkstyle/checkstyle/releases/download/checkstyle-8.45.1/checkstyle-8.45.1-all.jar|this link to 8.45]].
+    * Right-click and choose "Save Link As...'
+    * put this somewhere on the computer that you won't accidentally delete it before you're done with it.
+- In jGRASP, click on <key>Tools</key>, pull down     to <key>Checkstyle</key> and across     to <key>Settings</key>. For the field labeled "Checkstyle Home or Jar" , click <key>Browse</key>, navigate to the ''%%.xml%%'' file. Then, click on <key>OK</key>.
 === Running Checkstyle ===
 
 
