@@ -14,10 +14,9 @@
   * How to connect: either send me a private chat on [[https://teams.microsoft.com|Teams]] (sign in with your @dukes.jmu.edu email address and password) during office hours or sign up for a time slot on [[https://calendly.com/johncbowers/office-hours?month=2020-09|Calendly]]
   * Other times by appointment. 
 
-**Dr. Buchholz** - CS361
-  * Office hours: M 2:15pm-3:15pm, Tu 2pm-5pm, Th 1:45-2:45 (and by appointment)
-  * All office hours are virtual via Zoom
-  * Email buchhofp@jmu.edu for Zoom access information
+**Dr. Buchholz** - Fall 2021 - CS450
+  * Office hours: M 12:00pm-1:00pm (virtual), TTh 10:30am-12:00pm, W 11:30am-12:30pm (and by appointment)
+  * Email buchhofp@jmu.edu for access to virtual office hours
  
 **Prof. Chao** - CS 149
   * T/Th: 9:15am-10:15am
