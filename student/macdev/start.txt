@@ -2,7 +2,7 @@
 This page is under construction, please feel free to add a relevant section or subpage, For now I just need to mention homebrew because it's the preferred method for getting Meld.
 
 ===== Command Line Interface =====
-The default app providing a CLI on macOS is Terminal. It's located in ''%%/Applications/Utiilties/Terminal%%'' if you're looking for it in Finder, but the simplest way to get to it is to:
+The default app providing a CLI on macOS is Terminal. It's located in ''%%/Applications/Utilities/Terminal%%'' if you're looking for it in Finder, but the simplest way to get to it is to:
   - press <key>command</key> + <key>space</key>
   - in the resulting search box, type ''%%Term%%''
     * you should see the ''%%Terminal%%'' app as a top search result
