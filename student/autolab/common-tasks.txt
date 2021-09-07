@@ -116,3 +116,11 @@ After the assignment has been completely graded, you may also receive feedback f
 ==== Individual Submissions ====
 
 If you click on the magnifying glass for a submission, you will be presented with a page that contains a list of the files you submitted. If you click on the magnifying glass for a particular file you will be presented with the source code that you submitted.
+
+
+==== Remarks (i.e., Instructor Feedback) on Individual Submissions ====
+
+If the instructor provides them, you can view their remarks in the same way that you can view the feedback from the automatic grading system. Specifically, click on any of the "score links" for the submission you are interested in (typically the last one). Below the feedback provided by the automatic grading system will be a section labeled "Remarks" that will include the feedback, the name of the file it relates to, and the relevant line number in that file. 
+
+
+If you click on the magnifying glass for a submission, you will be presented with a page that contains a list of the files you submitted. If you click on the magnifying glass for a particular file you will be presented with the source code that you submitted.
