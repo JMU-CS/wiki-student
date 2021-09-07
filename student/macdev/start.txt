@@ -1,5 +1,5 @@
 ====== Developing on a mac ======
-This page is under construction, please feel free to add a relevant section or subpage, For now I just need to mention homebrew bc it's the preferred method for getting Meld.
+This page is under construction, please feel free to add a relevant section or subpage, For now I just need to mention homebrew because it's the preferred method for getting Meld.
 
 ===== Command Line Interface =====
 The default app providing a CLI on macOS is Terminal. It's located in ''%%/Applications/Utiilties/Terminal%%'' if you're looking for it in Finder, but the simplest way to get to it is to:
