@@ -15,7 +15,7 @@
   * Other times by appointment. 
 
 **Dr. Buchholz** - Fall 2021 - CS450
-  * Office hours: M 12:00pm-1:00pm (virtual), TTh 10:30am-12:00pm, W 11:30am-12:30pm (and by appointment)
+  * Office hours: M 12:00pm-1:00pm (virtual), TTh 10:30am-12:00pm, W 11:30am-12:30pm (virtual), and by appointment.
   * Email buchhofp@jmu.edu for access to virtual office hours
  
 **Prof. Chao** - CS 149
