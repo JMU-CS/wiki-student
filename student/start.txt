@@ -71,9 +71,7 @@ In addition to using this page to find information, you can search the Wiki usin
   * [[student:zip:start | .zip Files ]]
 
 ==== Seniors ====
-  * [[student:senior-wall:start | 20-21 Senior Wall ]]
   * [[student:graduation-preparation:start | Graduation Requirements ]]
-  * [[student:stickercontest21 | Sticker Contest Details ]]
 ==== Etiquette ====
 
   - You must be logged-in (using your JMU email address) to make additions/changes.
