@@ -45,7 +45,7 @@ Calculus: MATH 231+232 or MATH 235
 Statistics: MATH 220, MATH 229, or MATH 318
 Major GPA of 2.0 or better
 
-=== Technical writing ===
+==== Technical writing ====
 No longer being offered\\
 If your catalog year is 2018 or older, and you have not taken CS 260/280(Dent), you **must** change your catalog year\\
 
