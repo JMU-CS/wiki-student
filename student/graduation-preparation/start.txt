@@ -58,7 +58,7 @@ Include student ID number, old year, desired new year\\
 If you have not taken an algorithms course, you **must** enroll for CS 412 in the spring (we plan to offer 3 sections)\\
 CS 374 (Databases) will count as an elective class\\
 
-=== Checking graduation requirements ===
+==== Checking graduation requirements ====
 View your Academic Requirements report in MyMadison\\
   * https://www.jmu.edu/computing/ittraining/e-training/mymadison-academic-requirements-report/
 
@@ -71,7 +71,7 @@ Note: the department will make substitutions or waivers only in rare cases:
   * Elective classes outside the department that were approved before enrollment
 
 
-=== Major GPA ===
+==== Major GPA ====
 Weighted average (by credit hours) of:
   * Every CS course (including cross-listed ones)
   * Calculus class(es)
