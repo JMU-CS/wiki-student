@@ -1,0 +1,81 @@
+====== CS Graduation Requirements ======
+
+===== Graduation application =====
+Done electronically through MyMadison\\
+Select the “Graduation” link in the “other academic” dropdown menu\\
+Tutorial available from JMU: https://www.jmu.edu/computing/ittraining/e-training/graduation-application/
+
+**Timeline**\\
+December graduates: applications open in early May and begin being reviewed in early September\\
+Spring graduates: applications open in early October and begin being reviewed in early February\\
+
+==== Current requirements (Catalog Year 2019 and later) ====
+CS 159
+CS 227
+CS 240
+CS 261
+CS 327
+CS 345
+CS 361
+CS 430
+Algorithms: CS 412 (applied) or CS 452 (theoretical)
+Systems elective: CS 432, CS 450, CS 455, CS 456, or CS 470
+3 CS electives numbered 300 or higher
+Only one can be less than 345
+Can use cross-listed courses: MATH 448, MATH 449
+Calculus: MATH 231+232 or MATH 235
+Statistics: MATH 220, MATH 229, or MATH 318
+Major GPA of 2.0 or better
+
+==== Previous requirements (Catalog Year 2018 and earlier) ====
+CS 159
+CS 227
+CS 240
+CS 261
+CS 327
+CS 345
+CS 361
+CS 374
+CS 430
+Technical Writing: CS 260 or CS 280 (Spring 2020, Section 1, Dent)
+Systems elective: CS 432, CS 450, CS 455, CS 456, or CS 470
+3 CS electives numbered 300 or higher
+Can use cross-listed courses: MATH 448, MATH 449
+Calculus: MATH 231+232 or MATH 235
+Statistics: MATH 220, MATH 229, or MATH 318
+Major GPA of 2.0 or better
+
+=== Technical writing ===
+No longer being offered\\
+If your catalog year is 2018 or older, and you have not taken CS 260/280(Dent), you **must** change your catalog year\\
+
+Here's what you will see in your Academic Requirements report will look like if you're missing your Technical Writing course:\\ 
+{{:student:graduation-preparation:technical-writing-deficit.png?400|}}
+
+**Changing your Catalog Year**\\
+Email buchhofp@jmu.edu\\
+Include student ID number, old year, desired new year\\
+If you have not taken an algorithms course, you **must** enroll for CS 412 in the spring (we plan to offer 3 sections)\\
+CS 374 (Databases) will count as an elective class\\
+
+=== Checking graduation requirements ===
+View your Academic Requirements report in MyMadison\\
+  * https://www.jmu.edu/computing/ittraining/e-training/mymadison-academic-requirements-report/
+
+Everything needs to be resolved before you are allowed to apply for graduation!
+
+Contact your advisor if you see anything you think is wrong in the report: https://jmu-cs.as.me/advisor 
+
+Note: the department will make substitutions or waivers only in rare cases:
+  * Transfer students may not have received official transfer credit for 159 or 240
+  * Elective classes outside the department that were approved before enrollment
+
+
+=== Major GPA ===
+Weighted average (by credit hours) of:
+  * Every CS course (including cross-listed ones)
+  * Calculus class(es)
+  * Statistics
+
+If a student has taken a course more than once, then only the highest grade is used to compute their major GPA, even if they did not retake a course with the repeat/forgive option
+
