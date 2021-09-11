@@ -7,4 +7,4 @@ Autolab has problems with non-ASCII characters. In such cases, you may not even 
 Here is an online tool to check your code for non-ASCII characters: https://pages.cs.wisc.edu/~markm/ascii.html
 ==== Official Tests Won't Compile ====
 
-This is most likely because your code does not conform to the specifications. Common examples include: misnamed methods/functions, a mis-packaged submission, case problems,  and missing classes/files.
+This is most likely because your code does not conform to the specifications. Common examples include: misnamed methods/functions, a mis-packaged submission, case problems,  missing classes/files, and missing or incorrect use of the static keyword.
