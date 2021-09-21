@@ -5,7 +5,7 @@ VSCode has extensions for C/C++ Intellisense; however, it will not work unless s
 ==== Prerequisites ====
   - Do //**not**// use the Remote SSH Extension for VSCode to access stu as this creates extra processes on stu.                
   - Install [[https://docs.microsoft.com/en-us/windows/wsl/install-win10|WSL Version 2]] with Ubuntu 20.04 LTS.
-  - (Optional) Install the new [[https://docs.microsoft.com/en-us/windows/terminal/get-started| Windows Terminal]]
+  - (Optional) Install the new [[https://docs.microsoft.com/en-us/windows/terminal/get-started| Windows Terminal]] and setup WSL with it
 
 ==== In WSL ====  
   - Start Ubuntu from its CLI or the Windows Terminal, username and password can be anything
