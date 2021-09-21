@@ -66,7 +66,7 @@ In addition to using this page to find information, you can search the Wiki usin
   * [[student:typographic-conventions:start | Typographic Conventions ]]
   * [[student:visualparadigm:start | VisualParadigm ]]
   * [[student:vivifyscrum:start | VivifyScrum ]]
-  * [[student:vscode:start | Setup VSCode for Remote Access on Stu (C)]]
+  * [[student:vscode:start | VSCode w/ Remote Access on Stu (C)]]
   * [[student:web_browsers:start | Web Browsers ]]
   * [[student:xml:start | XML ]]
   * [[student:zip:start | .zip Files ]]
