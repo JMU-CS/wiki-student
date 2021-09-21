@@ -64,7 +64,7 @@ In addition to using this page to find information, you can search the Wiki usin
   * [[student:scrumj:start | scrumj ]]
   * [[student:utilities:start:keypairs | SSH Key Pairs ]]
   * [[student:typographic-conventions:start | Typographic Conventions ]]
-  * [[student:vscode:start | Using VSCode Remotely on Stu for C]]
+  * [[student:vscode:start | Using VSCode Remotely on Stu for C (Windows)]]
   * [[student:visualparadigm:start | VisualParadigm ]]
   * [[student:vivifyscrum:start | VivifyScrum ]]
   * [[student:web_browsers:start | Web Browsers ]]
