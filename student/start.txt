@@ -41,7 +41,6 @@ In addition to using this page to find information, you can search the Wiki usin
   * [[student:stu:start | Student Server]] (stu.cs.jmu.edu)
   * [[department:cs-success:start| TA Hours/Review Sessions ]]
   * [[department:research| Undergraduate Research ]]
-  * [[student:vscode:start | Using VSCode Remotely on Stu (C)]]
   * [[student:vm:start | Virtual Machine ]]
   * [[student:VPN:start | VPN ]]
   * [[student:wireless:start | Wireless ]]
