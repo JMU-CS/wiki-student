@@ -11,11 +11,10 @@ ACM brings together computing educators, researchers, and professionals to inspi
 ==== Competitive Programming ====
 
   * Faculty contact: John Bowers (bowerscj)
-  * Student contact: Aric Flor
-  * Weekly meetings: TBD
+  * Student contact: Zack Tucker
+  * Weekly meetings: Fridays at 4-5pm in EnGeo 1204
   * Website: http://acm.cs.jmu.edu
-  * Microsoft Teams Code: 7h1j0cb (Log in to https://teams.microsoft.com using your Dukes account and password and then click join Team and put this code in to join.)
-  * In case the teams code doesn't work, [[https://teams.microsoft.com/l/team/19%3ad11e98921fa0472c96c53b866606d5f8%40thread.tacv2/conversations?groupId=98a8cc05-9200-4d01-b82d-2bb39b997e06&tenantId=3d261773-12a4-47ee-bd93-912a93b9bdc2|use this link]] (this will require approval by a club member, so is not preferred).
+  * Discord: https://discord.gg/Uwwqbj4TEe
 
 Do you love to solve challenging problems? Would you like to increase your programming skills? Are you a competitive person? Do you want to prepare for interview exercises that companies like Google, Facebook, Amazon, Microsoft, Apple, and others give their future employees? Would you like to improve your ability to work in teams? If you answered “YES!” to any of these questions, then we have the perfect club for you! We solve programming problems in online and in-person team competitions. We meet weekly for practices and participate in several contests every year.
 
