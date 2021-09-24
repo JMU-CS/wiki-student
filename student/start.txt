@@ -22,6 +22,7 @@ In addition to using this page to find information, you can search the Wiki usin
   * [[student:onlinesemestersurvival:start | Online Semester Survival Guide ]]
   * [[student:cs149startup:start | CS149 Start-up Guide ]]
   * [[student:firstyearfinals:start | First Year Finals Guide ]]
+  * [[student:cs-q&a:start | CS Student Q&A ]]
 ==== University/Department-Specific Resources ====
 
   * [[student:autolab:start | Autolab ]]
