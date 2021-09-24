@@ -1,0 +1,24 @@
+**Is there still a competitive coding club?**
+
+**What are the more interesting/popular options for CS Electives that standout?**
+
+**How did you choose CS Electives and how many have you taken?**\\
+Students usually start taking CS electives their junior or senior year (it's fine to wait until your senior year if you have your classes mapped out). You have to have three CS Electives to meet your graduation requirements, but you can take more if you want to! \\
+CS Electives are a way to do a deep dive into a particular area (we offer three CS electives that focus on: web development, information security, Robotics/AI) or you can explore different areas of CS and get a wide range of experience. \\
+Dr. Buchholz will send out an advising newsletter to the listserv a week or so before enrollment that details the electives the CS department will be offering the following semester. We also update our "Anticipated Offerings" every year or so.  \\
+- Page Normand
+
+**What are some of your future career goals?** 
+
+**What internships or research have you done? Or planning to do?**
+
+**Are we going to meet Jeff Bezos?**
+
+**Is there a best practice for finding student based internships? (A filter on handshake or similar?)**
+
+**Are there any courses related to developing AI or is it just Machine Learning?**
+
+**Are there any CS classes that focus on cryptography or graph theory?**
+
+
+Have other questions you'd like us to address? Email them to normanap@jmu.edu 
