@@ -1,6 +1,10 @@
 **Is there still a competitive coding club?**
 
+Yes! They meet on Fridays from 4-5pm in Eng/Geo 2204. Look on the clubs page on the wiki for more information! -- Riley Harbick
+
 **What are the more interesting/popular options for CS Electives that standout?**
+
+I am currently in the Web Development elective (CS347) and I think it is great! Learning about how to set up websites and do a different kind of development has been really fun. I suggest taking this class if you get the chance! -- Riley Harbick
 
 **How did you choose CS Electives and how many have you taken?**
 
@@ -14,9 +18,15 @@ Dr. Buchholz will send out an advising newsletter to the listserv a week or so b
 
 **What are some of your future career goals?** 
 
+I hope to someday be a CPO for a technology company. I really love being able to talk to the clients and stakeholders to figure out there problem, and translate it for a team of developers who will develop the solution. -- Riley Harbick
+
 **What internships or research have you done? Or planning to do?**
 
+I did a business analyst consulting internship with CapTech Consulting last summer and I found that I really love it! I have also accepted a job offer from them that will start after I graduate in May 2022. -- Riley Harbick
+
 **Are we going to meet Jeff Bezos?**
+
+There is certainly no reason why you wouldn't ;).
 
 **Is there a best practice for finding student based internships? (A filter on handshake or similar?)**
 
