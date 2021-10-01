@@ -46,6 +46,10 @@ Of course, you can also always contribute to a project without receiving any aca
 
   * [[https://w3.cs.jmu.edu/lam2mo/lab.html|High Performance Analysis]]
 
+====== Links ======
+  * [[https://cseweb.ucsd.edu//~wgg/CSE210/howtoread.html|How to Read a Research Paper]]
+  * "[[http://www.cs.unc.edu/~azuma/hitch4.html|Everything I wanted to know about C.S. graduate school at the beginning but didn’t learn until later]]"
+
 ====== Active Projects ======
 
 Here is a short sampling of active projects conducted by JMU faculty members with students. 
