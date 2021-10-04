@@ -74,7 +74,7 @@ Don't worry, there's a [[department:advising-resources:|Wiki Page]] for that!
 
 ==== Enrollment Timeline ====
 
-**1 month before Enrollment (early March)**
+**1 month before Enrollment (early October/ early March)**
   * Check for any holds on your account and ensure they are resolved well before enrollment
   * To see holds, go to MyMadison > Student Center > Holds (under, to the right of your ID picture)
   * Schedule a meeting with Advisor(s). CS Advisor: Paige Normand, [[https://jmu-cs.as.me/advisor|https://jmu-cs.as.me/advisor]]
