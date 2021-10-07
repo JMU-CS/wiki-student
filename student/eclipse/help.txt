@@ -328,9 +328,14 @@ You can control what is shown in the Variables View by clicking on <key>⋮</key
 
 === Debugging with Third-Party Classes ===
 
-Sometimes you only have %%.class%% files (or a %%.jar%% file) for some of the classes that you are using. When this happens, you won't be able to step into those classes (because you don't have the source code). However, you can still use the debugger. For example, you can step over any calls to methods that you don't have the source code for.
+Sometimes you will only have %%.class%% files (or a %%.jar%% file) for some of the classes that you are using. When this happens, you won't be able to step into those classes (because you don't have the source code). However, you can still use the debugger. For example, you can step over any calls to methods that you don't have the source code for.
 
-Frequently in these kinds of situations, what you want to do is run to a breakpoint and the resume execution until that breakpoint (or another one) is encountered. This can be accomplished using the {{eclipse_resume.png}} button in the Debug Perspective.
+Frequently in these kinds of situations, what you want to do is run to a breakpoint and the resume execution until that breakpoint (or another one) is encountered. This can be accomplished using the {{eclipse_resume.png}} button in the Debug Perspective. In other words:
+
+  - Set a breakpoint (or multiple breakpoints).
+  - Step through your code as far as you can (i.e., until you encounter method calls that you don't have the source code for) or as far as is necessary.
+  - Click on the resume button. This will resume the execution of the code until a breakpoint is encountered.
+
 
 ==== Deploying ====
 
