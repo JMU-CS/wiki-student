@@ -326,6 +326,11 @@ It's quite common to instrument code outside of the debugger using calls to ''%%
 
 You can control what is shown in the Variables View by clicking on <key>⋮</key>+<key>Java</key> and then selecting the items you are interested in. One particularly useful item is "Show References".
 
+=== Debugging with Third-Party Classes ===
+
+Sometimes you only have %%.class%% files (or a %%.jar%% file) for some of the classes that you are using. When this happens, you won't be able to step into those classes (because you don't have the source code). However, you can still use the debugger. For example, you can step over any calls to methods that you don't have the source code for.
+
+Frequently in these kinds of situations, what you want to do is run to a breakpoint and the resume execution until that breakpoint (or another one) is encountered. This can be accomplished using the {{eclipse_resume.png}} button in the Debug Perspective.
 
 ==== Deploying ====
 
