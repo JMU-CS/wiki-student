@@ -17,7 +17,7 @@ Previous DIGITAL events:
 3:30: Depart\\
 
 ====== Workshops ======
-  * Finch Robots
+  * [[student:digital2021:finch:start|Finch Robots]]
   * Intro to Programming
   * Drone Races
   * Web Design
