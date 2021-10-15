@@ -1,0 +1,19 @@
+Previous DIGITAL events: 
+  * [[https://digital.cs.jmu.edu/2018/|2018 Website]]
+  * [[https://digital.cs.jmu.edu/2019/|2019 Website]]
+
+====== 2021 Schedule ======
+
+9:00-9:30: Check In and Breakfast, Atrium
+9:30-9:45: Introduction from JMU Computer Science Dept, Atrium
+9:45-9:50: Break into Station Groups, Atrium
+9:50-10:40: Station 1
+10:50-11:40: Station 2
+11:40-12:10: Speaker Lynn Lambert, CNU, “But what if I don’t have a passion?”, Room 259
+12:10-1:00 Box Lunch, eating outside
+1:00-1:50: Station 3
+2:00-3:00: Tech Gift Activity
+3:00-3:30: Closing, Room 259
+3:30: Depart
+
+{{ :student:digital2021:digital2021-tracks.png?600 |}}
