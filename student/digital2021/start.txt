@@ -16,6 +16,13 @@ Previous DIGITAL events:
 3:00-3:30: Closing, Room 259\\
 3:30: Depart\\
 
+====== Workshops ======
+  * Finch Robots
+  * Intro to Programming
+  * Drone Races
+  * Web Design
+  * Python Turtle Art
+
 {{ :student:digital2021:digital2021-tracks.png?1000 |}}
 
 {{ :student:digital2021:digital_floor_plans.png?1000 |}}
