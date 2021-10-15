@@ -17,3 +17,5 @@ Previous DIGITAL events:
 3:30: Depart\\
 
 {{ :student:digital2021:digital2021-tracks.png?1000 |}}
+
+{{ :student:digital2021:digital_floor_plans.png?1000 |}}
