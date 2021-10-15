@@ -18,10 +18,10 @@ Previous DIGITAL events:
 
 ====== Workshops ======
   * [[student:digital2021:finch:start|Finch Robots]]
-  * Intro to Programming
-  * Drone Races
-  * Web Design
-  * Python Turtle Art
+  * [[student:digital2021:programming:start|Intro to Programming]]Intro to Programming
+  * [[student:digital2021:drones:start|Drone Races]]Drone Races
+  * [[student:digital2021:web-design:start|Web Design]]Web Design
+  * [[student:digital2021:turtle:start|Python Turtle Art]]Python Turtle Art
 
 {{ :student:digital2021:digital2021-tracks.png?1000 |}}
 
