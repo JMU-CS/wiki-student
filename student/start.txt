@@ -77,7 +77,7 @@ In addition to using this page to find information, you can search the Wiki usin
 
 
 ==== Outreach ====
-  * DIGITAL 2021
+  * [[student:digital2021:start|DIGITAL 2021]]
 ==== Etiquette ====
 
   - You must be logged-in (using your JMU email address) to make additions/changes.
