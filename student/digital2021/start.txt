@@ -22,6 +22,7 @@ Previous DIGITAL events:
   * [[student:digital2021:drones:start|Drone Races]]
   * [[student:digital2021:web-design:start|Web Design]]
   * [[student:digital2021:turtle:start|Python Turtle Art]]
+  * [[https://w3.cs.jmu.edu/duanzx/Tech_gift.html|Tech Gift Activity]]
 
 {{ :student:digital2021:digital2021-tracks.png?1000 |}}
 
