@@ -23,9 +23,9 @@ Previous DIGITAL events:
 
 ====== Workshops ======
   * [[student:digital2021:finch:start|Finch Robots]]
-  * [[student:digital2021:programming:start|Intro to Programming]]
+  * [[https://www.dropbox.com/sh/waxuo6hqpa65dm9/AADaB43qQPg7N1HaWToKzuhVa?dl=0|Intro to Programming]]
   * [[student:digital2021:drones:start|Drone Races]]
-  * [[student:digital2021:web-design:start|Web Design]]
+  * [[student:digital2021:web-desIgn:start|Web Design]]
   * [[student:digital2021:turtle:start|Python Turtle Art]]
   * [[https://w3.cs.jmu.edu/duanzx/Tech_gift.html|Tech Gift Activity]]
 
