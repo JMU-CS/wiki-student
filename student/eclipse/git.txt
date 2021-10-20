@@ -77,18 +77,18 @@ For most common Git work flows, the "Remote name" should be ''origin'' (indicati
 
 The "URI", "Host", "Protocol", and "Port" will vary with the Git host.
 
-You will also be asked to provide a "User" and "Password" for that host. If you select "Store in Secure Store", Eclipse will save this information for you locally, and you will not need to provide it each time you push. Otherwise, you will need to authenticate yourself each time you push.
+You will also be asked to provide a "User" and "Password" for that host. Because of recent security enhancements, you must enter your "Personal Access Token" in the "Password" field, not your GitHub password. (If you select "Store in Secure Store", Eclipse will save this information for you locally, and you will not need to provide it each time you push. Otherwise, you will need to authenticate yourself each time you push.)
 
 
 ==== Cloning a Repository ====
 
 The easiest way to clone a remote repository is to:
 
-  - Open the [[ #opening_the_git_perspective | Git Perspective ]]
-  - Click on "Clone a Git repository"
-  - Enter the "URI", "Host", "Repository path", and "Protocol"
-  - Enter your authentication information for the Git server
-  - Select the appropriate branch (probably the main branch, the name of which may vary but should be apparent from the context) and click on <key>Next</key>
+  - Open the [[ #opening_the_git_perspective | Git Perspective ]].
+  - Click on "Clone a Git repository".
+  - Enter the "URI", "Host", "Repository path", and "Protocol".
+  - Enter your authentication information for the Git server.  (Because of recent security enhancements, you must enter your "Personal Access Token" in the "Password" field, not your GitHub password.)
+  - Select the appropriate branch (probably the main branch, the name of which may vary but should be apparent from the context) and click on <key>Next</key>.
   - Enter the appropriate local directory for the "Destination", the appropriate "Remote name" (probably ''origin''), and click <key>Finish</key>.
 
 At this point, you will have cloned the repository but you will not have any Eclipse projects. To import a project from the repository, while still in the Git Perspective you should:
