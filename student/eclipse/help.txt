@@ -55,6 +55,9 @@ To create a project:
 
 Unless you are specifically told to do so, **do not** create a %%module-info.java%% file (i.e. **do not** create a module).
 
+Also, unless you are specifically told otherwise, select the option to create separate %%src%% and %%bin%% directories/folders  (i.e. **do not** put everything in one directory/folder).
+
+
 If you are using Checkstyle, you must activate it for the newly created project. To do so:
 
   - Right-click on the project in the "Package Explorer" and pull down to "Checkstyle". 
