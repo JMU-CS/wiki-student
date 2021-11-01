@@ -18,9 +18,9 @@ You can avoid the need to authenticate yourself (with your eID and password) eac
 To log into a specific lab computer you first login to stu as normal and then ssh to a lab machine by hostname. The hostnames are based on the room and computer number and take the form "L[room_number][computer_number].cs.jmu.edu".
 
 ^ Room         ^ Hostname Range          ^
-| ISAT/CS 143 | L143{40..71}.cs.jmu.edu  |
 | ISAT/CS 248 | L248{01..32}.cs.jmu.edu |
 | ISAT/CS 250 | L250{01..33}.cs.jmu.edu |
+| ENGEO 2204 | L2204{01..32}.cs.jmu.edu  |
 
 This can be simplified by using the ''-J'' option to ssh. For example, the following command would jump through stu to reach a lab computer in ISAT/CS 250.
 
