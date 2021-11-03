@@ -1,9 +1,12 @@
+====== Full Admission to the CS Major or the CS Minor ======
 
-You will be guaranteed full admission to the CS major or minor, if your average grade in CS 149 and CS 159 is a 3.0 or better, and if you have not repeated either of the two courses. If you took CS 149 in Spring 2020 and received a grade of CR, then you need a grade of B or better in CS 159. If you took CS 149 or 159 in Spring 2020 or Fall 2020 and needed to repeat it in in the subsequent semester, then we are not counting this as a repeat. Students who meet the criteria for guaranteed admission //still have to apply//. 
+You will be guaranteed full admission to the CS major or minor, if your average grade in CS 149 and CS 159 is a 3.0 or better, and if you have not repeated either of the two courses. If you took CS 149 in Spring 2020 and received a grade of CR, then you need a grade of B or better in CS 159. If you took CS 149 or 159 in Spring 2020 or Fall 2020 and needed to repeat it in in the subsequent semester, then we are not counting this as a repeat. Students who meet the criteria for guaranteed admission //still have to apply//: 
+
+[[https://jmu.questionpro.com/t/ARXgAZpg6K]]
 
 Please also see our [[department:admissionfaq:|Frequently Asked Questions]] about the Full Admission to the Major or Minor page.
 
-=== Full Admission to the CS Major or the CS Minor ===
+=== Detailed Admission Criteria ===
 
 Any student may declare a CS major or minor, but students may enroll in CS courses beyond CS 149,
 CS 159, and CS/MATH 227 only if they are fully admitted to the CS major or minor. Full admission to the
