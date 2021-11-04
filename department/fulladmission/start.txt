@@ -2,9 +2,9 @@
 
 You will be guaranteed full admission to the CS major or minor, if your average grade in CS 149 and CS 159 is a 3.0 or better, and if you have not repeated either of the two courses. If you took CS 149 in Spring 2020 and received a grade of CR, then you need a grade of B or better in CS 159. If you took CS 149 or 159 in Spring 2020 or Fall 2020 and needed to repeat it in in the subsequent semester, then we are not counting this as a repeat. Students who meet the criteria for guaranteed admission //still have to apply//: 
 
-[[https://jmu.questionpro.com/t/ARXgAZpg6K]]
+**Link to application form: [[https://jmu.questionpro.com/t/ARXgAZpg6K]]**
 
-Please also see our [[department:admissionfaq:|Frequently Asked Questions]] about the Full Admission to the Major or Minor page.
+See also our [[department:admissionfaq:|Frequently Asked Questions]] about the Full Admission to the Major or Minor page.
 
 === Detailed Admission Criteria ===
 
@@ -14,8 +14,7 @@ major or minor is granted as described below.
 
   * Students who have attempted CS 149, CS 159, or CS/MATH 227 at JMU may not attempt them elsewhere (that is, they must make any second attempts at JMU).
 
-  * Students must submit an application for full admission to the CS major or minor no earlier than the semester in which they complete CS 159. The application is done electronically via an online survey. You need to have a PDF file of your unofficial transcript ready for upload. For the Fall 2021 major and  minor applications, use the following link:
-      https://jmu.questionpro.com/t/ARXgAZpg6K
+  * Students must submit an application for full admission to the CS major or minor no earlier than the semester in which they complete CS 159. The application is done electronically via an online survey. You need to have a PDF file of your unofficial transcript ready for upload. For the Fall 2021 major and  minor applications, use the above link.
 
   * Students with a GPA of 3.0 or better in CS 149 and CS 159 who have attempted these classes only once are guaranteed full admission to the major or minor. Others will be granted full admission to the CS major or minor as space permits based on their GPA in CS 149 and CS 159 and faculty evaluation of their potential to succeed in the CS major or minor.
 
