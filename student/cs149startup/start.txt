@@ -30,7 +30,7 @@ Guides on using Autolab can be found [[student:autolab:start|here]].
 
 Direct access to Autolab is blocked from off campus for security reasons. In order to access Autolab from off campus you must either [[student:vpn:start|install and run the VPN]] or you must create an SSH tunnel through the shell. This sounds really complicated and fancy, but is actually fairly straightforward. To do this simply run the following command in your shell but make sure to replace "your-username" with your actual username: 
 
-''ssh 4443:autolab.cs.jmu.edu:443 your-username@stu.cs.jmu.edu''
+''ssh -L 4443:autolab.cs.jmu.edu:443 your-username@stu.cs.jmu.edu''
 
 Then log in using your EID password. This establishes what is called an SSH tunnel that routes traffic through your computer to our Autolab server through a connection to stu.cs.jmu.edu, which is the student server for computer science students. 
 
