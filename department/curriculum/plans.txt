@@ -1,3 +1,7 @@
+:!: **Note: This page is outdated and is no longer linked from anywhere else. The current plans of study are on the [[https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/index.shtml|Computer Science Curriculum]] page of the CS website.**
+
+----
+
 Sample plans of study for new students. Options B and C are recommended for students interested in the Information Security Certificate because classes required for the certificate have CS 361 as a prerequisite.
 
 ==== Making a 4-year Plan ====
