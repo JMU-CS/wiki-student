@@ -23,4 +23,7 @@ offerings ahead of time and do our best to follow the plan. Here are the current
 
 ==== Example Plans of Study ====
 
-The following [[department:curriculum:plans|sample plans of study]] illustrate various ways to fulfill CS and JMU degree requirements. We encourage you to make your own 4-year plan based on these examples.
+The example [[https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/index.shtml|plans of study]] on the CS website illustrate various ways to fulfill CS and JMU degree requirements.
+
+We encourage you to meet with our CS Advisor, Paige Normand, to make your own 4-year plan for graduation.
+You can schedule a meeting with her here: [[https://jmu-cs.as.me/advisor|https://jmu-cs.as.me/advisor]].
