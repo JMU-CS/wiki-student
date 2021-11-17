@@ -96,6 +96,9 @@ To configure jGRASP to work with JUnit, click on <key>Tools</key>,  pull down to
 
 If you have properly configured jGRASP, the "Create JUnit test file"  button, {{jgrasp-CreateJUnitTestFile.png}}, will appear  whenever you open a ''%%.java%%'' file.
 
+
+== Classpath ==
+
 Though it's not absolutely necessary (depending on how you create  your test classes), you should also add  ''%%junit.jar%%'' to the CLASSPATH for your workspace. To do  so, click on <key>Settings</key>-<key>PATH/CLASSPATH</key>  -<key>Workspace</key> and select the CLASSPATHS tab. Then, click on  <key>New</key> and add ''%%junit.jar%%''.
 
 
