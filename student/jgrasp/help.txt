@@ -108,7 +108,7 @@ Though it's not absolutely necessary (depending on how you create  your test cla
 To create a JUnit test class for an existing class, open the source  file for that class and click on {{jgrasp-CreateJUnitTestFile.png}}. This will create an empty  class for you to complete. (If you already have such a test class  it will ask if you want to re-use it.) It will also add the {{jgrasp-JUnitCompile.png}} and {{jgrasp-JUnitCompileAndRun.png}} buttons (for compiling and  running test classes). (Note: If you don't create the file this  way, you **must** add ''%%junit.jar%%'' to the CLASSPATH  for your workspace. See above.)
 
 
-Unless you understand what it is doint, you should probably delete  all of the code that jGrasp inserts into this class and start from  scratch.
+Unless you understand what it is doing, you should probably delete  all of the code that jGrasp inserts into this class and start from  scratch.
 
 
 === Compiling and Running a Test Class ===
