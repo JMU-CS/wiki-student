@@ -97,8 +97,8 @@
 
 **Dr. Tjaden** - On Leave Fall 2021
 
-**Dr. Wang** - CS327-0003/0004, CS660
-  * Office hours: [Tu/Th] 10:20 ~ 12:50; or by appointment (wangxx@jmu.edu)
+**Dr. Wang** - CS482/CS559/CS627
+  * Office hours: [Tu/Th] 10:40 ~ 12:40; 14:10 ~ 14：40； or by appointment (wangxx@jmu.edu)
   * Zoom URL: [[https://jmu-edu.zoom.us/j/4401425906 |https://jmu-edu.zoom.us/j/4401425906]]
 
 **Dr. Weikle** - CS149, CS261
