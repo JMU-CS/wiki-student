@@ -24,7 +24,7 @@ All labs have the same software, including but not limited to the following:
   * jGrasp 206_08
   * RStudio 1.4.1717
   * Vim 8.1
-  * Visual Studio Code 1.59.0
+  * Visual Studio Code 1.63.2
   * gcc 9.3.0
   * Go 1.13.8
   * GHC 8.6.5
