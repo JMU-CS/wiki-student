@@ -3,6 +3,32 @@
 
 The CS Research Seminar Talks are talks given by faculty members and undergraduate research assistants on a variety of topics at the cutting edge of computer science research. Talks happen on Fridays at 12:20pm and occur roughly every couple of weeks, generally in ISAT/CS 243. The format is a 30-40 minute research talk with 10-20 minutes reserved for questions. All CS students (and other interested students and faculty) are invited to attend. Email announcements about each seminar will be sent to the CS listserv.
 
+==== Spring 2022 Schedule ====
+
+**Faculty Research Talks Overview**
+
+* **Feb 11** Prof. Siddharth Bhaskar  -- // Recursion, iteration, and program schematology//
+
+* **Feb 25** Prof. Chris Mayfield -- //POGIL in CS1: Evidence for Student Learning and Belonging//
+
+* **Mar 4** Prof. Mike Lam -- //TBD//
+
+* **Mar 25** Prof. Kevin Molloy -- //Advances in Computational Protein Modeling//
+
+* **Apr 1** Prof. Chris Johnson -- //Programming language for Parametric 2D design//
+
+
+**Abstracts for the 2022 Spring Research Talks**
+
+
+* **Feb 11** Prof. Siddharth Bhaskar  -- // Recursion, iteration, and program schematology//
+
+**Abstract**: We can distinguish between logical and nonlogical syntax of a programming language: the former being "pure programming" constructs (like `if-then-else' statements) whose semantics is independent of the data type in question, and the latter being "primitive operations" whose semantics depends on the data type in question. This allows us to talk about programs which are logically equivalent, in the same sense that the logical formulas $(\forall x) \neg A(x)$ and $ \neg (\exists x) A(x)$ are equivalent---their denotation is the same no matter the interpretation of $A$.
+
+It is folklore that every recursive procedure can be transformed into an iterative one, whose only recursive construct is a "while" loop. (Indeed, this is basically what every compiler does in transforming a high-level language to machine code.) However, very early on (the 60's!) in the history of programming languages, it was realized that there were general recursive programs not logically equivalent to any iterative program, and therefore that recursion elimination relied on semantic properties of the data in question (e.g., closure under taking lists).
+
+In this talk, I will discuss the general problem of recursion vs. iteration, the separation I mentioned above, and my small contribution to this story, which has to do with the intensional (i.e., complexity-theoretic) distinction between the two paradigms. This talk is classical in two senses: one, it's concerned with problems which were thought about early in the history of programming languages, and two, it's personally classical in the sense that it harkens back to the stuff I was thinking about in grad school.
+
 ==== Fall 2021 Schedule ====
 
 **Faculty Research Talks**
