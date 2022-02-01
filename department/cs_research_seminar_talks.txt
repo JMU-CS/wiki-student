@@ -11,7 +11,7 @@ The CS Research Seminar Talks are talks given by faculty members and undergradua
 
 * **Feb 25** Prof. Chris Mayfield -- //POGIL in CS1: Evidence for Student Learning and Belonging//
 
-* **Mar 4** Prof. Mike Lam -- //TBD//
+* **Mar 4** Prof. Mike Lam -- //Recent Work in Floating-Point Program Analysis//
 
 * **Mar 25** Prof. Kevin Molloy -- //Advances in Computational Protein Modeling//
 
