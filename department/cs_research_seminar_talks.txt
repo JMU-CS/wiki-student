@@ -17,7 +17,14 @@ The CS Research Seminar Talks are talks given by faculty members and undergradua
 
 * **Apr 1** Prof. Chris Johnson -- //Programming language for Parametric 2D design//
 
+* **Apr 8** Prof. David Bernstein -- //Real-Time Pricing of Taxi Services//
 
+* **Apr 15** Prof. Jason Forysth -- //TBD//
+
+* **Apr 22** Prof. Chris Mayfield -- //TBD//
+
+* **Apr 29** Prof. Kirsten Richards -- //TBD//
+ 
 **Abstracts for the 2022 Spring Research Talks**
 
 
