@@ -1,0 +1,21 @@
+Computer Science is a discipline that requires a lot of hands-on practice. The department offers many avenues for students to work with other students, TAs, and Faculty to develop their CS skills and knowledge. 
+
+====== TA Hours ======
+
+https://wiki.cs.jmu.edu/department/cs-success/start\\
+Available for drop-in hours Sunday-Thursday. The CS TA lab is the beating heart of our department: this is where students go to work, support each other, and get help when they’re stuck. TAs help each student in 10 minute increments and they will not be writing your code for you. Instead they will be helping you learn to write code yourself and helping you to navigate any technical problems.
+
+====== Office Hours ======
+Our faculty are here to support your learning. The most detailed information for meeting with your professor will be in your course syllabus, but we keep information about faculty's availability here: https://wiki.cs.jmu.edu/department/officehours/start 
+
+====== CS Advisor ======
+Paige Normand is our Departmental Advisor: : https://jmu-cs.as.me/advisor\\
+She's available to any declared CS major or student interested in CS who would like to talk about the CS curriculum, advice on classes, mapping out their curriculum path, or helping direct them to relevant faculty or resources.
+
+====== CS Ambassadors ======
+CS Ambassadors are available for to field questions and share their perspective as an upper-level CS student. Think of them as an older sibling: there for advice and guidance about your success in CS and the university. They can help get you get connected to CS clubs, CS events, and resources within the department.\\
+Learn more and schedule a chat with them here: https://www.jmu.edu/cise/cs/contact-us/cs-ambassadors.shtml 
+
+====== CS Clubs ======
+One of the best ways to succeed in CS is to get involved! If you are interested in getting more experience with a particular area of CS, the clubs are a fantastic way to get connected to the projects, activities, and outreach within the field. Students are welcome to join clubs at any point in the semester. \\
+See full list here: https://wiki.cs.jmu.edu/student/clubs/start
