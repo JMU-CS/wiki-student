@@ -43,3 +43,20 @@ The written document serves two purposes. First, it demonstrates that the studen
 The committee will specify the style and format of the written document (including, the citation style, the footnote/endnote style, the use of first/third person). The style will be consistent with the category of the thesis/project. In addition, the committee will specify the "technology" to be used to produce the document. For example, the committee might require the use of LaTeX for a theoretical thesis and might require the use of OpenDoc for an open source project.
 
 A template for using LaTex is available at https://github.com/JMU-CS/HonorsThesisTemplate.git.  This template follows the honors college guidelines (https://www.jmu.edu/honors/handbook/basic-guidelines.shtml#formatting).
+
+===== The Registration Process =====
+
+Students normally complete the capstone over the course of their last three semesters. In the first semester, students register for CS499a (which is a 1-credit course), in the second semester they register for CS499b (which is a 3-credit course), and the third semester they register for CS499c (which is a 2-credit course).
+
+The semester before registering for CS499a, students should start thinking about a topic and talking to potential supervisors. Students must identify a supervisor who is willing to work with them on the capstone and must have a written description of what they expect to accomplish before they can register for CS499a. A typical CS499a proceeds as follows:
+
+  - Initial Discussion of the Topic
+  - Completion of an Initial Literature Review
+  - Refinement of the Topic
+  - Completion of a Detailed Literature Review	
+  - Development of a Proposal
+  - Formation of Committee
+  - Discussion of Proposal with Committee
+  - Submission of Final Proposal
+
+The tasks to be completed during CS499b and CS499c vary with the type of capstone. However, in almost all cases, the bulk of the work is typically completed during the second semester (when students are registered for CS499b), with the writing and final touches completed during the third semester (when students are registered for CS499c). Final deliverables are due at the Honors College long before the end of the semester, so it is important to not leave too many tasks until the third semester.
