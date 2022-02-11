@@ -12,7 +12,7 @@ ACM brings together computing educators, researchers, and professionals to inspi
 
   * Faculty contact: John Bowers (bowerscj)
   * Student contact: Zachary Tucker (tuckerzp)
-  * Weekly meetings: Fridays at 4-5pm in EnGeo 2204
+  * Weekly meetings: Thursdays from 7-8pm in EnGeo 2204
   * Website: http://acm.cs.jmu.edu
   * Discord: https://discord.gg/Uwwqbj4TEe
   * Github: https://github.com/JMU-Competitive-Programming
