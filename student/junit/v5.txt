@@ -132,7 +132,7 @@ The ''%%equals()%%''   method in the ''%%Atom%%'' class is supposed to compare t
 The ''%%equals(Atom)%%'' method in the ''%%Atom%%'' class is   being tested. A call to ''%%h.equals(o)%%'' should return   ''%%false%%'' as should a call to ''%%h.equals(o)%%''.
 
 
-==== More About the Asserttions.assertEquals() Method ====
+==== More About the Assertions.assertEquals() Method ====
 
 
 The ''%%Assertions.assertEquals()%%'' method can be used to compare   the expected and actual values of a wide variety of different   types. In the examples above it is used to compare ''%%int%%''   values and ''%%boolean%%'' values. It can also be used to   compare ''%%String%%'' objects and other objects, but you have   to be careful when doing so.   When ''%%assertEquals()%%'' is used to compare primitive types,   it uses the ''%%==%%'' operator. When ''%%assertEquals()%%'' is   used to compare class types, it uses the ''%%.equals()%%'' method   (with special handling for ''%%null%%'' references).
