@@ -28,14 +28,12 @@ In addition to using this page to find information, you can search the Wiki usin
 
   * [[student:autolab:start | Autolab ]]
   * [[Building Maps]] (ISAT/CS and EnGeo)
-  * [[student:mattermost:start | Chat Server]] 
   * [[student:clubs:start | Clubs]]
   * [[student:cluster:start | Cluster ]]
   * [[department:computer_labs:start| Computer Labs ]]
   * [[department:listserv:start| CS Listserv ]]
   * [[department:officehours:start| Faculty Office Hours ]]
   * [[student:freesoftware:start | Free Software ]]
-  * [[student:gitlab:start | GitLab]] (git.cs.jmu.edu)
   * [[department:honors_capstone:start|Honors Capstone]]
   * [[https://jmu.libwizard.com/f/compsci-guide-basic|Library Resources]] (including off-campus access info)
   * [[department:remote_access:start|Remote Access]]
