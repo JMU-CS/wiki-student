@@ -81,7 +81,7 @@ For example:
 
 will create the HTML pages for the source files named ''%%Calculator.java%%'' and ''%%Controller.java%%''.
 
-Many integrated development environments also have the capability of running the ''%%javadoc%%'' tool.
+Many integrated development environments also have the capability of running the ''%%javadoc%%'' tool, including [[student:eclipse:help#creating_html_documentation|Eclipse]].
 
 Note that the ''%%javadoc%%'' tool generates a large number of     "supporting" files even if you only generate documentation for a     single class.  The file ''%%index.html%%'' is the "main" page.
 
