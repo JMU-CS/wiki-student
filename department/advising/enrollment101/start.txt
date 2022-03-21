@@ -86,7 +86,7 @@ Don't worry, there's a [[department:advising-resources:|Wiki Page]] for that!
   * Have your shopping cart ready to check out when your enrollment period arrives
 
 **Enrollment Drop-in Day: April 8th**
-* I'll be hosting a drop-in session this day with CS Ambassadors and Curriculum Specialists from Virigina Tech to help students plan for their fall semester and discuss the 4-and-1 Masters Program with VT. 
+  * I'll be hosting a drop-in session this day with CS Ambassadors and Curriculum Specialists from Virigina Tech to help students plan for their fall semester and discuss the 4-and-1 Masters Program with VT. 
 
 **The Day of your Enrollment**
   * If you get an error: //read the error//. 
