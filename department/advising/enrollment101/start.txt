@@ -38,7 +38,7 @@ This option is strictly at the discretion of the instructor, and most will only 
 
 Fall 2022 enrollment appointments begin April 11, 2022
 Look at MyMadison for YOUR appointment date and time.
-Your enrollment day based on your standing - [[https://www.jmu.edu/registrar/students/spring_enroll_time.shtml|see details]]
+Your enrollment day based on your standing - [[https://www.jmu.edu/registrar/students/spring_enroll_time.shtml|see details]] (Sorry, JMU hasn't updated this page yet.)
 
 If you do not know what to sign up for, please make an appointment with the CS advisor.
 
