@@ -75,8 +75,8 @@ In addition to using this page to find information, you can search the Wiki usin
   * [[student:graduation-preparation:start | Graduation Requirements ]]
 
 
-==== Outreach ====
-  * [[student:digital2021:start|DIGITAL 2021]]
+==== Community ====
+  * [[student:stickercontest|CS Sticker Contest]]
 ==== Etiquette ====
 
   - You must be logged-in (using your JMU email address) to make additions/changes.
