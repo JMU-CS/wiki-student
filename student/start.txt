@@ -77,7 +77,7 @@ In addition to using this page to find information, you can search the Wiki usin
 
 ==== Community ====
   * [[student:stickercontest|CS Sticker Contest]]
-  * CS Ambassadors
+  * [[https://www.jmu.edu/cise/cs/contact-us/cs-ambassadors.shtml|CS Ambassadors]]
 ==== Etiquette ====
 
   - You must be logged-in (using your JMU email address) to make additions/changes.
