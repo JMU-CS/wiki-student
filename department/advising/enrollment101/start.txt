@@ -30,6 +30,8 @@ You do NOT need permission to withdraw, BUT we highly recommend that you also di
 Note on **dropping a course with a co-requisite**: \\
 Students will need a departmental override if they are taking either CS 159 and CS 227 and wish to drop one and remain in the other. Please email your student ID number and the section of your course to Paige Normand, normanap@jmu.edu.
 
+If withdrawing from a course results in you being below 12 credit hours during the semester, consult the potential impacts of no longer being a full-time student: https://wiki.cs.jmu.edu/department/advising/withdraw/start
+
 === Withdrawing AFTER March 25th ===
 
 Any student wanting to withdraw from a class after the Withdraw deadline can only do so when an instructor agrees to issue a final grade of "WP" (withdraw pass) or "WF" (Withdraw Fail), based on their grade at time of withdrawal.\\
