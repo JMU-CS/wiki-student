@@ -25,7 +25,10 @@ A "W" is not calculated into the GPA, but it is factored in to the formula for S
 
 Any student receiving Financial Aid should review [[https://www.jmu.edu/financialaid/learn/sap/|https://www.jmu.edu/financialaid/learn/sap/]] AND consult with the Financial Aid office before withdrawing from a course.\\
 
-You do NOT need permission to withdraw, BUT we highly recommend that you also discuss it with your advisor, too.
+You do NOT need permission to withdraw, BUT we highly recommend that you also discuss it with your advisor, too. To withdraw from a course, you use the "drop" function in MyMadison. 
+
+Note on **dropping a course with a co-requisite**: \\
+Students will need a departmental override if they are taking either CS 159 and CS 227 and wish to drop one and remain in the other. Please email your student ID number and the section of your course to Paige Normand, normanap@jmu.edu.
 
 === Withdrawing AFTER March 25th ===
 
