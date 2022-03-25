@@ -1,0 +1,26 @@
+====== CS Students Currently Enrolled in CS 159 ======
+
+
+If you are in CS 159 then you will not be able to enroll in any more CS classes until you are fully admitted to the CS major or minor. This will not occur until after final grades for CS 159 are posted at the end of the semester. Therefore, you will have to register for your CS classes in May, not during early enrollment in April - don't worry, we reserve seats in these courses.
+
+I recommend you keep spots open in your schedule for the sections of CS 240, CS 261, or CS 345 that you want. Since I am risk-averse, I recommend enrolling in 15-credits during your Enrollment Window (since this is your best option to get your non-CS courses) and then you can decide which ones to drop it/when you get access to enroll in your CS courses. If you are unsure if you will be fully admitted into the major, I recommend enrolling in courses that will serve as a back-up major. 
+
+Because there are so many students coming into the CS major, we usually have to apportion people into 240, 261, and 345. When you are admitted into the major, you will likely also be told which two of these three classes to enroll in for the fall; you can enroll in the other ones in the following semester. If you made anything lower than an A in 159, I strongly recommend you plan to take CS 240 and CS 261 in separate semesters - they are both very time-intensive courses!
+
+See sample plans of study here: https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/index.shtml 
+
+====== Applications for Full Admission ======
+
+If you are taking CS 159 this semester and want to continue in the CS major or minor, you have to apply for full admission to the major or minor this semester. All application must be received by the last day of classes (Wednesday, December 9th, 2020).
+
+You will be guaranteed full admission to the CS major or minor, if your average grade in CS 149 and CS 159 is a 3.0 or better, and if you have not repeated either of the two courses. However, regardless of your grades **you still need to apply.** 
+
+**Notes on COVID-exceptions**: If you took CS 149 in Spring 2020 and received a grade of CR, then you need a grade of B or better in CS 159. If you took CS 159 in Spring 2020 and needed to repeat it in Fall 2020, then we are not counting this as a repeat. 
+
+Students who are not guaranteed full admission will be granted full admission to the CS major or minor as space permits based on their GPA in CS 149 and CS 159 and faculty evaluation of their potential to succeed in the CS major or minor.
+
+All students who want to be fully admitted to the major or minor must apply, regardless of whether or not you will be guaranteed admission! The application is done electronically through an online survey (link forthcoming). You will need to upload a PDF file of your unofficial transcript along with the other information we request, so make sure you have that ready.
+
+Link Forthcoming
+
+When you complete the application, you will receive an email confirmation, which you should review to make sure all the information is correct.
