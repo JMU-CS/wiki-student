@@ -11,9 +11,7 @@ See the JMU Catalog for the official [[https://catalog.jmu.edu/content.php?catoi
 ==== Prerequisites ====
 
 The easiest way to see the prerequisite structure is to view the 
-[[https://wiki.cs.jmu.edu/_media/department/curriculum/prereqfigure.pdf|prerequisite tree]], but you can also view the 
-[[https://wiki.cs.jmu.edu/_media/department/curriculum/prereqtable.pdf|prerequisite table]].
-
+[[https://wiki.cs.jmu.edu/_media/department/curriculum/prereqfigure.pdf|prerequisite tree]].
 
 ==== Course Offerings ====
 
