@@ -14,7 +14,7 @@ In addition to using this page to find information, you can search the Wiki usin
   * [[department:fulladmission:start| Full Admission to the Major or Minor ]]
   * [[department:graduation| Graduation Process and Forms ]]
   * [[department:minor-advising| Advising for CS Minors]]
-  * [[department/advising/changing-majors| Changing Majors]]
+  * [[department/advising/changing-majors:start| Changing Majors]]
 ==== Start-up Guides ====
 
   * [[student:firstyearstartup:start | First-Year Start-up Guide ]]
