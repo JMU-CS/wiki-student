@@ -46,6 +46,6 @@ https://www.jmu.edu/cob/asc/advising/schedule-an-appointment.shtml
 (Choose in-person > advising with a Madison Advising Peer > Madison Advising Peer – Ainsley Momorella)
 
 If you are a Junior or Senior CS student who is interested in switching to CIS, meet with the CIS Advisor, Danielle Maxham: 
-https://www.jmu.edu/cob/asc/advising/schedule-an-appointment.shtml 
+https://www.jmu.edu/cob/asc/advising/schedule-an-appointment.shtml \\
 (Choose in-person > advising with a CoB Advisor > Danielle (Gallagher) Maxham)
 
