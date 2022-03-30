@@ -17,7 +17,7 @@ To declare a new major or change your degree can be done via MyMadison. I find t
 
 If you have any feedback for the Computer Science department about the reason you have decided to leave the program, we very much want to discuss the details with you! Please contact our CS Advisor, Paige Normand (normanap@jmu.edu) to talk about your experience.
 
-===== Switching from CS to IT =====
+====== Switching from CS to IT ======
 
 There is a helpful overlap of our introductory CS courses and the new IT major. If you have decided not to stay in CS but would like to continue in a computing field, IT is a great option! 
 
