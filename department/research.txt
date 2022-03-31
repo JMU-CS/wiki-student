@@ -52,7 +52,7 @@ Of course, you can also always contribute to a project without receiving any aca
 
 ====== Active Projects ======
 
-Here is a short sampling of active projects conducted by JMU faculty members with students. 
+Here is a list of research projects conducted by JMU faculty members with students. 
 
 Feel free to add your project here!
 
@@ -66,14 +66,14 @@ Most computers provide at least two different levels of floating-point precision
   * Paper: [[ https://w3.cs.jmu.edu/lam2mo/papers/2019-Lam-Correctness.pdf | "Tool Integration for Source-Level Mixed Precision" ]]
   * CRAFT repository: [[ https://github.com/crafthpc/craft | GitHub ]]
   * FloatSmith repository: [[ https://github.com/crafthpc/floatsmith | GitHub ]]
-  * Status: Ongoing and looking for new students!
+  * Status: Suspended pending new student interest.
 
 ===== ExamGen =====
 
 Writing exams is a drudgery for most professors. Often, problems must be revised or re-parameterized to avoid repeating a previous semesters' question verbatim. Faculty in Computer Science are uniquely positioned to avoid some of this monotony because we are accustomed to writing scripts and programs to automate a process. This project aims to help automate the generation of new exams using a combination of question banks, scriptable questions, and potentially some application of machine learning to balance the length and difficulty of an exam.
 
   * Faculty contact: Dr. Lam
-  * Status: On hold temporarily, but looking for new students to re-activate it!
+  * Status: Suspended pending new student interest.
 
 ===== Less-Java =====
 
@@ -84,7 +84,7 @@ Less-Java is a new programming language designed for use in an introductory prog
 Language Design for Introductory
 Programming" ]]
   * Less-Java repository: [[ https://github.com/JMU-CS/less-java | GitHub ]]
-  * Status: Ongoing and looking for new students!
+  * Status: Suspended pending new student interest.
 
 ===== Infill Generation for Additive Manufacturing Design =====
 
@@ -99,12 +99,22 @@ Additive manufacturing (3D-printing) techniques are enabling lighter, stronger, 
      * //*Paper included JMU student authors.// 
    * Status: Ongoing and looking for new students!
 
+===== ODE Viewer =====
+
+Ordinary Differential Equations (ODEs) are used to model changes in real-world systems using numerical simulation. Often, mathematicians and scientists wish to visualize the results of these simulations and see what happens when particular parameters are changed. This is also useful to students who are learning about these systems. This project would involve extending a rudimentary tool written as part of a Summer 2021 project that was a collaboration between Dr. Lam and faculty in the Department of Mathematics and Statistics.
+
+{{ :department:odeviewer.png?400 |}}
+
+  * Faculty contact: Dr. Lam
+  * Repository: [[https://github.com/lam2mo/jmu-reu-ode | GitHub]]
+  * Status: Temporarily on hold, but looking for new students to re-activate it!
+
 ===== Shadow Value Analysis =====
 
 Sometimes it is useful to run a program and perform a "shadow" calculation for every arithmetic operation. This allows you to try different precision levels or even different real-number encodings. It also enables you to visualize the changing levels of floating-point rounding error in the program's calculations.
 
   * Faculty contact: Dr. Lam
   * Paper: [[ https://w3.cs.jmu.edu/lam2mo/papers/2016-Lam-ESPT.pdf | "Floating-Point Shadow Value Analysis" ]]
-  * SHVAL repository [[ https://github.com/crafthpc/shval | GitHub ]]
-  * Status: On hold temporarily, but looking for new students to re-activate it!
+  * SHVAL repository: [[ https://github.com/crafthpc/shval | GitHub ]]
+  * Status: Suspended pending new student interest.
 
