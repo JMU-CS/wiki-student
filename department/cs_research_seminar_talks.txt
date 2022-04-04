@@ -53,6 +53,13 @@ The study of proteins and the relationship between their sequence, structure and
 
 This talk will provide a brief overview of proteins and their composition to enable reviewing how these systems are modeled computationally. A review of Google's DeepMind group's recent work on protein structure prediction, and how their approach has made tremendous progress in this field. Next, we will review work by our group to better understand anti-microbial peptides and building a universal structural alphabet. Finally, we will discuss work being performed to structural group ensembles of proteins, and specifically the virus that causes COVID-19 (and its variants).
 
+* **Apr 1** Prof. Chris Johnson -- //Programming language for Parametric 2D design//
+
+**Abstract:**
+What if instead of printing "Hello, world!" to a terminal, your first program produced a tangible object? Dr. Johnson has been trying to make that a reality with Twoville, a programming language in which users code two-dimensional objects and fabricate them using a vinyl or laser cutter.
+
+Twoville is meant to be a sandbox for young people to explore mathematics and computer science --- and for Dr. Johnson to explore programming language features that facilitate parametric design. One big takeaway from his exploration is that not everything is an algorithm. Some designs need a more human touch. That's why Twoville supports bidirectional editing. A user can edit the design either through code or through mouse manipulation, with any changes made via the mouse propagated back to the code. Dr. Johnson will be joined by his family, who will demonstrate some of the objects they've made.
+
 * **Apr 8** Prof. David Bernstein -- //Real-Time Pricing of Taxi Services//
 
 **Abstract:**
