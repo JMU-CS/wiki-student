@@ -6,6 +6,7 @@ In addition to using this page to find information, you can search the Wiki usin
 
 ==== CS Advising ====
 
+  * [[department:schedule_spring2022:start| Fall 2022 Schedule]] 
   * [[department:advising:enrollment101:start| Enrollment Advice]]
   * -- [[department/advising/enrollment-159:start| Students Currently in CS 159]]
   * [[department:advising-resources| Advising Resources]]
