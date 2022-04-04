@@ -49,10 +49,16 @@ There has been a sharp uptick in interest in floating-point precision analysis o
 * **Mar 23** Prof. Kevin Molloy-- //Advances in Protein Characterizations//
 
 **Abstract:**
-
 The study of proteins and the relationship between their sequence, structure and function has been ongoing for decades. While some of this research is performed in a biochemical laboratory setting, the processes employed can be very time consuming and expensive.  To augment these techniques, structural biologists rely and need computational approaches. Many of the algorithmic challenges with modeling protein systems arise from the fact that these systems are typically modeled in very high dimensional settings.
 
 This talk will provide a brief overview of proteins and their composition to enable reviewing how these systems are modeled computationally. A review of Google's DeepMind group's recent work on protein structure prediction, and how their approach has made tremendous progress in this field. Next, we will review work by our group to better understand anti-microbial peptides and building a universal structural alphabet. Finally, we will discuss work being performed to structural group ensembles of proteins, and specifically the virus that causes COVID-19 (and its variants).
+
+* **Apr 8** Prof. David Bernstein -- //Real-Time Pricing of Taxi Services//
+
+**Abstract:**
+Historically, taxi pricing has been tightly regulated, with limits placed on the number of vehicles and prices set by the government. The advent of alternatives to traditional taxis, like Uber and Lyft, have dramatically changed the way these kinds of services are and can be priced.
+
+This talk will illustrate why the pricing of these services is interesting using some simple examples. It will begin with a review of equilibrium pricing in perfectly competitive markets (for those who have never studied microeconomics, or for those who have forgotten what they once knew). It will then review some of the literature on modeling equilibria in spatially separated markets. With that as background, it will use some simple models to explain how models of the pricing of taxi services are similar to and different from those models. It concludes with a discussion of how one can develop existence and uniqueness conditions for general problems, and how general problems might be solved numerically.
 ==== Fall 2021 Schedule ====
 
 **Faculty Research Talks**
