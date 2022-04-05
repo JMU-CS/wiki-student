@@ -10,8 +10,8 @@
   * Academics Requirements Page: 
   * Using Schedule Planner: 
   * CS Sample Plans of Study (organized by when you took CS 149)
-     - 149 first semester
-     - 149 second semester
-     - 149 third semester
+       - 149 first semester
+       - 149 second semester
+       - 149 third semester
   * VT 4-and-1 Accelerated Masters Program
   * How to deal with holds
