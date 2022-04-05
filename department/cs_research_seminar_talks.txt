@@ -21,8 +21,6 @@ The CS Research Seminar Talks are talks given by faculty members and undergradua
 
 * **Apr 15** Prof. Jason Forysth -- //Designing Wearable Systems for Movement Correction in Physical Therapy Applications//
 
-* **Apr 22** Prof. Chris Mayfield -- //TBD//
-
 * **Apr 29** Prof. Kirsten Richards -- //TBD//
  
 **Abstracts for the 2022 Spring Research Talks**
