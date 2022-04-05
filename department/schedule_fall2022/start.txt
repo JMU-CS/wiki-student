@@ -1,5 +1,7 @@
 ====== Fall 2022 Schedule  ======
 
+{{ :department:schedule_fall2022:spring22newsletter.pdf | Spring 2022 Computer Science Advising Newsletter }}
+
 ^ Course ^ Section ^ Time ^ Room ^ Instructors ^
 |  101|  1|TTh 0935-1050  |  236| Simmons  |
 |  101|  2|TTh 1110-1225  |  236| Simmons  |
