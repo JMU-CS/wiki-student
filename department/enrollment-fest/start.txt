@@ -10,8 +10,8 @@
   * Academics Requirements Page: https://www.jmu.edu/computing/ittraining/e-training/mymadison-academic-requirements-report/index.html
   * Using Schedule Planner: https://www.jmu.edu/computing/ittraining/e-training/mymadison-schedule-planner/story_html5.html
   * CS Sample Plans of Study (organized by when you took CS 149)
-    * 149 first semester
-    * 149 second semester
-    * 149 third semester
-  * VT 4-and-1 Accelerated Masters Program
-  * How to deal with holds
+    * 149 first semester: https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/149-first-semester.shtml
+    * 149 second semester: https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/101-first-semester.shtml
+    * 149 third semester: https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/149-third-semester.shtml
+  * VT 4-and-1 Accelerated Masters Program: https://www.jmu.edu/cise/cs/academics/graduate/vt-masters/vt-masters.shtml
+  * How to deal enrollment errors: https://www.jmu.edu/registrar/students/FAQ.shtml#Set-2-A
