@@ -7,7 +7,7 @@
 ===== Resources =====
 
   * GenEd Planner: https://www.jmu.edu/gened/_files/general-education-planner-2021-22.pdf
-  * Academics Requirements Page: 
+  * Academics Requirements Page: https://www.jmu.edu/computing/ittraining/e-training/mymadison-academic-requirements-report/index.html
   * Using Schedule Planner: 
   * CS Sample Plans of Study (organized by when you took CS 149)
     * 149 first semester
