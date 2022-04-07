@@ -16,7 +16,7 @@ In addition to using this page to find information, you can search the Wiki usin
   * [[department:graduation| Graduation Process and Forms ]]
   * [[department:minor-advising| Advising for CS Minors]]
   * [[department/advising/changing-majors:start| Changing Majors]]
-  * [[department/enrollment-fest:start| Enrollment Fest]]
+  * [[department/enrollment-fest:start| Enrollment Fest]] drop-in advising Friday (4/8) 12:30-3:30 in King 259
 ==== Start-up Guides ====
 
   * [[student:firstyearstartup:start | First-Year Start-up Guide ]]
