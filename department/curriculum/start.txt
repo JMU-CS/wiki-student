@@ -13,11 +13,6 @@ See the JMU Catalog for the official [[https://catalog.jmu.edu/content.php?catoi
 The easiest way to see the prerequisite structure is to view the 
 [[https://wiki.cs.jmu.edu/_media/department/curriculum/prereqfigure.pdf|prerequisite tree]].
 
-==== Course Offerings ====
-
-Although the CS department cannot guarantee that certain courses will be offered in the future, we plan course
-offerings ahead of time and do our best to follow the plan. Here are the current [[https://wiki.cs.jmu.edu/_media/department/curriculum/offerings.pdf | anticipated course offerings]].
-
 ==== Example Plans of Study ====
 
 The example [[https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/index.shtml|plans of study]] on the CS website illustrate various ways to fulfill CS and JMU degree requirements.
