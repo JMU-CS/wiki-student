@@ -8,7 +8,7 @@
 
 ==== Planning your courses ====
 
-  * [[https://www.jmu.edu/gened/_files/general-education-planner-2021-22.pdf|GenEd Planner]]: 
+  * [[https://www.jmu.edu/gened/_files/general-education-planner-2021-22.pdf|GenEd Planner]]
   * Academics Requirements Page [[https://www.jmu.edu/computing/ittraining/e-training/mymadison-academic-requirements-report/index.html|tutorial]]
   * CS Sample Plans of Study (organized by when you took CS 149)
     * [[https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/149-first-semester.shtml|149 first semester]]
