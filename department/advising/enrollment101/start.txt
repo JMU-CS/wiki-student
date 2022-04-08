@@ -114,9 +114,6 @@ If you need the help of the CS Advisor, email [[mailto:normanap@jmu.edu|normanap
   * Your full name and EID
   * **DO NOT** separately email any other CS faculty. If you want to include any other CS faculty, CC them on your email to the CS Advisor. Separate emails forces us to duplicate work and degrades our effectiveness and speed to help CS students. 
 
-**Overrides**
-
-When you receive an override, this gives you permission to enroll in the course. __YOU__ will need to enroll in the course. If you've had the course in your shopping cart, remove it. After the override is processed, you will receive an email from the CS department notifying you and you can then add the class and enroll. 
 
 **Open Enrollment**
 
