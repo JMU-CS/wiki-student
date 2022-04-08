@@ -14,6 +14,7 @@
     * [[https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/149-first-semester.shtml|149 first semester]]
     * [[https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/101-first-semester.shtml|149 second semester]]
     * [[https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/149-third-semester.shtml|149 third semester]]
+  * CS [[https://github.com/JMU-CS/Course-Chart/blob/main/chart.md|Prerequisite Flow Chart]] with CS 343
   * VT 4-and-1 [[https://www.jmu.edu/cise/cs/academics/graduate/vt-masters/vt-masters.shtml|Accelerated Masters Program]]
   * Using Schedule Planner [[ https://www.jmu.edu/computing/ittraining/e-training/mymadison-schedule-planner/story_html5.html|tutorial]]
 
