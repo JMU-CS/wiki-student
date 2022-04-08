@@ -108,12 +108,17 @@ Don't worry, there's a [[department:advising-resources:|Wiki Page]] for that!
 **If something else goes wrong during your Enrollment**
   * take a deep breath.
   * Google it; see if you can find any info from a jmu.edu page
-If you need the help of the CS Advisor, email [[mailto:normanap@jmu.edu|normanap@jmu.edu]] and include:
+
+The CS Department can only handle overrides for CS classes. If you are having an issue with enrolling in a CS course, email the CS Advisor, [[mailto:normanap@jmu.edu|normanap@jmu.edu]] and include:
   * A screenshot of the issue you’re having
   * Your standing (Freshmen, Sophomore, etc)
   * Your full name and EID
+  * If you are requesting an override for a CS course, include the section number (e.g. CS 159-0003) of the course you are trying to get into.
   * **DO NOT** separately email any other CS faculty. If you want to include any other CS faculty, CC them on your email to the CS Advisor. Separate emails forces us to duplicate work and degrades our effectiveness and speed to help CS students. 
 
+**Overrides**
+
+When you receive an override, this gives you //permission// to enroll in the course. __YOU__ will need to enroll in the course. If you've had the course in your shopping cart, remove it. After the override is processed, you will receive an email from the CS department notifying you and you can then add the class and enroll.
 
 **Open Enrollment**
 
