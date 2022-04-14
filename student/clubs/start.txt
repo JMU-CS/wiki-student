@@ -63,10 +63,9 @@ The Robotics club enables students who wish to continue robotics work outside of
 ==== UUG (Unix Users Group) ====
 
   * Faculty/staff contacts: Mike Lam (lam2mo) & Mike Ripley (ripleymj)
-  * Student contact: Ryan Showalter
-  * Weekly meetings: Wednesdays at 6:30pm in ISAT/CS 236
+  * Student contact: Dean Ludwig
+  * Weekly meetings: Wednesdays at 6:30pm in King 236
   * Website: www.jmunixusers.org
-  *  Microsoft Teams Code: 24zyy0u (Log in to https://teams.microsoft.com using your Dukes account and password and then click join Team and put this code in to join.)
 
 UUG is an organization for computer enthusiasts, and users of Unix-like operating systems such as Linux and macOS. Meetings are typically Wednesday nights, with an InstallFest to kick off each semester. Fall semester meeetings focus on Linux development tools and processes, and Spring semester meetings focus more on Linux internals and contemporary topics in the open source community.
 
