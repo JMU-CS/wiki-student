@@ -70,7 +70,7 @@ If Sprint N-1 contains open stories and/or deactivated stories, the best thing t
 
 1. Copy the document containing the backlog for Sprint N-1.
 
-2. Rename the copy to "SprintN_TeamXX" (with N replaced by the appropriate number and XX replaced by your team number).
+2. Rename the copy to "sprintNteamXX" (with N replaced by the appropriate number and XX replaced by your team number).
 
 3. Click on <key>Scrum</key>+<key>Delete completed stories</key>.
 
