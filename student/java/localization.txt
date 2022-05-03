@@ -31,7 +31,7 @@ The Java Virtual Machine can be provided with the information is   should use to
 -Duser.country=CA -Duser.language=fr
 </code>
 
-They can be passed to the VM from the command line when executing the ''%%java%%'' command. (Note: When using PowerShell, the arguments must be enclosed in double-quotes.) All IDEs also have a way of passing options to the VM (e.g., in Eclipse as part of the "Run Configuration"; in jGRASP as "RUN Arguments").
+They can be passed to the VM from the command line when executing the ''%%java%%'' command. (Note: When using PowerShell, the arguments must be enclosed in double-quotes.) All IDEs also have a way of passing options to the VM (e.g., in Eclipse as part of the "VM arguments" in the"Arguments" tab of a "Run Configuration"; in jGRASP as "RUN Arguments").
 
 
 It is also possible to change the ''%%Locale%%'' inside of a   program using   the [[ http://docs.oracle.com/javase/9/docs/api/java/util/Locale.html#setDefault(java.util.Locale) |  java.util.Locale#setDefault(java.util.Locale) ]]   method.
