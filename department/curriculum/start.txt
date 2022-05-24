@@ -11,10 +11,7 @@ See the JMU Catalog for the official [[https://catalog.jmu.edu/content.php?catoi
 ==== Prerequisites ====
 
 The easiest way to see the prerequisite structure is to view the 
-[[https://wiki.cs.jmu.edu/_media/department/curriculum/jmu_cs_curriculum.pdf|prerequisite tree]].
-
-
-Or our CS Curriculum [[https://wiki.cs.jmu.edu/_media/department/curriculum/updated_cs_flowchart_1_.png|Flowchart]].
+[[https://wiki.cs.jmu.edu/_media/department/curriculum/jmu_cs_curriculum.pdf|prerequisite tree]] or our CS Curriculum [[https://wiki.cs.jmu.edu/_media/department/curriculum/updated_cs_flowchart_1_.png|Flowchart]].
 
 ==== Example Plans of Study ====
 
