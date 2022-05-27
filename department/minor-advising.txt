@@ -37,10 +37,10 @@ CS/MATH 227, CS 240, CS 261, CS 327. This sequence combines theory and algorithm
 CS/MATH 227, CS 240, CS 261, CS 361. This sequence has less focus on theory, but introduces multithreaded and network-based programming. The additional CS 361 course requires more C programming.
  
 **Software engineering and information systems**\\
-CS 345, CS 347, CS 374, CS 447. This sequence combines professional software engineering practices with databases, web programming, and user interface design.
+CS 343, CS 345, CS 374, CS 347 or CS 447. This sequence combines professional software engineering practices with databases, web programming, and user interface design.
  
 **Societal impact and user experience**\\
-CS 101, CS 330, CS 345, CS 447. This sequence includes coursework in the ethical implications of computing (including security and privacy) and user interface design.
+CS 343, CS 330, CS 345, CS 447. This sequence includes coursework in the ethical implications of computing (including security and privacy) and user interface design.
  
 **Theory and logic**\\
 CS/MATH 227, CS 240, CS 327, CS 442. This sequence focuses on the mathematical theory and formal logic structures that create the foundation of CS.
