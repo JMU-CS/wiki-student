@@ -1,10 +1,21 @@
 ====== First Year Start-up Guide ======
 
+===== Computer Guidelines =====
+
+Most of our students have laptops: they're useful for your college career and being able to transport your CS work around with you. However, laptops are not required. The CS labs provide the necessary resources for students to complete work for any of their CS classes. 
+
+If you're wondering which laptop is right for you, it's more a question of personal preference than recommended specs. One of the most important considerations is how large/heavy it will be to carry around all day. 13-inch is popular among students and faculty. 15-inch has a nicer display but costs more and is heavier. 
+
+Our recommended minimum specs for a laptop: i5/r5 processor, 16gb of ram, 256gb SSD.
+
+Many professors use PC laptops (mostly running Linux Mint) and many professors use MacBook Pros. If you are considering a Mac, know that Apple tends to keep the same prices and upgrade the hardware periodically. Keep an eye on [[http://buyersguide.macrumors.com/#Retina_MacBook_Pro|MacRumors]] to know when to buy. And order via the [[http://store.apple.com/us-hed/|Apple Store for Education]] to get the student discount. Or just get yourself a reasonable PC and install [[http://www.linuxmint.com/|Linux Mint]] as a 2nd OS -- that's what we use in the CS labs.
+
 ===== How do Office Hours Work? =====
 
 Each professor at JMU holds at least 5 scheduled office hours per week. This means that the professor is available at that time to meet //without an appointment//. To attend office hours, you simply show up to your professor's office within the scheduled time. It is generally a good idea to get there as early as possible, especially if something is due, because office hours can be quite busy. You should not feel like you are taking the professors time when you attend office hours. Part of the reason faculty members join a teaching school like JMU is that they love working with and advising students. One-on-one interactions during office hours are certainly a part of what makes the job great. If you are not going to office hours then you are missing out on an essential part of JMU. 
 
 You can find CS professor office hours on the [[department:officehours:start| Faculty Office Hours ]] page. Additionally, the syllabus for each of your courses should list the office hours for that professor. Always check the syllabus before sending an email asking when office hours are. 
+
 ===== Departmental Clubs =====
 
 JMU computer science has a number of active clubs. Some of these run as official university clubs while some are unofficially run in-house in the department. All of our clubs are listed on [[student:clubs:start | Clubs]] page. If you are interested in joining or just finding out more information you can reach out to either the student contact for the club or the faculty advisor for more information. Clubs are a great way to get to know other CS students, deep dive into specific CS topics,, volunteer your CS skills, work to make CS a better and more inclusive field, and much more. All of our clubs take first-years and we encourage you to get involved early. 
