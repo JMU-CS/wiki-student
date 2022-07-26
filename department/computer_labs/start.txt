@@ -39,7 +39,7 @@ All labs have the same software, including but not limited to the following:
   * Vim 8.1
   * Visual Paradigm 16.3
   * Visual Studio Code 1.69.1
-  * VMware Workstation 16.2.3
+  * VMware Workstation 16.2.3 (Desktops only)
   * Zoom 5.11.1
 
 ==== Known Hosts ====
