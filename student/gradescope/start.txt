@@ -1,3 +1,4 @@
 ===== Help Using Gradescope =====
 
-  * [[student:gradescope:gradingtier-summarizers|Help Understanding Autograders that use gradingtier]]
+  * [[https://help.gradescope.com/category/cyk4ij2dwi-student-workflow | Gradescope Student Center ]]
+  * [[student:gradescope:gradingtier-summarizers|Help Understanding JMU Autograders that use gradingtier]]
