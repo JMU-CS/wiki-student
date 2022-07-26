@@ -18,7 +18,7 @@ All labs have the same software, including but not limited to the following:
   * Arduino IDE 1.8.19
   * BlueJ 5.0.3
   * CUDA 11.2 (desktops only)
-  * DrJava beta 20190813
+  * DrJava beta 20190813-220051
   * Eclipse 2022-06
   * Emacs 26.3
   * GCC 9.3.0
@@ -46,5 +46,8 @@ All labs have the same software, including but not limited to the following:
 
 See below for the current ''known_hosts'' file for all JMUCS lab machines. You'll need to replace or merge it with your existing ''~/.ssh/known_hosts'', removing any duplicate hosts.
 
-
 {{jmucs-known_hosts.txt?linkonly}} Last updated: 2022-07-26
+
+==== Known Issues ====
+
+  * DrJava: Prompts to upgrade to a new version even though that version is already installed.
