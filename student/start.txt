@@ -33,6 +33,7 @@ In addition to using this page to find information, you can search the Wiki usin
   * [[department:listserv:start| CS Listserv ]]
   * [[department:officehours:start| Faculty Office Hours ]]
   * [[student:freesoftware:start | Free Software ]]
+  * [[student:gradescope:start | Gradescope ]]
   * [[department:honors_capstone:start|Honors Capstone]]
   * [[https://jmu.libwizard.com/f/compsci-guide-basic|Library Resources]] (including off-campus access info)
   * [[department:remote_access:start|Remote Access]]
