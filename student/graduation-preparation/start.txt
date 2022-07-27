@@ -10,22 +10,22 @@ December graduates: applications open in early May and begin being reviewed in e
 Spring graduates: applications open in early October and begin being reviewed in early February\\
 
 ==== Current requirements (Catalog Year 2019 and later) ====
-CS 159
-CS 227
-CS 240
-CS 261
-CS 327
-CS 345
-CS 361
-CS 430
-Algorithms: CS 412 (applied) or CS 452 (theoretical)
-Systems elective: CS 432, CS 450, CS 455, CS 456, or CS 470
-3 CS electives numbered 300 or higher
-Only one can be less than 345
-Can use cross-listed courses: MATH 448, MATH 449
-Calculus: MATH 231+232 or MATH 235
-Statistics: MATH 220, MATH 229, or MATH 318
-Major GPA of 2.0 or better
+  * CS 159
+  * CS 227
+  * CS 240
+  * CS 261
+  * CS 327
+  * CS 345
+  * CS 361
+  * CS 430
+  * Algorithms: CS 412 (applied) or CS 452 (theoretical)
+  * Systems elective: CS 432, CS 450, CS 455, CS 456, or CS 470
+  * 3 CS electives numbered 300 or higher
+    * Only one can be less than 345
+    * Can use cross-listed courses: MATH 448, MATH 449
+  * Calculus: MATH 231+232 or MATH 235
+  * Statistics: MATH 220, MATH 229, or MATH 318
+  * Major GPA of 2.0 or better
 
 ==== Previous requirements (Catalog Year 2018 and earlier) ====
 CS 159
