@@ -28,22 +28,22 @@ Spring graduates: applications open in early October and begin being reviewed in
   * Major GPA of 2.0 or better
 
 ==== Previous requirements (Catalog Year 2018 and earlier) ====
-CS 159
-CS 227
-CS 240
-CS 261
-CS 327
-CS 345
-CS 361
-CS 374
-CS 430
-Technical Writing: CS 260 or CS 280 (Spring 2020, Section 1, Dent)
-Systems elective: CS 432, CS 450, CS 455, CS 456, or CS 470
-3 CS electives numbered 300 or higher
-Can use cross-listed courses: MATH 448, MATH 449
-Calculus: MATH 231+232 or MATH 235
-Statistics: MATH 220, MATH 229, or MATH 318
-Major GPA of 2.0 or better
+  * CS 159
+  * CS 227
+  * CS 240
+  * CS 261
+  * CS 327
+  * CS 345
+  * CS 361
+  * CS 374
+  * CS 430
+  * Technical Writing: CS 260 or CS 280 (Spring 2020, Section 1, Dent)
+  * Systems elective: CS 432, CS 450, CS 455, CS 456, or CS 470
+    * 3 CS electives numbered 300 or higher
+    * Can use cross-listed courses: MATH 448, MATH 449
+  * Calculus: MATH 231+232 or MATH 235
+  * Statistics: MATH 220, MATH 229, or MATH 318
+  * Major GPA of 2.0 or better
 
 ==== Technical writing ====
 No longer being offered\\
