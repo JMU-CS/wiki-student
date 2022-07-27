@@ -46,17 +46,18 @@ Spring graduates: applications open in early October and begin being reviewed in
   * Major GPA of 2.0 or better
 
 ==== Technical writing ====
-No longer being offered\\
-If your catalog year is 2018 or older, and you have not taken CS 260/280(Dent), you **must** change your catalog year\\
 
-Here's what you will see in your Academic Requirements report will look like if you're missing your Technical Writing course:\\ 
+CS 260 is no longer being offered. If your catalog year is 2018 or older, and you have not taken CS 260/280(Dent), you **must** change your catalog year.
+
+Here's what you will see in your Academic Requirements report will look like if you're missing your Technical Writing course:
+
 {{:student:graduation-preparation:technical-writing-deficit.png?400|}}
 
-**Changing your Catalog Year**\\
-Email buchhofp@jmu.edu\\
-Include student ID number, old year, desired new year\\
-If you have not taken an algorithms course, you **must** enroll for CS 412 in the spring (we plan to offer 3 sections)\\
-CS 374 (Databases) will count as an elective class\\
+**Changing your Catalog Year**
+
+Email ''buchhofp@jmu.edu''
+
+Include your student ID number, old year, and desired new year. If you have not taken an algorithms course, you **must** enroll for CS 412 or 452 in your final semester. CS 374 (Databases) will count as an elective class if you have taken it.
 
 ==== Checking graduation requirements ====
 View your Academic Requirements report in MyMadison\\
