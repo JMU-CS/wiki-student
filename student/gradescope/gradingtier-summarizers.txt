@@ -1,8 +1,6 @@
 ===== Understanding the Feedback from gradingtier Summarizers =====
 
-This page provides information about the feedback provided by the autograders
-that use gradingtier (and Checkstyle, JUnit, and JaCoCo/EclEmma) to
-assess Java programming assignments.
+Gradescope supports several different autograders. This page provides information about the feedback provided by the autograders that use gradingtier (and Checkstyle, JUnit, and JaCoCo/EclEmma) to assess Java programming assignments.
 
 
 ==== Feedback about Compilation ====
