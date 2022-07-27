@@ -39,7 +39,7 @@ Spring graduates: applications open in early October and begin being reviewed in
   * CS 430
   * Technical Writing: CS 260 or CS 280 (Spring 2020, Section 1, Dent)
   * Systems elective: CS 432, CS 450, CS 455, CS 456, or CS 470
-    * 3 CS electives numbered 300 or higher
+  * 3 CS electives numbered 300 or higher
     * Can use cross-listed courses: MATH 448, MATH 449
   * Calculus: MATH 231+232 or MATH 235
   * Statistics: MATH 220, MATH 229, or MATH 318
