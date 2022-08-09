@@ -1,7 +1,7 @@
 ==== ACM (Association for Computing Machinery) / Coders Anonymous ====
 
   * Faculty contact: John Bowers (bowerscj)
-  * Student contact: TBD
+  * Student contact: Matt Wong
   * Regular meetings: TBD
   * Microsoft Teams Code: ml5elr8 (Log in to https://teams.microsoft.com using your Dukes account and password and then click join Team and put this code in to join.)
 * In case the teams code doesn't work, [[https://teams.microsoft.com/l/team/19%3a7e8db368bab94a0a8280c60f6046ff36%40thread.tacv2/conversations?groupId=0105e18f-4919-4267-b163-e1bb9066e381&tenantId=3d261773-12a4-47ee-bd93-912a93b9bdc2|use this link]] (this will require approval by a club member, so is not preferred).
