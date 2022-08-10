@@ -43,11 +43,10 @@
   * TTh: 11:00 AM-12:00 PM in ISAT/CS 246-E
   * Send a message on Slack to arrange a video meeting.
 
-**Dr. Kirkpatrick** - CS 240, CS 280
-  * Regular Office Hours: M 2 - 3:30, F 11:00 - 1:00 (CS 280), F 2:00 - 5:00 (CS 240)
-  * Times by appointment: T 10:30 - 12:00
+**Dr. Kirkpatrick** - CS 343, CS 361
+  * Regular Office Hours: M 11:15 - 12:30, W 2:45 - 4:00, F 2:45 - 4:00
+  * Other times by appointment
   * Appointments: [[https://w3.cs.jmu.edu/kirkpams/appointment.shtml|https://w3.cs.jmu.edu/kirkpams/appointment.shtml]]
-  * M/T Zoom room (class-specific links on Canvas): [[https://jmu-edu.zoom.us/j/82998366703]]
 
 **Dr. Lam** - CS 430, CS 470
   * Office Hours: MTuWThF 10:30-11:30am (ISAT/CS 227 or join virtually: [[https://bit.ly/lam-office-hours-sp22|bit.ly/lam-office-hours-sp22]])
