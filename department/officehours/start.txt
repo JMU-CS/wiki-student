@@ -65,7 +65,7 @@
   * Friday: 11:00 - 12:00 pm
   * Other times by appointment (email: molloykp@jmu.edu)
 
-**Prof. Normand** - CS Advisor
+**Paige Normand** - CS Advisor
   * Office: King 246A
   * Calendar: [[https://jmu-cs.as.me/advisor|https://jmu-cs.as.me/advisor]] 
   * Other times by appointment: normanap@jmu.edu
