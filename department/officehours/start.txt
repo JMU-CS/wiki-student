@@ -44,7 +44,7 @@
   * Send a message on Slack to arrange a video meeting.
 
 **Dr. Kirkpatrick** - CS 343, CS 361
-  * Regular Office Hours: M 11:15 - 1:00, W 2:45 - 4:00, F 2:45 - 4:00
+  * Regular Office Hours: M 2:45 - 4:30, W 2:45 - 4:00, F 2:45 - 4:30
   * Other times by appointment
   * Appointments: [[https://w3.cs.jmu.edu/kirkpams/appointment.shtml|https://w3.cs.jmu.edu/kirkpams/appointment.shtml]]
 
