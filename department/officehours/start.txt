@@ -53,10 +53,7 @@
   * Office Hours: MTuWThF 10:30-11:30am (ISAT/CS 227 or join virtually: [[https://bit.ly/lam-office-hours-sp22|bit.ly/lam-office-hours-sp22]])
   * Meetings outside office hours: [[https://calendly.com/lam2mo/15min|calendly.com/lam2mo]]
 
-**Dr. Mayfield** - CS 159, CS 374
-  * Office Hours: M/W/F, 2:20-4:00pm
-  * CS 159/374 students: Connect to the "Waiting Room" channel on Discord. I'll meet with you one at a time or in small groups, in the order that you arrive.
-  * Other students: Please email me to set up an appointment, and I will send you a Zoom link. I am also available to meet outside of office hours.
+**Dr. Mayfield** - On Leave Fall 2022
 
 **Dr. Molloy** - CS 149, CS 354, CS 445
   * Zoom link for office hours: [[https://jmu-edu.zoom.us/j/84610674851]]
