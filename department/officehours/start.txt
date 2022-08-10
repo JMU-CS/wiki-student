@@ -93,7 +93,7 @@
   * Wed: 2-4 in EnGeo 2204
   * Thurs: 2-3 in 248 King
 
-**Dr. Tjaden** - On Leave Fall 2021
+**Dr. Tjaden** - CS 361 (CS 610 & CS 685)
 
 **Dr. Wang** - CS482/CS559/CS627 [Spring 2022]
   * Office hours: [Tu/Th] 10:40 ~ 12:40; 14:10 ~ 14:40； or by appointment (wangxx@jmu.edu)
