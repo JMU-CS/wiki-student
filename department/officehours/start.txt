@@ -38,10 +38,9 @@
   * Note: Please post your classroom related questions in the appropriate forum, so your classmates may also benefit from the QA. 
   * If you have questions about the program and I am not available, please contact Carole Ritchie (room 219) at 540-568-8772 or email her at ritchica@jmu.edu. 
 
-**Dr. Johnson** - CS 240, CS 347
-  * MW: 11:30 AM-12:30 PM in ISAT/CS 246-E
-  * TTh: 11:00 AM-12:00 PM in ISAT/CS 246-E
-  * Send a message on Slack to arrange a video meeting.
+**Dr. Johnson** - CS 240, CS 430
+  * MWF: 10:00 AM-11:00 AM in ISAT/CS 246-E
+  * TTh: 12:30 AM-1:30 PM in ISAT/CS 246-E
 
 **Dr. Kirkpatrick** - CS 343, CS 361
   * Regular Office Hours: M 2:45 - 4:30, W 2:45 - 4:00, F 2:45 - 4:30
