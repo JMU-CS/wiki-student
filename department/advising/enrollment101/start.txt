@@ -50,7 +50,7 @@ This option is strictly at the discretion of the instructor, and most will only 
 
 ===== Enrollment Windows =====
 
-Spring 2023 enrollment appointments begin November 7, 2022
+Spring 2023 enrollment appointments begin November 7, 2022.//
 Look at MyMadison for YOUR appointment date and time.
 Your enrollment day based on your standing - [[https://www.jmu.edu/registrar/students/fall_enroll_time.shtml|see details]]
 
