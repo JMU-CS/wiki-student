@@ -54,7 +54,7 @@ Spring 2023 enrollment appointments begin November 7, 2022.\\
 Look at MyMadison for YOUR appointment date and time.
 Your enrollment day based on your standing - [[https://www.jmu.edu/registrar/students/fall_enroll_time.shtml|see details]]
 
-If you do not know what to sign up for, please make an appointment with the CS advisor.
+If you do not know what to sign up for, please review the [[https://wiki.cs.jmu.edu/department/curriculum/start|curriculum resources]], including sample plans of study. If you have further questions or concerns, schedule appointment with the CS advisor.
 
 Open Enrollment begins at 12:01am on November 11, 2022. During Open Enrollment, you can expect SOME movement in classes, so you are welcome to continue to look for classes through the add/drop deadline of the fall semester.
 HOWEVER, do NOT count on finding a seat in a specific class.
