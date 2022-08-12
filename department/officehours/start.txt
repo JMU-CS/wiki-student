@@ -51,8 +51,8 @@
   * Other times by appointment
   * Appointments: [[https://w3.cs.jmu.edu/kirkpams/appointment.shtml|https://w3.cs.jmu.edu/kirkpams/appointment.shtml]]
 
-**Dr. Lam** - CS 430, CS 470
-  * Office Hours: MTuWThF 10:30-11:30am (ISAT/CS 227 or join virtually: [[https://bit.ly/lam-office-hours-sp22|bit.ly/lam-office-hours-sp22]])
+**Dr. Lam** - CS 261, CS 432
+  * Office Hours: MTuWThF 10:30-11:30am (ISAT/CS 227 or join virtually: [[https://bit.ly/lam-office-hours-fa22|bit.ly/lam-office-hours-fa22]]) (TENTATIVE)
   * Meetings outside office hours: [[https://calendly.com/lam2mo/15min|calendly.com/lam2mo]]
 
 **Dr. Mayfield** - On Leave Fall 2022
