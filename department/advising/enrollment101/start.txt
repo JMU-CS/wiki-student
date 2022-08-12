@@ -38,7 +38,7 @@ Students will need a departmental override if they are taking either CS 159 and 
 
 If withdrawing from a course results in you being below 12 credit hours during the semester, consult the potential impacts of no longer being a full-time student: https://wiki.cs.jmu.edu/department/advising/withdraw/start
 
-=== Withdrawing AFTER March 25th ===
+=== Withdrawing AFTER October 26th ===
 
 Any student wanting to withdraw from a class after the Withdraw deadline can only do so when an instructor agrees to issue a final grade of "WP" (withdraw pass) or "WF" (Withdraw Fail), based on their grade at time of withdrawal.\\
 
@@ -50,13 +50,13 @@ This option is strictly at the discretion of the instructor, and most will only 
 
 ===== Enrollment Windows =====
 
-Fall 2022 enrollment appointments begin April 11, 2022
+Spring 2023 enrollment appointments begin November 7, 2022
 Look at MyMadison for YOUR appointment date and time.
 Your enrollment day based on your standing - [[https://www.jmu.edu/registrar/students/fall_enroll_time.shtml|see details]]
 
 If you do not know what to sign up for, please make an appointment with the CS advisor.
 
-Open Enrollment begins at 12:01am on April 15, 2022. During Open Enrollment, you can expect SOME movement in classes, so you are welcome to continue to look for classes through the add/drop deadline of the fall semester.
+Open Enrollment begins at 12:01am on November 11, 2022. During Open Enrollment, you can expect SOME movement in classes, so you are welcome to continue to look for classes through the add/drop deadline of the fall semester.
 HOWEVER, do NOT count on finding a seat in a specific class.
 
 We recommend that you **enroll in 15-16 credit hours during your advance registration appointment**, and then SWAP when you find a course you really want with an open seat.
@@ -99,8 +99,6 @@ Don't worry, there's a [[department:advising-resources:|Wiki Page]] for that!
   * Find your enrollment period and set calendar reminders. See: MyMadison > Student Center > Enrollment Dates
   * Have your shopping cart ready to check out when your enrollment period arrives
 
-**Enrollment Drop-in Day: April 8th**
-  * I'll be hosting a drop-in session this day with CS Ambassadors and Curriculum Specialists from Virigina Tech to help students plan for their fall semester and discuss the 4-and-1 Masters Program with VT. 
 
 ==== When You Enroll ====
 
@@ -130,6 +128,6 @@ When you receive an override, this gives you //permission// to enroll in the cou
 
 **Open Enrollment**
 
-After all students have had initial access to enrollment (4 days), open enrollment allows you to enroll in courses to fine-tune your schedule. Open enrollment begins April 15, 2022.
+After all students have had initial access to enrollment (4 days), open enrollment allows you to enroll in courses to fine-tune your schedule. Open enrollment begins November 11, 2022.
 
-Note: Fall 2022 registration will close for currently enrolled students on Friday, May 27th at 12PM for Transfer and Freshman Orientation. Registration will reopen on Monday, August 1st at 12:01AM.
+Note: Registration will close for currently enrolled students in early Dec/late May so that incoming Transfer and First Year students can enroll. Open Enrollment will resume in early January/early August. Exact dates TBD. 
