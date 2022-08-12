@@ -124,7 +124,7 @@ The CS Department can only handle overrides for CS classes. If you are having an
 
 **Overrides**
 
-When you receive an override, this gives you //permission// to enroll in the course. __YOU__ will need to enroll in the course. If you've had the course in your shopping cart, remove it. After the override is processed, you will receive an email from the CS department notifying you and you can then add the class and enroll.
+When you receive an override, this gives you //permission// to enroll in the course. __YOU__ will need to enroll in the course. If you've had the course in your shopping cart, remove it. After the override is processed, you will receive an automated email notifying you and you can then add the class and enroll.
 
 **Open Enrollment**
 
