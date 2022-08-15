@@ -97,8 +97,8 @@
 
 **Dr. Tjaden** - CS 361 (CS 610 & CS 685)
 
-**Dr. Wang** - CS482/CS559/CS627 [Spring 2022]
-  * Office hours: [Tu/Th] 10:40 ~ 12:40; 14:10 ~ 14:40； or by appointment (wangxx@jmu.edu)
+**Dr. Wang** - CS327/CS660 [Fall 2022]
+  * Office hours: [Tu/Th] 10:40 ~ 12:40; 15:40 ~ 16:10;；or by appointment (wangxx@jmu.edu)
   * Zoom URL: [[https://jmu-edu.zoom.us/j/4401425906 |https://jmu-edu.zoom.us/j/4401425906]]
 
 **Dr. Weikle** - CS159, CS456 Spring 2022
