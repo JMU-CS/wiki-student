@@ -1,0 +1,9 @@
+====== First-Year Advising FAQ ======
+
+Q. I have a hold on my account, what should I do?
+
+A. It depends on the type of hold. Clicking the "Details" link next to the hold information on MyMadison will give you more information about what department placed the hold. 
+
+One hold that crops up towards the end of summer before classes start is the "No initial registration" hold placed by "STUDENT HEALTH SERV". This hold occurs when you have not completed all of the necessary health steps. In order to figure out what you still need to do, log into [[https://sslvpn.jmu.edu/dana-na/auth/url_default/welcome.cgi?_ga=2.262183500.1935437931.1660568273-1467566093.1660222713|MyJMUChart]] to see what actions you still need to take.
+
+----
