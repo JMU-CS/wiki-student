@@ -107,9 +107,11 @@ Office Hours: All my classes are online, so my office hours are mostly by appoin
   * Mon and Wed 4-5, Thurs 2-4, Fri. 3-4, and each day immediately after class
   * Or Email for passcode or additional times weikleda@jmu.edu
 
-**Dr. Shrestha** - CS149 Fall 2022
-* Office Hours-
-* Tues: 2:30 - 4:30 246 D, King Hall
-* Wed: 3 - 4  246 D, King Hall
-* Thurs 4 - 5 246 D, King Hall
+**Dr. Shrestha**\\
+Office Hours:
+  * Tues: 2:30 - 4:30, 246 D, King Hall 
+  * Wed: 3 - 4,  246 D, King Hall 
+  * Thurs: 4 - 5, 246 D, King Hall
+  * Other times - By appointment (shrestcx@jmu.edu)
+Zoom meeting room: TBA
                             
