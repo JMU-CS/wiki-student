@@ -50,7 +50,7 @@ Office Hours: All my classes are online, so my office hours are mostly by appoin
 **Dr. Kirkpatrick** - CS 343, CS 361
   * M/W/F: 3:00 - 4:00 PM in King 223
   * Th: 9:00 - 11:00 AM via Zoom (ends at 9:45 AM on the 3rd Thursday of each month)
-  * Appointments (for personal concerns or other non-course issues): [[https://w3.cs.jmu.edu/kirkpams/appointment.shtml|https://w3.cs.jmu.edu/kirkpams/appointment.shtml]]
+  * Appointments (not for course help): [[https://w3.cs.jmu.edu/kirkpams/appointment.shtml|https://w3.cs.jmu.edu/kirkpams/appointment.shtml]]
 
 **Dr. Lam** - CS 261, CS 432
   * Office Hours: MTuWThF 10:30-11:30am (ISAT/CS 227 or join virtually: [[https://bit.ly/lam-office-hours-fa22|bit.ly/lam-office-hours-fa22]]) (TENTATIVE)
