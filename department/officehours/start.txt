@@ -69,12 +69,16 @@ Office Hours: All my classes are online, so my office hours are mostly by appoin
   * Calendar: [[https://jmu-cs.as.me/advisor|https://jmu-cs.as.me/advisor]] 
   * Other times by appointment: normanap@jmu.edu
 
-**Dr. Kirsten Richards** - CS 149
-  * M/W 2-4PM
-  * T/Th 3-4 PM
-  * Please send an email to reserve your slot within the scheduled office hours. You will be provided with a Zoom link by email.
-  * You may also contact me via Microsoft Teams channel for CS149.
-  * Additional times available by appointment, please email to schedule appointment at richa3ke@jmu.edu
+**Dr. Richards** - CS 374 and 343
+I am working remotely at this time, please send an email for the link. For enrolled students, you can also find the link in Canvas.
+Monday – By appointment
+Tuesday – 5:15PM – 6:15 PM
+Wednesday:
+-	11AM – 12:30 AM – by appointment
+-	4:00 PM – 5:30 PM
+Thursday – 5:15PM – 6:15PM
+
+* Additional times available by appointment, please email to schedule appointment at richa3ke@jmu.edu
 
 **Prof. Riley**
   * TuTh 1:00-3:30
