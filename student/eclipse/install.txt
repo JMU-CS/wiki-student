@@ -29,9 +29,9 @@ If your course has a formatter, you should install it. (Note: You can use one fo
   - Click on <key>Preferences</key> (which will either be under <key>Window</key> or <key>Eclipse</key> depending on your OS)
   - Expand the appropriate "//Language//" (e.g., "Java"), expand "Code Style" and select "Formatter".
   - Click on <key>Import...</key> and navigate to the ''%%.xml%%'' file you downloaded.
-  - Click on <key>OK</key>.
+  - Click on <key>Open</key>.
   - Select the appropriate "Active profile".
-  - Click on <key>OK</key>.
+  - Click on <key>Apply and Close</key>.
 
 ==== Install and Use a Custom Checks Configuration File ====
 
@@ -48,7 +48,7 @@ If your course has a checks configuration file for Checkstyle, you should instal
   - Click on <key>OK</key>.
   - Select the appropriate configuration file.
   - Click on <key>Set as Default</key>.
-  - Click on <key>OK</key>.
+  - Click on <key>Apply and Close</key>.
 
 ==== Install and Use a Custom Code Template ====
 
