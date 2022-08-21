@@ -6,9 +6,9 @@ If a Gradescope assignment requires you to submit code, a dialog box will appear
 
 The upload option supports two different ways of supplying the code, "drag and drop" and "browse". 
 
-Regardless of which you use, **if you are submitting Java code that is in packages**, you should submit a ''.zip'' file that contains the directories/folders corresponding to the packages, and these directories/folders must be at the top of the ''.zip'' file. For more information, see the page on [[student:zip:creating| creating a ''.zip'' file]]. (Note: If you submit the directories/folders themselves, Gradescope will "flatten" the tree. In other words, all of the files will be placed in a single directory/folder, which may cause problems if your code or the autograder expects things to be in specific directories/folders. You can check to see if this has happened by clicking on the <mouse>Code</mouse> tab after the autograder finishes. If the directory/folder name corresponding to the package does not appear before the name of the file then your submission was "flattened", in which case, your code may compile but not execute correctly.)
+Regardless of which you use, **if you are submitting Java code that is in packages**, you should submit a ''.zip'' file that contains the directories/folders corresponding to the packages, and these directories/folders must be at the top of the ''.zip'' file. For more information, see the page on [[student:zip:creating| creating a ''.zip'' file]]. (Note: If you submit the directories/folders themselves, Gradescope will "flatten" the tree. In other words, all of the files will be placed in a single directory/folder, which may cause problems if your code or the autograder expects things to be in specific directories/folders. You can check to see if this has happened by clicking on the <key>Code</key> tab after the autograder finishes. If the directory/folder name corresponding to the package does not appear before the name of the file then your submission was "flattened", in which case, your code may compile but not execute correctly.)
 
-After you identify your code, you must click on the <mouse>Upload</mouse> button to complete the process.
+After you identify your code, you must click on the <key>Upload</key> button to complete the process.
 
 === Drag and Drop ===
 
@@ -25,7 +25,7 @@ To "browse" to the file(s):
   - Click in the interior of the dashed rectangle in the dialog box.
   - Navigate to the appropriate directory/folder.
   - Select the appropriate file(s).
-  - Click on <mouse>Open</mouse>/<mouse>OK</mouse>/<mouse>Done</mouse>/... as appropriate for your operating system and browser.
+  - Click on <key>Open</key>/<key>OK</key>/<key>Done</key>/... as appropriate for your operating system and browser.
 
 
 ==== After Supplying the Code ====
