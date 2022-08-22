@@ -89,7 +89,8 @@ I am working remotely at this time, please send an email for the link. For enrol
   * Zoom link:  https://jmu-edu.zoom.us/my/sharonsimmons
 
 **Dr. Sprague**
-  * Office Hours: M/F 12:00-1:30, Wed. 12:00-1:00, Thur. 9:00-10:00AM
+  * Office: King 226
+  * Office Hours: Monday through Friday 1:00-2:00
   * Calendar: [[https://w3.cs.jmu.edu/spragunr/schedule.html|https://w3.cs.jmu.edu/spragunr/schedule.html]]
   * Zoom URL: Available through Canvas, or email me for the link.
 
