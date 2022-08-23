@@ -6,18 +6,26 @@ In addition to using this page to find information, you can search the Wiki usin
 
 ==== CS Advising ====
 
-  * [[department:schedule_fall2022:start| Fall 2022 Schedule]] 
-  * [[department:advising:enrollment101:start| Enrollment Advice]]
-  * -- [[department/advising/enrollment-159:start| Students Currently in CS 159]]
-  * -- [[department/waitlist/start| Using the Waitlist Correctly]]
-  * [[department:advising-resources| Advising Resources]]
-  * [[department:advising:start| Advising FAQ ]]
-  * [[department:fya:start| First Year Advising FAQ]]
-  * [[department:curriculum:start| CS Curriculum ]]
-  * [[department:fulladmission:start| Full Admission to the Major or Minor ]]
-  * [[department:graduation| Graduation Process and Forms ]]
-  * [[department:minor-advising| Advising for CS Minors]]
-  * [[department/advising/changing-majors:start| Changing Majors]]
+Curriculum & Advising\\
+[[department:schedule_fall2022:start| Fall 2022 Schedule]] \\
+[[department:advising-resources| Advising Resources]]\\
+[[department:advising:start| Advising FAQ ]]\\
+[[department:minor-advising| Advising for CS Minors]]\\
+[[department/advising/changing-majors:start| Changing Majors]]\\
+
+Enrollment\\
+[[department:advising:enrollment101:start| Enrollment Advice]]\\
+[[department/waitlist/start| Using the Waitlist Correctly]]\\
+[[department:curriculum:start| CS Curriculum ]]
+
+Students taking CS 149 or CS 159\\
+[[department:fya:start| First Year Advising FAQ]]\\
+[[department:fulladmission:start| Full Admission to the Major or Minor ]]\\
+[[department/advising/enrollment-159:start| Enrollment advice for Students in CS 159]]
+
+CS Seniors\\
+[[student:graduation-preparation:start | Graduation Requirements ]]\\
+[[department:graduation| Graduation Process and Forms ]]\\
 ==== Start-up Guides ====
 
   * [[student:firstyearstartup:start | First-Year Start-up Guide ]]
