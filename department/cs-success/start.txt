@@ -13,10 +13,11 @@ For the an explanation of how to use “The Lab” during TA Hours, visit our [[
 \\
 **Team Code:** lb761mv\\
 \\
-You will be able to join the team - JMU CS TA Lab Hours - and you will want to choose The Lab channel on the left. In the channel there will be a post for the "Help Queue" with a current date and time. You will enter your Name, Class and Professor, whether you want a text chat, phone, or video help response, and a short description of your problem. When a Teaching Assistant (TA) is available they will react to your post with a smiling face. You can then expect shortly a response in the format you requested in Teams. In a Teams or Zoom Video chat, you and TAs will be able to share screens, annotate suggestions, and talk "in private". Please note that TAs will help each student in 10 minute increments and they will not be writing your code for you. Instead they will be helping you learn to write code yourself and helping you to navigate any technical problems.
+You will be able to join the team - JMU CS TA Lab Hours - and you will want to choose The Lab channel on the left. In the channel there will be a post for the "Help Queue" with a current date and time. You will enter your Name, Class and Professor, whether you want a text chat, phone, or video help response, and a short description of your problem. When a Teaching Assistant (TA) is available they will react to your post with a smiling face. You can then expect shortly a response in the format you requested in Teams. \\
+In a Teams or Zoom Video chat, you and TAs will be able to share screens, annotate suggestions, and talk "in private". Please note that TAs will help each student in 10 minute increments and they will not be writing your code for you. Instead they will be helping you learn to write code yourself and helping you to navigate any technical problems.
 
 **Fourth Hour** \\
-A student-led walkthrough of the week's CS 149 topics. Open to all CS 149 students.
-Monday and Tuesday 7-8pm in ISAT/CS room 243.
+A student-led walkthrough of the week's CS 149 topics. Open to all CS 149 students.\\
+Monday and Tuesday 7-8pm in King 243.
 
 
