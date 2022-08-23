@@ -84,9 +84,6 @@ CS Seniors\\
   * [[student:xml:start | XML ]]
   * [[student:zip:start | .zip Files ]]
 
-==== Seniors ====
-  * [[student:graduation-preparation:start | Graduation Requirements ]]
-
 
 ==== Community ====
   * [[student:stickercontest|CS Sticker Contest]]
