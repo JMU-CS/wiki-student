@@ -1,0 +1,5 @@
+====== Visual Studio Code on stu ======
+
+Links to video tutorials by Dr. Lam:
+  * Video 1 (password-less access and remote SSH extension setup): https://youtu.be/-RBHz-Ep6Y0
+  * Video 2 (C/C++ debugging setup and basic Git, mainly for CS 261): https://youtu.be/WQTwtnrk8hc
