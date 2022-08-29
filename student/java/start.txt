@@ -8,4 +8,4 @@
   - [[ student:java:browser | Opening an External WWW Browser ]]
   - [[ student:java:profiling | Profiling ]]
   - [[ student:java:resources | Using Resources ]]  
-  - [[ student:java:versions | Versions (and Numbering Systems ]]
+  - [[ student:java:versions | Versions (and Numbering Systems) ]]
