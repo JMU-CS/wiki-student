@@ -57,10 +57,10 @@ If the Java Development Kit is installed and in your PATH, you   can also create
 
 |    jar -cvf //archive//.zip //file// [//file//]...     |
 
-Note that if you use the GUI-based approach, the resulting ''.zip" file will contain OSX-specific files (like ".DS_STORE") and directories (like "__MACOSX") that can cause problems in some situations. You can exclude files when working from the command line using the ''-x'' option. For example:
+Note that if you use the GUI-based approach, the resulting ''%%.zip%%'' file will contain OSX-specific files (like ''%%.DS_STORE%%'') and directories (like ''%%__MACOSX%%'') that can cause problems in some situations. You can exclude files when working from the command line using the ''%%-x%%'' option. For example:
 
 <code>
-zip -r dir.zip . -x ".*" -x "__MACOSX"
+zip -r dir.zip . -x .* -x __MACOSX
 </code>
 
-will create a "dir.zip" that contains all of the directories below the current directory, but will exclude all files that start with a "." and the "__MACOSX" directory.
+will create a ''%%dir.zip%%'' that contains all of the directories below the current directory, but will exclude all files that start with a ''%%.%%'' and the ''%%__MACOSX%%'' directory.
