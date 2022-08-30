@@ -36,6 +36,13 @@
   *Contact by email: duanzx@jmu.edu. Students will be provided with a Zoom link by email.
   *Other times by appointment.
 
+**Dr. Mona El-Kadi Rizvi**\\
+Office Hours:
+  * MTuWTh: 2:00-3:00PM
+  * MW: 10:00-11:00AM
+  * Choose an online time slot at [[https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUhpamhFT0hjOURSfGRlZmF1bHR8YTIzNDgyNjk3YTg4ZjdkYjFiY2NmMDA4MGFlM2Y5Njk|Google Calendar]]
+  * Other times by appointment: elkadima@jmu.edu
+
 **Dr. Heydari** - CS512, CS531
 Office Hours: All my classes are online, so my office hours are mostly by appointment.
   * 	I am available in my office Tuesdays & Wednesdays: 1:00 - 3:00.
@@ -82,6 +89,12 @@ I am working remotely at this time, please send an email for the link. For enrol
   * TuTh 1:00-3:30
   * Other times by appointment. Don't be shy in asking.
 
+**Dr. Shrestha**\\
+Office Hours (246 D, King Hall):
+  * T/Th: 4 - 5pm, Weds: 10 - 11am, 1 - 3 pm
+  * Others - By appointment (shrestcx@jmu.edu)
+Zoom Option: TBA
+
 **Dr. Simmons**
   * Office King 221
   * Office Hours:  Tuesday/Wednesday 1pm - 3pm  
@@ -101,30 +114,19 @@ I am working remotely at this time, please send an email for the link. For enrol
 
 **Dr. Tjaden** - CS 361 (CS 610 & CS 685)
 
-**Dr. Wang** - CS327-0002&0003, CS660 [Fall 2022]
-  * Office hours: [Tu/Th] 10:40 ~ 12:40; 15:40 ~ 16:10;；or by appointment (wangxx@jmu.edu)
+**Dr. Wang, Isaac** (King Hall 246C and [[https://jmu-edu.zoom.us/my/drwangid?pwd=VEV4MS9MMVI3L0l2MHZnU0JaUEJjZz09|Zoom]])\\
+Office Hours:
+  * M: 1 PM - 2 PM
+  * T/Th: 2 PM - 4 PM
+  * And other times by appointment! ([[wangid@jmu.edu?subject=Office Hours Appointment|wangid@jmu.edu]])
+
+**Dr. Xunhua Wang** - CS327-0002&0003, CS660 [Fall 2022]
+  * Office hours: [Tu/Th] 10:40 ~ 12:40; 15:40 ~ 16:10 [King Hall 213]；or by appointment (wangxx@jmu.edu)
   * Zoom URL: [[https://jmu-edu.zoom.us/j/4401425906 |https://jmu-edu.zoom.us/j/4401425906]]
 
 **Dr. Weikle** - CS159, CS456 Spring 2022
   * Office Hours: Zoom Link: [[https://jmu-edu.zoom.us/j/82736232468?pwd=Y1JUMXZCLzlwTnIvM0gvZ3NOTDFUQT09]]
   * Mon and Wed 4-5, Thurs 2-4, Fri. 3-4, and each day immediately after class
   * Or Email for passcode or additional times weikleda@jmu.edu
-
-**Dr. Shrestha**\\
-Office Hours (246 D, King Hall):
-  * T/Th: 4 - 5pm, Weds: 10 - 11am, 1 - 3 pm
-  * Others - By appointment (shrestcx@jmu.edu)
-Zoom Option: TBA
                             
-**Dr. Mona El-Kadi Rizvi**\\
-Office Hours:
-  * MTuWTh: 2:00-3:00PM
-  * MW: 10:00-11:00AM
-  * Choose an online time slot at [[https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUhpamhFT0hjOURSfGRlZmF1bHR8YTIzNDgyNjk3YTg4ZjdkYjFiY2NmMDA4MGFlM2Y5Njk|Google Calendar]]
-  * Other times by appointment: elkadima@jmu.edu
 
-**Dr. Wang, Isaac** (King Hall 246C and [[https://jmu-edu.zoom.us/my/drwangid?pwd=VEV4MS9MMVI3L0l2MHZnU0JaUEJjZz09|Zoom]])\\
-Office Hours:
-  * M: 1 PM - 2 PM
-  * T/Th: 2 PM - 4 PM
-  * And other times by appointment! ([[wangid@jmu.edu?subject=Office Hours Appointment|wangid@jmu.edu]])
