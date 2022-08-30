@@ -36,13 +36,6 @@
   *Contact by email: duanzx@jmu.edu. Students will be provided with a Zoom link by email.
   *Other times by appointment.
 
-**Dr. Mona El-Kadi Rizvi**\\
-Office Hours:
-  * MTuWTh: 2:00-3:00PM
-  * MW: 10:00-11:00AM
-  * Choose an online time slot at [[https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUhpamhFT0hjOURSfGRlZmF1bHR8YTIzNDgyNjk3YTg4ZjdkYjFiY2NmMDA4MGFlM2Y5Njk|Google Calendar]]
-  * Other times by appointment: elkadima@jmu.edu
-
 **Dr. Heydari** - CS512, CS531
 Office Hours: All my classes are online, so my office hours are mostly by appointment.
   * 	I am available in my office Tuesdays & Wednesdays: 1:00 - 3:00.
@@ -88,6 +81,13 @@ I am working remotely at this time, please send an email for the link. For enrol
 **Prof. Riley**
   * TuTh 1:00-3:30
   * Other times by appointment. Don't be shy in asking.
+
+**Dr. Mona El-Kadi Rizvi**\\
+Office Hours:
+  * MTuWTh: 2:00-3:00PM
+  * MW: 10:00-11:00AM
+  * Choose an online time slot at [[https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUhpamhFT0hjOURSfGRlZmF1bHR8YTIzNDgyNjk3YTg4ZjdkYjFiY2NmMDA4MGFlM2Y5Njk|Google Calendar]]
+  * Other times by appointment: elkadima@jmu.edu
 
 **Dr. Shrestha**\\
 Office Hours (246 D, King Hall):
