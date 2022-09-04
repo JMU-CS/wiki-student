@@ -54,9 +54,7 @@ You may also need to set the default manner in which it is  "opened" (i.e., inst
 
 ==== Testing an Executable .jar File ====
 
-
-If you just click/double-click on an executable ''%%.jar%%''  file and the code throws an exception you (typically) won't see  it. Hence, when testing it is often useful to run the application  from the command line. To do so, open a command shell, change the working  directory to the directory that contains the ''%%.jar%%'' file,  and then execute the application as follows:
-
+If you just click/double-click on an executable ''%%.jar%%''  file and the code throws an exception you (typically) won't see  it. Hence, when testing it is often useful to run the application  from the command line. To do so, open a command shell (sometimes also called a terminal), change the working  directory to the directory that contains the ''%%.jar%%'' file (using the ''%%cd%%'' command),  and then execute the application as follows:
 
 |   java -jar //filename//.jar   |
 
