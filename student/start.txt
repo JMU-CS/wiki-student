@@ -29,6 +29,7 @@ Students taking CS 149 or CS 159\\
 CS Seniors\\
 [[student:graduation-preparation:start | Graduation Requirements ]]\\
 [[department:graduation| Graduation Process and Forms ]]\\
+
 ==== Start-up Guides ====
 
   * [[student:firstyearstartup:start | First-Year Start-up Guide ]]
@@ -36,6 +37,7 @@ CS Seniors\\
   * [[student:cs149startup:start | CS149 Start-up Guide ]]
   * [[student:firstyearfinals:start | First Year Finals Guide ]]
   * [[student:cs-q&a:start | CS Student Q&A ]]
+
 ==== University/Department-Specific Resources ====
 
   * [[student:autolab:start | Autolab ]]
@@ -64,6 +66,7 @@ CS Seniors\\
   * [[student:c:start | C/C++ ]]
   * [[student:canvas:start | Canvas ]]
   * [[student:checkstyle:start | Checkstyle ]]
+  * [[https://ss64.com/ | Command Line Help ]]
   * [[student:eclipse:start | Eclipse ]]
   * [[student:gcov:start | gcov/lcov ]]
   * [[student:java:start | Java ]]
