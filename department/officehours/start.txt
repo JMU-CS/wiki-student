@@ -127,6 +127,6 @@ Office Hours:
 **Dr. Weikle** - CS149, CS261 Fall 2022
   * Office Hours: Zoom Link: [[https://jmu-edu.zoom.us/j/82736232468?pwd=Y1JUMXZCLzlwTnIvM0gvZ3NOTDFUQT09]]
   * Mon/Wed/Fri 10-11am, Thurs 2-4 online in Zoom or in person in KingHall 205
-  * Or Email for passcode or additional times weikleda@jmu.edu
+  * Or Email for an appointment ([[weikleda@jmu.edu?subject=Office Hours Appointment|weikleda@jmu.edu]])
                             
 
