@@ -166,8 +166,8 @@ To instruct Eclipse to use them when compiling and executing you should:
   - As appropriate, click on one of the following.
     * <key>Add External Class Folder...</key>
     * <key>Add External JARs...</key>
-  - Navigate to the appropriate location and select the appropriate file.
-  - Complete the rest of the process.
+  - Navigate to the appropriate location (which will be the directory/folder containing the ''%%.class%%'' in the first case, and the ''%%.jar%%'' file itself in the second case) and click <key>Open</key> or <key>OK</key> or the equivalent.
+  - Click on <key>Apply and Close</key> (and whatever else you might need to click on to complete the process).
   - You may need to close and re-open the project for the files to be found.
 
 Remember, if you only have the byte code, you will not be able to edit these "third party" classes, but you will be able to use them in your source code.
