@@ -107,10 +107,8 @@ Zoom Option: TBA
   * Calendar: [[https://w3.cs.jmu.edu/spragunr/schedule.html|https://w3.cs.jmu.edu/spragunr/schedule.html]]
   * Zoom URL: Available through Canvas, or email me for the link.
 
-**Dr. Stewart**
-  * Tues: 2-4 in 248 King 
-  * Wed: 2-4 in EnGeo 2204
-  * Thurs: 2-3 in 248 King
+**Dr. Michael Stewart**
+  * M-F: 1:45-2:45 in King 212
 
 **Dr. Tjaden** - CS 361 (CS 610 & CS 685)
 
