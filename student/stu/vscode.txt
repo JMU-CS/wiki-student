@@ -1,5 +1,47 @@
 ====== Visual Studio Code on stu ======
 
-Links to video tutorials by Dr. Lam:
+===== Links to video tutorials by Dr. Lam =====
   * Video 1 (password-less access and remote SSH extension setup): https://youtu.be/-RBHz-Ep6Y0
   * Video 2 (C/C++ debugging setup and basic Git, mainly for CS 261): https://youtu.be/WQTwtnrk8hc
+
+===== Quick reference ======
+
+These instructions are for Windows machines, and cover the same material as the Video 1 linked above. On Macs, use Terminal instead of PowerShell, TextEdit instead of Notepad, and Finder instead of File Explorer. On Linux, use whatever terminal, text editor, and file explorer come with your desktop distribution.
+
+1. Verify your eID/password in PowerShell (replace "''EID''" with your eID):
+  ssh EID@stu.cs.jmu.edu
+
+Your password may not appear as you press keys and that's fine – just type your password and press Enter! Once it succeeds, use the ''exit'' command or restart PowerShell to get back to your local machine. If your account seems to be locked out but you can still access Canvas and MyMadison, contact the system administrators about getting your account unlocked. If you can't even get into Canvas or MyMadison, go to the JMU IT help desk.
+
+2. Generate a key pair in PowerShell:
+  ssh-keygen -t ed25519
+
+3. Set up an SSH configuration. Using a file explorer, open the "''.ssh''" subfolder inside your home directory (usually ''C:\Users\YourName'' on Windows, ''/Users/YourName'' on Macs, and ''/home/YourName'' on most Linux machines). If it doesn't already exist, create a text file called ''config'' in that folder, with the following contents (again, replace "''EID''" with your eID):
+
+  Host stu
+      Hostname stu.cs.jmu.edu
+      User EID
+
+On Windows, you may need to show hidden files and/or file extensions using the View menu in File Explorer. You may need to manually remove the "''.txt''" by renaming the file with the file extensions enabled. It will warn you about this -- go ahead and do it.
+
+**WARNING:** This is a non-trivial operation if you've never done anything like it before, and there are many details that need to be exactly right. If you encounter issues or it doesn't seem to be working, visit TA hours for help.
+
+4. Verify quicker access in PowerShell:
+  ssh stu
+
+It will still prompt you for your password at this point. Just log in and ''exit'' again or just press ''Ctrl-C'' to interrupt or close PowerShell.
+
+5. (if needed) Install VS Code from [[https://code.visualstudio.com]].
+
+6. Install extension(s) by opening the Extensions tab (icon w/ boxes at the bottom of the tab strip on the left-hand side). Install the “Remote SSH” extension by Microsoft. If you are in CS 261 or CS 432, you should also install the “Makefile Tools” extension by Microsoft.
+
+7. Connect to ''stu'' in VS Code. Click the little green lightning icon in the lower-left corner of the window or press ''Ctrl-Shift-P'', then choose the “Connect Current Window to Host” option from the menu at the top. Choose the "stu" option. If prompted for the machine type, choose "Linux".
+
+8. Copy your public key to stu using VS Code. You will need to copy the entire line of text from the ''id_ed25519.pub'' file in the ''.ssh'' folder on your local machine into a file called ''authorized_keys'' in the ''.ssh'' folder on ''stu''. You may need to create the ''.ssh'' folder and/or the ''authorized_keys'' file on ''stu''. If you already have an ''authorized_keys'' file, do not delete or overwrite it; just add the new line to the end.
+
+**WARNING:** This is a non-trivial operation if you've never done anything like it before, and there are many details that need to be exactly right. If you encounter issues or it doesn't seem to be working, visit TA hours for help.
+
+9. Verify password-less access in PowerShell:
+  ssh stu
+
+10. Verify password-less access in VS Code
