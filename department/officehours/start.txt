@@ -1,4 +1,4 @@
-**Dr. Mohamed S. Aboutabl**-      Spring 2022:   CS-261 & CS-361
+==== Dr. Mohamed S. Aboutabl-      Spring 2022:   CS-261 & CS-361 ====
   * Office Hours (all via Zoom) :    
                 * https://jmu-edu.zoom.us/j/88604390066?pwd=L3E0QnpyT3hHYTgxemMrMXJnZnFyZz09 
                 * Undergraduate Students:  
@@ -9,67 +9,67 @@
   * If all of these times conflict with your class schedule, let me know via email and I will try to set up a special Zoom meeting for you.
 
 
-**Dr. Bernstein**
+==== Dr. Bernstein ====
   * Office Hours: https://users.cs.jmu.edu/bernstdh/Web/officehours.html
 
 
-**Dr. Siddharth Bhaskar** - CS 227
+==== Dr. Siddharth Bhaskar - CS 227 ====
   *Office hours for Fall 2022 TBA
  
 
-**Dr. Bowers** - CS 430, CS 480
+==== Dr. Bowers - CS 430, CS 480 ====
   * General office hours: M 10am-12pm, WF 2pm-5pm. 
   * How to connect: either send me a private chat on [[https://teams.microsoft.com|Teams]] (sign in with your @dukes.jmu.edu email address and password) during office hours or sign up for a time slot on [[https://calendly.com/johncbowers/office-hours?month=2020-09|Calendly]]
   * Other times by appointment. 
 
-**Dr. Buchholz** - Fall 2021 - CS450
+==== Dr. Buchholz - Fall 2021 - CS450 ====
   * Office hours: M 12:00pm-1:00pm (virtual), TTh 10:30am-12:00pm, W 11:30am-12:30pm (virtual), and by appointment.
   * Email buchhofp@jmu.edu for access to virtual office hours
  
-**Prof. Chao** - CS 149
+==== Prof. Chao - CS 149 ====
   * T/Th: 9:15am-10:15am
   *Webex: https://jmu.webex.com/meet/Chaoaj
   *Other times by appointment.
 
-**Dr. Zhuojun Duan** - CS 149(sections 5 and 6), CS240(section 2) Fall 2022
+==== Dr. Zhuojun Duan - CS 149(sections 5 and 6), CS240(section 2) Fall 2022 ====
   *Office hours: MWF(in-person): 9:40-10:20am & 2:40pm-3:00pm Th(in-person/Zoom): 1:30-3:30pm
   *Contact by email: duanzx@jmu.edu. Students will be provided with a Zoom link by email.
   *Other times by appointment.
 
-**Dr. Heydari** - CS512, CS531
+==== Dr. Heydari - CS512, CS531 ====
 Office Hours: All my classes are online, so my office hours are mostly by appointment.
   * 	I am available in my office Tuesdays & Wednesdays: 1:00 - 3:00.
   * 	I am in my office most of the week, so please feel free to stop by or call anytime. 
   * 	If you have questions about the program and I am not available, please contact Virginia Fulginiti (room 219) at     540-568-8772 or email her at fulginvh@jmu.edu.
 
 
-**Dr. Johnson** - CS 240, CS 430
+==== Dr. Johnson - CS 240, CS 430 ====
   * MWF: 10:00 AM-11:00 AM in ISAT/CS 246-E
   * TTh: 12:30 AM-1:30 PM in ISAT/CS 246-E
 
-**Dr. Kirkpatrick** - CS 343, CS 361
+==== Dr. Kirkpatrick - CS 343, CS 361 ====
   * M/W/F: 3:00 - 4:00 PM in King 223
   * Th: 9:00 - 11:00 AM via Zoom (ends at 9:45 AM on the 3rd Thursday of each month)
   * Appointments (not for course help): [[https://w3.cs.jmu.edu/kirkpams/appointment.shtml|https://w3.cs.jmu.edu/kirkpams/appointment.shtml]]
 
-**Dr. Lam** - CS 261, CS 432
+==== Dr. Lam - CS 261, CS 432 ====
   * Office Hours: MTuWThF 10:00-11:00am (ISAT/CS 227 or join virtually: [[https://bit.ly/lam-office-hours-fa22|bit.ly/lam-office-hours-fa22]])
   * Meetings outside office hours: [[https://calendly.com/lam2mo/15min|calendly.com/lam2mo]]
 
-**Dr. Mayfield** - On Leave Fall 2022
+==== Dr. Mayfield - On Leave Fall 2022 ====
 
-**Dr. Molloy** - CS 240, CS 445
+==== Dr. Molloy - CS 240, CS 445 ====
   * Monday: 5:30 pm - 7:30 pm
   * Tuesday: 11 am  - 12:30 pm
   * Friday: 1:20 pm - 2:50 pm
   * Other times by appointment (email: molloykp@jmu.edu)
 
-**Paige Normand** - CS Advisor
+==== Paige Normand - CS Advisor ====
   * Office: King 246A
   * Calendar: [[https://jmu-cs.as.me/advisor|https://jmu-cs.as.me/advisor]] 
   * Other times by appointment: normanap@jmu.edu
 
-**Dr. Richards** - CS 374 and 343
+==== Dr. Richards - CS 374 and 343 ====
 I am working remotely at this time, please send an email for the link. For enrolled students, you can also find the link in Canvas.\\
   * Monday – By appointment
   * Tuesday – 5:15PM – 6:15 PM
@@ -78,52 +78,54 @@ I am working remotely at this time, please send an email for the link. For enrol
 
 * Additional times available by appointment, please email to schedule appointment at richa3ke@jmu.edu
 
-**Prof. Riley**
+==== Prof. Riley ====
   * TuTh 1:00-3:30
   * Other times by appointment. Don't be shy in asking.
 
-**Dr. Mona El-Kadi Rizvi**\\
+==== Dr. Mona El-Kadi Rizvi ====
 Office Hours:
   * MTuWTh: 2:00-3:00PM
   * MW: 10:00-11:00AM
   * Choose an online time slot at [[https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUhpamhFT0hjOURSfGRlZmF1bHR8YTIzNDgyNjk3YTg4ZjdkYjFiY2NmMDA4MGFlM2Y5Njk|Google Calendar]]
   * Other times by appointment: elkadima@jmu.edu
 
-**Dr. Shrestha**\\
+==== Dr. Shrestha ====
 Office Hours (246 D, King Hall):
   * T/Th: 4 - 5pm, Weds: 10 - 11am, 1 - 3 pm
   * Others - By appointment (shrestcx@jmu.edu)
 Zoom Option: TBA
 
-**Dr. Simmons**
+==== Dr. Simmons ====
   * Office King 221
   * Office Hours:  Tuesday/Wednesday 1pm - 3pm  
   * Also by appointment: simmonsj@jmu.edu
   * Zoom link:  https://jmu-edu.zoom.us/my/sharonsimmons
 
-**Dr. Sprague**
+==== Dr. Sprague ====
   * Office: King 226
   * Office Hours: Monday through Friday 1:00-2:00
   * Calendar: [[https://w3.cs.jmu.edu/spragunr/schedule.html|https://w3.cs.jmu.edu/spragunr/schedule.html]]
   * Zoom URL: Available through Canvas, or email me for the link.
 
-**Dr. Michael Stewart**
+
+==== Dr. Michael Stewart ====
   * M-F: 1:45-2:45 in King 212
 
-**Dr. Tjaden** - CS 361 (CS 610 & CS 685)
+==== Dr. Tjaden - CS 361 (CS 610 & CS 685) ====
 
-**Dr. Wang, Isaac** (King Hall 246C and [[https://jmu-edu.zoom.us/my/drwangid?pwd=VEV4MS9MMVI3L0l2MHZnU0JaUEJjZz09|Zoom]])\\
+==== Dr. Wang, Isaac ====
+King Hall 246C and [[https://jmu-edu.zoom.us/my/drwangid?pwd=VEV4MS9MMVI3L0l2MHZnU0JaUEJjZz09|Zoom]])
 Office Hours:
   * M: 1 PM - 2 PM
   * T/Th: 2 PM - 4 PM
   * And other times by appointment! ([[wangid@jmu.edu?subject=Office Hours Appointment|wangid@jmu.edu]])
 
-**Dr. Xunhua Wang** - CS327-0002&0003, CS660 [Fall 2022]
+==== Dr. Xunhua Wang - CS327-0002&0003, CS660 [Fall 2022] ====
   * Office hours: [Tu/Th] 10:40 ~ 12:40; 15:40 ~ 16:10 [King Hall 213]；or by appointment (wangxx@jmu.edu)
   * Zoom URL: [[https://jmu-edu.zoom.us/j/4401425906 |https://jmu-edu.zoom.us/j/4401425906]]
 
-**Dr. Weikle** - CS149, CS261 Fall 2022
-  * Office Hours: Zoom Link: [[https://jmu-edu.zoom.us/j/82736232468?pwd=Y1JUMXZCLzlwTnIvM0gvZ3NOTDFUQT09]]
+==== Dr. Weikle - CS149, CS261 Fall 2022 ====
+  * Office Hours: [[https://jmu-edu.zoom.us/j/82736232468?pwd=Y1JUMXZCLzlwTnIvM0gvZ3NOTDFUQT09 | Zoom Link]]
   * Mon/Wed/Fri 10-11am, Thurs 2-4 online in Zoom or in person in KingHall 205
   * Or Email for an appointment ([[weikleda@jmu.edu?subject=Office Hours Appointment|weikleda@jmu.edu]])
                             
