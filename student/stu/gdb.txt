@@ -1,3 +1,7 @@
+====== GDB on stu ======
+
+===== Version issue =====
+
 Unfortunately, the default version of GDB on stu (9.2) has a bug that causes it to stop at an incorrect location at the beginning of functions, before function parameters are fully initialized.
 
 To gain access to a newer, fixed version of GDB (10.0) for your account, please run the following command verbatim while logged into stu:
@@ -5,3 +9,26 @@ To gain access to a newer, fixed version of GDB (10.0) for your account, please 
   echo "source /cs/students/cs261/f22/bashrc" >>$HOME/.bashrc
   
 **PLEASE COPY AND PASTE THE COMMAND -- DO NOT ATTEMPT TO RE-TYPE IT!!** Every character must be exactly correct for it to work. You will need to log out and back in to get the correct version of GDB. You will know it is working by looking at the version number at the top of the text printed by GDB; it should start with "10.0" not "9.2".
+
+===== GDB + VS Code configuration =====
+
+Here is a sample ''launch.json'' file. This one is set up for the CS 261 P0, but you can modify it for any C project:
+
+<code>
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceRoot}/intro",
+            "args": [""],
+            "cwd": "."
+        }
+    ]
+}
+</code>
