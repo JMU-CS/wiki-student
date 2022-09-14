@@ -6,9 +6,13 @@ Unfortunately, the default version of GDB on stu (9.2) has a bug that causes it 
 
 To gain access to a newer, fixed version of GDB (10.0) for your account, please run the following command verbatim while logged into stu:
 
-  echo "source /cs/students/cs261/f22/bashrc" >>$HOME/.bashrc
+  echo "export PATH=/opt/gdb/bin:$PATH" >>$HOME/.bashrc
   
 **PLEASE COPY AND PASTE THE COMMAND -- DO NOT ATTEMPT TO RE-TYPE IT!!** Every character must be exactly correct for it to work. You will need to log out and back in to get the correct version of GDB. You will know it is working by looking at the version number at the top of the text printed by GDB; it should start with "10.0" not "9.2".
+
+If you are in CS 261, you should use this command instead, because it will fix GDB and go ahead and set up a few other things we'll need later in the semester as well:
+
+  echo "source /cs/students/cs261/f22/bashrc" >>$HOME/.bashrc
 
 ===== GDB + VS Code configuration =====
 
