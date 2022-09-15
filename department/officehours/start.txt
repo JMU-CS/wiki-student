@@ -53,7 +53,7 @@ Office Hours: All my classes are online, so my office hours are mostly by appoin
   * Appointments (not for course help): [[https://w3.cs.jmu.edu/kirkpams/appointment.shtml|https://w3.cs.jmu.edu/kirkpams/appointment.shtml]]
 
 ==== Dr. Lam - CS 261, CS 432 ====
-  * Office Hours: MTuWThF 10:00-11:00am (ISAT/CS 227 or join virtually: [[https://bit.ly/lam-office-hours-fa22|bit.ly/lam-office-hours-fa22]])
+  * Office Hours: MTuWThF 10:00-11:00am (King Hall 227 or join virtually: [[https://bit.ly/lam-office-hours-fa22|bit.ly/lam-office-hours-fa22]])
   * Meetings outside office hours: [[https://calendly.com/lam2mo/15min|calendly.com/lam2mo]]
 
 ==== Dr. Mayfield - On Leave Fall 2022 ====
