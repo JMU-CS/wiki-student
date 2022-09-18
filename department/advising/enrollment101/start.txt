@@ -25,18 +25,22 @@ If you have any mid-semester grades of D or F, please make plans to discuss your
 
 ===== Withdraw Deadline =====
 
-The deadline to Withdraw from a semester class is **October 26, 2022**.
-Withdrawal from a course by this deadline will result in a "W" on your transcript.
-A "W" is not calculated into the GPA, but it is factored in to the formula for Satisfactory Academic Progress (SAP) used by Financial Aid.\\
+The deadline to Withdraw from a fall semester class is **October 26, 2022**.
 
-Any student receiving Financial Aid should review [[https://www.jmu.edu/financialaid/learn/sap/|https://www.jmu.edu/financialaid/learn/sap/]] AND consult with the Financial Aid office before withdrawing from a course.\\
+Withdrawal from a course by this deadline will result in a "W" on your transcript. Here are some things to consider before you withdraw from a course: 
+  * A "W" is not calculated into the GPA, but it is factored in to the formula for Satisfactory Academic Progress (SAP) used by Financial Aid.
+  * Any student receiving Financial Aid should review [[https://www.jmu.edu/financialaid/learn/sap/|https://www.jmu.edu/financialaid/learn/sap/]] AND consult with the Financial Aid office before withdrawing from a course.
+  * If withdrawing from a course results in you being below 12 credit hours during the semester, consult the potential impacts of no longer being a full-time student: https://wiki.cs.jmu.edu/department/advising/withdraw/start
+  * When you withdraw from the course, you lose the credits that you've already paid for. 
+  * Some CS classes (149, 159, 240, and 261) only allow students two attempts. If you withdraw from one of these courses, you're using up one of these attempts.
 
-You do NOT need permission to withdraw, BUT we highly recommend that you also discuss it with your advisor, too. To withdraw from a course, you use the "drop" function in MyMadison. 
+You do NOT need permission to withdraw, BUT we highly recommend that you also discuss it with the professor (for any classes) and if you plan to drop a CS course, speak to the CS advisor, too.
 
-Note on **dropping a course with a co-requisite**: \\
-Students will need a departmental override if they are taking either CS 159 and CS 227 and wish to drop one and remain in the other. Please email your student ID number and the section of your course to Paige Normand, normanap@jmu.edu.
+**How to Withdraw**\\
+To withdraw from a course, you use the "drop" function in MyMadison. 
 
-If withdrawing from a course results in you being below 12 credit hours during the semester, consult the potential impacts of no longer being a full-time student: https://wiki.cs.jmu.edu/department/advising/withdraw/start
+**Dropping either CS 227 or CS 159** \\
+CS 227 and CS 159 are co-requisites. If you are taking them together, you will need a departmental override to drop one and remain in the other. Please email your student ID number and the section of your course to Dr. Buchholz, buchhofp@jmu.edu.
 
 === Withdrawing AFTER October 26th ===
 
