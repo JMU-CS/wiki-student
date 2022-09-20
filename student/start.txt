@@ -7,7 +7,7 @@ In addition to using this page to find information, you can search the Wiki usin
 ===== Announcements =====
   * CS 343, Application Development, is a new elective and the prerequisite for the application development electives (CS 347, 447, and 374). See [[department:curriculum:start|Curriculum]] for more details. 
 
-  * The slides from CS Freshmen Night (9/19) can be found on the [[department:student-events:start|Advising Events page]]
+  * The slides from CS Freshmen Night (9/19) can be found on the [[https://wiki.cs.jmu.edu/department/student-events/start#freshmen_night|Advising Events page]]
 ==== CS Advising ====
 
 Curriculum & Advising\\
