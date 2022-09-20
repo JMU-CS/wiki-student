@@ -33,7 +33,7 @@ Required for all students taking CS 149 and CS 159. Optional for students taking
   * Communication: Canvas and Listserv
   * CS Advisor
 
-Here are the slides from the event: 
+Here are the [[https://wiki.cs.jmu.edu/_media/department/student-events/freshmen_night_slides_22-wiki.pdf|slides from the event]]
 ====== Sophomore Night ======
 October 17, 2022. 5:00-6:00pm in King 159.\\
 Pizza provided.\\
