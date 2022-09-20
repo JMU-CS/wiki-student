@@ -1,11 +1,13 @@
-**In person TA support**
+====== TA Hours ======
 
-TAs are available in King (previously, "ISAT/CS") room 248 for in-person support at the following times:
+**In-person TA Support**\\
+
+TAs are available in King Hall room 248 for in-person support at the following times:
   * Sunday 3 pm - 9 pm
   * Monday/Tuesday/Thursday 5 pm - 9 pm
   * Wednesday 6 pm - 9 pm
 
-**TA Hours 9 pm to 11 pm via Microsoft Teams**\\
+**Online TA Hours 9 pm to 11 pm via Microsoft Teams**\\
 TAs are available for virtual online support from 9 pm to 11 pm Sunday through Thursday.
 
 You can watch a [[https://youtu.be/1T6LyuqD9pk|Tutorial Video]] for getting started with TA hours. 
@@ -17,7 +19,8 @@ You will be able to join the team - JMU CS TA Lab Hours - and you will want to c
 
 In a Teams or Zoom Video chat, you and TAs will be able to share screens, annotate suggestions, and talk "in private". Please note that TAs will help each student in 10 minute increments and they will not be writing your code for you. Instead they will be helping you learn to write code yourself and helping you to navigate any technical problems.
 
-**Fourth Hour** \\
+====== Fourth Hour ======
+
 A student-led walkthrough of the week's CS 149 topics. Open to all CS 149 students.\\
 Monday and Tuesday 7-8pm in King 243.
 
