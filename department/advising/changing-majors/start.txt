@@ -41,11 +41,8 @@ Here is a helpful comparison of the two programs: https://www.jmu.edu/cob/cis/ac
 
 Overview of the CIS Curriculum: https://www.jmu.edu/cob/cis/academics/index.shtml
 
-If you are a Freshman or Sophomore CS student who is interested in switching to CIS, meet with the CIS Madison Advising Peer, Ainsley Momorella: 
-https://www.jmu.edu/cob/asc/advising/schedule-an-appointment.shtml 
-(Choose in-person > advising with a Madison Advising Peer > Madison Advising Peer – Ainsley Momorella)
+If you are a Freshman or Sophomore CS student who is interested in switching to CIS, meet with the CIS Madison Advising Peer, Ainsley Momorella: https://www.jmu.edu/cob/asc/maps/index.shtml
 
 If you are a Junior or Senior CS student who is interested in switching to CIS, meet with the CIS Advisor, Danielle Maxham: 
-https://www.jmu.edu/cob/asc/advising/schedule-an-appointment.shtml \\
-(Choose in-person > advising with a CoB Advisor > Danielle (Gallagher) Maxham)
+https://www.jmu.edu/cob/asc/advising/schedule-an-appointment.shtml 
 
