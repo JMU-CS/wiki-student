@@ -58,7 +58,7 @@ Note: this is scheduled before enrollment to give you helpful enrollment informa
   * CS Electives & Research - CS Faculty
   * Preparing for your Job Search - CISE Career Liaison 
   * CS-specific Career Considerations - Dr. Simmons
-  * Virginia Tech 4-and-1 program - Dr. Beane (if possible)
+  * Virginia Tech 4-and-1 program - Dr. Beane
   * Research Opportunities
   * Being a TA
   * Security Clearance
