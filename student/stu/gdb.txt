@@ -16,7 +16,7 @@ If you are in CS 261, you should use this command instead, because it will fix G
 
 ===== GDB + VS Code configuration =====
 
-Here is a sample ''launch.json'' file. This one is set up for the CS 261 P0, but you can modify it for any C project:
+Here is a sample ''launch.json'' file. This one is set up for the CS 261 P0, but you can modify it for any C project by changing "''intro''" to the name of your executable. You can also provide command-line arguments using ''args'' (e.g., for CS 261 P1, you might specify ''[ "-H", "tests/inputs/simple.o" ]''.
 
 <code>
 {
