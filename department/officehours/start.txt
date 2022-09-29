@@ -110,6 +110,7 @@ Zoom Option: TBA
 
 
 ==== Dr. Michael Stewart ====
+  * **Thurs Sept 29 exception:** 3-4PM instead of regular time
   * Office: King 212
     * on [[http://tiny.cc/stewart-hours | zoom]] by appointment (typically during the above listed hours)
   * Fall 2022: CS 159, CS 343:
