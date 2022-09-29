@@ -8,7 +8,7 @@ Headshots & Pizza provided.\\
 Required for all CS students who plan to graduate in December '22, May '23, or Summer '23.
 
 **Agenda**
-  * Graduation Requirements
+  * [[student:graduation-preparation/start|Graduation Requirements]]
   * Catalogs and course substitutions
   * Graduation Process (application, audit)
   * Graduation Applications
