@@ -37,7 +37,8 @@ Here are the [[https://wiki.cs.jmu.edu/_media/department/student-events/freshmen
 ====== Sophomore Night ======
 October 17, 2022. 5:00-6:00pm in King 159.\\
 Pizza provided.\\
-Required for all students taking CS 240, CS 261, CS 343, and/or CS 345.
+Required for all students taking CS 240, CS 261, CS 343, and/or CS 345.\\
+RSVP Here: https://jmu-cs.as.me/sophomore-night\\
 
 **Agenda**
   * Faculty Introductions and areas of research
@@ -46,6 +47,7 @@ Required for all students taking CS 240, CS 261, CS 343, and/or CS 345.
   * Making a 4-year plan/ Path to Graduation
   * Exploring Minors
   * CS Student Panel for Q&A session
+
 
 ====== Transfer Student Lunch ======
 October 26, 2022. 11:30-12:30pm in King 259.\\
