@@ -52,7 +52,8 @@ Sign up: https://jmu-cs.as.me/sophomore-night\\
 ====== Transfer Student Lunch ======
 October 26, 2022. 11:30-12:30pm in King 259.\\
 Pizza provided.\\
-Required for all new transfer students starting in Fall 2022.
+Required for all new transfer students starting in Fall 2022.\\
+Sign up: https://jmu-cs.as.me/transfer-lunch 
 
 **Agenda** (tentative)
   * Advisor Check-in
