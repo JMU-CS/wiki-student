@@ -3,82 +3,21 @@
 
 The CS Research Seminar Talks are talks given by faculty members and undergraduate research assistants on a variety of topics at the cutting edge of computer science research. Talks happen on Fridays at 12:40 pm and are usually held in King Hall room 236.  The format is a 30-40 minute research talk with 10-20 minutes reserved for questions. All CS students (and other interested students and faculty) are invited to attend. Email announcements about each seminar will be sent to the CS listserv.
 
-==== Spring 2022 Schedule ====
+==== Fall 2022 Schedule ====
 
-**Faculty Research Talks Overview**
+* **Oct 7** Prof. Siddharth Bhaskar  //A proof of the Koebe-Andre'ev-Thurston theorem via flow from tangency packings//
+* **Nov 4** Prof. Siddharth Bhaskar //TBD//
+* **Nov 11** Virginia Tech PhD Candidate and JMU CS Alumna Kylie Davidson //TBD//
+* **Nov 18** Prof. Michael Kirkpatrick
+* **Dec 2** Prof. Nathan Sprague
 
-* **Feb 11** Prof. Siddharth Bhaskar  -- //Recursion, iteration, and program schematology//
+**Abstracts for the 2022 Fall Research Talks**
 
-* **Feb 25** Prof. Chris Mayfield -- //POGIL in CS1: Evidence for Student Learning and Belonging//
-
-* **Mar 4** Prof. Mike Lam -- //Recent Work in Floating-Point Program Analysis//
-
-* **Mar 25** Prof. Kevin Molloy -- //Advances in Protein Characterizations//
-
-* **Apr 1** Prof. Chris Johnson -- //Programming language for Parametric 2D design//
-
-* **Apr 8** Prof. David Bernstein -- //Real-Time Pricing of Taxi Services//
-
-* **Apr 15** Prof. Jason Forysth -- //Designing Wearable Systems for Movement Correction in Physical Therapy Applications//
-
-* **Apr 29** Prof. Kirsten Richards -- //TBD//
-
-
-**Abstracts for the 2022 Spring Research Talks**
-
-
-* **Feb 11** Prof. Siddharth Bhaskar -- //Recursion, iteration, and program schematology//
+* **Oct 7** Prof. John C. Bowers -- //A proof of the Koebe-Andre'ev-Thurston theorem via flow from tangency packings//
 
 **Abstract:**
-We can distinguish between logical and nonlogical syntax of a programming language: the former being "pure programming" constructs (like `if-then-else' statements) whose semantics is independent of the data type in question, and the latter being "primitive operations" whose semantics depends on the data type in question. This allows us to talk about programs which are logically equivalent, in the same sense that the logical formulas $(\forall x) \neg A(x)$ and $ \neg (\exists x) A(x)$ are equivalent---their denotation is the same no matter the interpretation of $A$.
+The beginning of the study of circle packings is the circle packing theorem, which says that any triangulation of the sphere can be realized as a pattern of interior-disjoint disks on the sphere whose tangency graph is isomorphic to the triangulation. The now classic Koebe-Andre’ev-Thurston theorem extends the circle packing theorem to weighted triangulations whose weights code for overlap angles of up to pi/2 between disks and not just tangencies. Recently Connelly and Gortler gave a new proof of the Circle Packing Theorem, which is also constructive—the proof gives rise to a numerical algorithm for computing a circle packing for any given triangulation. In this talk we will give an overview of Connelly and Gortler’s result and describe a new proof of the full Koebe-Andre’ev-Thurston theorem that extends their approach to packings with overlaps up to pi/2 and gives rise to an algorithm for computing them. We will discuss the main hurdles to the generalization and the main ideas used to overcome them. We will also show demo code for computing the packings. 
 
-It is folklore that every recursive procedure can be transformed into an iterative one, whose only recursive construct is a "while" loop. (Indeed, this is basically what every compiler does in transforming a high-level language to machine code.) However, very early on (the 60's!) in the history of programming languages, it was realized that there were general recursive programs not logically equivalent to any iterative program, and therefore that recursion elimination relied on semantic properties of the data in question (e.g., closure under taking lists).
-
-In this talk, I will discuss the general problem of recursion vs. iteration, the separation I mentioned above, and my small contribution to this story, which has to do with the intensional (i.e., complexity-theoretic) distinction between the two paradigms. This talk is classical in two senses: one, it's concerned with problems which were thought about early in the history of programming languages, and two, it's personally classical in the sense that it harkens back to the stuff I was thinking about in grad school.
-
-
-* **Feb 25** Prof. Chris Mayfield -- //POGIL in CS1: Evidence for Student Learning and Belonging//
-
-**Abstract:**
-For the past ten years, computer science instructors have adopted Process Oriented Guided Inquiry Learning (POGIL). Other STEM disciplines have shown conclusively that POGIL impacts student learning and knowledge retention. However, most research about POGIL in computer science has focused on perceptions and experiences, not learning outcomes. In this study, we examined the influence of POGIL on student learning in CS1. We collected data from all sections of CS1 at the same institution. Four of the faculty implemented POGIL, and three taught with other active methods. The learning data included pre and post assessments, midterm and final exams, and a retention test at the beginning of the next course. Students also completed three surveys about their prior programming experience, sense of belonging, and perceptions of teamwork. We used multiple regression to analyze the relationship between the survey data and learning outcomes. Our results show that students in the POGIL sections outperformed students in the other sections. POGIL students scored higher on the post-test, and a higher proportion of them met the grade requirement to progress to the next course. After the five-week winter break, POGIL students had higher and more consistent scores on the retention test. These results provide evidence that POGIL can be very effective as an instructional technique in computer science.
-
-
-* **Mar 4** Prof. Mike Lam -- //Recent Work in Floating-Point Program Analysis//
-
-**Abstract:**
-There has been a sharp uptick in interest in floating-point precision analysis over the past decade, primarily in the context of high-performance computing (HPC) but also more recently in machine learning (ML). As HPC moves into the exascale era and ML increasingly dominates scientific workloads, it's increasingly important to understand where our algorithms are sensitive to small numerical insensitivities and where we need more or less precision. This presentation will explore recent work on the adaptation of existing analysis techniques (dynamic instrumentation and Monte Carlo Arithmetic) to Python programs. Historically, Python was of little interest to the HPC community because of the performance hit associated with being an interpreted language, but lately the language has become more prevalent both in HPC and across many areas of computer science (this was part of the motivation for the recent switch in CS 149). In this talk, I will present the work done by others and describe my recent attempts to reproduce and compare their results to previous work, and I will also discuss possible student projects for future extensions of the work.
-
-
-* **Mar 25** Prof. Kevin Molloy -- //Advances in Protein Characterizations//
-
-**Abstract:**
-The study of proteins and the relationship between their sequence, structure and function has been ongoing for decades. While some of this research is performed in a biochemical laboratory setting, the processes employed can be very time consuming and expensive.  To augment these techniques, structural biologists rely and need computational approaches. Many of the algorithmic challenges with modeling protein systems arise from the fact that these systems are typically modeled in very high dimensional settings.
-
-This talk will provide a brief overview of proteins and their composition to enable reviewing how these systems are modeled computationally. A review of Google's DeepMind group's recent work on protein structure prediction, and how their approach has made tremendous progress in this field. Next, we will review work by our group to better understand anti-microbial peptides and building a universal structural alphabet. Finally, we will discuss work being performed to structural group ensembles of proteins, and specifically the virus that causes COVID-19 (and its variants).
-
-
-* **Apr 1** Prof. Chris Johnson -- //Programming language for Parametric 2D design//
-
-**Abstract:**
-What if instead of printing "Hello, world!" to a terminal, your first program produced a tangible object? Dr. Johnson has been trying to make that a reality with Twoville, a programming language in which users code two-dimensional objects and fabricate them using a vinyl or laser cutter.
-
-Twoville is meant to be a sandbox for young people to explore mathematics and computer science --- and for Dr. Johnson to explore programming language features that facilitate parametric design. One big takeaway from his exploration is that not everything is an algorithm. Some designs need a more human touch. That's why Twoville supports bidirectional editing. A user can edit the design either through code or through mouse manipulation, with any changes made via the mouse propagated back to the code. Dr. Johnson will be joined by his family, who will demonstrate some of the objects they've made.
-
-
-* **Apr 8** Prof. David Bernstein -- //Real-Time Pricing of Taxi Services//
-
-**Abstract:**
-Historically, taxi pricing has been tightly regulated, with limits placed on the number of vehicles and prices set by the government. The advent of alternatives to traditional taxis, like Uber and Lyft, have dramatically changed the way these kinds of services are and can be priced.
-
-This talk will illustrate why the pricing of these services is interesting using some simple examples. It will begin with a review of equilibrium pricing in perfectly competitive markets (for those who have never studied microeconomics, or for those who have forgotten what they once knew). It will then review some of the literature on modeling equilibria in spatially separated markets. With that as background, it will use some simple models to explain how models of the pricing of taxi services are similar to and different from those models. It concludes with a discussion of how one can develop existence and uniqueness conditions for general problems, and how general problems might be solved numerically.
-
-
-* **Apr 15** Prof. Jason Forysth -- //Designing Wearable Systems for Movement Correction in Physical Therapy Applications//
-
-**Abstract:**
-Musculoskeletal injuries are the leading cause of disability worldwide. Patients suffering from these injuries are often given exercises to perform that strengthen muscle groups or joints that have been injured. Typically, these exercises are observed in person at the physician's office, and the patient is then instructed to continue them at home; however, challenges exist with patient adherence to these exercise regimes, with some studies showing that 37% of patients failed to continue their exercises at home. Failure to complete these activities leads to longer recovery times, additional visits to the physician, and generally lower health outcomes.
-
-In this talk, we will examine research conducted by the Wearable Computing Group to address these challenges by developing a wearable computing system to monitor patient at-home exercises. The system will actively monitor patients to provide real-time feedback to improve their functional gains and adherence to exercises. Prototype demonstrations will be presented along with discussions of specific research questions including capturing patient posture through various sensor systems, designing methods for feedback through visual, haptic, and audible modalities, and machine learning techniques to estimate patient improvement over time.
 ==== Fall 2021 Schedule ====
 
 **Faculty Research Talks**
