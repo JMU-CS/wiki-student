@@ -5,7 +5,7 @@ The CS Research Seminar Talks are talks given by faculty members and undergradua
 
 ==== Fall 2022 Schedule ====
 
-* **Oct 7** Prof. Siddharth Bhaskar  //A proof of the Koebe-Andre'ev-Thurston theorem via flow from tangency packings//
+* **Oct 7** Prof. John C. Bowers  //A proof of the Koebe-Andre'ev-Thurston theorem via flow from tangency packings//
 
 * **Nov 4** Prof. Siddharth Bhaskar //TBD//
 
