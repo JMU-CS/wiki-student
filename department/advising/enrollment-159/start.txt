@@ -15,7 +15,7 @@ If you are fully admitted, you will receive an email in May inviting you to enro
 
 ====== Applications for Full Admission ======
 
-If you are taking CS 159 this semester and want to continue in the CS major or minor, you have to apply for full admission to the major or minor this semester. All application must be received by the last day of classes (December 10th, 2022).
+If you are taking CS 159 this semester and want to continue in the CS major or minor, you have to apply for full admission to the major or minor this semester. All application must be received by the last day of classes (December 9th, 2022).
 
 You will be guaranteed full admission to the CS major or minor, if your average grade in CS 149 and CS 159 is a 3.0 or better, and if you have not repeated either of the two courses. However, regardless of your grades //you still need to apply.//
 
