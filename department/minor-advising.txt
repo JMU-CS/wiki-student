@@ -1,6 +1,6 @@
 ====== Getting Started ======
 
-If you are currently taking CS 149, **do NOT** submit a Major/Minor Declaration Change in MyMadison. You need to wait until you are either enrolled in or have completed CS 159.
+You can declare the CS Minor either when you're taking CS 149 or CS 159, but you must apply for full admission to the minor the semester you are taking CS 159.
 
 **Your first classes**
 
