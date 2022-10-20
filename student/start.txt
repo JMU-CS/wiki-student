@@ -79,7 +79,7 @@ CS Seniors\\
   * [[student:utilities:start | Operating System Utilities ]]
   * [[student:python:virtualenv|Python Virtual Environments]]
   * [[student:scrumj:start | scrumj ]]
-  * [[student:scrumjboard:start | scrumboard ]]
+  * [[student:scrumboard:start | scrumboard ]]
   * [[student:utilities:start:keypairs | SSH Key Pairs ]]
   * [[student:typographic-conventions:start | Typographic Conventions ]]
   * [[student:visualparadigm:start | VisualParadigm ]]
