@@ -29,7 +29,7 @@ A. Make sure you meet with your CS 159 instructor to discuss your status and lik
 
 Q. I just finished CS 240 or 261. What should I take next semester?
 
-A. Whichever of the two that you haven't finished, plus anything else you can take given prerequisite and class scheduling restrictions. See the [[https://wiki.cs.jmu.edu/_media/department/curriculum/prereqfigure.pdf | prerequisites tree]]. 
+A. Whichever of the two that you haven't finished, plus anything else you can take given prerequisite and class scheduling restrictions. See the [[https://wiki.cs.jmu.edu/_media/department/curriculum/jmu_cs_curriculum.pdf | prerequisites tree]]. 
 
 ----
 
