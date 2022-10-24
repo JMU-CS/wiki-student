@@ -3,8 +3,8 @@
 ====== Helpful Links ======
 
   * [[https://www.jmu.edu/cs/academics/undergraduate/curriculum/index.shtml|Sample Plans of Study]]
-  * CS [[http://catalog.jmu.edu/preview_program.php?catoid=25&poid=7508&returnto=765|Undergraduate Catalog]]
-  * [[https://wiki.cs.jmu.edu/_media/department/curriculum/prereqfigure.pdf | Prerequisites Tree]]. 
+  * [[https://wiki.cs.jmu.edu/department/curriculum/start| CS Curriculum Resources]]
+
 
 
 ====== Advising FAQ ======
