@@ -41,9 +41,9 @@ To add a task to an issue (sometimes called a feature, story or sprintable story
 
 To commit to (i.e., take responsibility for) as task, select yourself from the drop-down list. 
 
-==== Adding an Acceptance Criterion to a Task ====
+==== Adding an Acceptance Criterion to an Issue====
 
-To add an acceptance criterion to a task:
+To add an acceptance criterion to an issue:
 
   - Enter a description in the text field under "Acceptance Criteria".
   - Click on <key>⊕</key>
