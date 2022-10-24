@@ -11,7 +11,7 @@
 
 Q. I'm just finishing up CS 149. What should I take next semester?
 
-A. CS 159 and CS 227. See our [[https://www.jmu.edu/cs/academics/undergraduate/curriculum/index.shtml|sample plans of study]] to see some common paths through the curriculum.
+A. CS 159 and CS 227. See our [[https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/index.shtml#plans|sample plans of study]] to see some common paths through the curriculum.
 
 ----
 
