@@ -54,4 +54,4 @@ If you want help with study skills, time management, or adapting to online learn
 
 Also check out the Libraries extensive list of support for students adapting to [[https://www.lib.jmu.edu/temporary-online-teaching/|online learning]]. 
 
-Not sure where to even start? Schedule a meeting with the [[https://calendly.com/paigenormand/30min|CS Advisor]], Paige Normand: you can talk through your situation and she can help point you in the right direction. 
+Not sure where to even start? Schedule a meeting with the [[https://jmu-cs.as.me/advisor|CS Advisor]], Paige Normand: you can talk through your situation and she can help point you in the right direction. 
