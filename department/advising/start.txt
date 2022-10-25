@@ -15,6 +15,16 @@ A. CS 159 and CS 227. See our [[https://www.jmu.edu/cise/cs/academics/undergradu
 
 ----
 
+Q. On the [[https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/index.shtml#plans|sample plans of study]] what is the difference between an "elective" and a "CS elective"?
+
+A. One of your graduation requirements is to take three CS electives. Another graduation requirement is to take a minimum of 120 credits. Your GenEds account for about 41 and your CS major requirements count for around 52. That leaves around 27 credits to hit the 120 mark. You might have brought in credits through Dual Enrollment or AP Test credit that count toward your 120 credit requirement. 
+
+However, what every amount of credits you have remaining you need to take courses to meet - these courses are called "electives." You can take classes that interest you (assuming you meet the enrollment prerequisities) or you could pursue [[https://www.jmu.edu/academics/undergraduate/minors/index.shtml|a minor]] to give some shape to those elective credits. 
+
+The 120 credit requirement is a hard requirement: the university under no circumstances will budge on this number - so one way or another, you have to get these credits to graduate. 
+
+----
+
 Q. I'm just finishing up CS 159 and am applying for the major. I think I'll **meet the 3.0 GPA requirement**. What should I take next semester?
 
 A. You will receive an email after being admitted to the major that will tell you which courses to sign up for. It will be one of CS 240 and CS 261, as well as possibly CS 345 or some other course.
