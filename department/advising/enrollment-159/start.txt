@@ -1,7 +1,7 @@
 ====== CS Students Currently Enrolled in CS 159 ======
 
 
-**If you are in CS 159, you will not be able to enroll in any CS classes until you are fully admitted to the CS major or minor.** This will not occur until after final grades for CS 159 are posted at the end of the semester. Therefore, you will have to register for your CS classes in May, not during early enrollment in April - don't worry, we reserve seats in these courses.
+**If you are in CS 159, you will not be able to enroll in any CS classes until you are fully admitted to the CS major or minor.** This will not occur until after final grades for CS 159 are posted at the end of the semester. Therefore, you will have to register for your CS classes in Dec/May, not during early enrollment in Nov./April - don't worry, we reserve seats in these courses.
 
 I recommend you keep spots open in your schedule for the sections that you want. (Note, as a fully admitted student, you will be eligible to take CS 240 (very time-intensive), CS 261 (//very// time-intensive), CS 345, or the CS elective CS 343 (while an elective, it is a prerequisite to the web dev electives: CS 347, 374, and 447).
 
@@ -11,7 +11,7 @@ Because there are so many students coming into the CS major, we usually have to 
 
 See sample plans of study here: https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/index.shtml 
 
-If you are fully admitted, you will receive an email in May inviting you to enroll in the CS classes. You need to act on that ASAP, because those classes do fill up! 
+If you are fully admitted, you will receive an email in Dec./May inviting you to enroll in the CS classes. You need to act on that ASAP, because those classes do fill up! 
 
 ====== Applications for Full Admission ======
 
