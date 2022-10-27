@@ -63,7 +63,15 @@ A. Yes, both. Sorry, they are both prerequisites for so many courses that if you
 
 Q. I have a lot of **extra class slots** in my last two years. What should I do?
 
-A. Congratulations! You've been on top of things and are well-positioned to pick up a minor or second major. Recommended minors include math, robotics, telecom, and logic & reasoning. Obviously, personal preference holds weight here as well. If you are interested in chemistry, music industry, or theatre, do it! JMU is a liberal arts college and you should take advantage of that.
+A. Congratulations! You've been on top of things and are well-positioned to pick up a minor or second major!
+
+Some minors that have overlap with CS include math, robotics, computer information systems, environmental information systems, and logic & reasoning. A surprising number of CS students minor in music. 
+
+Most importantly: CS is an applied field. Where would you want to apply it? A minor could be a great opportunity to get some experience in that area.
+
+Or -- since you're already doing the hard thing by pursuing a CS major -- maybe your minor could just focus on a passion or explore an exciting topic. What are you interested in? JMU is a liberal arts college and you should take advantage of that.
+
+See full [[https://www.jmu.edu/academics/undergraduate/minors/index.shtml|list of minors]].
 
 ----
 
