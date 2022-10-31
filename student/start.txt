@@ -18,7 +18,7 @@ Curriculum & Advising\\
 [[department:minor-advising| Advising for CS Minors]]\\
 [[department/advising/changing-majors:start| Changing Majors]]\\
 
-__**NEW**__ [[https://jmu-cs.as.me/peer-advising|CS Peer Advising]] - offered now-Nov. 11th
+🚨**NEW**🚨 [[https://jmu-cs.as.me/peer-advising|CS Peer Advising]] - offered now-Nov. 11th
 
 Enrollment\\
 [[department:advising:enrollment101:start| Enrollment Advice]]\\
