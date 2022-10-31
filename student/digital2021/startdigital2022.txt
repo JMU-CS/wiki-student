@@ -1,6 +1,6 @@
-DIGITAL - Dukes Inspiring Girls Into Technology Across Limits
+======DIGITAL - Dukes Inspiring Girls Into Technology Across Limits======
 
-Nov 5th, 2022, James Madison University
+==============Nov 5th, 2022, James Madison University==============
 
 ====== 2022 Schedule ======
 9:00-9:30: Check In and Breakfast\\
@@ -33,4 +33,6 @@ Nov 5th, 2022, James Madison University
   - Micro:bit
 
 
-{{:student:digital2021:digital2022_schedule.png?400|}}
+{{:student:digital2021:digital2022_schedule.png?600|}}
+
+
