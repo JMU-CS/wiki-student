@@ -18,8 +18,9 @@ Nov 5th, 2022, James Madison University**
 
 ===== Participants SURVEY 2022 =====
 
-  - PreSurvey:
-  - PostSurvey:
+  - [[https://jmu.co1.qualtrics.com/jfe/form/SV_cvRZpv5Nn46Leui|PreSurvey]]
+
+  - [[https://jmu.co1.qualtrics.com/jfe/form/SV_560vIeRpHDGzt3w|PostSurvey]]
 
 ====== Workshops ======
   - [[https://drive.google.com/drive/u/0/folders/1Noa-oAM66W35F_XznEDmqG8PIvFRsiwT|Augmented Reality:]]
@@ -32,6 +33,9 @@ Nov 5th, 2022, James Madison University**
   - Balanced car
   - Micro:bit
 
+
+====== Volunteer Feedback ======
+[[https://jmu.co1.qualtrics.com/jfe/form/SV_cHiGpWEyq79ptqe|Volunteer Feedback]]
 
 {{:student:digital2021:digital2022_schedule.png?600|}}
 
