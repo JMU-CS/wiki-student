@@ -1,1 +1,36 @@
-Here it is!
+DIGITAL - Dukes Inspiring Girls Into Technology Across Limits
+
+Nov 5th, 2022, James Madison University
+
+====== 2022 Schedule ======
+9:00-9:30: Check In and Breakfast\\
+9:30-9:45: Introduction from JMU Computer Science Dept\\
+9:45-9:50: Break into Station Groups\\
+9:50-10:40: Station 1\\
+10:50-11:40: Station 2\\
+11:40-12:10: Student Panel\\
+12:10-1:00: Lunch\\
+1:00-1:50: Station 3\\
+2:00-3:00: Tech Gift Activity\\
+3:00-3:30: Closing\\
+3:30: Depart\\
+
+
+==== Participants SURVEY 2022====
+
+  - PreSurvey:
+  - PostSurvey:
+
+====== Workshops ======
+  - [[https://drive.google.com/drive/u/0/folders/1Noa-oAM66W35F_XznEDmqG8PIvFRsiwT|Augmented Reality:]]
+  - [[https://drive.google.com/drive/u/0/folders/1Wq1_5vlDy1P4HTXftD2PaQGqg46qc_3A|Web development:]]
+  - [[https://drive.google.com/drive/u/0/folders/1_CzyjH-J3ytwKsP_4BQOwCrHCPRXYA7h|Drone races:]]
+  - [[https://drive.google.com/drive/u/0/folders/1sdg5oPHkOW8-SIWLFzdwOEtZ_D-5_hgW|Python Turtle Art:]]
+  - [[https://drive.google.com/drive/u/0/folders/1Nj9zAyxSggmnmjJ6FL8hGlQovM_D7iGW|Mobile App:]]
+
+====== Tech gift activities ======
+  - Balanced car
+  - Micro:bit
+
+
+
