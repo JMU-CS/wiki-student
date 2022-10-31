@@ -68,8 +68,7 @@ October 28, 2022. 11:30-12:30 in King 259.\\
 Pizza provided.\\
 Required for all student who didn't attend Sophomore or Senior events.\\
 Note: this is scheduled before enrollment to give you helpful enrollment information for your path through the CS curriculum.\\
-Sign up: https://jmu-cs.as.me/junior-lunch\\
-Here are the {{ :department:student-events:junior_lunch_22-wiki.pdf |slides from the event}}
+Sign up: https://jmu-cs.as.me/junior-lunch
 
 **Agenda**
   * Curriculum Overview - Paige Normand, CS Advisor
@@ -80,3 +79,5 @@ Here are the {{ :department:student-events:junior_lunch_22-wiki.pdf |slides from
   * Research Opportunities
   * Being a TA
   * Security Clearance
+
+Here are the {{ :department:student-events:junior_lunch_22-wiki.pdf |slides from the event}}
