@@ -69,7 +69,7 @@ Pizza provided.\\
 Required for all student who didn't attend Sophomore or Senior events.\\
 Note: this is scheduled before enrollment to give you helpful enrollment information for your path through the CS curriculum.\\
 Sign up: https://jmu-cs.as.me/junior-lunch\\
-See the event {{ :department:student-events:junior_lunch_22-wiki.pdf |Slides}}
+Here are the {{ :department:student-events:junior_lunch_22-wiki.pdf |slides from the event}}
 
 **Agenda**
   * Curriculum Overview - Paige Normand, CS Advisor
