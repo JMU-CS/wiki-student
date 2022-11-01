@@ -1,7 +1,7 @@
 A minor or dual major in mathematics is an excellent pairing with computer science. Many interesting areas / problems in computer science require more advanced mathematics than is required of general computer science students. For example, graphics programming and machine learning both rely heavily on linear algebra. 
 
 
-====== Courses that Double Count for CS and Math ======
+===== Courses that Double Count for CS and Math =====
 
 ====== Advice for Pursuing a Mathematics Minor with CS ======
 
