@@ -21,3 +21,9 @@ The example [[https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/ind
 
 We encourage you to meet with our CS Advisor, Paige Normand, to make your own 4-year plan for graduation.
 You can schedule a meeting with her here: [[https://jmu-cs.as.me/advisor|https://jmu-cs.as.me/advisor]].
+
+==== Dual Majors to Pair with CS ====
+
+
+
+==== Minors to Pair with CS ====
