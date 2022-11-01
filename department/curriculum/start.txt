@@ -28,4 +28,4 @@ You can schedule a meeting with her here: [[https://jmu-cs.as.me/advisor|https:/
 
 ==== Minors to Pair with CS ====
 
-[[department:advising-dualmath| Pairing a Math Major or Minor with CS]]\\
+* [[department:advising-dualmath| Pairing a Math Major or Minor with CS]]\\
