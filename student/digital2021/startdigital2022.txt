@@ -24,7 +24,7 @@ Nov 5th, 2022, James Madison University**
 
 ====== Workshops ======
 ===Augmented Reality:===
- [[https://drive.google.com/drive/u/0/folders/1Noa-oAM66W35F_XznEDmqG8PIvFRsiwT|more]]
+ [https://drive.google.com/drive/u/0/folders/1Noa-oAM66W35F_XznEDmqG8PIvFRsiwT|more]
   * Beyond Reality: Creating Virtual Reality Apps. Ever want to create a world that you could jump into and explore? In this session, you'll get to experience virtual reality first-hand, and use HTML to create your very own virtual world! No prior programming experience necessary.
  [[https://drive.google.com/drive/u/0/folders/1Wq1_5vlDy1P4HTXftD2PaQGqg46qc_3A|Web development:]]
  [[https://drive.google.com/drive/u/0/folders/1_CzyjH-J3ytwKsP_4BQOwCrHCPRXYA7h|Drone races:]]
