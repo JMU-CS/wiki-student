@@ -23,11 +23,12 @@ Nov 5th, 2022, James Madison University**
   - [[https://jmu.co1.qualtrics.com/jfe/form/SV_560vIeRpHDGzt3w|PostSurvey]]
 
 ====== Workshops ======
-  - [[https://drive.google.com/drive/u/0/folders/1Noa-oAM66W35F_XznEDmqG8PIvFRsiwT|Augmented Reality:]]
-  - [[https://drive.google.com/drive/u/0/folders/1Wq1_5vlDy1P4HTXftD2PaQGqg46qc_3A|Web development:]]
-  - [[https://drive.google.com/drive/u/0/folders/1_CzyjH-J3ytwKsP_4BQOwCrHCPRXYA7h|Drone races:]]
-  - [[https://drive.google.com/drive/u/0/folders/1sdg5oPHkOW8-SIWLFzdwOEtZ_D-5_hgW|Python Turtle Art:]]
-  - [[https://drive.google.com/drive/u/0/folders/1Nj9zAyxSggmnmjJ6FL8hGlQovM_D7iGW|Mobile App:]]
+  == [[https://drive.google.com/drive/u/0/folders/1Noa-oAM66W35F_XznEDmqG8PIvFRsiwT|Augmented Reality:]]==
+  * Beyond Reality: Creating Virtual Reality Apps. Ever want to create a world that you could jump into and explore? In this session, you'll get to experience virtual reality first-hand, and use HTML to create your very own virtual world! No prior programming experience necessary.
+  == [[https://drive.google.com/drive/u/0/folders/1Wq1_5vlDy1P4HTXftD2PaQGqg46qc_3A|Web development:]]==
+  == [[https://drive.google.com/drive/u/0/folders/1_CzyjH-J3ytwKsP_4BQOwCrHCPRXYA7h|Drone races:]]==
+  == [[https://drive.google.com/drive/u/0/folders/1sdg5oPHkOW8-SIWLFzdwOEtZ_D-5_hgW|Python Turtle Art:]]==
+  == [[https://drive.google.com/drive/u/0/folders/1Nj9zAyxSggmnmjJ6FL8hGlQovM_D7iGW|Mobile App:]]==
 
 ====== Tech gift activities ======
   - Balanced car
