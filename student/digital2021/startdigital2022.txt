@@ -31,13 +31,13 @@ Nov 5th, 2022, James Madison University**
   * Have you ever wondered how the websites you use on the internet are created? In this exciting session, you will learn all about web design and how to make your own website. You will get the chance to see how various components interact in order to construct the websites you use every day!
 
  [[https://drive.google.com/drive/u/0/folders/1_CzyjH-J3ytwKsP_4BQOwCrHCPRXYA7h|Drone races:]]
-* Have you ever wanted to fly your own drone? This is the session for you! In this challenging workshop, you will learn how to control a drone with code and fly it through an obstacle course. Show off your skills and see if you can navigate the drone through the entire course!
+  * Have you ever wanted to fly your own drone? This is the session for you! In this challenging workshop, you will learn how to control a drone with code and fly it through an obstacle course. Show off your skills and see if you can navigate the drone through the entire course!
 
  [[https://drive.google.com/drive/u/0/folders/1sdg5oPHkOW8-SIWLFzdwOEtZ_D-5_hgW|Python Turtle Art:]]
-* Bring your problem-solving abilities to this session as you learn how to program with Python! Python is one of the most widely-used programming languages in the tech industry today. In this workshop, you will learn how to navigate a turtle across the screen using the Python language! No prior programming experience is necessary.
+  * Bring your problem-solving abilities to this session as you learn how to program with Python! Python is one of the most widely-used programming languages in the tech industry today. In this workshop, you will learn how to navigate a turtle across the screen using the Python language! No prior programming experience is necessary.
 
  [[https://drive.google.com/drive/u/0/folders/1Nj9zAyxSggmnmjJ6FL8hGlQovM_D7iGW|Mobile App:]]
-* Learn how to create a mobile app using App inventor! In this interactive session, you will design and implement a fun app to show off to friends and family. Bring your creativity to this workshop and make your first app! No programming experience is required.
+  *Learn how to create a mobile app using App inventor! In this interactive session, you will design and implement a fun app to show off to friends and family. Bring your creativity to this workshop and make your first app! No programming experience is required.
 
 ====== Tech gift activities ======
   - Balanced car
