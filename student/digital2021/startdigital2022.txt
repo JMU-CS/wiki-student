@@ -18,9 +18,9 @@ Nov 5th, 2022, James Madison University**
 
 ===== Participants SURVEY 2022 =====
 
- [[https://jmu.co1.qualtrics.com/jfe/form/SV_cvRZpv5Nn46Leui|PreSurvey]]
+ [[https://jmu.co1.qualtrics.com/jfe/form/SV_cvRZpv5Nn46Leui|PreSurvey -- Participants]]
 
- [[https://jmu.co1.qualtrics.com/jfe/form/SV_560vIeRpHDGzt3w|PostSurvey]]
+ [[https://jmu.co1.qualtrics.com/jfe/form/SV_560vIeRpHDGzt3w|PostSurvey  -- Participants]]
 
 ====== Workshops ======
 ======
@@ -45,7 +45,7 @@ Nov 5th, 2022, James Madison University**
 
 
 ====== Volunteer Feedback ======
-[[https://jmu.co1.qualtrics.com/jfe/form/SV_cHiGpWEyq79ptqe|Volunteer Feedback]]
+[[https://jmu.co1.qualtrics.com/jfe/form/SV_cHiGpWEyq79ptqe|Volunteer Feedback -- Volunteers]]
 
 {{:student:digital2021:digital2022_schedule.png?600|}}
 
