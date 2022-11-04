@@ -40,8 +40,8 @@ Nov 5th, 2022, James Madison University**
   *Learn how to create a mobile app using App inventor! In this interactive session, you will design and implement a fun app to show off to friends and family. Bring your creativity to this workshop and make your first app! No programming experience is required.
 
 ====== Tech gift activities ======
-  - Balanced car
-  - Micro:bit
+[[https://w3.cs.jmu.edu/duanzx/Tech_gift.html|Balanced car]]
+ 
 
 
 ====== Volunteer Feedback ======
