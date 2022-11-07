@@ -42,8 +42,9 @@ Office Hours: All my classes are online, so my office hours are mostly by appoin
 
 
 ==== Dr. Johnson - CS 240, CS 430 ====
-  * MWF: 10:00 AM-11:00 AM in ISAT/CS 246-E
-  * TTh: 12:30 AM-1:30 PM in ISAT/CS 246-E
+  * MW: 10:00 AM-11:00 AM in King 246-E
+  * T: 12:30 AM-1:30 PM in King 246-E
+  * Th: 12:30 AM-2:30 PM in King 246-E
 
 ==== Dr. Kirkpatrick - CS 343, CS 361 ====
   * M/W/F: 3:00 - 4:00 PM in King 223
