@@ -1,6 +1,6 @@
 ====== CS Electives ======
 
-All CS students are required to take three upper level CS electives. The specifics here depend on your Catalog Year (you can reference the details in your Academic Requirements page):
+All CS students are required to take three upper level CS electives. The specifics here depend on your Catalog Year (you can reference the details in your Academic Requirements page in MyMadison Student Center):
 
   * if you're on the 19-20 Catalog Year, you need three CS electives above 300 and //at least two must be above 345//.
   * if you're on the 22-23 Catalog Year, you need three CS electives above 300 and //at least two must be above 332//.
