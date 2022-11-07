@@ -34,6 +34,11 @@ CS Seniors\\
 [[student:graduation-preparation:start | Graduation Requirements ]]\\
 [[department:graduation| Graduation Process and Forms ]]\\
 
+
+Scholarships\\
+[[department:scholarships:start| Scholarships]]\\
+
+
 ==== Start-up Guides ====
 
   * [[student:firstyearstartup:start | First-Year Start-up Guide ]]
