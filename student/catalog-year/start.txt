@@ -1,6 +1,24 @@
+====== CS Electives ======
+
+All CS students are required to take three upper level CS electives. The specifics here depend on your Catalog Year (you can reference the details in your Academic Requirements page):
+
+  * if you're on the 19-20 Catalog Year, you need three CS electives above 300 and //at least two must be above 345//.
+  * if you're on the 22-23 Catalog Year, you need three CS electives above 300 and //at least two must be above 332//.
+
+So, if you want to count both CS 330 and CS 343 toward your CS Elective Requirements, you'll need to make sure your catalog year is 22-23.
+
+
 ====== How to change your catalog year ======
-Email our Program Director, Dr. Buchholz: 
+Email our Program Director, Dr. Buchholz: buchhofp@jmu.edu 
 Send him: 
   * Your student ID number
   * Your current Catalog Year
   * Your desired Catalog Year
+
+====== Defining Terms ======
+
+A "CS Elective" is any CS course you "elect" to take - meaning, they aren't the required courses. 
+
+You're required to take one of our five System Electives. If you took another one, it would count as a CS elective. 
+
+Note that you're only permitted to take one of the Algorithm Electives - CS 412 //or// CS 452.
