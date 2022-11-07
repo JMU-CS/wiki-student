@@ -23,6 +23,7 @@ Curriculum & Advising\\
 Enrollment\\
 [[department:advising:enrollment101:start| Enrollment Advice]]\\
 [[department/waitlist/start| Using the Waitlist Correctly]]\\
+[[student/catalog-year/start| CS Electives and Catalog Year]]\\
 
 Students taking CS 149 or CS 159\\
 [[department:fya:start| First Year Advising FAQ]]\\
