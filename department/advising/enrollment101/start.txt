@@ -111,6 +111,7 @@ Don't worry, there's a [[department:advising-resources:|Wiki Page]] for that!
   * If you have an error about a prerequisite: you have to contact the department responsible for the course you need. Start with contacting the listed professor and check the department’s Faculty and Staff listing to see if they have a departmental advisor. 
   * See [[https://www.jmu.edu/registrar/students/FAQ.shtml#Set-2-A|error FAQs]]
   * Note: you cannot enroll in courses when the section number start with OP. These are reserved for Adult Degree Students and are not available to regular undergraduate students. (e.g. ISCI  101 - OP01)
+  * Note: you cannot enroll in a CS Independent Study without first discussing this option with a CS faculty member, getting their approval to oversee the Independent Study, and establishing a plan for the course. 
 
 **Enrollment Resources**
   * [[https://www.jmu.edu/computing/mymadison/tutorials/tutorials-students.shtml|MyMadison Tutorials]]
