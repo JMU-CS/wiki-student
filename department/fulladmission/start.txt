@@ -1,6 +1,8 @@
 ====== Full Admission to the CS Major or the CS Minor ======
 
-You will be guaranteed full admission to the CS major or minor, if your average grade in CS 149 and CS 159 is a 3.0 or better, and if you have not repeated CS 159. Students who meet the criteria for guaranteed admission //still have to apply//: 
+You will be guaranteed full admission to the CS major or minor, if your average grade in CS 149 and CS 159 is a 3.0 or better, and if you have not repeated CS 159. 
+
+Students who meet the criteria for guaranteed admission //still have to apply//: 
 
 **Application form**
 
