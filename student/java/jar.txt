@@ -66,7 +66,7 @@ The program has been compiled by a more recent version of the Java Runtime (clas
 this version of the Java Runtime only recognizes class file versions up to YY.0
 </code>
 
-it means that you need to update your version of Java. When doing so, you need to be careful because many systems have both the Java Runtime Environment (JRE) and the Java Development Kit (JDK) installed, and updating the one may not update the other. In Linux/OSX you can use %% which java%% and in MS-WIndows you can use %%where java%% to find the path to the Java interpreter. You can change the %%path%% environment variable (not the %%classpath%% environment variable) to change which Java interpreter is used (i.e., either the one installed with the JRE or the one installed with the JDK).
+it means that you need to update your version of Java. When doing so, you need to be careful because many systems have both the Java Runtime Environment (JRE) and the Java Development Kit (JDK) installed, and updating the one may not update the other. In Linux/OSX you can use ''%%which java%%'' and in MS-WIndows you can use ''%%where java%%'' to find the path to the Java interpreter. You can change the ''%%path%%'' environment variable (not the ''%%classpath%%'' environment variable) to change which Java interpreter is used (i.e., either the one installed with the JRE or the one installed with the JDK).
 
 ==== Using Resources in a .jar File ====
 
