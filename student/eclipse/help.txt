@@ -172,6 +172,9 @@ To instruct Eclipse to use them when compiling and executing you should:
 
 Remember, if you only have the byte code, you will not be able to edit these "third party" classes, but you will be able to use them in your source code.
 
+== Troubleshooting ==
+If in trying to run your project you get a ''%%java.lang.UnsupportedClassVersionError%%'', it's likely that you are using the wrong version of Java (usually one too old). Check the expected java version in your course's documents. If you're not sure where to look, it's highly likely that your instructor requires you have at least the same [[student:computer_labs:start|version as the computer labs]].
+
 
 === Incorporating Other Projects into a Project ===
 
