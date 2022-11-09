@@ -11,10 +11,12 @@ CS courses that can count as mathematics courses:
 
 Math courses that can count as CS courses: 
 
-  * Math 227 is cross listed as CS 227.
-  * Math 245 Discrete Math. A C- or better in this course can be used in place of CS 227 to satisfy the discrete math requirement. A student will need to obtain an override from the CS Undergraduate Program Director to sign up for CS 240 since MyMadison only knows the prerequisite of CS 227. 
-  * Math 448 is cross listed as CS 448. 
-  * Math 449 is cross listed as CS 449. 
+  * MATH 227 (Discrete Structures I): cross-listed as CS 227
+  * MATH 245 (Discrete Mathematics): A C- or better in this course can be used in place of CS 227 to satisfy the CS discrete math requirement. A student will need to obtain an override from the CS Undergraduate Program Director to sign up for CS 240 since MyMadison only knows the prerequisite of CS 227.
+  * MATH 318 (Introduction to Probability and Statistics): A C- or better in this course can be used in place of MATH 220 or MATH 229 to satisfy the CS statistics requirement.
+  * MATH 448 (Numerical Analysis): cross-listed as CS 448
+  * MATH 449 (Numerical Analysis for Differential Equations): cross-listed as CS 449
+
 ===== Advice for Pursuing a Mathematics Minor with CS =====
 
 ===== Advice for Pursuing a Mathematics Major with CS =====
