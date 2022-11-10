@@ -11,9 +11,6 @@ The wait list in MyMadison can be a powerful tool to enroll in the classes you d
     * The student is already enrolled in a different section of the same class
     * The student is already enrolled in a different class where class times overlap
 
-===== How (and why) to Check the Waitlist =====
-
-https://www.youtube.com/watch?v=w8t9YwM007w 
 
 ===== Using the wait list to swap classes =====
 Because of the way the wait list works, if you merely use the "Add" tab in MyMadison to get on the wait list for a class, you will not be considered if you already have a class during the same time or are enrolled in a different section of the same class once more seats become available. To use the wait list to get into a different section of a class or to swap out a class that has the same time, **you must use the "Swap" tab** in MyMadison to enter the wait list. If you use "Swap" then the last two bullets above (definition of conflicts) are not considered conflicts anymore.
