@@ -11,7 +11,7 @@ The wait list in MyMadison can be a powerful tool to enroll in the classes you d
     * The student is already enrolled in a different section of the same class
     * The student is already enrolled in a different class where class times overlap
 
-====== How (and why) to Check the Waitlist ======
+===== How (and why) to Check the Waitlist =====
 
 https://www.youtube.com/watch?v=w8t9YwM007w 
 
