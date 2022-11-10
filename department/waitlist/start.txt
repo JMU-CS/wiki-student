@@ -16,3 +16,18 @@ The wait list in MyMadison can be a powerful tool to enroll in the classes you d
 Because of the way the wait list works, if you merely use the "Add" tab in MyMadison to get on the wait list for a class, you will not be considered if you already have a class during the same time or are enrolled in a different section of the same class once more seats become available. To use the wait list to get into a different section of a class or to swap out a class that has the same time, **you must use the "Swap" tab** in MyMadison to enter the wait list. If you use "Swap" then the last two bullets above (definition of conflicts) are not considered conflicts anymore.
 
 [[https://www.jmu.edu/computing/ittraining/e-training/mymadison-swap-a-class/index.html|Tutorial video]]
+
+
+==== How (and why) to Check the Waitlist ====
+
+https://www.youtube.com/watch?v=w8t9YwM007w \\
+
+
+
+==== A note on the WAIT part of the Waitlist ====
+
+I get a lot of emails from students asking when they will get off the waitlist. The answer could very well be never. Just because you are on the waitlist for a class does not mean you will get in. 
+
+Here are the things to look at when assessing your chances of getting off the waitlist: 
+
+{{:department:waitlist:waitlist.png?600|}}
