@@ -6,7 +6,7 @@ In addition to using this page to find information, you can search the Wiki usin
 
 ===== Announcements =====
  
-  * The Spring Schedule will be available Monday (10/24) and Spring Enrollment begins the week of Nov. 7. See [[department:advising:enrollment101:start|Enrollment Advice]].
+  * All students in CS 159 who want to continue in the CS Major or Minor must apply for full admission before the final day of classes (Dec. 9).  [[https://wiki.cs.jmu.edu/department/fulladmission/start|See details]]
 ==== CS Advising ====
 
 Curriculum & Advising\\
