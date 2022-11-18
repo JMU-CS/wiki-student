@@ -72,7 +72,7 @@ public class ResourceCopier {
 
     /**
      * Copy all of the files from a resources package to a temporary directory
-     * on the file system (whether or not the code and resources and in a .jar
+     * on the file system (whether or not the code and resources are in a .jar
      * file or on the file system).
      * 
      * This implementation assumes the resource package is a subpackage of the
