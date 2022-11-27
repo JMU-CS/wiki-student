@@ -16,7 +16,6 @@ Send him:
   * Your current Catalog Year
   * Your desired Catalog Year
 
-Note: you can find your current catalog year by going to MyMadison > Student Center > Academic Requirements. Then scroll down to the beginning of your Computer Science information. It's listed with the CS header.
 ====== Defining terms ======
 
 A "CS Elective" is any CS course you "elect" to take - meaning, they aren't the required core courses in the CS major. 
