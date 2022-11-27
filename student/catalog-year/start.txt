@@ -8,7 +8,7 @@ All CS students are required to take three upper level CS electives. The specifi
 So, if you want to count both CS 330 and CS 343 toward your CS Elective Requirements, you'll need to make sure your catalog year is 22-23.
 
 **Finding your Catalog Year**
-
+You can find your current catalog year by going to MyMadison > Student Center > Academic Requirements. Then scroll down to the beginning of your Computer Science information. It's listed with the CS header.
 ====== How to change your catalog year ======
 Email our Program Director, Dr. Buchholz: buchhofp@jmu.edu 
 Send him: 
