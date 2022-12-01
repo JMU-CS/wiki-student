@@ -47,6 +47,7 @@ CS/MATH 227, CS 240, CS 327, CS 442. This sequence focuses on the mathematical t
 **Artificial intelligence and robotics**\\
 CS/MATH 227, CS 240, CS 354, CS 444. This sequence covers a lot of the same areas as the [[https://www.jmu.edu/cs/minors/robotics-minor/index.shtml|Interdisciplinary Robotics Minor]], but focuses exclusively on the software side of the field.
 
+{{ :department:cs-minor-paths.png |}}
 ====== CS minor FAQ ======
 
 Here are some answers to commonly asked questions about the minor.
