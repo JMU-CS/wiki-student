@@ -35,7 +35,7 @@ CS/MATH 227, CS 240, CS 261, CS 327. This sequence combines theory and algorithm
 **Traditional core CS with concurrency**\\
 CS/MATH 227, CS 240, CS 261, CS 361. This sequence has less focus on theory, but introduces multithreaded and network-based programming. The additional CS 361 course requires more C programming.
  
-**Full Stack Development*\\
+**Software engineering and information systems**\\
 CS 343, CS 345, CS 374, CS 347 or CS 447. This sequence combines professional software engineering practices with databases, web programming, and user interface design.
  
 **Societal impact and user experience**\\
@@ -47,11 +47,6 @@ CS/MATH 227, CS 240, CS 327, CS 442. This sequence focuses on the mathematical t
 **Artificial intelligence and robotics**\\
 CS/MATH 227, CS 240, CS 354, CS 444. This sequence covers a lot of the same areas as the [[https://www.jmu.edu/cs/minors/robotics-minor/index.shtml|Interdisciplinary Robotics Minor]], but focuses exclusively on the software side of the field.
 
-**Mathematics and Algorithms**
-Courses: CS/MATH 227, CS 240, CS 327, and either CS 412 or CS 442
-This sequence focuses on the core mathematical foundations of CS, providing the tools for analyzing the efficiency of algorithms that are used to solve common problems. These courses also explore problems that are inherently difficult--if not impossible--to solve with a computer.
-
-{{ :department:cs-minor-paths.png |}}
 ====== CS minor FAQ ======
 
 Here are some answers to commonly asked questions about the minor.
