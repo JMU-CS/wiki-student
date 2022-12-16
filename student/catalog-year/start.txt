@@ -18,7 +18,7 @@ Send him:
 
 ====== Defining terms ======
 
-A "CS Elective" is any CS course you "elect" to take - meaning, they aren't the required core courses in the CS major. 
+A "CS Elective" is any CS course you "elect" to take - meaning, they aren't required courses for the CS major. 
 
 You're required to take //one// of our five System Electives. If you elect to take another one, it would count as a CS elective. 
 
