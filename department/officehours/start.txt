@@ -123,8 +123,8 @@ Office Hours:
   * T/Th: 2 PM - 4 PM
   * And other times by appointment! ([[wangid@jmu.edu?subject=Office Hours Appointment|wangid@jmu.edu]])
 
-==== Dr. Xunhua Wang - CS327-0002&0003, CS660 [Fall 2022] ====
-  * Office hours: [Tu/Th] 10:40 ~ 12:40; 15:40 ~ 16:10 [King Hall 213]；or by appointment (wangxx@jmu.edu)
+==== Dr. Xunhua Wang - CS482-0002, CS559Ex81, CS627Ex81 [Spring 2023] ====
+  * Office hours: [Tu/Th] 13:20 ~ 15:50 [King Hall 213]；or by appointment (wangxx@jmu.edu)
   * Zoom URL: [[https://jmu-edu.zoom.us/j/4401425906 |https://jmu-edu.zoom.us/j/4401425906]]
 
 ==== Dr. Weikle - CS149, CS261 Fall 2022 ====
