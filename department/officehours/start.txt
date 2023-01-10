@@ -41,7 +41,7 @@ Office Hours: All my classes are online, so my office hours are mostly by appoin
   * 	If you have questions about the program and I am not available, please contact Virginia Fulginiti (room 219) at     540-568-8772 or email her at fulginvh@jmu.edu.
 
 
-==== Dr. Johnson - CS 240, CS 430 ====
+==== Dr. Johnson - CS 430 ====
   * TTh: 12:25 PM-2:20 PM in King 246-E
   * W: 12:30 PM-1:30 PM in King 246-E
 ==== Dr. Kirkpatrick - CS 343, CS 361 ====
