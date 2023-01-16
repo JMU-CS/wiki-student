@@ -109,6 +109,7 @@ Zoom Option: TBA
 
 ==== Dr. Michael Stewart ====
 🌸Spring 2023: CS 159, CS 343 ⚡️
+
 Location:
   * Office: 212 King Hall 👑
   * on [[http://tiny.cc/stewart-hours | zoom]] by appointment (typically during the hours listed below)
