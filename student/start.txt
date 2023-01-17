@@ -74,6 +74,7 @@ Scholarships\\
   * [[https://ss64.com/ | Command Line Help ]]
   * [[student:eclipse:start | Eclipse ]]
   * [[student:gcov:start | gcov/lcov ]]
+  * [[student:personalgithub:start | GitHub for Personal Use ]] 
   * [[student:java:start | Java ]]
   * [[student:jgrasp:start | jGRASP ]]
   * [[student:junit:start | JUnit ]]
