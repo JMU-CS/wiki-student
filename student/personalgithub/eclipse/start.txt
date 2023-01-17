@@ -1,4 +1,4 @@
-====== GitHub for Personal Use with Eclipse ======
+====== DRAFT -- GitHub for Personal Use with Eclipse -- DRAFT ======
 
 This page describes one way to use GitHub for personal use under Eclipse.
 
