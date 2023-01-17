@@ -1,0 +1,95 @@
+====== GitHub for Personal Use with Eclipse ======
+
+This page describes one way to use GitHub for personal use under Eclipse.
+
+===== For Each Course =====
+
+==== In Your Browser On One Machine ====
+
+   - Create a GitHub account if you don't have one.
+   - Login to GitHub.
+   - Create a new repository for the course (e.g., with a repository name of ''cs999'').
+   - Click on ".gitignore template" and select "None".
+   - Click on <key>Create repository</key>.
+   - Click on ".gitignore" in the Quick setup area to create such a file.
+   - Add the following to the file:
+<code>
+# Byte Code #
+*.class
+
+# Eclipse #
+.settings/
+bin/
+tmp/
+.metadata
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
+.checkstyle
+
+# Log Files #
+*.log
+
+# OS X #
+.DS_Store
+
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual Machine Crash Logs (see http://www.java.com/en/download/help/error_hotspot.xml) #
+hs_err_pid*
+</code>
+
+Then, click on [Commit new file].
+
+At this point you should also create a Personal Access Token (see ''https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token'').
+
+==== In a File Explorer/Finder/Terminal on Each Machine ====
+
+  - Create a directory/folder for the course (e.g., ''/home/bernstdh/cs999'').
+  - Create a directory/folder for the Eclipse workspace for the course (e.g.,  ''/home/bernstdh/cs999/eclipse''). **Don't use the  course directory/folder**, create a sub directory/folder in the course directory/folder.
+  - Create a directory/folder for the Git repository for the course (e.g., ''/home/bernstdh/cs999/git''). Again, **don't use the course directory/folder** (create a sub directory/folder in the course directory/folder), **don't use the workspace folder**, and **don't put the repository folder inside of the workspace folder**.
+
+==== In Eclipse on Each Machine ====
+
+  - Start Eclipse. When asked for the workspace to use, browse to the directory/folder you just created for this purpose (e.g., ''/home/bernstdh/cs999/eclipse'').
+  - Setup the workspace as needed (e.g., add a Checkstyle checks file, add a formatter).
+  - Open the Git Perspective.
+  - Click on "Clone a Git repository". When asked for the "Repository directory" to use, browse to the directory/folder you created for this purpose (e.g., ''/home/bernstdh/cs999/git'').
+  - Enter the GitHub URI (e.g., ''https://github.com/bernstdh/cs999'') in the "URI:" field.
+  - Enter your GitHub user name in the "User:" field.
+  - Enter your Personal Access Token in the "Password" field.
+  - Click on <key>Next></key>.
+  - Select "main" if it isn't already.
+  - Click on <key>Next></key>.
+  - Enter the name of the the directory/folder you created for the Git repository for this course (e.g.,''/home/bernstdh/cs999/git'') in the "Directory:" field. (Note: Be careful if you use the [Browse] button as it will add additional subdirectories. They won't break anything but they will make the directory structure more confusing.)
+  - Make sure the "Remote name:" is origin.
+  - Click in <key>Finish</key>.
+  - Open the Java perspective.
+
+===For Each Eclipse Project in the Course, On One Machine ===
+
+  - Create the new project.
+  - Add the project to source control by right-clicking on the package name, pulling down to [Team] and across to [Share project]. Note: At this point, a directory/folder with the name of the project will be added to the workspace.
+  - Click on the "Repository:" dropdown and select the Git repository for this course (e.g., ''/home/bernstdh/cs999/git'').
+  - Click on <key>Finish</key>. Note: At this point, the directory/folder for the project will be moved from the worskapce directory/folder to the Git respoitory folder/directory.
+  - Commit and push as needed.
+
+===For Each Eclipse Project in the Course, On All Machines ===
+  - Pull as needed
+  - Commit and push as needed
+
+
