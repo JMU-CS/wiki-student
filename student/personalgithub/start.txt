@@ -1,0 +1,7 @@
+====== GitHub for Personal Use ======
+
+If you work on multiple computers (e.g., a laptop and a desktop), you may want to keep your code on GitHub so that you can access it from all of them. This page links to step-by-step instructions for doing this in a variety of different environments. 
+
+Note that these instructions are generic. Different courses may use Git and GitHub in different ways and you should make sure you understand the requirements of your courses, if any.
+
+  * [[student:personalgithub:eclipse:start | Eclipse ]]
