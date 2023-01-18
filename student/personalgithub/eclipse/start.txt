@@ -1,6 +1,6 @@
-====== DRAFT -- GitHub for Personal Use with Eclipse -- DRAFT ======
+====== GitHub for Personal Use with Eclipse  ======
 
-This page describes one way to use GitHub for personal use under Eclipse.
+This page describes one way to use GitHub for personal use under Eclipse. It uses a different repository for each course.
 
 ===== For Each Course =====
 
@@ -78,10 +78,11 @@ At this point you should also create a Personal Access Token (see ''https://docs
   - Enter the name of the the directory/folder you created for the Git repository for this course (e.g.,''/home/bernstdh/cs999/git'') in the "Directory:" field. (Note: Be careful if you use the [Browse] button as it will add additional subdirectories. They won't break anything but they will make the directory structure more confusing.)
   - Make sure the "Remote name:" is origin.
   - Click in <key>Finish</key>.
-  - Open the Java perspective.
 
 ===For Each Eclipse Project in the Course, On One Machine ===
 
+  - Start Eclipse.
+  - Open the "Java Perspective".
   - Create the new project.
   - Add the project to source control by right-clicking on the package name, pulling down to [Team] and across to [Share project]. Note: At this point, a directory/folder with the name of the project will be added to the workspace.
   - Click on the "Repository:" dropdown and select the Git repository for this course (e.g., ''/home/bernstdh/cs999/git'').
@@ -93,6 +94,7 @@ At this point you should also create a Personal Access Token (see ''https://docs
 
   - Start Eclipse.
   - Open the Git Perspective.
+  - Expand the repository (e.g., ''git'').
   - Expand the "Working Tree".
   - Right-click on the directory/folder icon for the project.
   - Pull-down to <key>Import Projects...</key>.
