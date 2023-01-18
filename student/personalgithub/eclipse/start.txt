@@ -4,9 +4,11 @@ This page describes one way to use GitHub for personal use under Eclipse. It use
 
 ===== For Each Course =====
 
-==== In Your Browser On One Machine ====
+For each course you must create a repository on GitHub using one machine.  Then you must create the necessary directories/folders on each machine and clone the GitHub repository.
 
-   - Create a GitHub account if you don't have one.
+==== Create a GitHub Repository From One Machine ====
+
+   - Open a WWW browser.
    - Login to GitHub.
    - Create a new repository for the course (e.g., with a repository name of ''cs999'').
    - Click on ".gitignore template" and select "None".
@@ -57,13 +59,14 @@ Then, click on [Commit new file].
 
 At this point you should also create a Personal Access Token (see ''https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token'').
 
-==== In a File Explorer/Finder/Terminal on Each Machine ====
+==== Create the Necessary Directories/Folders on Each Machine ====
 
+  - Open a file explorer/finder/terminal.
   - Create a directory/folder for the course (e.g., ''/home/bernstdh/cs999'').
   - Create a directory/folder for the Eclipse workspace for the course (e.g.,  ''/home/bernstdh/cs999/eclipse''). **Don't use the  course directory/folder**, create a sub directory/folder in the course directory/folder.
   - Create a directory/folder for the Git repository for the course (e.g., ''/home/bernstdh/cs999/git''). Again, **don't use the course directory/folder** (create a sub directory/folder in the course directory/folder), **don't use the workspace folder**, and **don't put the repository folder inside of the workspace folder**.
 
-==== In Eclipse on Each Machine ====
+==== Clone the GitHub Repository on Each Machine ====
 
   - Start Eclipse. When asked for the workspace to use, browse to the directory/folder you just created for this purpose (e.g., ''/home/bernstdh/cs999/eclipse'').
   - Setup the workspace as needed (e.g., add a Checkstyle checks file, add a formatter).
@@ -79,7 +82,11 @@ At this point you should also create a Personal Access Token (see ''https://docs
   - Make sure the "Remote name:" is origin.
   - Click in <key>Finish</key>.
 
-===For Each Eclipse Project in the Course, On One Machine ===
+===== For Each Eclipse Project in Each Course =====
+
+For each Eclipse project in a course, you will create the project on one machine and push it to GitHub. The, you will import the project on every other machine.
+
+==== Create the Project On One Machine ====
 
   - Start Eclipse.
   - Open the "Java Perspective".
@@ -87,10 +94,10 @@ At this point you should also create a Personal Access Token (see ''https://docs
   - Add the project to source control by right-clicking on the package name, pulling down to [Team] and across to [Share project]. Note: At this point, a directory/folder with the name of the project will be added to the workspace.
   - Click on the "Repository:" dropdown and select the Git repository for this course (e.g., ''/home/bernstdh/cs999/git'').
   - Click on <key>Finish</key>. Note: At this point, the directory/folder for the project will be moved from the worskapce directory/folder to the Git respoitory folder/directory.
-  - Commit and push as needed.
+  - Commit and push.
 
 
-===For Each Eclipse Project in the Course, On Other Machine(s) ===
+==== Import the Project On Other Machine(s) ====
 
   - Start Eclipse.
   - Open the Git Perspective.
