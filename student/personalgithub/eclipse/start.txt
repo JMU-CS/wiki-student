@@ -88,8 +88,15 @@ At this point you should also create a Personal Access Token (see ''https://docs
   - Click on <key>Finish</key>. Note: At this point, the directory/folder for the project will be moved from the worskapce directory/folder to the Git respoitory folder/directory.
   - Commit and push as needed.
 
-===For Each Eclipse Project in the Course, On All Machines ===
-  - Pull as needed
-  - Commit and push as needed
+
+===For Each Eclipse Project in the Course, On Other Machine(s) ===
+
+  - Start Eclipse.
+  - Open the Git Perspective.
+  - Expand the "Working Tree".
+  - Right-click on the directory/folder icon for the project.
+  - Pull-down to <key>Import Projects...</key>.
+  - Click on <key>Finish</key>.
+
 
 
