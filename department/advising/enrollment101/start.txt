@@ -42,7 +42,7 @@ To withdraw from a course, you use the "drop" function in MyMadison.
 **Dropping either CS 227 or CS 159** \\
 CS 227 and CS 159 are co-requisites. If you are taking them together, you will need a departmental override to drop one and remain in the other. Please email your student ID number and the section of your course to Dr. Buchholz, buchhofp@jmu.edu.
 
-=== Withdrawing AFTER October 26th ===
+=== Withdrawing AFTER March 24, 2023 ===
 
 Any student wanting to withdraw from a class after the Withdraw deadline can only do so when an instructor agrees to issue a final grade of "WP" (withdraw pass) or "WF" (Withdraw Fail), based on their grade at time of withdrawal.\\
 
