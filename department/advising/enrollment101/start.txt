@@ -38,7 +38,7 @@ Withdrawal from a course by this deadline will result in a "W" on your transcrip
 You do NOT need permission to withdraw, BUT we highly recommend that you also discuss it with the professor (for any classes) and if you plan to drop a CS course, speak to the CS advisor, too.
 
 **How to Withdraw**\\
-To withdraw from a course, you use the "[[https://www.jmu.edu/computing/mymadison/tutorials/enrollment.shtml#drop|drop]]" function in MyMadison. 
+To withdraw from a course, you use the [[https://www.jmu.edu/computing/mymadison/tutorials/enrollment.shtml#drop|"drop"]] function in MyMadison. 
 
 **Dropping either CS 227 or CS 159** \\
 CS 227 and CS 159 are co-requisites. If you are taking them together, you will need a departmental override to drop one and remain in the other. Please email your student ID number and the section of your course to Dr. Buchholz, buchhofp@jmu.edu.
