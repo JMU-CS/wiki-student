@@ -54,16 +54,18 @@ This option is strictly at the discretion of the instructor, and most will only 
 
 ===== Enrollment Windows =====
 
-Spring 2023 enrollment appointments begin November 7, 2022.\\
+Fall 2023 enrollment appointments begin April 10, 2023.\\
 Look at MyMadison for YOUR appointment date and time.
 Your enrollment day based on your standing - [[https://www.jmu.edu/registrar/students/fall_enroll_time.shtml|see details]]
 
 If you do not know what to sign up for, please review the [[https://wiki.cs.jmu.edu/department/curriculum/start|curriculum resources]], including sample plans of study. If you have further questions or concerns, schedule appointment with the CS advisor.
 
-Open Enrollment begins at 12:01am on November 11, 2022. During Open Enrollment, you can expect SOME movement in classes, so you are welcome to continue to look for classes through the add/drop deadline of the fall semester.
+Open Enrollment begins at 12:01am on April 14, 2023. During Open Enrollment, you can expect SOME movement in classes, so you are welcome to continue to look for classes through the add/drop deadline of the upcoming semester.
 HOWEVER, do NOT count on finding a seat in a specific class.
 
 We recommend that you **enroll in 15-16 credit hours during your advance registration appointment**, and then SWAP when you find a course you really want with an open seat.
+
+Make sure you are using the [[department:waitlist:start|waitlist correctly]].
 
 === Check for Holds! ===
 
