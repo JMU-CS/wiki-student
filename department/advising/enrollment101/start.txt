@@ -10,9 +10,7 @@
 
 ===== Add/Drop Deadline =====
 
-You have until the **Add/Drop Deadline of Jan. 27, 2023** to change your schedule. After this point, your schedule is set and the only change you can make is to withdraw from a course. (see below). When you "drop" a class between now and Jan. 27th, it disappears from your schedule. 
-
-If you drop a course between Jan 28-March 24th, you "withdraw" from the course, you will receive a "W" on your transcript. 
+You have until the **Add/Drop Deadline of Jan. 27, 2023** to change your schedule. After this point, your schedule is set and the only change you can make is to withdraw from a course. (see below). 
 
 How to [[https://www.jmu.edu/computing/mymadison/tutorials/enrollment.shtml#drop|drop a class]].
 ===== Freshmen Mid-Semester Grades =====
