@@ -1,5 +1,8 @@
 ===== Computer Labs =====
-The Computer Science department maintains multiple computer labs running Linux Mint 20.3. Desktop machines may be accessed over the network. See the article on [[student:stu:basics|stu]] for more information.
+The Computer Science department maintains multiple computer labs running Linux Mint 20.3. Desktop machines may be accessed over the network. See the article on [[student:stu:basics|stu]] for more information. You are free to use these labs whenever there is no class scheduled there. These labs are located in:
+  - King 248 (where [[department:cs-success:start|TA Hours]] are held)
+  - King 250
+  - EnGeo 2204
 
 ==== Lab Hardware ====
 
