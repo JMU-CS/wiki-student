@@ -1,5 +1,0 @@
-====== GitLab ======
-
-GitLab is a free and open source system for source control and project management. Our department has an instance at https://git.cs.jmu.edu and you can register an account with it simply by sigining in with your JMU EID on the LDAP tab (see figure).
-
-{{ :student:gitlab:screenshot_2018-08-23_15.06.17.png?nolink&400|}}
