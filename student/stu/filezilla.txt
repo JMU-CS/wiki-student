@@ -1,0 +1,24 @@
+====== Transferring Files from Your JMU CS Account with FileZilla ======
+
+  - Install the [[https://filezilla-project.org/download.php?type=client|FileZilla client]]
+  - Open FileZilla
+  - If the Site Manager doesn't automatically open, click the icon in the top left of the FileZilla window (see #1 in image) to open it
+    * Main FileZilla Window\\ {{:student:stu:filezilla_-_main_window.png?direct&800|}}
+        - Site Manager button
+        - the files on the computer you're currently using (i.e. your laptop, called the "local" computer)
+        - the files on "stu" the JMU CS server that hosts your account (the computer that you're not currently using, but have connected to is the "remote" computer)
+  - In the Site Manager window, click the New site button (annotated with the ellipse in the figure)
+      * FileZilla Site Manager without info\\ {{:student:stu:filezilla_-_site_manager_-_init.png?direct&800|}}
+  - Name the site something that makes sense to you, while the server is named "stu" (an abbreviation for its fill name for "Student Bizzy Werkinit III"), perhaps that name doesn't mean much to you, so you can name it "jmucs" or "DoD" or whatever you want idc 💁
+  - With your newly named site selected, make the following selections/entries for the fields in the right half of the Site Manager window:
+      - Protocol: SFTP
+      - Host: stu.cs.jmu.edu
+      - Port: it's fine to leave this blank, probably it's 22 if you're just curious
+      - Logon Type: Ask for Password
+      - User: your EID (not capitalized, without the @dukes)
+  - Confirm that your settings look like this, but with a different <del>crime against humanity! computers don't name people</del> EID
+      * FileZilla Site Manager cheatsheet\\ {{:student:stu:filezilla_-_site_manager_-_configured.png?direct&800|}}
+  - Click Connect
+  - Now you can simply (?):
+      * drag files from the left side of the screen to the right to "upload" ⬆️☁️ them from your laptop to "stu" 💻➡️☁️
+      * drag files from the right half of the screen to the left to "download" ⬇️💻 them to your laptop from stu 💻⬅️☁️
