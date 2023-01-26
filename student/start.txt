@@ -45,7 +45,6 @@ Scholarships\\
 
 ==== University/Department-Specific Resources ====
 
-  * [[student:autolab:start | Autolab ]]
   * [[Building Maps]] (ISAT/CS and EnGeo)
   * [[student:clubs:start | Clubs]]
   * [[student:cluster:start | Cluster ]]
