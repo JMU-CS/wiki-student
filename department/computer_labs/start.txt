@@ -31,6 +31,7 @@ All labs have the same software, including but not limited to the following:
   * Greenfoot 3.7.1
   * IntelliJ IDEA 2022.1.3
   * Java 17.0.3 (OpenJDK)
+  * [[https://meldmerge.org/ | Meld]]
   * Mercurial 5.3.1
   * Mysql-client 8.0.29
   * Pandoc 2.5
