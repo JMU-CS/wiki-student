@@ -20,9 +20,13 @@
 
 ==== Dr. Bowers - CS 430, CS 480 ====
   * General office hours: [[http://johncbowers.com|johncbowers.com]]
-==== Dr. Buchholz - Fall 2022 - CS 327 and CS450 ====
+==== Dr. Buchholz - Spring 2023 - CS 327 Sections 1 and 2 ====
   * King Hall Room 220  
-  * Office hours: M 12:00pm-1:00pm (virtual), TWTh 12:25pm-1:45pm, and by appointment.
+  * Office hours: 
+    * Mondays: 12:00pm-1:00pm (virtual)
+    * Tuesdays and Thursdays: 2pm-3pm
+    * Wednesdays: 12:30pm-2:30pm
+    * and by appointment.
   * Email buchhofp@jmu.edu for access to virtual office hours
  
 ==== Prof. Chao - CS 149 ====
