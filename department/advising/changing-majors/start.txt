@@ -14,8 +14,8 @@
 **Logistics**
 
 To declare a new major or change your degree can be done via MyMadison. I find the process confusing, so here are a couple of tutorials: 
-  * [[https://www.jmu.edu/computing/ittraining/e-training/mymadison-student-change-declare-major/story_html5.html|Video tutorial]]
-  * [[https://www.jmu.edu/computing/mymadison/tutorials/plan-change.shtml|Step-by-step Guide]]
+  * Major/Minor change [[https://www.jmu.edu/computing/ittraining/e-training/mymadison-student-change-declare-major/story_html5.html|Video tutorial]]
+  * Major/Minor change [[https://www.jmu.edu/computing/mymadison/tutorials/plan-change.shtml|Step-by-step Guide]]
 
 **Feedback**
 
