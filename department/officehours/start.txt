@@ -73,7 +73,7 @@ Office Hours: All my classes are online, so my office hours are mostly by appoin
   * Calendar: [[https://jmu-cs.as.me/advisor|https://jmu-cs.as.me/advisor]] 
   * Other times by appointment: normanap@jmu.edu
 
-==== Dr. Richards - CS 374 and 343 ====
+==== Dr. Richards - CS 374 and 347 ====
 I am working remotely at this time, please send an email for the link. For enrolled students, you can also find the link in Canvas.\\
 Monday – 2:00 PM – 5:00 PM  - by appointment
 Tuesday – 5:15PM – 7:15 PM
