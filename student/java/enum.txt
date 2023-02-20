@@ -136,7 +136,7 @@ public enum Planet {
 }
 </code>
 
-If you run ''%%Planet.class%%'' from the command line with an argument of 175, you get this output:</p>
+If you run ''%%Planet.class%%'' from the command line with an argument of 175, you get this output:
 <code>
 $ java Planet 175
 Your weight on MERCURY is 66.107583
