@@ -160,6 +160,6 @@ Though it is not immediately obvious from the documentation for the [[https://do
     * ''%%valueOf(String)%%'' returns the instance with the specified identifier (or throws ''%%IllegalArgumentException%%'')
   * Non-Static Methods:
     * ''%%int compareTo(E other)%%'' which uses the order of the elements
-    * ''%%boolean equals(E other)
+    * ''%%boolean equals(E other)%%''
     * ''%%ordinal()%%'' returns the ordinal value of the instance (0-based)
     * ''%%toString()%%'' returns a ''%%String%%'' representation of the identifier
