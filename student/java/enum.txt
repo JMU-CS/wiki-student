@@ -74,7 +74,7 @@ Java programming language enum types are much more powerful than their counterpa
 
 <code java>
 Planet[] planetValues = Planet.values();
-for (int i = 0; i &lt; planetValues.length; i++) {
+for (int i = 0; i < planetValues.length; i++) {
     Planet p = planetValues[i];
     System.out.printf("Your weight on %s is %f%n",
                       p, p.surfaceWeight(mass));
