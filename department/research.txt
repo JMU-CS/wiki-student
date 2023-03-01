@@ -38,6 +38,7 @@ Of course, you can also always contribute to a project without receiving any aca
   * [[https://users.cs.jmu.edu/foxcj/Web/|Prof. Fox]]
   * [[https://w3.cs.jmu.edu/kirkpams/index.shtml|Prof. Kirkpatrick]]
   * [[https://w3.cs.jmu.edu/lam2mo/|Prof. Lam]]
+  * [[https://w3.cs.jmu.edu/mayfiecs/|Prof. Mayfield]]
   * [[https://w3.cs.jmu.edu/molloykp/|Prof. Molloy]]
   * [[https://w3.cs.jmu.edu/spragunr/|Prof. Sprague]]
   * [[https://hcientist.cs.jmu.edu/|Prof. Stewart]]
