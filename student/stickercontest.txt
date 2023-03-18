@@ -1,11 +1,12 @@
  
-Submit your design for our Second Annual CS Sticker Contest!
  
-You could win up to $75 and have your design printed and distributed to CS students! We’re offering prizes for 1st, 2nd, and 3rd place.
+====== CS Sticker Contest======
  
-Accepting submissions through **April 8th!**
+Submit your design for our Third Annual CS sticker contest and you could win up to $75 and have your design printed and distributed to CS students! We’re offering prizes for 1st, 2nd, and 3rd place.
  
-We’re looking for students to design a sticker that reflects the spirit of the CS Department for the 21-22 year.
+Accepting submissions through **April 9th!**
+ 
+We’re looking for students to design a sticker that reflects the spirit of the CS Department for the 22-23 year.
 Here are the details. Feel free to email me if you have any questions!
  
 **Judging**
@@ -21,11 +22,11 @@ Here are the details. Feel free to email me if you have any questions!
   * To submit a design, the student must be currently enrolled in at least one CS course.
  
 **Design Specs**
-  * Design should reflect the spirit of the CS department for the 21-22 year
+  * Design should reflect the spirit of the CS department for the 22-23 year
   * Dimensions: circle, square, or 2:3 rectangle with a minimum width of 1000px
   * Design must abide by copyright regulations
   * No profanity or inappropriate content
-  * Optional: include “JMU,” “CS,” and “2022” in the design
+  * Optional: include “JMU,” “CS,” and “2023” in the design
   * Optional: JMU branding, [[https://www.jmu.edu/identity/|https://www.jmu.edu/identity/]]
   * Optional: CS Dept branding,[[ https://wiki.cs.jmu.edu/student/cs-branding/start| https://wiki.cs.jmu.edu/student/cs-branding/start]]
  
@@ -35,5 +36,4 @@ Here are the details. Feel free to email me if you have any questions!
   * a short description of your inspiration/story for your design
   * include what CS class(es) you are currently enrolled in
 
-Note: I will need a vector version of the final design for printing.
- 
+If you win the competition, I will need a vector version of the design for printing.
