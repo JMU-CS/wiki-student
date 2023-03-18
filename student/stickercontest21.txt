@@ -5,7 +5,7 @@ You could win up to $75 and have your design printed and distributed to CS stude
  
 Accepting submissions through **April 9th!**
  
-We’re looking for students to design a sticker that reflects the spirit of the CS Department for the 20-21 year.
+We’re looking for students to design a sticker that reflects the spirit of the CS Department for the 22-23 year.
 Here are the details. Feel free to email me if you have any questions!
  
 **Judging**
@@ -21,11 +21,11 @@ Here are the details. Feel free to email me if you have any questions!
   * To submit a design, the student must be currently enrolled in at least one CS course.
  
 **Design Specs**
-  * Design should reflect the spirit of the CS department for the 20-21 year
+  * Design should reflect the spirit of the CS department for the 22-23 year
   * Dimensions: circle, square, or 2:3 rectangle with a minimum width of 1000px
   * Design must abide by copyright regulations
   * No profanity or inappropriate content
-  * Optional: include “JMU,” “CS,” and “2021” in the design
+  * Optional: include “JMU,” “CS,” and “2023” in the design
   * Optional: JMU branding, [[https://www.jmu.edu/identity/|https://www.jmu.edu/identity/]]
   * Optional: CS Dept branding,[[ https://wiki.cs.jmu.edu/student/cs-branding/start| https://wiki.cs.jmu.edu/student/cs-branding/start]]
  
@@ -34,4 +34,6 @@ Here are the details. Feel free to email me if you have any questions!
   * PNG of the design
   * a short description of your inspiration/story for your design
   * include what CS class(es) you are currently enrolled in
+
+If you win the competition, I will need a vector version of the design.
  
