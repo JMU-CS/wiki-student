@@ -100,6 +100,7 @@ Don't worry, there's a [[department:advising-resources:|Wiki Page]] for that!
   * To see holds, go to MyMadison > Student Center > Holds (under, to the right of your ID picture)
   * Schedule a meeting with Advisor(s). CS Advisor: Paige Normand, [[https://jmu-cs.as.me/advisor|https://jmu-cs.as.me/advisor]]
   * If you have a minor or a second major, also talk to that advisor
+  * If you are currently taking CS 159, enrollment is **gonna be weird**. [[https://wiki.cs.jmu.edu/department/advising/enrollment-159/start#applications_for_full_admission|Read details here]]!
 
 **Ten Days before Enrollment**
   * Courses should be listed in MyMadison; start planning your schedule and your contingency plans.
