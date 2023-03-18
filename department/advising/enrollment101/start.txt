@@ -106,6 +106,7 @@ Don't worry, there's a [[department:advising-resources:|Wiki Page]] for that!
   * Courses should be listed in MyMadison; start planning your schedule and your contingency plans.
   * Find your enrollment period and set calendar reminders. See: MyMadison > Student Center > Enrollment Dates
   * Have your shopping cart ready to check out when your enrollment period arrives
+  * Are you currently in CS 159? Did you read the [[https://wiki.cs.jmu.edu/department/advising/enrollment-159/start#applications_for_full_admission|details here?]]
 
 
 ==== When You Enroll ====
