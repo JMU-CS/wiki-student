@@ -15,7 +15,7 @@ Curriculum & Advising\\
 [[department:curriculum:start| CS Curriculum ]]\\
 [[department:advising-resources| Advising Resources]]\\
 [[department:advising:start| Advising FAQ ]]\\
-[[department:minor-advising| Advising for CS Minors]]\\
+[[department:minor-advising-start| Advising for CS Minors]]\\
 [[department/advising/changing-majors:start| Changing Majors]]\\
 
 Enrollment\\
