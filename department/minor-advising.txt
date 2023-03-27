@@ -28,6 +28,7 @@ If you'd. like to discuss any details, schedule a meeting with our CS Minor Advi
 
 ====== Typical CS minor plans of study ======
 
+
 The CS minor requires completing CS 149, CS 159, and four additional CS courses (excluding CS 260 and CS 280). One of the four courses you choose must include CS 240, CS 261, or CS 345. Note that CS 240 requires a calculus prerequisite (MATH 231 or equivalent) that does not count toward the CS minor. You should select courses that you find appropriate to your goals. Here are common sample plans that students use (these are NOT official tracks and you do not have to adhere to any of them).
 
 **Traditional core CS**\\
