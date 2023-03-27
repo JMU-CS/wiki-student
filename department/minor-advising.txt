@@ -1,5 +1,6 @@
 ====== Getting Started ======
 
+
 You can declare the CS Minor either when you're taking CS 149 or CS 159, but you must apply for full admission to the minor the semester you are taking CS 159.
 
 **Your first classes**
