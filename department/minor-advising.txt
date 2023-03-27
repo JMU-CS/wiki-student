@@ -59,6 +59,7 @@ This sequence focuses on the core mathematical foundations of CS, providing the 
 {{ :department:cs-minor-paths.png |}}
 ====== CS minor FAQ ======
 
+
 Here are some answers to commonly asked questions about the minor.
 
 **I've never programmed before. Can I really do the CS minor?**\\
