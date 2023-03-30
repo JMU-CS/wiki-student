@@ -35,26 +35,26 @@
   height: 59px;
   background: none;
 }
-</style>
-<div class="square">
-  <a href="https://wiki.cs.jmu.edu/faculty/start" style="position:relative;">
-    <img class="bg" src="https://www.jmu.edu/cs/_images/action-links/third/professor-students-classroom.jpg" alt="For faculty">
+</style><div class="square">
+  <a href=" /student/start" style="position:relative;">
+    <img class="bg" src="https://www.jmu.edu/cise/cs/_images/action-links/third/robotics-minor.jpg" alt="For students">
     <h4>
-    <table width="100%">
-    <tbody>
-      <tr>
-        <td align="right" valign="center">For Faculty &amp; Staff &#10148;<br>(Requires Login)</td>
-        
-      </tr>
-    </tbody>
-    </table>
+      <table width="100%">
+        <tbody>
+          <tr>
+            <td align="right" valign="center">For Current Students &#10148;</td>
+
+          </tr>
+        </tbody>
+      </table>
     </h4>
   </a>
 </div>
 
 
+
 <div class="square">
-  <a href="https://wiki.cs.jmu.edu/ta/start" style="position:relative;">
+  <a href=" /ta/start" style="position:relative;">
     <img class="bg" src="https://www.jmu.edu/cs/_images/action-links/third/female-presenting-autonomous-vehicle.jpg" alt="For TAs">
     <h4>
     <table width="100%">
@@ -71,13 +71,13 @@
 
 
 <div class="square">
-  <a href="https://wiki.cs.jmu.edu/student/start" style="position:relative;">
-    <img class="bg" src="https://www.jmu.edu/cise/cs/_images/action-links/third/robotics-minor.jpg" alt="For students">
+  <a href=" /faculty/start" style="position:relative;">
+    <img class="bg" src="https://www.jmu.edu/cs/_images/action-links/third/professor-students-classroom.jpg" alt="For faculty">
     <h4>
     <table width="100%">
     <tbody>
       <tr>
-        <td align="right" valign="center">For Current Students &#10148;</td>
+        <td align="right" valign="center">For Faculty &amp; Staff &#10148;<br>(Requires Login)</td>
         
       </tr>
     </tbody>
