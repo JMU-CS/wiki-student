@@ -58,36 +58,6 @@ Here is a list of research projects conducted by JMU faculty members with studen
 
 Feel free to add your project here!
 
-===== CRAFT and FloatSmith =====
-
-Most computers provide at least two different levels of floating-point precision (32-bit ''float'' and 64-bit ''double''). Many calculations do not require high levels of precision, but it is very difficult for programmers to determine which calculations do and which do not. This project aims to analyze floating-point code automatically and report which regions must be in higher precision and which regions can use lower precision. CRAFT is a general framework for floating-point analysis and FloatSmith is a tool that integrates CRAFT and some other related tools to do precision analysis on source code.
-
-  * Faculty contact: Dr. Lam
-  * Paper: [[ https://w3.cs.jmu.edu/lam2mo/papers/2013-Lam-ICS.pdf | "Automatically Adapting Programs for Mixed-Precision Floating-Point Computation" ]]
-  * Paper: [[ https://w3.cs.jmu.edu/lam2mo/papers/2016-Lam-IJHPCA.pdf | "Fine-Grained Floating-Point Precision Analysis" ]]
-  * Paper: [[ https://w3.cs.jmu.edu/lam2mo/papers/2019-Lam-Correctness.pdf | "Tool Integration for Source-Level Mixed Precision" ]]
-  * CRAFT repository: [[ https://github.com/crafthpc/craft | GitHub ]]
-  * FloatSmith repository: [[ https://github.com/crafthpc/floatsmith | GitHub ]]
-  * Status: Suspended pending new student interest.
-
-===== ExamGen =====
-
-Writing exams is a drudgery for most professors. Often, problems must be revised or re-parameterized to avoid repeating a previous semesters' question verbatim. Faculty in Computer Science are uniquely positioned to avoid some of this monotony because we are accustomed to writing scripts and programs to automate a process. This project aims to help automate the generation of new exams using a combination of question banks, scriptable questions, and potentially some application of machine learning to balance the length and difficulty of an exam.
-
-  * Faculty contact: Dr. Lam
-  * Status: Suspended pending new student interest.
-
-===== Less-Java =====
-
-Less-Java is a new programming language designed for use in an introductory programming class like our CS 149. It is designed to be simple but also to contain all necessary concepts for teaching programming. We have a prototype compiler and are in the process of improving it and running user studies to validate the usefulness of the language. See the [[ https://github.com/JMU-CS/less-java/wiki/Tutorial | tutorial ]] for examples of code in Less-Java, and see our [[ https://github.com/JMU-CS/less-java/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22 | "help wanted" ]] list for areas where you can get involved!
-
-  * Faculty contacts: Dr. Lam and Dr. Stewart
-  * Paper: [[ https://w3.cs.jmu.edu/lam2mo/papers/2019-Nasrawt-CCSC.pdf | "Less-Java, More Learning:
-Language Design for Introductory
-Programming" ]]
-  * Less-Java repository: [[ https://github.com/JMU-CS/less-java | GitHub ]]
-  * Status: Suspended pending new student interest.
-
 ===== Infill Generation for Additive Manufacturing Design =====
 
 Additive manufacturing (3D-printing) techniques are enabling lighter, stronger, and more quickly designed industrial production. A 3D printed object is neither solid nor hollow, but instead is filled with a pattern of material called an infill. This project seeks to design new computational methods for generating infill patterns that allow for both stronger and lighter materials to be constructed, generally based on some user specified parameters or simulated stress data. For example, an airplane wing experiences more stress near its attachment to the fuselage than it does at the wingtip. Can we design an infill pattern for a 3D printed airplane wing that is both strong where the stress is highest, but lighter than a wing built using traditional methods?
@@ -109,15 +79,6 @@ Ordinary Differential Equations (ODEs) are used to model changes in real-world s
 
   * Faculty contact: Dr. Lam
   * Repository: [[https://github.com/lam2mo/jmu-reu-ode | GitHub]]
-  * Status: Temporarily on hold, but looking for new students to re-activate it!
-
-===== Shadow Value Analysis =====
-
-Sometimes it is useful to run a program and perform a "shadow" calculation for every arithmetic operation. This allows you to try different precision levels or even different real-number encodings. It also enables you to visualize the changing levels of floating-point rounding error in the program's calculations.
-
-  * Faculty contact: Dr. Lam
-  * Paper: [[ https://w3.cs.jmu.edu/lam2mo/papers/2016-Lam-ESPT.pdf | "Floating-Point Shadow Value Analysis" ]]
-  * SHVAL repository: [[ https://github.com/crafthpc/shval | GitHub ]]
-  * Status: Suspended pending new student interest.
+  * Status: Ongoing and looking for new students!
 
 [[Inactive Research Projects]]
