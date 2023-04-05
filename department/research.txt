@@ -120,3 +120,4 @@ Sometimes it is useful to run a program and perform a "shadow" calculation for e
   * SHVAL repository: [[ https://github.com/crafthpc/shval | GitHub ]]
   * Status: Suspended pending new student interest.
 
+[[Inactive Research Projects]]
