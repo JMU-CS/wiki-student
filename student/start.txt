@@ -10,8 +10,8 @@ In addition to using this page to find information, you can search the Wiki usin
 ==== CS Advising ====
 
 Curriculum & Advising\\
-[[department:schedule_fall2022:start| Fall 2022 Schedule]] \\
 [[department:schedule_spring2023:start| Spring 2023 Schedule]] \\
+[[department:schedule_fall2023:start| Fall 2023 Schedule]] \\
 [[department:curriculum:start| CS Curriculum ]]\\
 [[department:advising-resources| Advising Resources]]\\
 [[department:advising:start| Advising FAQ ]]\\
