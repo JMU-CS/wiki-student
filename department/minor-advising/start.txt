@@ -21,7 +21,7 @@ Students wishing to minor in CS must meet the [[https://wiki.cs.jmu.edu/departme
 
 If you have not yet taken CS 159 and you are not currently taking it, stop here. You CANNOT apply to the CS minor until you are taking CS 159.\\
 
-  * Fill out the [[https://jmu.questionpro.com/t/ARXgAZvBXA|application]] for full admission to the CS minor.
+  * Fill out the [[https://jmu.questionpro.com/t/ARXgAZxnhm|application]] for full admission to the CS minor.
   * Declare CS as your Minor in MyMadison. If you need direction, here's a [[https://www.jmu.edu/computing/ittraining/e-training/mymadison-student-change-declare-major/story_html5.html|tutorial]].
 
 If you'd. like to discuss any details, schedule a meeting with our CS Minor Advisor, Paige Normand: https://jmu-cs.as.me/advisor
