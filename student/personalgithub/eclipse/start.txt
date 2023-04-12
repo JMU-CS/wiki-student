@@ -1,6 +1,8 @@
 ====== GitHub for Personal Use with Eclipse  ======
 
-This page describes one way to use GitHub for personal use under Eclipse. It uses a different repository for each course.
+This page describes one way to use GitHub for personal use (whether you are working alone or with someone else) under Eclipse. It uses a different repository for each course.
+
+**Note that individual courses that require the use of Git (e.g., CS345) may specify a different process and/or may not use GitHub. **
 
 ===== For Each Course =====
 
