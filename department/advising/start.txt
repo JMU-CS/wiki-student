@@ -78,3 +78,10 @@ See full [[https://www.jmu.edu/academics/undergraduate/minors/index.shtml|list o
 Q. Do you offer courses during the **summer or Maymester**?
 
 A. We generally do not. On occasion, a faculty member may decide to offer one during the summer session, but that does not happen often and only for particular courses. We never offer courses during Maymester.
+
+----
+
+Q. I'm taking a prerequisite class over the summer; can I get an override into the CS course now?
+
+A. No. If you're taking, for example, MATH 231 over the summer, we will not give you an override into the CS course it is a prerequisite for (CS 240). You will not be able to enroll in the CS course until we know the final grade you made in the prerequisite class. That means the CS course you want might be filled up before you are able to enroll. 
+
