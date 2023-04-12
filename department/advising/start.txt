@@ -85,3 +85,8 @@ Q. I'm taking a prerequisite class over the summer; can I get an override into t
 
 A. No. If you're taking, for example, MATH 231 over the summer, we will not give you an override into the CS course it is a prerequisite for (CS 240). You will not be able to enroll in the CS course until we know the final grade you made in the prerequisite class. That means the CS course you want might be filled up before you are able to enroll. 
 
+----
+
+Q. My enrollment is tomorrow and I'm worried that [insert CS class] is going to fill up before I'm able to enroll. Is there anything you can do to ensure that I get a seat?
+
+A. No. We do not offer preemptive overrides or guarantee seats in advance of. your enrollment. If you can't get a seat, get on the waitlist. That's the only thing to do. 
