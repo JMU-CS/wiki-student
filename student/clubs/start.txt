@@ -11,7 +11,7 @@ ACM brings together computing educators, researchers, and professionals to inspi
 
   * Faculty contact: John Bowers (bowerscj)
   * Student contact: Zane Metz
-  * Weekly meetings: Tuesdays from 7-8pm in King 236
+  * Weekly meetings: Wednesdays from 4-5pm in King 260
   * Website: http://acm.cs.jmu.edu
   * Discord: https://discord.gg/Uwwqbj4TEe
   * Github: https://github.com/JMU-Competitive-Programming
@@ -65,7 +65,7 @@ The Robotics club enables students who wish to continue robotics work outside of
 ==== UUG (Unix Users Group) ====
 
   * Faculty/staff contacts: Mike Lam (lam2mo) & Mike Ripley (ripleymj)
-  * Student contact: Dean Ludwig
+  * Student contact: Emil Hofstetter
   * Weekly meetings: Wednesdays at 6:30pm in King 236
   * Website: www.jmunixusers.org
   * Discord:  https://discord.gg/gVSfrZWnbu
@@ -75,7 +75,7 @@ UUG is an organization for computer enthusiasts, and users of Unix-like operatin
 ==== UPE (Upsilon Pi Epsilon) ====
 
   * Faculty contact: Mike Lam (lam2mo)
-  * Student contact: Dakota Scott
+  * Student contact: Will Morris
   * (no regular meetings)
   * Website: https://upe.cs.jmu.edu/
 
