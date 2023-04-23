@@ -1,5 +1,4 @@
 
-
 ===== The EclEmma Code Coverage Tool for Eclipse =====
 
 
@@ -83,7 +82,9 @@ Because of the way EclEmma works, in order to get 100% coverage    of an ''%%enu
 === Coverage of Utility Classes ===
 
 
-Java adds an automatic constructor to all classes that do not    have a constructor, including utility classes. So, unless you go    out of your way to do so, your test suite will not cover the    automatic constructor which means that the declaration of the    class may appear to be uncovered. If you want, you can construct    an instance of the utility class in one of your tests (and, so,    cover the automatic constructor).
+Java adds an automatic constructor to all classes that do not have a constructor, including utility classes. So, unless you go    out of your way to do so, your test suite will not cover the  automatic constructor which means that the declaration of the    class may appear to be uncovered. To get complete coverage you can:
+  * Construct  an instance of the utility class in one of your tests (and, so,    cover the automatic constructor); or
+  * Add a private default constructor to the utility class.
 
 ==== Accessibility Settings ====
 
