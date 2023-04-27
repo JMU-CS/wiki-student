@@ -67,6 +67,18 @@ If you are using Checkstyle, you must activate it for the newly created project.
 
 Eclipse projects can be exported as ''%%.zip%%'' files.  To import such a project, click on <key>File</key>+<key>Import</key>, expand "General", select "Existing Projects into Workspace", and click <key>Next</key>. Then, choose "Select archive file", browse to the appropriate archive file, select the relevant project(s) if necessary, and click <key>Finish</key>.
 
+
+=== Converting a Generic Project to a Java Project ===
+
+Eclipse has many different kinds of projects. Java projects have a "J" above the folder icon in the package explorer while generic projects do not. After backing everything up outside of Eclipse, you may be able to convert a generic project to a Java project by:
+
+  - Right-clicking on the project icon in the package explorer.
+  - Pulling down to "Properties".
+  - Selecting "Project Natures".
+  - Clicking on <key>Add</key>.
+  - Select "Java".
+
+
 === Customizing the Formatter ===
 
 The way Eclipse formats code can be customized in a variety of different ways. These customizations can either be generic or project-specific. To create/modify a project-specific formatter:
