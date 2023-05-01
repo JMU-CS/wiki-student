@@ -125,7 +125,7 @@ Times:
   * Tuesdays: 2:30-4:30
   * Wednesdays: 3-4
   * Thursdays: 2-3
-  * Fridays 1:45-2:45
+  * <del>Fridays 1:45-2:45</del>
 
 
   
