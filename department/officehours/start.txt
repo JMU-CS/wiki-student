@@ -122,11 +122,10 @@ Location:
   * Office: 212 King Hall 👑
   * on [[http://tiny.cc/stewart-hours | zoom]] by appointment (typically during the hours listed below)
 Times:
-  * **EndOfSemesterException@WeekOfApril:24** - Office hours Wednesday 9-11:30am and Friday 1:45-4:45pm
-  * <del>Tuesdays: 2:30-4:30</del>
-  * <del>Wednesdays: 3-4</del>
-  * <del>Thursdays: 2-3</del>
-  * <del>Fridays 1:45-2:45</del>
+  * Tuesdays: 2:30-4:30
+  * Wednesdays: 3-4
+  * Thursdays: 2-3
+  * Fridays 1:45-2:45
 
 
   
