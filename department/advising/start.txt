@@ -15,7 +15,7 @@ A. CS 159 and CS 227. See our [[https://www.jmu.edu/cise/cs/academics/undergradu
 
 ----
 
-Q. On the [[https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/index.shtml#plans|sample plans of study]] what is the difference between an "elective" and a "CS elective"?
+Q. On the [[https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/index.shtml#plans|sample plans of study]] what is the difference between an "**elective**" and a "**CS elective**"?
 
 A. One of your graduation requirements is to take three CS electives. Another graduation requirement is to take a minimum of 120 credits. Your GenEds account for about 41 and your CS major requirements count for around 52. That leaves around 27 credits to hit the 120 mark. You might have brought in credits through Dual Enrollment or AP Test credit that count toward your 120 credit requirement. 
 
