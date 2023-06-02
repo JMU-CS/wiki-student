@@ -110,7 +110,7 @@ To save yourself some time, you can bind common commands to "shortcut keys". To 
 
 === Creating Packages ===
 
-Some courses require that code within a package be organized in packages and some do not. To create a package:
+Some courses require that code within a project be organized in packages and some do not. To create a package:
 
   - Right-click on the appropriate project (in the package explorer).
   - Pull down to <key>New</key>.
@@ -118,6 +118,7 @@ Some courses require that code within a package be organized in packages and som
   - Enter the name of the package in the "Name" field.
   - Unless you are explicitly told to do so, **do not** check the "Create package-info.java" box.
 
+Subpackages can be created by including a dot/period in the name. So, for example, if you have a %%data%% package you can create a subpackage named %%data.io%% simply by including the dot/period in the name when you create it. However, note that Eclipse will not visually put the %%io%% package insides of the %%data%% package (though it will put the corresponding %%io%% directory/folder inside of the %%data%% directory/folder). This is to remind you that the statement %%import data.*%% does not import the subpackage %%data.io%%.
 
 === Creating Files ===
 
