@@ -7,13 +7,10 @@ The CS Research Seminar Talks are talks given by faculty members and undergradua
 
 * **Oct 7** Prof. John C. Bowers  //A proof of the Koebe-Andre'ev-Thurston theorem via flow from tangency packings//
 
-* **Nov 4** Prof. Siddharth Bhaskar //TBD//
+* **Nov 4** Prof. Siddharth Bhaskar //Four naive questions in the theory of algorithms//
 
-* **Nov 11** Virginia Tech PhD Candidate and JMU CS Alumna Kylie Davidson //TBD//
+* **Nov 11** Virginia Tech PhD Candidate and JMU CS Alumna Kylie Davidson //Exploring Sensemaking Strategies in Immersive Space to Think//
 
-* **Nov 18** Prof. Michael Kirkpatrick //TBD//
-
-* **Dec 2** Prof. Nathan Sprague //TBD//
 
 **Abstracts for the 2022 Fall Research Talks**
 
@@ -22,7 +19,26 @@ The CS Research Seminar Talks are talks given by faculty members and undergradua
 **Abstract:**
 The beginning of the study of circle packings is the circle packing theorem, which says that any triangulation of the sphere can be realized as a pattern of interior-disjoint disks on the sphere whose tangency graph is isomorphic to the triangulation. The now classic Koebe-Andre’ev-Thurston theorem extends the circle packing theorem to weighted triangulations whose weights code for overlap angles of up to pi/2 between disks and not just tangencies. Recently Connelly and Gortler gave a new proof of the Circle Packing Theorem, which is also constructive—the proof gives rise to a numerical algorithm for computing a circle packing for any given triangulation. In this talk we will give an overview of Connelly and Gortler’s result and describe a new proof of the full Koebe-Andre’ev-Thurston theorem that extends their approach to packings with overlaps up to pi/2 and gives rise to an algorithm for computing them. We will discuss the main hurdles to the generalization and the main ideas used to overcome them. We will also show demo code for computing the packings. 
 
+* **Oct 7** Prof. Siddharth Bhaskar -- //Four naive questions in the theory of algorithms//
 
+**Abstract:**
+In this talk I will raise four questions that you could, in theory, ask after taking a first data structures and algorithms course, viz.,
+
+--Why are so many sorting algorithms quadratic time?
+
+--Why are stacks and queues the "only" implementation of certain abstract data type (namely add, query a distinguished element (the "top"), delete the top, and an empty test) for collections of unstructured data?
+
+--Why are there only about three different types of proofs of general lower bounds?
+
+--What is an algorithm anyway?
+
+To be clear, I don't know a definitive answer to any of these, but the questions seem to be deep and continue to inspire me. I shall discuss each question, illustrate what the underlying problem is, and say a few words about how each has inspired some specific research projects.
+
+
+* **Nov 9** PhD. candidate  Kylie Davidson -- //Exploring Sensemaking Strategies in Immersive Space to Think//
+
+**Abstract:**
+Existing research on immersive analytics to support the sensemaking process focuses on single-session sensemaking tasks. However, in the wild, sensemaking can take days or months to complete. In order to understand the full benefits of immersive analytic systems, we need to understand how immersive analytic systems provide flexibility for the dynamic nature of the sensemaking process. In our work, we build upon an existing immersive analytic system – Immersive Space to Think, to evaluate how immersive analytic systems can support sensemaking tasks over time. We conducted a user study with eight participants with three separate analysis sessions each. We found significant differences between analysis strategies between sessions one, two, and three, which suggest that immersive space to think can benefit analysts during multiple stages in the sensemaking process.
 ==== Spring 2022 Schedule ====
 
 **Faculty Research Talks Overview**
