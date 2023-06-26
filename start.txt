@@ -1,91 +1,10 @@
 ====== JMU Department of Computer Science Wiki ======
 
-
-<html>
-<style>
-.square {
-  width: 250px;
-  display: inline-block;
-  margin: 10px;
-}
-.square a {
-  text-decoration: none;
-}
-.square a img.bg {
-  width: 250px;
-}
-.square a h4 {
-  padding: 2px 10px;
-  line-height: 22px;
-  height: 59px;
-  text-decoration: none;
-  background-color: rgb(69, 0, 132);
-  color: rgb(255, 255, 255);
-  margin-top: -8px;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-bottom: 5px;
-  font-size: 18px;
-  font-family: Arial, Helvetica, sans-serif;
-}
-.square a:hover h4 {
-  background-color: rgb(181, 153, 206);
-}
-.square a h4 table {
-  height: 59px;
-  background: none;
-}
-</style><div class="square">
-  <a href=" /student/start" style="position:relative;">
-    <img class="bg" src="https://www.jmu.edu/cise/cs/_images/action-links/third/robotics-minor.jpg" alt="For students">
-    <h4>
-      <table width="100%">
-        <tbody>
-          <tr>
-            <td align="right" valign="center">For Current Students &#10148;</td>
-
-          </tr>
-        </tbody>
-      </table>
-    </h4>
-  </a>
-</div>
-
-
-
-<div class="square">
-  <a href=" /ta/start" style="position:relative;">
-    <img class="bg" src="https://www.jmu.edu/cs/_images/action-links/third/female-presenting-autonomous-vehicle.jpg" alt="For TAs">
-    <h4>
-    <table width="100%">
-    <tbody>
-      <tr>
-        <td align="right" valign="center">For TAs &#10148;<br>(Requires Login)</td>
-        
-      </tr>
-    </tbody>
-    </table>
-    </h4>
-  </a>
-</div>
-
-
-<div class="square">
-  <a href=" /faculty/start" style="position:relative;">
-    <img class="bg" src="https://www.jmu.edu/cs/_images/action-links/third/professor-students-classroom.jpg" alt="For faculty">
-    <h4>
-    <table width="100%">
-    <tbody>
-      <tr>
-        <td align="right" valign="center">For Faculty &amp; Staff &#10148;<br>(Requires Login)</td>
-        
-      </tr>
-    </tbody>
-    </table>
-    </h4>
-  </a>
-</div>
-</html>
+[[student:start|{{:faculty:playground:students.png?direct|For Current Students}}]]
+{{:faculty:playground:space.png?direct|}}
+[[ta:start|{{:faculty:playground:tas.png?direct|For TAs (Requires Login)}}]] 
+{{:faculty:playground:space.png?direct|}}
+[[faculty:start|{{:faculty:playground:faculty.png?direct|For Faculty (Requires Login)}}]]
 
 ----
 
