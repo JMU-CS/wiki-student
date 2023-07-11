@@ -5,8 +5,6 @@ You can declare the CS Minor either when you're taking CS 149 or CS 159, but you
 
 **Your first classes**
 
-CS 101 [optional]: This course provides an overview of what CS is and what to expect from the field.
-
 CS 149: This course is an introduction to programming; the course assumes you have no prior experience. MATH 155/156 is a required prerequisite, and you must earn a B or better in CS 149 to move on.
 
 CS 159: The second part of the introduction to programming. While you are taking CS 159, set up an advising appointment with me to declare the minor. To continue beyond this course, you must apply for full admission before the last day of class.
