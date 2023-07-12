@@ -1,10 +1,10 @@
 ====== JMU Department of Computer Science Wiki ======
 
-[[student:start|{{:faculty:playground:students.png?direct|For Current Students}}]]
-{{:faculty:playground:space.png?direct|}}
-[[ta:start|{{:faculty:playground:tas.png?direct|For TAs (Requires Login)}}]] 
-{{:faculty:playground:space.png?direct|}}
-[[faculty:start|{{:faculty:playground:faculty.png?direct|For Faculty (Requires Login)}}]]
+[[student:start|{{:student:students.png?direct|For Current Students}}]]
+{{:student:space.png?direct|}}
+[[ta:start|{{:student:tas.png?direct|For TAs (Requires Login)}}]] 
+{{:student:space.png?direct|}}
+[[faculty:start|{{:student:faculty.png?direct|For Faculty (Requires Login)}}]]
 
 ----
 
