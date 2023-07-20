@@ -20,8 +20,9 @@ To add an Epic to the list of Product Backlog Items (PBIs):
   - Click on the <key>⊕</key> next to "New".
   - Enter the title, description, size, and optional color. 
 
+==== Planning ====
 
-==== Adding an Issues to Epic ====
+=== Adding an Issues to Epic ===
 
 To add an issue (sometimes called a feature, story or sprintable story) to an epic:
 
@@ -29,7 +30,7 @@ To add an issue (sometimes called a feature, story or sprintable story) to an ep
   - Enter the title, description, and size (in story points).
 
 
-==== Adding a Task to an Issue ====
+=== Adding a Task to an Issue ===
 
 To add a task to an issue (sometimes called a feature, story or sprintable story):
 
@@ -37,18 +38,18 @@ To add a task to an issue (sometimes called a feature, story or sprintable story
   - Click on the <key>⊕</key> next to "Tasks".
   - Enter the title, an optional description, and the effort estimate in hours).
 
-==== Committing to a Task ====
+=== Committing to a Task ===
 
 To commit to (i.e., take responsibility for) as task, select yourself from the drop-down list. 
 
-==== Adding an Acceptance Criterion to an Issue====
+=== Adding an Acceptance Criterion to an Issue ===
 
 To add an acceptance criterion to an issue:
 
   - Enter a description in the text field under "Acceptance Criteria".
   - Click on <key>⊕</key>
 
-==== Adding a Sprint to the Project ==== 
+=== Adding a Sprint to the Project === 
 
 To add a sprint to the project:
 
@@ -57,9 +58,9 @@ To add a sprint to the project:
   - Enter a title, optional goal, and optional description.
 
 
-==== Adding Issues to a Sprint ==== 
+=== Adding Issues to a Sprint === 
 
-To add issues (also known as stories, sprintable stories, and features) to a sprint:
+To add issues (also known as stories,  sprintable stories, and features) to a sprint:
 
   - Select the sprint.
   - Click on the <key>⊕</key> next to "Issues". 
@@ -67,7 +68,7 @@ To add issues (also known as stories, sprintable stories, and features) to a spr
   - Click <key>Done</key>.
 
 
-==== Starting a Sprint ==== 
+==== Starting a Sprint ===== 
 
 To start a sprint:
 
@@ -77,4 +78,15 @@ To start a sprint:
   - Click <key>Start</key>
 
 
+==== Execution ====
+
+The execution phase (i.e., after sprint planning but before the sprint retrospective) is managed from the "Execution" tab.
+
+During the execution phase, issues/stories are in one of three states: "Open", "In Progress", or "Closed".  The state of an issue/story is controlled using the radio buttons at the bottom of the issue/story. Issues/stories start in the "Open" state. When a team member starts working on an issue/story they should click on the <key>🏃</key>.
+
+The tasks in the issue/story can be listed by clicking on the issue/story. To indicate that a task has been completed, click on the <key>☐</key>.
+
+To indicate that an entire issue/story has been completed, click on the <key>✓</key> button.
+
+To indicate that an entire issue/story has been "re-opened", click on the <key>…</key> button.
 
