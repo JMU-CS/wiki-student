@@ -2,5 +2,4 @@
   * Uploading a document from class by scanning it with your phone
     * [[https://support.apple.com/en-us/HT210336|scanning a document on iOS]]
     * [[https://www.technipages.com/scan-documents-android-camera|scanning a document on android]]
-
-The [[ https://www.lib.jmu.edu/printing/ | library also has scanners. ]]
+    * The [[ https://www.lib.jmu.edu/printing/ | library also has scanners. ]]
