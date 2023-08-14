@@ -1,28 +1,3 @@
-====== Getting Started ======
-
-
-You can declare the CS Minor either when you're taking CS 149 or CS 159, but you must apply for full admission to the minor the semester you are taking CS 159.
-
-**Your first classes**
-
-CS 149: This course is an introduction to programming; the course assumes you have no prior experience. MATH 155/156 is a required prerequisite, and you must earn a B or better in CS 149 to move on.
-
-CS 159: The second part of the introduction to programming. While you are taking CS 159, set up an advising appointment with me to declare the minor. To continue beyond this course, you must apply for full admission before the last day of class.
-
-CS/MATH 227 [optional]: Not required for the minor, but this is a prerequisite for many CS courses. Many students take this at the same time as CS 159.
-
-**Requirements for admission to the CS minor**
-
-Students wishing to minor in CS must meet the [[https://wiki.cs.jmu.edu/department/fulladmission/start|admission requirements]]. These requirements apply to all students who are not officially declared CS minors at this time, regardless of what year you currently are.
-
-**How to apply for and declare the CS minor**
-
-If you have not yet taken CS 159 and you are not currently taking it, stop here. You CANNOT apply to the CS minor until you are taking CS 159.\\
-
-  * Fill out the [[https://jmu.questionpro.com/t/ARXgAZxnhm|application]] for full admission to the CS minor.
-  * Declare CS as your Minor in MyMadison. If you need direction, here's a [[https://www.jmu.edu/computing/ittraining/e-training/mymadison-student-change-declare-major/story_html5.html|tutorial]].
-
-If you'd. like to discuss any details, schedule a meeting with our CS Minor Advisor, Paige Normand: https://jmu-cs.as.me/advisor
 
 ====== Typical CS minor plans of study ======
 
