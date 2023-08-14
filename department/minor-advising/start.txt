@@ -1,9 +1,6 @@
 
 
-====== Course Path Illustrations ======
 
-
-{{ :department:cs-minor-paths.png |}}
 ====== CS minor FAQ ======
 
 
