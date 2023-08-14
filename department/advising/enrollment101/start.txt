@@ -1,34 +1,6 @@
 
 
 
-===== Withdraw Deadline =====
-
-The deadline to Withdraw from a fall semester class is **March 24, 2023**.
-
-Withdrawal from a course by this deadline will result in a "W" on your transcript. Here are some things to consider before you withdraw from a course: 
-  * A "W" is not calculated into the GPA, but it is factored in to the formula for Satisfactory Academic Progress (SAP) used by Financial Aid.
-  * Any student receiving Financial Aid should review [[https://www.jmu.edu/financialaid/learn/sap/|https://www.jmu.edu/financialaid/learn/sap/]] AND consult with the Financial Aid office before withdrawing from a course.
-  * If withdrawing from a course results in you being below 12 credit hours during the semester, consult the potential impacts of no longer being a full-time student: https://wiki.cs.jmu.edu/department/advising/withdraw/start
-  * When you withdraw from the course, you lose the credits that you've already paid for. 
-  * Some CS classes (149, 159, 240, and 261) only allow students two attempts. If you withdraw from one of these courses, you're using up one of these attempts.
-
-You do NOT need permission to withdraw, BUT we highly recommend that you also discuss it with the professor (for any classes) and if you plan to drop a CS course, speak to the CS advisor, too.
-
-**How to Withdraw**\\
-To withdraw from a course, you use the [[https://www.jmu.edu/computing/mymadison/tutorials/enrollment.shtml#drop|"drop"]] function in MyMadison. 
-
-**Dropping either CS 227 or CS 159** \\
-CS 227 and CS 159 are co-requisites. If you are taking them together, you will need a departmental override to drop one and remain in the other. Please email your student ID number and the section of your course to Dr. Buchholz, buchhofp@jmu.edu.
-
-=== Withdrawing AFTER March 24, 2023 ===
-
-Any student wanting to withdraw from a class after the Withdraw deadline can only do so when an instructor agrees to issue a final grade of "WP" (withdraw pass) or "WF" (Withdraw Fail), based on their grade at time of withdrawal.\\
-
-This option is strictly at the discretion of the instructor, and most will only consider it if there is a legitimate issue or extenuating circumstance.
-
-
-
-----
 
 ===== Enrollment Windows =====
 
