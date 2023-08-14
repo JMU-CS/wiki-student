@@ -7,10 +7,3 @@ You are always welcome to [[https://jmu-cs.as.me/advisor|book a meeting]] with P
 To meet with your Faculty Advisor, email them or check [[https://www.jmu.edu/cs/people/faculty-staff/|their personal site]] for details about their calendar.
 
 
-====== Your Faculty Advisor is a resource for: ======
-
-  * Discussing future career paths, internships, research
-  * Getting advice on which CS electives you should take
-  * Reviewing your plan of study for sequencing and workload
-  * Helping you understand your strengths and areas to improve
-  * ​Identifying other resources on and off campus as needed
