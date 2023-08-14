@@ -1,12 +1,5 @@
 
 
-====== Defining terms ======
-
-A "CS Elective" is any CS course you "elect" to take - meaning, they aren't required courses for the CS major. 
-
-You're required to take //one// of our five System Electives. If you elect to take another one, it would count as a CS elective. 
-
-Note: You are required to take only one of our Algorithm classes (CS 412, CS 452); you are not permitted to take both. 
 
 ====== A note on timing ======
 
