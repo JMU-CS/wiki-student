@@ -6,24 +6,7 @@ You are always welcome to [[https://jmu-cs.as.me/advisor|book a meeting]] with P
  
 To meet with your Faculty Advisor, email them or check [[https://www.jmu.edu/cs/people/faculty-staff/|their personal site]] for details about their calendar.
 
-====== Reach out to Paige Normand if: ======
 
-You have logistical questions about the CS curriculum like: 
-  * Am I on track to graduate on time?
-  * What classes do I need to sign up for next semester?
-  * What should I do to improve my GPA?
-
-You have policy questions about the CS Major/Minor like: 
-  * How do I change my Catalog Year?
-  * How do I decide if I want to take a course "Repeat Forgive"?
-  * How can I take summer classes at my local Community College?
-
-You have questions or concerns about your college success, like:
-  * How can I improve my time management?
-  * Where can I get help with my [insert GenEd Course here]?
-  * I'm feeling really unmotivated about my course work, what should I do?
-  * I'm a freshmen interested in [insert CS topic here], what should I be doing?
-  
 ====== Your Faculty Advisor is a resource for: ======
 
   * Discussing future career paths, internships, research
