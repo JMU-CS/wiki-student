@@ -1,9 +1,0 @@
-Every student who declares the CS Major is assigned two advisors in MyMadison: \\
-  - An Academic Advisor: **Paige Normand**, the Departmental Advisor to all CS students
-  - A Faculty Advisor: **a CS professor** who is available to answer content-specific questions
-
-You are always welcome to [[https://jmu-cs.as.me/advisor|book a meeting]] with Paige Normand or send her quick questions over email.
- 
-To meet with your Faculty Advisor, email them or check [[https://www.jmu.edu/cs/people/faculty-staff/|their personal site]] for details about their calendar.
-
-
