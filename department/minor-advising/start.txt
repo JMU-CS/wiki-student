@@ -1,30 +1,4 @@
 
-====== Typical CS minor plans of study ======
-
-
-The CS minor requires completing CS 149, CS 159, and four additional CS courses (excluding CS 260 and CS 280). One of the four courses you choose must include CS 240, CS 261, or CS 345. Note that CS 240 requires a calculus prerequisite (MATH 231 or equivalent) that does not count toward the CS minor. You should select courses that you find appropriate to your goals. Here are common sample plans that students use (these are NOT official tracks and you do not have to adhere to any of them).
-
-**Traditional core CS**\\
-CS/MATH 227, CS 240, CS 261, CS 327. This sequence combines theory and algorithmic analysis with introductory systems programming. Lots of coding in Java and C, combined with a solid mathematical foundation.
- 
-**Traditional core CS with concurrency**\\
-CS/MATH 227, CS 240, CS 261, CS 361. This sequence has less focus on theory, but introduces multithreaded and network-based programming. The additional CS 361 course requires more C programming.
- 
-**Software engineering and information systems**\\
-CS 343, CS 345, CS 374, CS 347 or CS 447. This sequence combines professional software engineering practices with databases, web programming, and user interface design.
- 
-**Societal impact and user experience**\\
-CS 343, CS 330, CS 345, CS 447. This sequence includes coursework in the ethical implications of computing (including security and privacy) and user interface design.
- 
-**Theory and logic**\\
-CS/MATH 227, CS 240, CS 327, CS 442. This sequence focuses on the mathematical theory and formal logic structures that create the foundation of CS.
- 
-**Artificial intelligence and robotics**\\
-CS/MATH 227, CS 240, CS 354, CS 444. This sequence covers a lot of the same areas as the [[https://www.jmu.edu/cs/minors/robotics-minor/index.shtml|Interdisciplinary Robotics Minor]], but focuses exclusively on the software side of the field.
-
-**Mathematics and Algorithms**\\
-CS/MATH 227, CS 240, CS 327, and either CS 412 or CS 442
-This sequence focuses on the core mathematical foundations of CS, providing the tools for analyzing the efficiency of algorithms that are used to solve common problems. These courses also explore problems that are inherently difficult--if not impossible--to solve with a computer.
 
 ====== Course Path Illustrations ======
 
