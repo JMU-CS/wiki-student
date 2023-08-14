@@ -4,9 +4,7 @@
 
 In addition to using this page to find information, you can search the Wiki using the search field on the left or using a search engine (e.g., Google, DuckDuckGo, Bing) by including ''site:wiki.cs.jmu.edu'' with your search terms.
 
-===== Announcements =====
- 
-  * Students will be able to make changes to their Fall 2023 schedule when Open Enrollment begins on Aug. 1, 2023.
+
 ==== CS Advising ====
 
 Curriculum & Advising\\
