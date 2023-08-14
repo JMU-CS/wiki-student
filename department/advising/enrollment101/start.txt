@@ -2,45 +2,6 @@
 
 
 
-===== Enrollment Windows =====
-
-Fall 2023 enrollment appointments begin April 10, 2023.\\
-Look at MyMadison for YOUR appointment date and time.
-Your enrollment day based on your standing - [[https://www.jmu.edu/registrar/students/fall_enroll_time.shtml|see details]]
-
-If you do not know what to sign up for, please review the [[https://wiki.cs.jmu.edu/department/curriculum/start|curriculum resources]], including sample plans of study. If you have further questions or concerns, schedule appointment with the CS advisor.
-
-Open Enrollment begins at 12:01am on April 14, 2023. During Open Enrollment, you can expect SOME movement in classes, so you are welcome to continue to look for classes through the add/drop deadline of the upcoming semester.
-HOWEVER, do NOT count on finding a seat in a specific class.
-
-We recommend that you **enroll in 15-16 credit hours during your advance registration appointment**, and then SWAP when you find a course you really want with an open seat.
-
-Make sure you are using the [[department:waitlist:start|waitlist correctly]].
-
-=== Check for Holds! ===
-
-There are a number of students who are non-compliant with their immunizations and currently have a hold on their account that will prevent them from enrolling in spring classes.
-All have been sent multiple emails explaining what is missing and the consequences.
-Check to make sure that YOU do not have a HOLD.
-You MUST take care of holds prior to enrollment!
-
-=== What courses should YOU take? ===
-
-See the [[department/curriculum/start|CS Curriculum]] page on the wiki.
-
-Also see the [[department:advising:start|Advising FAQ]]
-
-
-=== Making a 4-year Plan ===
-
-We encourage you to meet with our CS Advisor, Paige Normand, to make a 4-year plan for graduation.
-You can schedule a meeting with her here: [[https://jmu-cs.as.me/advisor|https://jmu-cs.as.me/advisor]].
-
-Not sure if you should reach out to Paige Normand or your CS Faculty Advisor about a topic?
-Don't worry, there's a [[department:advising-resources:|Wiki Page]] for that!
-
-
-----
 
 ==== Enrollment Timeline ====
 
