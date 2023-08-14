@@ -1,15 +1,5 @@
 
 
-===== Freshmen Mid-Semester Grades =====
-
-Mid-semester grades will be posted **March 10, 2023**.
-Please check your grades in MyMadison.
-Some grades may be available earlier
-These unofficial grades will give you a sense of where you stand in each of your courses.
-
-=== D or F Grades ===
-
-If you have any mid-semester grades of D or F, please make plans to discuss your progress, possible options, and available resources with your professor and the CS Advisor, https://jmu-cs.as.me/advisor
 
 ===== Withdraw Deadline =====
 
