@@ -20,8 +20,6 @@ Enrollment\\
 
 Students taking CS 149 or CS 159\\
 [[department:fya:start| First Year Advising FAQ]]\\
-[[department:fulladmission:start| Full Admission to the Major or Minor ]]\\
-[[department/advising/enrollment-159:start| Enrollment advice for Students in CS 159]]
 
 CS Seniors\\
 [[student:graduation-preparation:start | Graduation Requirements ]]\\
