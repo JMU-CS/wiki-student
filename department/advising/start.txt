@@ -1,11 +1,5 @@
 
 
-====== Helpful Links ======
-
-  * [[https://www.jmu.edu/cs/academics/undergraduate/curriculum/index.shtml|Sample Plans of Study]]
-  * [[https://wiki.cs.jmu.edu/department/curriculum/start| CS Curriculum Resources]]
-
-
 
 ====== Advising FAQ ======
 
