@@ -13,15 +13,10 @@ Curriculum & Advising\\
 [[department:schedule_spring2023:start| Spring 2023 Schedule]] \\
 [[department:schedule_fall2023:start| Fall 2023 Schedule]] \\
 [[department:curriculum:start| CS Curriculum ]]\\
-[[department:advising-resources| Advising Resources]]\\
-[[department:advising:start| Advising FAQ ]]\\
-[[department:minor-advising:start| Advising for CS Minors]]\\
 [[department/advising/changing-majors:start| Changing Majors]]\\
 
 Enrollment\\
-[[department:advising:enrollment101:start| Enrollment Advice]]\\
 [[department/waitlist/start| Using the Waitlist Correctly]]\\
-[[student/catalog-year/start| CS Electives and Catalog Year]]\\
 
 Students taking CS 149 or CS 159\\
 [[department:fya:start| First Year Advising FAQ]]\\
