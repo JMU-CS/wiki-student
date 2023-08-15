@@ -15,6 +15,7 @@ All CS Advising information and resources are on the CS Advising Canvas site.
 All declared majors and minors will be maintained as members of the site.
 
 You are welcome to self-enroll here: https://canvas.jmu.edu/enroll/7PDLY6
+
 ==== Prerequisites ====
 
 You can view the prerequisite structure in our
