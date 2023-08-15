@@ -17,9 +17,8 @@ All declared majors and minors will be maintained as members of the site.
 You are welcome to self-enroll here: https://canvas.jmu.edu/enroll/7PDLY6
 ==== Prerequisites ====
 
-The easiest way to see the prerequisite structure is to view the 
-[[https://wiki.cs.jmu.edu/_media/department/curriculum/jmu_cs_curriculum.pdf|prerequisite tree]], our CS Curriculum [[https://wiki.cs.jmu.edu/_media/department/curriculum/cs_curriculum-4_23.png|Flowchart]], or our [[https://view.genial.ly/63600b63205bf3001249040f/interactive-image-cs-curriculum-flowchart-1022|Interactive Flowchart]].
-
+You can view the prerequisite structure in our
+[[https://wiki.cs.jmu.edu/_media/department/curriculum/jmu_cs_curriculum.pdf|prerequisite tree]]
 
 
 ==== Example Plans of Study ====
