@@ -2,7 +2,7 @@
 
 ===== Purpose of this Document =====
 
-This document contains guidelines and rules for students who are majoring in Computer Science and working on an "Honors Capstone". It is a supplement to the Honors Project Info in the [[http://www.jmu.edu/honors/handbook/index.shtml|Honors College Handbook]] published by the JMU Honors Program.
+This document contains guidelines and rules for students who are majoring in Computer Science and working on an Honors Capstone using the Departmental Capstone Pathway. For general information, see [[https://www.jmu.edu/honors/current-students/capstone-experience.shtml| the page on honors capstone experiences]] published by the JMU Honors Program.
 
 ===== Categories of Computer Science "Honors Capstones" =====
 
