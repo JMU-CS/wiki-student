@@ -10,9 +10,10 @@ The Computer Science department maintains multiple computer labs running Linux M
 ^ Location   ^ Type    ^ Qty ^ Description ^
 | King 224   | Laptop  | 5   | Dell Latitude 5501, Intel Core i5-9300H, 16GB RAM |
 | King 236   | Laptop  | 12  | Dell Latitude 5501, Intel Core i5-9300H, 16GB RAM |
-| King 248   | Desktop | 30  | Dell Precision Workstation 3630, Intel Core i7-8700, 16GB RAM, Nvidia Quadro P2000 (5GB) |
-| King 250   | Desktop | 30  | Dell Precision Workstation 3620, Intel Core i7-7700, 32GB RAM, Nvidia Quadro P2000 (5GB) |
-| EnGeo 2204 | Desktop | 30  | Dell Precision Workstation 3420, Intel Core i7-7700, 16GB RAM, Nvidia Quadro P1000 (4GB) |
+| King 248   | Desktop | 31  | Dell Precision Workstation 3630, Intel Core i7-8700, 16GB RAM, Nvidia Quadro P2000 (5GB) |
+| King 250   | Desktop | 31  | Dell Precision Workstation 3660, Intel Core i9-12900, 32GB RAM, Nvidia RTX A2000 (12GB) |
+| King 336   | Desktop | 32  | Dell Precision Workstation 3630, Intel Core i7-8700, 16GB RAM, Nvidia Quadro P2000 (5GB) | 
+| EnGeo 2204 | Desktop | 32  | Dell Precision Workstation 3460, Intel Core i9-12900, 32GB RAM |
 | EnGeo 2209 | Laptop  | 12  | Dell Latitude 5501 Laptops, Intel Core i5-9300H, 16GB RAM |
 
 ==== Lab Software ====
@@ -58,7 +59,7 @@ All labs have the same software, including but not limited to the following:
 
 See below for the current ''known_hosts'' file for all JMUCS lab machines. You'll need to replace or merge it with your existing ''~/.ssh/known_hosts'', removing any duplicate hosts.
 
-{{jmucs-known_hosts.txt?linkonly}} Last updated: 2022-07-26
+{{jmucs-known_hosts.txt?linkonly}} Last updated: 2022-08-17
 
 ==== Student Account Home Directory ====
 
