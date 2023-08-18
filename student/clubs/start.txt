@@ -57,10 +57,11 @@ PlayMU is an organization with the sole intent of bringing in video gamers of al
 ==== Robotics ====
 
   * Faculty contact: Nathan Sprague (spragunr)
-  * Student contact: TBD
+  * Student contact: Tyler Rabatin
   * Weekly meetings: Tuesdays 5:00-6:00PM, EngGeo 1203
+  * Discord link: https://discord.gg/JdEnJZYY
 
-The Robotics club enables students who wish to continue robotics work outside of class. 
+The Robotics club enables students who wish to either continue robotics work outside of class or to start with their robotics work.
 
 ==== UUG (Unix Users Group) ====
 
