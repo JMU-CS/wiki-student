@@ -132,7 +132,7 @@ Times:
 ==== Dr. Tjaden - CS 482 (CS 633 & CS 635) ====
 
 MW 2:00-3:15 and by appointment
-==== Dr. Isaac Wang (CS 159) ====
+==== Dr. Isaac Wang (CS 149 & CS 480) ====
 King Hall 246C and [[https://jmu-edu.zoom.us/my/drwangid?pwd=VEV4MS9MMVI3L0l2MHZnU0JaUEJjZz09|Zoom]]
 
 Office Hours:
