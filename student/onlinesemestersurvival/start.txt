@@ -2,7 +2,7 @@
 
 ===== TA Resources =====
 
-The computer science department has a bunch of awesome teaching assistants (TAs) that are available to help with lower division classes like CS 101, CS 149, CS 159, CS 227, etc. They also run weekly review sessions for several of these courses. For the online semester, they are using Microsoft Teams to organize TA hours and connect with students. You can find information on when the TAs are available and how to connect with them at the [[department:cs-success:start| TA Hours/Review Sessions ]] page.
+The computer science department has a bunch of awesome teaching assistants (TAs) that are available to help with lower division classes like CS 101, CS 149, CS 159, CS 227, etc. They also run weekly review sessions for several of these courses. For the online semester, they are using Microsoft Teams to organize TA hours and connect with students. You can find information on when the TAs are available and how to connect with them at the [[department:cs-success:start| TA Hours]] page.
 
 ===== How else can I get help reviewing and debugging my code virtually? =====
 Since we are now online, it can be difficult to find someone to talk through your code with. A common practice for programmers that has been used for decades is [[https://en.wikipedia.org/wiki/Rubber_duck_debugging|Duck Debugging]]. This is a great way to work through bugs by yourself and at your own speed. If permitted by your instructor, it is also still possible to review your work with classmates through Zoom personal rooms. Every student has access to their own personal room on the zoom account associated with their @dukes.jmu.edu email. These rooms are a great way to continue working in groups and getting feedback from your peers.
