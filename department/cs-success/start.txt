@@ -19,9 +19,4 @@ You will be able to join the team - JMU CS TA Lab Hours - and you will want to c
 
 In a Teams or Zoom Video chat, you and TAs will be able to share screens, annotate suggestions, and talk "in private". Please note that TAs will help each student in 10 minute increments and they will not be writing your code for you. Instead they will be helping you learn to write code yourself and helping you to navigate any technical problems.
 
-====== Fourth Hour ======
-
-A student-led walkthrough of the week's CS 149 topics. Open to all CS 149 students.\\
-Monday and Tuesday 7-8pm in King 243.
-
 
