@@ -61,8 +61,8 @@ Office Hours: All my classes are online, so my office hours are mostly by appoin
 
 ==== Dr. Johnson - CS 430 ====
 
-  * TTh: 12:25-2:20 PM in King 246-E
-  * F: 10:30-11:30 AM in King 246-E
+  * M: 9-11:30 AM in King 246-E
+  * T: 2-4:30 PM in King 246-E
 
 
 ==== Dr. Kirkpatrick - CS 330, CS 361 ====
