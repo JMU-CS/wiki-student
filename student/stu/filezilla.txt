@@ -16,6 +16,7 @@
       - Port: it's fine to leave this blank, probably it's 22 if you're just curious
       - Logon Type: Ask for Password
       - User: your EID (not capitalized, without the @dukes)
+      - Your password will be the same as your EID passwords.
   - Confirm that your settings look like this, but with a different <del>crime against humanity! computers don't name people</del> EID
       * FileZilla Site Manager cheatsheet\\ {{:student:stu:filezilla_-_site_manager_-_configured.png?direct&800|}}
   - Click Connect
