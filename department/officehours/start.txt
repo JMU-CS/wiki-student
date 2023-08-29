@@ -158,9 +158,9 @@ Times:
   * Mondays and Fridays: 3:00-4:00
 
   
-==== Dr. Tjaden - CS 482 (CS 633 & CS 635) ====
+==== Dr. Tjaden - CS 361 (CS 610 & CS 685) ====
 
-MW 2:00-3:15 and by appointment
+MW 2:20-3:35 and by appointment
 
 
 ==== Dr. Isaac Wang (CS 149 & CS 480) ====
