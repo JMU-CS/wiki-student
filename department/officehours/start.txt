@@ -16,7 +16,7 @@
   * Office Hours: https://users.cs.jmu.edu/bernstdh/Web/officehours.html
 
 
-==== Dr. Siddharth Bhaskar - CS 227 ====
+==== Dr. Siddharth Bhaskar - CS 227 & 327 ====
 
   *Office hours for Fall 2023: 130-3 Mon., 345-445 Tu. & Th., 230-4 Wed.
  
