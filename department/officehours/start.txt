@@ -117,10 +117,9 @@ Fall 2023: CS 149, CS 159, First-Year Advisor
 
 ==== Dr. Mona El-Kadi Rizvi ====
 
-Spring 2023 Office Hours (King Hall 252-A):
-  * MW: 10:00 - 11:00 AM
-  * MW: 2:00 - 3:00 PM
-  * Thu: 3:45 - 4:45 PM
+Fall 2023 Office Hours (King Hall 252-A):
+  * MWF: 1:00 - 2:00 PM
+  * Wed: 4:00 - 6:00 PM
   * Other times by appointment: elkadima@jmu.edu
 
 
