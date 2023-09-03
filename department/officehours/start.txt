@@ -1,11 +1,10 @@
-==== Dr. Mohamed S. Aboutabl -      Spring 2023:   CS-261 & CS-361 ====
+==== Dr. Mohamed S. Aboutabl -      Fall 2023:
 
   * Office Hours :    
         * In-Person, In my office, Walk-in FCFS
-              * **Mon** and **Wed** 09:30am -> 11:15am
-              * **Tue**    11:15am -> 12:45pm
-        * On __Zoom, By Appointment-Only__ 
-              * **Thu**    04:00pm -> 05:00pm 
+              * **Mon** and **Wed** 09:45am -> 11:15am
+              * **Tue** and **Thu**    11:15am -> 12:15pm
+        * On __Zoom, By Appointment-Only for CS-515 Online Students__ 
               * https://jmu-edu.zoom.us/j/88604390066?pwd=L3E0QnpyT3hHYTgxemMrMXJnZnFyZz09 
 
         * If all of these times conflict with your class schedule, let me know via email, and I may be able to set up a special Zoom meeting for you.
