@@ -1,4 +1,4 @@
-==== Dr. Mohamed S. Aboutabl -      Fall 2023:
+==== Dr. Mohamed S. Aboutabl -     Fall 2023 ====
 
   * Office Hours :    
         * In-Person, In my office, Walk-in FCFS
