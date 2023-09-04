@@ -168,7 +168,7 @@ You will sometimes be given the byte code (i.e., the ''%%.class%%'' files) for c
 
 To instruct Eclipse to use them when compiling and executing you should:
 
-  - Create a directory/folder for the ''%%.class%%'' files or ''%%.jar%%'' file external to the workbench/eclipse-workspace (e.g., ''%%existingcomponents%%'').
+  - Create a directory/folder for the ''%%.class%%'' files or ''%%.jar%%'' file external to the workbench/eclipse-workspace (e.g., ''%%downloads%%'').
   - Copy or download the ''%%.class%%'' files or ''%%.jar%%''  file to that directory/folder.
   - Open Eclipse.
   - Select a project.
