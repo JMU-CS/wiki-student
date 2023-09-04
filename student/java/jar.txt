@@ -1,4 +1,3 @@
-
 ===== The Java Archive Tool (jar) =====
 
 
@@ -48,8 +47,9 @@ You can create an executable JAR file by including  a manifest that includes a '
 
 Depending on your operating system, you may need to change the  permissions of the executable ''%%.jar%%'' file (i.e.,  provide permission to execute). In most OSs this can be done from  the command line (using ''%%chmod%%'') or from the GUI  (in a variety of different ways).
 
+==== Associations and Executable .jar Files ====
 
-You may also need to set the default manner in which it is  "opened" (i.e., instruct the OS to used the Java runtime). This is  sometimes also called the files "association" or "default  program". From the command line: in MS Windows you can  use ''%%assoc%%'', in OS X you can edit  ''%%~/Library/Preferences/com.apple.LaunchServices.plist%%'',  and in Linux you can edit  ''%%/usr/share/applications/defaults.list%%'' From the GUI:  in MS Windows you can click on <key>Start</key>+<key>Default  Programs</key>, in OS X you can right-click on the file and  use <key>File</key>+<key>Get Info</key>, and in Linux you  can right-click and select <key>Properties</key>
+You may also need to set the default manner in which it is  "opened" (i.e., instruct the OS to used the Java runtime). This is  sometimes also called the files "association" or "default  program". From the command line: in MS Windows you can  use ''%%assoc%%'', in OS X you can edit  ''%%~/Library/Preferences/com.apple.LaunchServices.plist%%'',  and in Linux you can edit  ''%%/usr/share/applications/defaults.list%%'' From the GUI:  in MS Windows you can click on <key>Start</key>+<key>Default  Programs</key>, in OS X you can right-click on the file and  use <key>File</key>+<key>Get Info</key>, and in Linux you  can right-click and select <key>Properties</key>.
 
 ==== Testing an Executable .jar File ====
 
