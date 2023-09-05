@@ -29,6 +29,14 @@ Do you love to solve challenging problems? Would you like to increase your progr
 
 The Cyber Defense club is a student-led group focused on learning about information security techniques and tools, and participates in cyber defense competitions such as CCDC, NCL, and NSA Codebreaker. Members can expect to learn about tools and techniques used in cyber defense and penetration testing through weekly demos and exercises as well as current information security news and trends.
 
+==== DukeDevs ====
+
+  * Faculty contact: Isaac Wang (wangid)
+  * Student contact: Leo Torrijos (torrijld) and Diego Navia Sejas (naviasda)
+  * Weekly meetings: Tuesdays,  6-7 PM in EnGeo 2208
+
+The purpose of the club is to create a friendly environment for students to learn about game development and design. Students of all majors are welcome, since in addition to programming, we will also dive into art, music, design, etc. 
+
 ==== Forensics ====
 
   * Faculty contact: Florian Buchholz (buchhofp)
