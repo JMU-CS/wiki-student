@@ -35,7 +35,7 @@ The Cyber Defense club is a student-led group focused on learning about informat
   * Student contact: Leo Torrijos (torrijld) and Diego Navia Sejas (naviasda)
   * Weekly meetings: Tuesdays,  6-7 PM in EnGeo 2208
 
-The purpose of the club is to create a friendly environment for students to learn about game development and design. Students of all majors are welcome, since in addition to programming, we will also dive into art, music, design, etc. 
+We aim to create a friendly environment for students to learn about game development and design! Students of all majors are welcome. In addition to programming, we will also dive into art, music, design, etc. 
 
 ==== Forensics ====
 
