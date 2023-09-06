@@ -37,8 +37,8 @@ The Cyber Defense club is a student-led group focused on learning about informat
 
 We aim to create a friendly environment for students to learn about game development and design! Students of all majors are welcome. In addition to programming, we will also dive into art, music, design, etc.
 
-  * Unordered List ItemDiscord - [[https://discord.gg/TamHfJWNUw]]
-  * Unordered List ItemInstagram - @dukedevs
+  * Discord - [[https://discord.gg/TamHfJWNUw]]
+  * Instagram - @dukedevs
 
 
 ==== Forensics ====
