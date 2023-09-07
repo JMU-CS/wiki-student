@@ -25,13 +25,13 @@
   * General office hours: [[http://johncbowers.com|johncbowers.com]]
 
 
-==== Dr. Buchholz - Spring 2023 - CS 327 Sections 1 and 2 ====
+==== Dr. Buchholz - Fall 2023 - CS 240 Sections 3 and 4 ====
 
   * King Hall Room 220  
   * Office hours: 
-    * Mondays: 12:00pm-1:00pm (virtual)
-    * Tuesdays and Thursdays: 2pm-3pm
-    * Wednesdays: 12:30pm-2:30pm
+    * Mondays: 10:30am-11:30am (virtual)
+    * Tuesdays and Thursdays: 11am-12:30pm
+    * Wednesdays: 12:30pm-1:30pm
     * and by appointment.
   * Email buchhofp@jmu.edu for access to virtual office hours
 
