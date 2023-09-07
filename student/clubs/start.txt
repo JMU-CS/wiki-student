@@ -9,9 +9,9 @@ ACM brings together computing educators, researchers, and professionals to inspi
 
 ==== Competitive Programming ====
 
-  * Faculty contact: John Bowers (bowerscj)
+  * Faculty contact: Chris Johnson (johns8cr)
   * Student contact: Zane Metz
-  * Weekly meetings: Wednesdays from 4-5pm in King 260
+  * Weekly meetings: Mondays from 5-6pm in King 260
   * Website: http://acm.cs.jmu.edu
   * Discord: https://discord.gg/Uwwqbj4TEe
   * Github: https://github.com/JMU-Competitive-Programming
