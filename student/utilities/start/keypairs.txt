@@ -1,7 +1,6 @@
-
 ===== Using SSH with a Key-Pair =====
 
-Secure shell (i.e., ''%%ssh%%'') normally prompts you for an ID and password when you login, however, it's possible to "sidestep" this process using a public/private key pair for authentication. This is particaulrly convenient when using some other protocol (e.g., SVN, Git) on top of SSH. To take advantage of this feature you must first create such a pait and then provide the server with your public key.
+Secure shell (i.e., ''%%ssh%%'') normally prompts you for an ID and password when you login, however, it's possible to "sidestep" this process using a public/private key pair for authentication. This is particularly convenient when using some other protocol (e.g., SVN, Git) on top of SSH. To take advantage of this feature you must first create such a pair and then provide the server with your public key.
 
 === Checking for an Existing Key-Pair ===
 
