@@ -44,3 +44,5 @@ You can easily see how much space you are using by using du:
   du -h $HOME
   
 You can also use [[https://linux.die.net/man/1/ncdu | ncdu ]], which provides a more graphical representation of space consumption.
+
+Stu has a 10Gbps link to fs, the server on which your data is stored. This helps with performance but a side effect is that runaway processes writing data can consume large amounts of disk space very quickly. Please make sure your software isn't creating large files like this, and please clean it up if it does.
