@@ -9,6 +9,9 @@ The Computer Science Department awards various scholarships to rising sophomores
 
 The Malcolm G. Lane Scholarship provides financial resources annually to one or more students in their junior or senior year.  To be eligible for this scholarship, recipients must have a declared major in Computer Science and a GPA of 3.25 or higher after at least two semesters of study at JMU.  Malcolm Lane is a former Computer Science Department Head and a distinguished computer scientist with a range of experience in academe and industry. Students are notified each year when applications are due via the department listserv. (Open to rising juniors and seniors)
 
+==== Walter Quintin “Teddy” Kincaid (‘22) Scholarship ====
+
+To be named a Kincaid Scholar, the recipient must be a full-time undergraduate student majoring in Computer Science, with financial need as determined by the Office of Financial Aid and Scholarships, whose primary residence is in Virginia. The scholarship is renewable as long as the student continues to meet the criteria, subject to the availability of funds. Scholarships will be administered at the discretion of the Department Head of Computer Science following the University's guidelines for the awarding of scholarships.
 
 ==== Department of Defense Cyber Scholarship ====
 
