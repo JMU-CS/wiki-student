@@ -78,7 +78,7 @@ The Robotics club enables students who wish to either continue robotics work out
 ==== UUG (Unix Users Group) ====
 
   * Faculty/staff contacts: Mike Lam (lam2mo) & Mike Ripley (ripleymj)
-  * Student contact: Emil Hofstetter
+  * Student contact: Ray Steen
   * Weekly meetings: Wednesdays at 6:30pm in King 236
   * Website: www.jmunixusers.org
   * Discord:  https://discord.gg/gVSfrZWnbu
