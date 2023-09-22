@@ -7,4 +7,4 @@
 
 === The Canvas Gradebook ===
 
-[[student:canvas:calculations | Shortcomings of the Total Grade Calculation
+[[student:canvas:calculations | Shortcomings of the Total Grade Calculation ]]
