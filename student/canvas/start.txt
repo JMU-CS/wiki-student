@@ -1,5 +1,10 @@
 ===== Canvas =====
-  * Uploading a document from class by scanning it with your phone
+
+=== Scanning a Document for Uploading ===
     * [[https://support.apple.com/en-us/HT210336|scanning a document on iOS]]
     * [[https://www.technipages.com/scan-documents-android-camera|scanning a document on android]]
     * The [[ https://www.lib.jmu.edu/printing/ | library also has scanners. ]]
+
+=== The Canvas Gradebook ===
+
+[[student.canvas.calculations | Shortcomings of the Total Grade Calculation
