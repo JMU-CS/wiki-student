@@ -27,5 +27,5 @@ and your final grade will be:
 
     ((100 * .10) + (90 * .15) + (70 * .75)) / (.10 + .15  + .75) = (76 / 1.0) = 76
 
-Hence, the total grade calculated by Canvas at the end of week four was a significant overestimate.
+Hence, the total grade calculated by Canvas at the end of week four was a significant overestimate and made you think you were doing better in the course than you actually were.
 
