@@ -1,6 +1,6 @@
 ==== Shortcomings of the Total Grade Calculation in Canvas ====
 
-Because most course grades are weighted and assessments are categorized differently, the total grade calculated by Canvas can be very misleading, and probably shouldn't be used. Instead, you should use Canvas as a source for your individual grades and create a spreadsheet or program that does a better job of forecasting your total grader.
+Because most course grades are weighted and assessments are categorized differently, the total grade calculated by Canvas can be very misleading, and probably shouldn't be used. Instead, you should use Canvas as a source for your individual grades and create a spreadsheet or program that does a better job of forecasting your total grade.
 
 The easiest way to see the shortcomings of the Canvas calculation is to consider an example. To that end, imagine you are taking a course in which there are quizzes, assignments, and exams that are weighted as follows:
 
