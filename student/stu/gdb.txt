@@ -1,19 +1,5 @@
 ====== GDB on stu ======
 
-===== Version issue =====
-
-Unfortunately, the default version of GDB on stu (9.2) has a bug that causes it to stop at an incorrect location at the beginning of functions, before function parameters are fully initialized.
-
-To gain access to a newer, [[https://sourceware.org/git/?p=binutils-gdb.git;a=commit;h=ac4a4f1cd7dceeeb17d0b8c077c874f2247acbf0|fixed]] version of GDB (10.0) for your account, please run the following command verbatim while logged into stu:
-
-  echo "export PATH=/opt/gdb/bin:$PATH" >>$HOME/.bashrc
-  
-**PLEASE COPY AND PASTE THE COMMAND -- DO NOT ATTEMPT TO RE-TYPE IT!!** Every character must be exactly correct for it to work. You will need to log out and back in to get the correct version of GDB. You will know it is working by looking at the version number at the top of the text printed by GDB; it should start with "10.0" not "9.2".
-
-If you are in CS 261, you should use this command instead, because it will fix GDB and go ahead and set up a few other things we'll need later in the semester as well:
-
-  echo "source /cs/students/cs261/f22/bashrc" >>$HOME/.bashrc
-
 ===== GDB + VS Code configuration =====
 
 Here is a sample ''launch.json'' file. This one is set up for the CS 261 P0, but you can modify it for any C project by changing "''intro''" to the name of your executable. You can also provide command-line arguments using ''args'' (e.g., for CS 261 P1, you might specify ''[ "-H", "tests/inputs/simple.o" ]''.
