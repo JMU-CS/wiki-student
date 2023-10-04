@@ -13,7 +13,7 @@ TAs are available for virtual online support from 9 pm to 11 pm Sunday through T
 You can watch a [[https://youtu.be/1T6LyuqD9pk|Tutorial Video]] for getting started with TA hours. 
 For the an explanation of how to use “The Lab” during TA Hours, visit our [[https://docs.google.com/document/d/1nJmbjM3dp52VQnuFYnwjpe8Hwvi8Oypgjw2AftZel4g/edit?usp=sharing|Documentation]]. \\ 
 \\
-**Team Code:** lb761mv\\
+**Team Code:** 2266aqe\\
 \\
 You will be able to join the team - JMU CS TA Lab Hours - and you will want to choose The Lab channel on the left. In the channel there will be a post for the "Help Queue" with a current date and time. You will enter your Name, Class and Professor, whether you want a text chat, phone, or video help response, and a short description of your problem. When a Teaching Assistant (TA) is available they will react to your post with a smiling face. You can then expect shortly a response in the format you requested in Teams. 
 
