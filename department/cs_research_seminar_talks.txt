@@ -6,7 +6,7 @@ The CS Research Seminar Talks are talks given by faculty members and undergradua
 
 Tue 9/12: Distinguished Lecture Series, Dr. Laurent Babout (Lodz University of Technology). King 259 11:30-12:30pm
 
-Fri 9/15: Research Talk: What is Research? (With Mike Lam and Co.) King 259 11:25am-12:25pm
+Fri 9/15: Research Talk: What is Research? (With Mike Lam and Co.) King 259 11:25am-12:25pm [[https://w3.cs.jmu.edu/bowersjc/what_is_research-2023.pdf|Slides]]
 
 Fri 9/22: Research Talk: Ben Saupp & Chris Mayfield. King 236 11:25am-12:25pm
 
