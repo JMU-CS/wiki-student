@@ -8,7 +8,7 @@ Tue 9/12: Distinguished Lecture Series, Dr. Laurent Babout (Lodz University of T
 
 Fri 9/15: Research Talk: What is Research? (With Mike Lam and Co.) King 259 11:25am-12:25pm [[https://w3.cs.jmu.edu/bowersjc/what_is_research-2023.pdf|Slides]]
 
-Fri 9/22: Research Talk: Ben Saupp & Chris Mayfield. King 236 11:25am-12:25pm
+Fri 9/22: Research Talk: Ben Saupp. King 236 11:25am-12:25pm
 
 Thu 9/28: Distinguished Lecture Series, Dr. Everlyne Kimani (Toyota Research Institute). King 259 2:30-3:30pm. 
 
@@ -17,6 +17,14 @@ Fri 10/27: Research Talk: Dr. Chris Mayfield. King 236 11:25am-12:25pm
 Fri 12/1: Research Talk: Dr. Dee Weikle. King 236 11:25am-12:25pm
 
 Fri 12/8: Research Talk: Dr. Siddharth Bhaskar. King 236 11:25am-12:25pm
+
+
+**Abstracts for the 2023 Fall Research Talks**
+
+* **Sept. 22** Ben Saupp -- //Praxly: An Online IDE for the Praxis CS Test Pseudocode//
+
+**Abstract:**
+CodeVA has a new professional development (PD) course designed to prepare Virginia high school Career Technical Education (CTE) teachers for the Praxis CS test. This test uses a pseudocode language that is different from traditional programming languages. In CodeVA’s course, teachers do not have an easy way to verify the correctness of pseudocode programs when learning and practicing. This talk will introduce Praxly, an online IDE we developed over the summer, for teachers to write, visualize, and run pseudocode. We will highlight Praxly’s implementation details, outline our current research goals, and discuss next steps for the project.
 
 ==== Fall 2022 Schedule ====
 
