@@ -47,7 +47,7 @@ The following general rules apply:
 
   * CS
     * If you have not yet taken CS 149, enroll in CS 149.
-    * If you are currently taking CS 149 and expect to have a B- or higher grade, enroll in CS 159 AND CS 227.
+    * If you are currently taking CS 149 and expect to have a B- or higher grade, enroll in CS 159 **and** CS 227.
     * If you are currently taking CS 149 and don't think you'll get a B- or higher, enroll in CS 149 again.
   * Math
     * If you have not yet taken Calculus, enroll in MATH 231 / MATH 235 based on your ALEKS placement score.
