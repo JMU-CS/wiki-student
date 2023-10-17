@@ -12,7 +12,7 @@
 Mid-term grades will be posted by **Tuesday, Oct 17th**.
 Please check your grades in MyMadison.
 See [[https://www.jmu.edu/computing/mymadison/tutorials/view-grades.shtml|this page]] for step-by-step instructions.
-When you get to the Grades screen, click the dropdown on *Official Grades* and change to *Mid-term Grades*.
+When you get to the Grades screen, click the dropdown on //Official Grades// and change to //Mid-term Grades//.
 
 === D or F Grades ===
 
