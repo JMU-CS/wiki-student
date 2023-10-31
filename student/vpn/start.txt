@@ -3,15 +3,18 @@
 Please go here for the download and instructions on the VPN client https://www.jmu.edu/computing/internet-and-network/vpn-client.shtml
 
 ====== For Linux ======
-  * Please note that the below directions do not work as of 11/29/2022 due to an upgrade of the VPN server software that requires an update to openconnect, which may not be pushed into current Ubuntu releases. See bug report here: https://gitlab.com/openconnect/openconnect/-/issues/472
+  * Please note that the below directions do not work as of 11/29/2022 due to an upgrade of the VPN server that requires an updated version of openconnect, which is not available in the standard Ubuntu 22.04 repositories. See bug report here: https://gitlab.com/openconnect/openconnect/-/issues/472
   * A workaround would be to compile the source code from git to use a more current release. This page will be updated as more information is known.
 
-These instructions assume an Ubuntu/Linux Mint installation. Much of it should apply to any Linux, however.
+These instructions assume an Ubuntu/Linux Mint installation. Much of it should apply to any Linux, however. You must run openconnect version 9.02 or later. Older versions included in many distributions including Ubuntu 22.04 will fail with an error message:
 
-It also assumes you are enrolled in Duo. Make sure you're enrolled in Duo because the VPN requires it.
+    Creating SSL connection failed
+    Unknown error; exiting.
+
+A working version is available for many distributions at https://software.opensuse.org/download.html?project=home%3Abluca%3Aopenconnect%3Arelease&;package=openconnect . Follow the "Add repository and install manually" instructions to ensure you receive updates. Once installed, you can connect to the VPN by:
 
   * Open a terminal.
-  * Install openconnect: <code>sudo apt-get install openconnect</code>
+  * Install openconnect: <code>sudo apt install openconnect</code>
   * Connect to the vpn: <code>sudo openconnect --protocol=pulse vpn.jmu.edu</code>
   * You'll be asked for a Username, your e-ID goes there.
   * You'll be asked for a Password, the same password you use for Canvas/MyMadison goes there.
