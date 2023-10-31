@@ -11,7 +11,7 @@ These instructions assume an Ubuntu/Linux Mint installation. Much of it should a
     Creating SSL connection failed
     Unknown error; exiting.
 
-A working version is available for many distributions at https://software.opensuse.org/download.html?project=home%3Abluca%3Aopenconnect%3Arelease&;package=openconnect . Follow the "Add repository and install manually" instructions to ensure you receive updates. Once installed, you can connect to the VPN by:
+A working version is available for many distributions at https://software.opensuse.org/download.html?project=home%3Abluca%3Aopenconnect%3Arelease&;package=openconnect . Follow the "Add repository and install manually" instructions to ensure you receive future updates. Once installed, you can connect to the VPN by:
 
   * Open a terminal.
   * Install openconnect: <code>sudo apt install openconnect</code>
