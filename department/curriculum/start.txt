@@ -24,7 +24,7 @@ You can view the prerequisite structure in our
 
 ==== Example Plans of Study ====
 
-The example [[https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/index.shtml#plans|plans of study]] on the CS website illustrate various ways to fulfill CS and JMU degree requirements.
+The example [[https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/index.shtml#plan|plans of study]] on the CS website illustrate various ways to fulfill CS and JMU degree requirements.
 
 We encourage you to meet with our CS Advisor, Paige Normand, to make your own 4-year plan for graduation.
 You can schedule a meeting with her here: [[https://jmu-cs.as.me/advisor|https://jmu-cs.as.me/advisor]].
