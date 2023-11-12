@@ -32,7 +32,7 @@ For more details about eligibility and service requirements please visit the DoD
 
 Student Application Website:
 
-New and returning students will have until 28 February 2024 to submit their application through the DoD CySP online tool. https://www.avuedigitalservices.com/casting/aiportal/control/mainmenu?agency=DDW&portal=CYSP.
+New and returning students will have until **28 February 2024** to submit their application through the DoD CySP online tool. https://www.avuedigitalservices.com/casting/aiportal/control/mainmenu?agency=DDW&portal=CYSP.
 
 
 ==== Federal Scholarship for Service ====
