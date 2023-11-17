@@ -302,7 +302,7 @@ where //Name// represents tha name of the class being tested (and can contain wi
 
 To run:
 
-''java -cp .;junit.jar org.junit.platform.console.ConsoleLauncher --select-class  //ClassName//Test''
+''java -cp .:junit.jar org.junit.platform.console.ConsoleLauncher --select-class  //ClassName//Test''
 
 where //Name// represents the name of the class being tested.
 
@@ -363,21 +363,21 @@ If you don't use set the ''%%CLASSPATH%%'' you must tell Java where to find JUni
 
 To compile:
 
-''javac -cp .;junit.jar //ClassName//Test.java''
+''javac -cp .:junit.jar //ClassName//Test.java''
 
 where //Name// represents tha name of the class being tested (and can contain wildcards like *).
 
 To run:
 
-java -cp .;junit.jar org.junit.platform.console.ConsoleLauncher --select-class   //ClassName//Test
+java -cp .:junit.jar org.junit.platform.console.ConsoleLauncher --select-class   //ClassName//Test
 
 where //Name// represents the name of the class being tested.
 
 For example, to compile and run ''%%AtomTest%%'':
 
 <code>
-javac -cp .;junit.jar AtomTest.java
-java -cp .;junit.jar org.junit.platform.console.ConsoleLauncher --select-class   AtomTest
+javac -cp .:junit.jar AtomTest.java
+java -cp .:junit.jar org.junit.platform.console.ConsoleLauncher --select-class   AtomTest
 </code>
 
 
