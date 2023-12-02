@@ -132,7 +132,7 @@ In particular, to create a  file that defines a class (i.e., describes the attri
   - Right-click on the appropriate project or package (in the package explorer).
   - Pull down to <key>New</key>.
   - Pull over to <key>Class</key>.
-  - Enter the name of the package in the "Package" field (or leave it blank if the class is in the default package).
+  - Enter the full name of the package (including any subpackages, delimited with a .) in the "Package" field (or leave it blank if the class is in the default package).
   - Enter the name of the class in the "Name" field.
   - Optionally, complete the other fields and make the appropriate selections.
   - Click on <key>Finish</key>.
