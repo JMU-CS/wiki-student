@@ -51,11 +51,6 @@
   *Contact by email: duanzx@jmu.edu. Students will be provided with a Zoom link by email.
   *Other times by appointment.
 
-==== Dr. Christopher Fox - CS 227 ====
-
-  *Office hours: EnGeo 2201 MWF  1:00-1:45
-  *Contact by email: foxcj@jmu.edu
-  *Other times by appointment.
 
 ==== Dr. Heydari - CS512, CS531 ====
 
