@@ -74,6 +74,7 @@ Scholarships\\
   * [[student:mathematics:start | Mathematical Foundations ]]
   * [[student:utilities:sshfs | Mounting Remote Directories Locally ]]
   * [[student:utilities:start | Operating System Utilities ]]
+  * [[student:psi:start | Managing your Personal Space of Information (Ψ) ]]
   * [[student:python:virtualenv|Python Virtual Environments]]
   * [[student:scrumboard:start | ScrumBoard ]]
   * [[student:scrumj:start | scrumj ]]
