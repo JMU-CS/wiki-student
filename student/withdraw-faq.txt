@@ -34,11 +34,10 @@ It depends. If it was a major or minor requirement, then yes. If it was a class 
 Not necessarily, but you'll probably need to make up some credits. You need to have an average of 5 classes each semester to graduate in 4 years. So if you drop a class, at some point you will either need to add a summer class, or take 6 classes in a semester to get back on track. If you had prior credit from AP, IB, or Dual Enrollment, this would probably already make up for the credit. 
 
 ===Who needs to be in on this decision?===
-You can meet with the CS Advisor to discuss your decision to drop and how it would impact your future courses. You can schedule a meeting with Paige Normand: [[https://jmu-cs.as.me/advisor|https://jmu-cs.as.me/advisor]] \\
+You can meet with the CS Advisor to discuss your decision to drop and how it would impact your future courses. You can schedule a meeting with Paige Normand via [[https://www.jmu.edu/computing/mymadison/tutorials/schedule-advisor-appointments.shtml|MyMadison Connect]]
+
 Also consider talking with your parents/guardians about the decision to drop a class, just to make sure that
-you're on the same page with this decision. \\
-Your tuition at JMU remains the same when you take 12 or more
-credit hours, so a withdrawal from a class does not mean a refund.
+you're on the same page with this decision. Your tuition at JMU remains the same when you take 12 or more credit hours, so a withdrawal from a class does not necessarily mean a refund.
 
 ===Ok, I've decided to drop/withdraw. How do I do it?===
 To drop a class, or withdraw before the course adjustment deadline, you don't need anyone's permission, so you can do it on your own in MyMadison. Look under Student Center > Academics > Enroll, and choose "Drop" for both dropping and withdrawing. If appropriate, the W will be automatically assigned.  Look for the green checkmark to confirm the action. 
