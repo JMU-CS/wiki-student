@@ -104,6 +104,3 @@ most twice." The CS department has decided to not count classes taken
 this semester toward this enrollment limit. It will therefore be ok to
 enroll in a course again next semester if you need to.
 
-====== CS Advisor ======
-
-If you have any questions, please set an appointment with the CS Advisor, Paige Normand: https://jmu-cs.as.me/advisor
