@@ -53,7 +53,3 @@ CS/MATH 227, CS 240, CS 354, CS 444. This sequence covers a lot of the same area
 CS/MATH 227, CS 240, CS 327, and either CS 412 or CS 442
 This sequence focuses on the core mathematical foundations of CS, providing the tools for analyzing the efficiency of algorithms that are used to solve common problems. These courses also explore problems that are inherently difficult--if not impossible--to solve with a computer.
 
-====== Course Path Illustrations ======
-
-
-{{ :department:cs-minor-paths.png |}}
