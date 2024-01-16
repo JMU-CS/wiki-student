@@ -28,8 +28,7 @@ The example [[https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/ind
 
 The JMU Course Catalog has a [[https://catalog.jmu.edu/preview_program.php?catoid=51&poid=21773&hl|Sample Plan of Study]]
 
-We encourage you to meet with our CS Advisor, Paige Normand, to make your own 4-year plan for graduation.
-You can schedule a meeting with her here: [[https://jmu-cs.as.me/advisor|https://jmu-cs.as.me/advisor]].
+We encourage you to meet with our CS Advisor, Paige Normand, to make your own 4-year plan for graduation. You can schedule a meeting with her via [[https://www.jmu.edu/computing/mymadison/tutorials/schedule-advisor-appointments.shtml|MyMadison Connect]]. She is available to meet with any JMU student [[https://jamesmadisonuniversity1.my.site.com/s/book-appointment-from-invitation?invitationKey=364ce524-4b9f-40ed-babf-e8e49f7bdc54|in person]] and via [[https://jamesmadisonuniversity1.my.site.com/s/book-appointment-from-invitation?invitationKey=44e483db-1dcf-4b20-8e18-1f5e1e185566|Zoom]].
 
 ==== Additional Advice (work in progress) ====
 
