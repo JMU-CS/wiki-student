@@ -2,15 +2,15 @@
  
 ====== CS Sticker Contest======
  
-Submit your design for our Third Annual CS sticker contest and you could win up to $75 and have your design printed and distributed to CS students! We’re offering prizes for 1st, 2nd, and 3rd place.
+Submit your design for our Fourth Annual CS sticker contest and you could win up to $75 and have your design printed and distributed to CS students! We’re offering prizes for 1st, 2nd, and 3rd place.
  
-Accepting submissions through **April 9th!**
+Accepting submissions through **March 19th!**
  
-We’re looking for students to design a sticker that reflects the spirit of the CS Department for the 22-23 year.
+We’re looking for students to design a sticker that reflects the spirit of the CS Department for the 23-24 year.
 Here are the details. Feel free to email me if you have any questions!
  
 **Judging**
-  * CS faculty will select top 5 finalists and CS students will vote on the winners.
+  * Selected CS faculty will pick the top 5 finalists and CS students will vote on the winners.
   * All designs will be anonymous until winners are revealed.
  
 **Awards**
@@ -22,7 +22,7 @@ Here are the details. Feel free to email me if you have any questions!
   * To submit a design, the student must be currently enrolled in at least one CS course.
  
 **Design Specs**
-  * Design should reflect the spirit of the CS department for the 22-23 year
+  * Design should reflect the spirit of the CS department for the 23-24 year
   * Dimensions: circle, square, or 2:3 rectangle with a minimum width of 1000px
   * Design must abide by copyright regulations
   * No profanity or inappropriate content
