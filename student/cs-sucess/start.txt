@@ -9,9 +9,10 @@ Available for drop-in hours Sunday-Thursday. The CS TA lab is the beating heart 
 Our faculty are here to support your learning. The most detailed information for meeting with your professor will be in your course syllabus, but we keep information about faculty's availability here: https://wiki.cs.jmu.edu/department/officehours/start 
 
 ====== CS Advisor ======
-Paige Normand is our Departmental Advisor: : https://jmu-cs.as.me/advisor\\
-She's available to any declared CS major or student interested in CS who would like to talk about the CS curriculum, advice on classes, mapping out their curriculum path, or helping direct them to relevant faculty or resources.
+Paige Normand is the CS Academic Advisor
+She's available to any declared CS major or student interested in CS who would like to talk about the CS curriculum, advice on classes, mapping out their curriculum path, or helping direct them to relevant faculty or resources.schedule a meeting via 
 
+You can schedule a meeting with her via [[https://www.jmu.edu/computing/mymadison/tutorials/schedule-advisor-appointments.shtml|MyMadison Connect]]. She is available to meet with any JMU student [[https://jamesmadisonuniversity1.my.site.com/s/book-appointment-from-invitation?invitationKey=364ce524-4b9f-40ed-babf-e8e49f7bdc54|in person]] and via [[https://jamesmadisonuniversity1.my.site.com/s/book-appointment-from-invitation?invitationKey=44e483db-1dcf-4b20-8e18-1f5e1e185566|Zoom]].
 ====== CS Ambassadors ======
 CS Ambassadors are available for to field questions and share their perspective as an upper-level CS student. Think of them as an older sibling: there for advice and guidance about your success in CS and the university. They can help get you get connected to CS clubs, CS events, and resources within the department.\\
 Learn more and schedule a chat with them here: https://www.jmu.edu/cise/cs/contact-us/cs-ambassadors.shtml 
