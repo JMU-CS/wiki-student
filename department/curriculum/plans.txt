@@ -5,17 +5,7 @@
 Sample plans of study for new students. Options B and C are recommended for students interested in the Information Security Certificate because classes required for the certificate have CS 361 as a prerequisite.
 
 
-====== Option A - Delay 261 ======
 
-This option could be described as an "__**A**__pplications-early" or "__**A**__pplied" route. By taking 345 in your 3rd semester you "unlock" 3 CS electives 🏆, and by __also__ taking 240, you "unlock" an additional 3 🌈. \\
-For your CS Electives, you need 9 credits above CS 300 and six of those credits must be above 345.
-
-|              ^ Fall           ^ Spring          ^
-^ Year 1    | CS 149 \\ Math 231/235\\ GenEd \\ GenEd \\ GenEd\\ | CS 159 \\ Math 232/236 \\ CS/MATH 227 \\ GenEd \\ GenEd\\      |
-^ Year 2    | CS 240 \\ CS 345 \\ MATH 220/318 \\ GenEd \\ GenEd \\ | CS 261 \\ GenEd \\ GenEd \\ Elective \\ Elective \\       |
-^ Year 3    | CS 361 \\ CS 327 \\ GenEd \\ GenEd \\ Elective \\ | CS 430 \\ CS 4xxS (CS Systems Elective) \\ GenEd \\ Elective \\ Elective \\       |
-^ Year 4    | CS 412/452 \\ CS Elective \\  Elective \\ Elective \\ Elective \\ | CS Elective \\ CS Elective \\ Elective \\ Elective \\ Elective       | 
-\\ \\
 ====== Option B - Delay 345 ======
 For your CS Electives, you need 9 credits above CS 300 and six of those credits must be above 345.
 
