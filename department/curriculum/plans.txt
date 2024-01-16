@@ -44,12 +44,3 @@ For your CS Electives, you need 9 credits above CS 300 and six of those credits 
 ^ Year 3    | CS 345 \\ CS 4xxS (CS Systems Elective) \\ GenEd \\ Elective \\ Elective \\ | CS 430 \\ CS 412/452 \\ Elective \\ Elective \\ Elective \\ |
 ^ Year 4    | CS Elective \\  CS Elective \\ GenEd \\ Elective \\ Elective \\ | CS Elective \\ GenEd \\ Elective \\ Elective \\ Elective |
 \\ \\
-====== Option D - Second-year Start ======
-It is also possible to compress the major, for example if it is started in the sophomore year. The following table shows one way to do this. (Note: the major requires at least five semesters to complete due to prerequisites).\\
-For your CS Electives, you need 9 credits above CS 300 and six of those credits must be above 345.
-
-|              ^ Fall           ^ Spring          ^
-^ Year 1    | GenEd \\ GenEd \\ Elective \\ Elective \\ Elective\\ | GenEd \\ GenEd \\ GenEd \\ Elective \\ Elective |
-^ Year 2    | CS 149 \\ MATH 231/235 \\ MATH 220/318 \\ GenEd \\ GenEd \\ | CS 159 \\ MATH 232/236 \\ CS/MATH 227 \\ GenEd \\ GenEd |
-^ Year 3    | CS 240 \\ CS 261 \\ CS 345 \\ GenEd \\ Elective \\ | CS 327 \\ CS 361 \\ CS 430 \\ GenEd \\ GenEd |
-^ Year 4    | CS 412/452 \\ 4xxS (CS Systems Elective) \\ CS Elective \\  Elective \\ Elective \\ | CS Elective \\ CS Elective \\ Elective \\ Elective \\ Elective |
