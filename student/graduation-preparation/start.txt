@@ -65,7 +65,7 @@ View your Academic Requirements report in MyMadison\\
 
 Everything needs to be resolved before you are allowed to apply for graduation!
 
-Contact your advisor if you see anything you think is wrong in the report: https://jmu-cs.as.me/advisor 
+[[https://www.jmu.edu/computing/mymadison/tutorials/schedule-advisor-appointments.shtml|Contact your advisor]] if you see anything you think is wrong in the report.
 
 Note: the department will make substitutions or waivers only in rare cases:
   * Transfer students may not have received official transfer credit for 159 or 240
