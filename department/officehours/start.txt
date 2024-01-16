@@ -85,9 +85,9 @@ Office Hours: All my classes are online, so my office hours are mostly by appoin
 
 ==== Dr. Mayfield ====
 
-Fall 2023: CS 149, CS 159, First-Year Advisor
+Spring 2024: CS 159 and CS 374
 
-  * Tu/Th 1:00–3:30pm in King 208 or Zoom
+  * M/W/F 1:20–3:00pm in King 208 or Zoom
   * https://forms.gle/b5LCRrobjongdFY99
 
 
