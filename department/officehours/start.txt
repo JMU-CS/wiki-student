@@ -78,8 +78,10 @@ Office Hours: All my classes are online, so my office hours are mostly by appoin
 
 ==== Dr. Lam - CS 261, CS 470 ====
 
-  * Office Hours
-      * Drop-in hours: MWF 9:30-10:30am and Th 9:30-11:30am (King Hall 227 or join virtually: [[https://bit.ly/lam-office-hours-sp24|https://bit.ly/lam-office-hours-sp24]])
+  * Drop-in Office Hours
+      * MWF 9:30-10:30am
+      * Th 9:30-11:30am
+      * King Hall 227 or [[https://bit.ly/lam-office-hours-sp24|join virtually]]
 
 
 ==== Dr. Mayfield ====
