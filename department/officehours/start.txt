@@ -146,7 +146,7 @@ Zoom Option: TBA
 
 ==== Dr. Michael Stewart ====
 
-🍂 Fall 2023: CS 159, CS 343 💫
+🌸 Spring 2024: CS 343, CS 347 🕸️
 
 Note: consider consulting my [[https://hcientist.com/contact/#calendar | ApproximateAvailabilityViewer]] if you aren't enrolled in one of my classes, but are hoping to meet me in Office Hours (it should reflect cancellations that I would have already communicated with my students).
 
@@ -154,8 +154,8 @@ Location:
   * Office: 212 King Hall 👑
   * on [[http://tiny.cc/stewart-hours | zoom]] by appointment (typically during the hours listed below)
 Times:
-  * Tuesdays and Fridays: 9:30-11:30
-  * Mondays and Fridays: 3:00-4:00
+  * Monday - Friday: 2:00PM - 3:00PM
+
 
   
 ==== Dr. Tjaden - CS 361 (CS 610 & CS 685) ====
