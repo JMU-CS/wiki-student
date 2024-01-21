@@ -50,7 +50,7 @@ Scholarships\\
   * [[department:remote_access:start|Remote Access]]
   * [[department:cs_research_seminar_talks|Research Seminar Talks]]
   * [[student:stu:start | Student Server]] (stu.cs.jmu.edu)
-  * [[department:cs-success:start| TA Hours/Review Sessions ]]
+  * [[department:cs-success:start| TA Hours ]]
   * [[department:research| Undergraduate Research ]]
   * [[student:vm:start | Virtual Machine ]]
   * [[student:VPN:start | VPN ]]
