@@ -45,11 +45,14 @@
   *Other times by appointment.
 
 
-==== Dr. Zhuojun Duan - CS 159, CS240 Spring 2023 ====
+==== Dr. Zhuojun Duan - CS 159, CS412 Spring 2024 ====
 
-  *Office hours: MWF(in-person): 9:40-10:20am & 2:40pm-3:00pm Th(in-person/Zoom): 1:30-3:30pm
-  *Contact by email: duanzx@jmu.edu. Students will be provided with a Zoom link by email.
-  *Other times by appointment.
+  *Office hours(In person King246B): 
+  *Tu(in person): 12:25-13:30PM & 15:35-16:30PM
+  *W(in person):  12:30PM – 14:00PM
+  *Th(in person):  12:25-13:30PM & 15:35-16:00PM
+  *Other times are available by appointment via email. Contact by email: duanzx@jmu.edu. 
+
 
 
 ==== Dr. Heydari - CS512, CS531 ====
