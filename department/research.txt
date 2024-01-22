@@ -78,7 +78,7 @@ Ordinary Differential Equations (ODEs) are used to model changes in real-world s
 {{ :department:odeviewer.png?400 |}}
 
   * Faculty contact: Dr. Lam
-  * Repository: [[https://github.com/lam2mo/jmu-reu-ode | GitHub]]
+  * Repository: [[https://github.com/huberbp/jmodev | GitHub]]
   * Status: Ongoing and looking for new students!
 
 [[Inactive Research Projects]]
