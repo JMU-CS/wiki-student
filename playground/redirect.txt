@@ -1,3 +1,0 @@
-Testing...
-
-<HTML><meta http-equiv="Refresh" content="0; url='https://wiki.cs.jmu.edu/student/start'" /></HTML>
