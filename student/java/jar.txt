@@ -41,21 +41,27 @@ An "executable JAR" file can be executed using the ''%%java%%''  tool with the '
 
 You can create an executable JAR file by including  a manifest that includes a ''%%Main-Class:%%'' directive.  For more information, see the  [[ http://java.sun.com/docs/books/tutorial/deployment/jar/appman.html | tutorial ]].
 
+==== Running an Executable .jar File ====
 
-==== Permissions and Executable .jar Files ====
+You can run an executable .jar file from a command shell/terminal window as follows:
 
+  - Open a command shell/terminal window.
+  - Change the working  directory to the directory that contains the ''%%.jar%%'' file (using the ''%%cd%%'' command)
+  - Execute the application as follows: ''%% java -jar //filename//.jar %%''
+
+You can also run an executable .jar file from a file explorer/finder by double-clicking on it. However, your associations and permissions must first be setup.
+
+===== Permissions and Executable .jar Files =====
 
 Depending on your operating system, you may need to change the  permissions of the executable ''%%.jar%%'' file (i.e.,  provide permission to execute). In most OSs this can be done from  the command line (using ''%%chmod%%'') or from the GUI  (in a variety of different ways).
 
-==== Associations and Executable .jar Files ====
+===== Associations and Executable .jar Files =====
 
 You may also need to set the default manner in which it is  "opened" (i.e., instruct the OS to used the Java runtime). This is  sometimes also called the files "association" or "default  program". From the command line: in MS Windows you can  use ''%%assoc%%'', in OS X you can edit  ''%%~/Library/Preferences/com.apple.LaunchServices.plist%%'',  and in Linux you can edit  ''%%/usr/share/applications/defaults.list%%'' From the GUI:  in MS Windows you can click on <key>Start</key>+<key>Default  Programs</key>, in OS X you can right-click on the file and  use <key>File</key>+<key>Get Info</key>, and in Linux you  can right-click and select <key>Properties</key>.
 
-==== Testing an Executable .jar File ====
+==== Testing an Executable .jar File that You Created====
 
-If you just click/double-click on an executable ''%%.jar%%''  file and the code throws an exception you (typically) won't see  it. Hence, when testing it is often useful to run the application  from the command line. To do so, open a command shell (sometimes also called a terminal), change the working  directory to the directory that contains the ''%%.jar%%'' file (using the ''%%cd%%'' command),  and then execute the application as follows:
-
-|   java -jar //filename//.jar   |
+If you just click/double-click on an executable ''%%.jar%%''  file and the code throws an exception you (typically) won't see  it. Hence, when testing it is often useful to run the application  from the command line. To do so, see the relevant instructions above.
 
 If you get a message like the following:
 
