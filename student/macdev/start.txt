@@ -47,7 +47,9 @@ To install a package that has a graphical user interface, simply run:
     -  [[https://bitwarden.com/ | BitWarden ]] free and open source (for "basic") 
 
 ===== Productivity/Else =====
-  - [[https://alfred.app/ | Alfred]], especially because the (paid) powerpack has clipboard history ([[https://support.microsoft.com/en-us/windows/clipboard-in-windows-c436501e-985d-1c8d-97ea-fe46ddf338c6 | //finally// a free feature on Windows]])
+  - [[https://alfred.app/ | Alfred]], especially because the (paid) powerpack has clipboard history ([[https://support.microsoft.com/en-us/windows/clipboard-in-windows-c436501e-985d-1c8d-97ea-fe46ddf338c6 | finally a free feature on Windows]])
+      - s/o to Carlos on [[https://appyogi.com/apps/clipsy-clipboard-manager-for-mac/ | this cheaper clipboard history app called Clipsy]]
+          - FYI: Dr. Stewart who historically recommends the more expensive alfred powerpack for this feature hasn't tried Clipsy yet
   - [[https://www.macbartender.com/ | Bartender]]
 
 
