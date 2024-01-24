@@ -1,5 +1,4 @@
 
-
 ===== Limits =====
 
 
@@ -58,5 +57,4 @@ There are a number of simple results/rules that make it very easy to find limits
   - If \(f(x)=x^{k}\) then \(lim_{x \rightarrow N} f = N^{k}\)
   - Given two functions of \(x\), \(f_{1}\) and  \(f_{2}\), with finite limits, \(L_{1}\) and \(L_{2}\) it follows that \(lim_{x \rightarrow N}(f_{1} + f_{2}) = L_{1} + L_{2}\)
   - Given two functions of \(x\), \(f_{1}\) and  \(f_{2}\), with finite limits, \(L_{1}\) and \(L_{2}\) it follows that then \(lim_{x \rightarrow N}(f_{1} f_{2}) = L_{1} L_{2}\)
-  - (L'Hopital's Rule) Given two differentiable functions of \(x\), 
-\(f_{1}\) and  \(f_{2}\), with infinite limits and derivatives \(f_{1}^{\prime}\) and \(f_{2}^{\prime}\), it follows that \(lim_{x \rightarrow \infty}(\frac{f_{1}}{f_{2}}) =  lim_{x \rightarrow \infty}(\frac{f_{1}^{\prime}}{f_{2}^{\prime}})\). 
+  - (L'Hopital's Rule) Given two differentiable functions of \(x\), \(f_{1}\) and  \(f_{2}\), with infinite limits and derivatives \(f_{1}^{\prime}\) and \(f_{2}^{\prime}\), it follows that \(lim_{x \rightarrow \infty}(\frac{f_{1}}{f_{2}}) =  lim_{x \rightarrow \infty}(\frac{f_{1}^{\prime}}{f_{2}^{\prime}})\). 
