@@ -1,0 +1,1 @@
+<html><strong>This is my bold text</strong></html>
