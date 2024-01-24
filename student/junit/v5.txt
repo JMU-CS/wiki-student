@@ -1,5 +1,4 @@
 
-
 ===== JUnit v5 (Jupiter) Basics =====
 
 
@@ -242,7 +241,7 @@ To use these annotation you must import ''%%org.junit.jupiter.api.BeforeEach%%''
 Information about how to download and install JUnit is available   from   [[ https://github.com/junit-team/junit/wiki/Download-and-Install | junit.org ]].
 The .jar file will be named something like ''%%junit-platform-console-standalone.jar%%'' (which is referred to below as ''%%junit.jar%%'' for simplicity).
 
-==== Compiling and Running JUnit Tests from a Command Shell ====
+==== Compiling and Running JUnit Tests from a Command Shell/Terminal Window ====
 
 
 
