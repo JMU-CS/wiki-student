@@ -11,7 +11,7 @@ ACM brings together computing educators, researchers, and professionals to inspi
 
   * Faculty contact: Chris Johnson (johns8cr)
   * Student contact: Zane Metz
-  * Weekly meetings: Mondays from 5-6pm in King 260
+  * Weekly meetings: Fridays from 3:00-4:30pm in King 260
   * Website: http://acm.cs.jmu.edu
   * Discord: https://discord.gg/Uwwqbj4TEe
   * Github: https://github.com/JMU-Competitive-Programming
