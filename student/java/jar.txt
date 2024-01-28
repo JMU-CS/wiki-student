@@ -46,14 +46,14 @@ You can create an executable JAR file by including  a manifest that includes a '
 You can run an executable .jar file from a command shell/terminal window as follows:
 
   - Open a command shell/terminal window.
-  - Change the working  directory to the directory that contains the ''%%.jar%%'' file (using the  [[https://ss64.com/|''cd'' command]])
+  - Change the working  directory to the directory that contains the ''%%.jar%%'' file (using the  [[https://ss64.com/|cd command]])
   - Execute the application as follows: ''%% java -jar //filename//.jar %%''
 
 You can also run an executable .jar file from a file explorer/finder by double-clicking on it. However, your associations and permissions must first be setup.
 
 ===== Permissions and Executable .jar Files =====
 
-Depending on your operating system, you may need to change the  permissions of the executable ''%%.jar%%'' file (i.e.,  provide permission to execute). In most OSs this can be done from  the command line (using ''%%chmod%%'') or from the GUI  (in a variety of different ways).
+Depending on your operating system, you may need to change the  permissions of the executable ''%%.jar%%'' file (i.e.,  provide permission to execute). In most OSs this can be done from  the command line (using the  [[https://ss64.com/|chmod command]]) or from the GUI  (in a variety of different ways).
 
 ===== Associations and Executable .jar Files =====
 
