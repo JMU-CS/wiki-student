@@ -1,12 +1,3 @@
-==== ACM (Association for Computing Machinery) / Coders Anonymous ====
-
-  * Faculty contact: John Bowers (bowerscj)
-  * Student contact: TBD
-  * Regular meetings: TBD
-  * Discord: https://discord.gg/wAJY8PuPap
-
-ACM brings together computing educators, researchers, and professionals to inspire dialogue, share resources, and address the field's challenges. As the world’s largest computing society, ACM strengthens the profession's collective voice through strong leadership, promotion of the highest standards, and recognition of technical excellence. ACM supports the professional growth of its members by providing opportunities for life‐long learning, career development, and professional networking.
-
 ==== Competitive Programming ====
 
   * Faculty contact: Chris Johnson (johns8cr)
@@ -41,24 +32,6 @@ If you can't make it to regular meetings, we hold events (workshops, gamejams, e
 
   * Discord - [[https://discord.gg/TamHfJWNUw]]
   * Instagram - @dukedevs
-
-
-==== Forensics ====
-
-  * Faculty contact: Florian Buchholz (buchhofp)
-  * Student contact: TBD
-  * Weekly meetings: TBD
-
-The Forensics club is for those interested in learning the basics of forensics as well as discussing current developments in the field. We engage in many forensics exercises like drive recovery and forensics scenarios. In the past, members of the group have given presentations on forensic topics and tools, recovered data from "broken" hard drives, participated in DFRWS and HoneyNet forensics challenges, and examined and developed forensic tools. We have even assisted the JMU Police Department with some of their forensics needs. The Forensics Club gives members insight into what a career in cyber forensics could be like by solving real-world forensics problems. 
-
-==== Minority Programmers Association ====
-
-  * Faculty contact: TBD
-  * Student contact: TBD
-  * Weekly meetings: TBD
-  * Website: http://minorityprogrammers.org
-
-The Minority Programmers Association was started in 2019 at JMU by a group of diverse Computer Science / Computer Information Systems students looking to start a community where minorities are both accepted and have the opportunity to produce projects as undergrads.  Join MPA (the newest CS org) if you want to **develop** coding solutions with minorities tackling problems affecting underprivileged communities, **join** an organization at JMU that develops impactful technical projects, and **educate** local/diverse communities through programming.
 
 ==== PlayMU ====
 
@@ -107,3 +80,33 @@ Upsilon Pi Epsilon was founded in 1967 at Texas A&M University and is the first 
 WIT's goal is to celebrate an active network of women in the technology industries by facilitating career development and empowering women to be the architects of change in the STEM field, and to create opportunities for personal and professional development inside and outside of the classroom.
 
 If you would like to get involved with WIT, please email us at jmuwit@gmail.com so we can add you to our mailing list!
+
+
+==== Not Currently Active ====
+
+**ACM (Association for Computing Machinery) / Coders Anonymous**
+
+  * Faculty contact: John Bowers (bowerscj)
+  * Student contact: TBD
+  * Regular meetings: TBD
+  * Discord: https://discord.gg/wAJY8PuPap
+
+ACM brings together computing educators, researchers, and professionals to inspire dialogue, share resources, and address the field's challenges. As the world’s largest computing society, ACM strengthens the profession's collective voice through strong leadership, promotion of the highest standards, and recognition of technical excellence. ACM supports the professional growth of its members by providing opportunities for life‐long learning, career development, and professional networking.
+
+**Minority Programmers Association**
+
+  * Faculty contact: TBD
+  * Student contact: TBD
+  * Weekly meetings: TBD
+  * Website: http://minorityprogrammers.org
+
+The Minority Programmers Association was started in 2019 at JMU by a group of diverse Computer Science / Computer Information Systems students looking to start a community where minorities are both accepted and have the opportunity to produce projects as undergrads.  Join MPA (the newest CS org) if you want to **develop** coding solutions with minorities tackling problems affecting underprivileged communities, **join** an organization at JMU that develops impactful technical projects, and **educate** local/diverse communities through programming.
+
+**Forensics**
+
+  * Faculty contact: Florian Buchholz (buchhofp)
+  * Student contact: TBD
+  * Weekly meetings: TBD
+
+The Forensics club is for those interested in learning the basics of forensics as well as discussing current developments in the field. We engage in many forensics exercises like drive recovery and forensics scenarios. In the past, members of the group have given presentations on forensic topics and tools, recovered data from "broken" hard drives, participated in DFRWS and HoneyNet forensics challenges, and examined and developed forensic tools. We have even assisted the JMU Police Department with some of their forensics needs. The Forensics Club gives members insight into what a career in cyber forensics could be like by solving real-world forensics problems. 
+
