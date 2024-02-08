@@ -56,6 +56,6 @@ Host stu
 Host aplaceicantreachdirectly
         HostName internalonly.cs.jmu.edu
         ProxyJump stu
-        # some ssh servers may be listenign on a non-standard port. (the standard is 22)
+        ## some ssh servers may be listenign on a non-standard port. (the standard is 22)
         # Port 23 # is typically for telnet, but people can do what they want with their servers 
 </code>
