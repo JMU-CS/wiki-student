@@ -37,3 +37,25 @@ cat id_rsa.pub >> ~/.ssh/authorized_keys
 === Logging-In using the Key-Pair ===
 
 At this point, you should be able to use SSH (either directly or indirectly) to login to the Linux server without providing an ID and/or password.
+
+=== SSH Config File Example ===
+Below is an example ssh config file that on linux and mac would be located at ''%%~/.ssh/config%%''
+<code>
+Host *
+	ServerAliveInterval 30
+	ServerAliveCountMax 120
+	AddKeysToAgent yes # https://man.openbsd.org/ssh_config#AddKeysToAgent
+	IdentitiesOnly yes
+
+        # macOS only? V
+Host stu
+	HostName stu.cs.jmu.edu
+	# next setting only necessary if you aren't using a default-named key like id_rsa or id_ed25519
+        # IdentityFile ~/.ssh/fac.cs.jmu.edu
+	User stewarmc # if you specify a user, you don't have to put the user@ when connecting via ssh
+Host aplaceicantreachdirectly
+        HostName internalonly.cs.jmu.edu
+        ProxyJump stu
+        # some ssh servers may be listenign on a non-standard port. (the standard is 22)
+        # Port 23 # is typically for telnet, but people can do what they want with their servers 
+</code>
