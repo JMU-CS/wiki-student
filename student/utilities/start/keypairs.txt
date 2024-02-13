@@ -46,8 +46,6 @@ Host *
 	ServerAliveCountMax 120
 	AddKeysToAgent yes # https://man.openbsd.org/ssh_config#AddKeysToAgent
 	IdentitiesOnly yes
-
-        # macOS only? V
 Host stu
 	HostName stu.cs.jmu.edu
 	# next setting only necessary if you aren't using a default-named key like id_rsa or id_ed25519
