@@ -2,13 +2,23 @@
 This page is under construction, please feel free to add a relevant section or subpage, For now I just need to mention homebrew because it's the preferred method for getting Meld.
 
 ===== Command Line Interface =====
-The default app providing a CLI on macOS is Terminal. It's located in ''%%/Applications/Utilities/Terminal%%'' if you're looking for it in Finder, but the simplest way to get to it is to:
+The default app providing a CLI on macOS is Terminal. It's located in ''%%/Applications/Utilities/Terminal.app%%'' if you're looking for it in Finder, but the simplest way to get to it is to:
   - press <key>command</key> + <key>space</key>
   - in the resulting search box, type ''%%Term%%''
     * you should see the ''%%Terminal%%'' app as a top search result
   - use the <key>down arrow</key> to highlight the ''%%Terminal%%'' search result
   - press <key>return</key>
   - you should now have a terminal window open
+
+
+===== Shell =====
+  - iTerm2.app (Dr. Stewart uses this)
+  - honorable mentions
+      - Warp
+      - Hyper
+
+==== Shell config managers ====
+  - [[https://github.com/ohmyzsh/ohmyzsh|Oh my ZSH]]
 
 ===== Homebrew =====
 Homebrew is a package manager for macOS. Pretty much any developer software made for Linux (and much that's not) is available for install via Homebrew, and this installation is typically much simpler than alternatives, especially for developer tools.
@@ -27,19 +37,12 @@ To install a package that has a graphical user interface, simply run:
   - ''%%brew install --cask <package>%%''
     * e.g. ''%%brew install --cask meld%%''
 
-===== Shell =====
-  - TODO... 
 
 ===== Window Management =====
   - Rectangle.app
   - AltTab.app
   - else?
 
-===== Shell =====
-  - iTerm2.app
-  - honorable mentions
-      - Warp
-      - Hyper
 
 ===== Password Manager =====
   - 1password (costs $)
