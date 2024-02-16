@@ -20,6 +20,9 @@ The default app providing a CLI on macOS is Terminal. It's located in ''%%/Appli
 ==== Shell config managers ====
   - [[https://github.com/ohmyzsh/ohmyzsh|Oh my ZSH]]
 
+==== Shell Themes ==== 
+  - [[https://github.com/romkatv/powerlevel10k|PowerLevel10k]] (Dr. Stewart uses this)
+
 ===== Homebrew =====
 Homebrew is a package manager for macOS. Pretty much any developer software made for Linux (and much that's not) is available for install via Homebrew, and this installation is typically much simpler than alternatives, especially for developer tools.
 
