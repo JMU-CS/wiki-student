@@ -12,21 +12,6 @@ It is only available to members of the JMU community. So, if you are off-campus,
 
 === Disable non-JMU VPN ===
 If you are using any non-JMU VPN, FANTASTIC! 🙌 The only thing is you must disable this to use autolab.
-=== Android Access to JMU wifi ===
-
-Note: some of these settings may differ slightly on different Android devices
-		
-  - Click the Settings icon on your Android device
-  - Click Connections and click to turn on WiFi
-  - Go back to your Home screen and you will see Wi-Fi network available, click to Open Wi-Fi network available
-  - Select JMU-Official-Wireless and set the following settings:
-    - EAP Method: PEAP
-    - Identity: type in your eID
-    - Password: enter your password
-    - CA Certificate: Use System Certificates 
-    - Online Certificate Status: leave this as Don't Validate
-    - Domain: jmu.edu
-  - Click Connect
 
 
 ==== Logging In ====
@@ -39,6 +24,7 @@ Note that you must use your ''dukes.jmu.edu'' email address and your
 Autolab (**not your JMU**) password.
 
 For your first sign-in, you will not know your password and should use the "[[https://autolab.cs.jmu.edu/auth/users/password/new|Forgot your password?]]" mechanism (don't worry, we know you didn't forget it 😉). 
+
 ==== Handling Login Problems ====
 
 If you've forgotten your Autolab password (which is different from your normal JMU password, because Autolab does not use JMU's authentication system) or never used Autolab at JMU before, you can reset/set your password by clicking on the "Forgot your password?" link at the bottom of the login page.
