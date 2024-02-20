@@ -26,7 +26,7 @@ Here are the details. Feel free to email me if you have any questions!
   * Dimensions: circle, square, or 2:3 rectangle with a minimum width of 1000px
   * Design must abide by copyright regulations
   * No profanity or inappropriate content
-  * Optional: include “JMU,” “CS,” and “2023” in the design
+  * Optional: include “JMU,” “CS,” and “2024” in the design
   * Optional: JMU branding, [[https://www.jmu.edu/identity/|https://www.jmu.edu/identity/]]
   * Optional: CS Dept branding,[[ https://wiki.cs.jmu.edu/student/cs-branding/start| https://wiki.cs.jmu.edu/student/cs-branding/start]]
  
