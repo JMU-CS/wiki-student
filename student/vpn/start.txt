@@ -3,25 +3,11 @@
 Please go here for the download and instructions on the VPN client https://www.jmu.edu/computing/internet-and-network/vpn-client.shtml
 
 ====== For Linux ======
-  * Please note that the below directions do not work as of 11/29/2022 due to an upgrade of the VPN server that requires an updated version of openconnect, which is not available in the standard Ubuntu 22.04 repositories. See bug report here: https://gitlab.com/openconnect/openconnect/-/issues/472
-  * A workaround would be to compile the source code from git to use a more current release. This page will be updated as more information is known.
+The Linux client is available directly from the VPN server in 2 flavors, rpm and deb. 
+  * For the rpm version, use this link: https://vpn.jmu.edu/dana-na/jam/getComponent.cgi?command=get;component=PulseSecure;platform=rpm
+  * For the deb version, use this link: https://vpn.jmu.edu/dana-na/jam/getComponent.cgi?command=get;component=PulseSecure;platform=deb
 
-These instructions assume an Ubuntu/Linux Mint installation. Much of it should apply to any Linux, however. You must run openconnect version 9.02 or later. Older versions included in many distributions including Ubuntu 22.04 will fail with an error message:
-
-    Creating SSL connection failed
-    Unknown error; exiting.
-
-A working version is available for many distributions at https://software.opensuse.org/download.html?project=home%3Abluca%3Aopenconnect%3Arelease&;package=openconnect . Follow the "Add repository and install manually" instructions to ensure you receive future updates. Once installed, you can connect to the VPN by:
-
-  * Open a terminal.
-  * Connect to the vpn: <code>sudo openconnect --protocol=pulse vpn.jmu.edu</code>
-  * You'll be asked for a Username, your e-ID goes there.
-  * You'll be asked for a Password, the same password you use for Canvas/MyMadison goes there.
-  * You'll be asked for a Password#2, there are several options you can choose here. You are essentially choosing how you want Duo to authenticate you.
-    * Assuming you have Duo installed on your Android or iOS device, you'll likely want to type "push". This will send a push notification to your device for you to then act upon.
-    * You can also type sms1, to send a list of Duo codes to your phone, which can then be entered to grant access.
-    * If you have a Yubikey, you can use the codes it generates for Password#2 as well simply by connecting it to your computer and pressing the button.
-  * You should now be connected to the VPN.
+Once installed, this should operate similarly to the Windows/macOS versions. Any differences will be documented here as applicable.
 
 
 ====== For Chrome OS ======
