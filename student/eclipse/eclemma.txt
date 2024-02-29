@@ -1,4 +1,3 @@
-
 ===== The EclEmma Code Coverage Tool for Eclipse =====
 
 
@@ -27,10 +26,9 @@ To select the type of coverage
 ==== Creating a Coverage Report ====
 
 
-Once you have selected the type of coverage, you can create a  coverage report by clicking on  {{eclemma_coverage-mode.gif}}.
+Once you have selected the type of coverage, you can create a  coverage report by clicking on  {{eclemma_coverage-mode.gif}}. The coverage report will be available in the "Coverage" tab of the  Output View. (Note: If there is no "Coverage" tab you can enable  it by clicking on <key>Window</key>-<key>Show View</key>.)  This report provides a summary of the instructions covered by your tests (which is comparable to statement coverage).
 
-
-The coverage report will be available in the "Coverage" tab of the  Output View. (Note: If there is no "Coverage" tab you can enable  it by clicking on <key>Window</key>-<key>Show View</key>.)  In addition, each source file will be  [[ http://www.eclemma.org/userdoc/annotations.html | marked-up ]]  to indicate which  statements, branches, etc... have been covered and which have not.
+**More importantly**, each source file will be  [[ http://www.eclemma.org/userdoc/annotations.html | marked-up ]]  to indicate which  statements, branches, etc... have been covered and which have not. (This is far more valuable and important than the coverage report.)
 
 Note that EclEmma uses the term "branch" differently from the way  some other people use the term. In EclEmma, the number of  "branches" is the sum of the number of possible Boolean values in  an expression. So, a statement like:  ''%%if ((x > 0) || (y > 0) || (z > 0))%%''  will have  \(2 + 2 + 2 = 6\) "branches". Some people say this  statement has 2 "branches" (the entire expression is either true  or false, leading to 2 edges in the graph),  \(2 \times 3 = 6\) "conditions", and  \(2^3 = 8\) "multiple conditions".
 
