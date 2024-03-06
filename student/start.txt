@@ -93,7 +93,7 @@ Scholarships\\
   * [[https://www.jmu.edu/cise/cs/contact-us/cs-ambassadors.shtml|CS Ambassadors]]
   * [[student:career-fair:start|CISE Career & Internship Fair]]
   * [[student:interview-room|Student Interview Room]]
-  * [[student:design:cs-branding:start|JMU CS Branding Resources]]
+  * [[student:cs-branding:start|JMU CS Branding Resources]]
 ==== Etiquette ====
 
   - You must be logged-in (using your JMU email address) to make additions/changes.
