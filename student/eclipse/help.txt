@@ -243,7 +243,7 @@ To find a matching curly bracket (either opening or closing) type <key>Ctrl</key
 Though there are several software metrics plug-ins available, there is an easy "hack" for counting lines of code.
 
   - Click on <key>Search</key>+<key>File</key>
-  - Enter ''\n'' (to count all lines) or ''\n[\s]*'' to count non-blank lines in the "Containing text:" field
+  - Enter ''\n'' (to count all lines) or ''\n[\s]*'' (to count non-blank lines) in the "Containing text:" field
   - Check the "Regular expressions" checkbox
   - Enter ''*.java'' (or other file type) in the "File name patterns" field
   - Select the appropriate scope
