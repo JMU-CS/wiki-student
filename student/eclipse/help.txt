@@ -238,6 +238,21 @@ When the cursor is in a method, type <key>Ctrl</key>+<key>Shift</key>+<key>Space
 To find a matching curly bracket (either opening or closing) type <key>Ctrl</key>+<key>Shift</key>+<key>P</key>.
 
 
+==== Counting Lines of Code (LOC) ====
+
+Though there are several software metrics plug-ins available, there is an easy "hack" for counting lines of code.
+
+  - Click on <key>Search</key>+<key>File</key>
+  - Enter <code>\n</code> (to count all lines) or <code>\n[\s]*</code> to count non-blank lines in the "Containing text:" field
+  - Check the "Regular expressions" checkbox
+  - Enter <code>*.java</code> (or other file type) in the "File name patterns" field
+  - Select the appropriate scope
+  - Click on <key>Search</key>
+
+The top line of the "Search" panel will show the total number of matches (i.e., lines). You can also get matches/counts by package, file, etc.
+
+
+
 ==== Comparing Files ====
 
 Files can be compared in a variety of different ways.
