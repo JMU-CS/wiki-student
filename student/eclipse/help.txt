@@ -302,7 +302,7 @@ In Eclipse, applications are started using the <key>Run</key> button or the "Run
 
 There are different kinds of run configurations, the two most important are configurations for Java Applications and configurations for JUnit tests.
 
-To create a run configuration, select the appropriate type and click on the [New launch configuration] button (that looks like a blank sheet with a + in the upper-right corner). Then, fill in the name and other relevant information.
+To create a run configuration, select the appropriate type and click on the [New launch configuration] button (that looks like a blank sheet with a + in the upper-right corner). Then, fill in the name and other relevant information. For Java Applications, the most important information is entered on the "Main" tab. For JUnit tests, the most important information is entered on the "Test" tab.
 
 
 === Command-Line Arguments ===
