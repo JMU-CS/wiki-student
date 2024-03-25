@@ -295,8 +295,14 @@ If you are managing your code (e.g., with Subversion or Git), you can compare th
 ==== Running ====
 
 
-In Eclipse, applications are started using the <key>Run</key> button or the "Run" menu.
+In Eclipse, applications are started using the <key>Run</key> button or the "Run" menu. They are configured from the 'Run" menu using the "Run Configurations..." option.
 
+
+=== Run Configurations ===
+
+There are different kinds of run configurations, the two most important are configurations for Java Applications and configurations for JUnit tests.
+
+To create a run configuration, select the appropriate type and click on the [New launch configuration] button (that looks like a blank sheet with a + in the upper-right corner). Then, fill in the name and other relevant information.
 
 
 === Command-Line Arguments ===
