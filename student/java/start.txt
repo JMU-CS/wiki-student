@@ -1,5 +1,6 @@
 ===== Information about Java =====
 
+  - [[ student:java:attributedstring | Strings with Attributes  ]]
   - [[ student:java:stub | Creating "stubs" of a class or "Stubbing-out" a class ]]
   - [[ student:java:formatting | Formatting Strings ]]
   - [[ student:java:jar | .jar Files (i.e., Java Archives) ]]
