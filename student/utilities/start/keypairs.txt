@@ -34,6 +34,14 @@ On Linux servers, a user's public keys are stored in the file ''%%~/.ssh/authori
 cat id_rsa.pub >> ~/.ssh/authorized_keys
 </code>
 
+If the ~/.ssh directory does not exist you can create it. SSH has strict permission requirements on these files:
+<code>
+mkdir ~/.ssh
+chmod 700 ~/.ssh
+touch ~/.ssh/authorized_keys
+chmod 600 ~/.ssh/authorized_keys
+</code>
+
 === Logging-In using the Key-Pair ===
 
 At this point, you should be able to use SSH (either directly or indirectly) to login to the Linux server without providing an ID and/or password.
