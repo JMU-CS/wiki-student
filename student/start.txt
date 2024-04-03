@@ -8,8 +8,6 @@ In addition to using this page to find information, you can search the Wiki usin
 ==== CS Advising ====
 
 Curriculum & Advising\\
-[[department:schedule_spring2023:start| Spring 2023 Schedule]] \\
-[[department:schedule_fall2023:start| Fall 2023 Schedule]] \\
 [[department:schedule_spring2024:start| Spring 2024 Schedule]] \\
 [[department:schedule_fall2024:start| Fall 2024 Schedule]] \\
 [[department:curriculum:start| CS Curriculum ]]\\
