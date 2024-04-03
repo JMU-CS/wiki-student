@@ -68,3 +68,6 @@ Host aplaceicantreachdirectly
         ## some ssh servers may be listenign on a non-standard port. (the standard is 22)
         # Port 23 # is typically for telnet, but people can do what they want with their servers 
 </code>
+
+Test the github one:
+ssh -T git@github.com
