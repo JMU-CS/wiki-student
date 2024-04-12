@@ -54,8 +54,7 @@ Host *
 	ServerAliveCountMax 120
 	AddKeysToAgent yes # https://man.openbsd.org/ssh_config#AddKeysToAgent
 	IdentitiesOnly yes
-Host github
-       HostName github.com
+Host github.com
        IdentityFile /Users/tgm/.ssh/githubta
 Host stu
 	HostName stu.cs.jmu.edu
