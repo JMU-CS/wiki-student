@@ -24,6 +24,9 @@ There are a few settings that you must set to prevent having to have a ton of fl
 [rerere]
 	enabled = true
 
+# if you just want to add one of these from the command line, you might do something like
+# git config --global rerere.enabled true
+
 # optional but popular aliases
 [alias]
   ci = commit
