@@ -7,7 +7,7 @@ There are a few settings that you must set to prevent having to have a ton of fl
 ====== Global Configuration ======
 
 <code>
-# who should git assume you're commiting as?
+# who should git assume you're committing as?
 [user]
 	name = Michael Stewart
 	email = stewarmc@jmu.edu
