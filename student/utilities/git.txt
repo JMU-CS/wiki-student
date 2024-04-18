@@ -1,0 +1,35 @@
+[[https://git-scm.com/|Git]] is a powerful, distributed version control system. Consider installing it as specified on the linked site.
+
+Likely you'll wish to have [[student:utilities:start:keypairs|ssh keypairs]] in place when using git to coordinate source code between multiple machines (which are called "remotes" in git terms). 
+
+There are a few settings that you must set to prevent having to have a ton of flags on the command line for your git commands, then there are many more that you may just like to have in place. Consider those in the sample below
+
+====== Global Configuration ======
+
+<code>
+# who should git assume you're commiting as?
+[user]
+	name = Michael Stewart
+	email = stewarmc@jmu.edu
+[color]
+	ui = true
+[init]
+	defaultBranch = main
+
+# how should git handle reconciling divergent branches when pulling?
+[pull]
+	rebase = true
+
+# git should remember how i've resolved a given conflict and not prompt me for that conflict again
+[rerere]
+	enabled = true
+
+# optional but popular aliases
+[alias]
+  ci = commit
+  st = status
+  co = checkout
+  di = diff --color-words
+  br = branch
+
+</code>
