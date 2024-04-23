@@ -2,7 +2,16 @@
 
 Likely you'll wish to have [[student:utilities:start:keypairs|ssh keypairs]] in place when using git to coordinate source code between multiple machines (which are called "remotes" in git terms). 
 
-There are a few settings that you must set to prevent having to have a ton of flags on the command line for your git commands, then there are many more that you may just like to have in place. Consider those in the sample below
+There are a few settings that you must set to prevent having to have a ton of flags on the command line for your git commands, then there are many more that you may just like to have in place. Consider those in the sample below.
+
+Oh by the way, you can set global git configuration options on the command line by doing things like the following (example demonstrates the first few settings from the subsequent global ''.giticonfig'' file):
+<code>
+git config --global user.name "YOUR_NAME"
+git config --global user.email "YOUR@EMAIL.EDU"
+git config --global color.ui true
+</code>
+
+You can also open the file ''$USER/.gitconfig'' and edit it to match the formatting below.
 
 ====== Global Configuration ======
 
