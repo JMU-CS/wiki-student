@@ -24,7 +24,16 @@ You can also open the file ''$USER/.gitconfig'' and edit it to match the formatt
 	ui = true
 [core]
 	excludesfile = /usuallyThePathToYourUserHomeDirectory/.gitignore_global
-	editor = code --wait # this will use vscode as the default editor. it assumes that you have the code command installed and in your PATH. Note: because of the --wait option, you will need to close the editor tab that git opens before the git task will complete (e.g. if you commit without a message, vscode will open an editor tab in which you should type a commit message, then if you save that "file" and close the tab, git will know that you're done and will proceed with the commit now with its message updated)
+	editor = code --wait 	# this will use vscode as the default editor. 
+												# it assumes that you have the code command installed 
+												# and in your PATH. Note: because of the --wait option,
+												# you will need to close the editor tab that git opens
+												# before the git task will complete (e.g. if you commit
+												# without a message, vscode will open an editor tab in
+												# which you should type a commit message, then if you
+												# save that "file" and close the tab, git will know that
+												# you're done and will proceed with the commit now with
+												# its message updated)
 [init]
 	defaultBranch = main
 
