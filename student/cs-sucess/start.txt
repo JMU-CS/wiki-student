@@ -12,7 +12,8 @@ Our faculty are here to support your learning. The most detailed information for
 Paige Normand is the CS Academic Advisor
 She's available to any declared CS major or student interested in CS who would like to talk about the CS curriculum, advice on classes, mapping out their curriculum path, or helping direct them to relevant faculty or resources. 
 
-You can schedule a meeting with her via [[https://www.jmu.edu/computing/mymadison/tutorials/schedule-advisor-appointments.shtml|MyMadison Connect]]. She is available to meet with any JMU student [[https://jamesmadisonuniversity1.my.site.com/s/book-appointment-from-invitation?invitationKey=364ce524-4b9f-40ed-babf-e8e49f7bdc54|in person]] and via [[https://jamesmadisonuniversity1.my.site.com/s/book-appointment-from-invitation?invitationKey=44e483db-1dcf-4b20-8e18-1f5e1e185566|Zoom]].
+Her assigned advisees can schedule a meeting with her via [[https://jamesmadisonuniversity1.my.site.com/s/|MyMadison Connect]]. \\
+She is available to meet with any JMU student over the summer via zoom: [[https://jamesmadisonuniversity1.my.site.com/s/book-appointment-from-invitation?invitationKey=f763e5b9-f20a-4e17-8b24-a49d1769dbba|Schedule a meeting]]  
 
 
 ====== CS Advising Canvas Site ======
