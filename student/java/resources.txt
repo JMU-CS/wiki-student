@@ -40,7 +40,7 @@ For example, if you want to get the  ''%%InputStream%%'' for a text resource nam
 
 
 <code java>
-InputStream is = this.getClass().getResource("/configurations/config.txt").
+InputStream is = this.getClass().getResourceAsStream("/configurations/config.txt").
 </code>
 
 You could then read the first line of this text resource as follows:
