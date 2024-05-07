@@ -93,7 +93,6 @@ Scholarships\\
   * [[student:career-fair:start|CISE Career & Internship Fair]]
   * [[student:interview-room|Student Interview Room]]
   * [[student:cs-branding:start|JMU CS Branding Resources]]
-  * [[student:celebrating_simmons:start|Celebrating Simmons]]
 ==== Etiquette ====
 
   - You must be logged-in (using your JMU email address) to make additions/changes.
