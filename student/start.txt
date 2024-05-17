@@ -12,6 +12,7 @@ Curriculum & Advising\\
 [[department:schedule_fall2024:start| Fall 2024 Schedule]] \\
 [[department:curriculum:start| CS Curriculum ]]\\
 [[department/advising/changing-majors:start| Changing Majors]]\\
+[[department/advising/admissions-criteria:start| New Criteria for Full Admission to the Major/Minor]]\\
 
 Enrollment\\
 [[department/waitlist/start| Using the Waitlist Correctly]]\\
