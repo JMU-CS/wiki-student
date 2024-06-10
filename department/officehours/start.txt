@@ -93,7 +93,7 @@ Spring 2024: CS 159 and CS 374
   * https://forms.gle/b5LCRrobjongdFY99
 
 
-==== Dr. Molloy - CS 412, CS 445 ====
+==== Dr. Molloy - CS 354, CS 412 ====
 
   * General office hours: [[http://w3.cs.jmu.edu/molloykp]]
   * Other times by appointment (email: molloykp@jmu.edu)
