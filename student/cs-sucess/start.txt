@@ -24,8 +24,7 @@ Anyone is welcome to self-enroll here: https://canvas.jmu.edu/enroll/7PDLY6
 Important departmental announcements will be made through this Canvas site, so it's important that you keep up with the updates!
 ====== CS Ambassadors ======
 CS Ambassadors are available for to field questions and share their perspective as an upper-level CS student. Think of them as an older sibling: there for advice and guidance about your success in CS and the university. They can help get you get connected to CS clubs, CS events, and resources within the department.\\
-Learn more and schedule a chat with them here: https://www.jmu.edu/cise/cs/contact-us/cs-ambassadors.shtml 
-
+Shoot them a question to cs.ambassadors@jmu.edu (forthcoming)
 ====== CS Clubs ======
 One of the best ways to succeed in CS is to get involved! If you are interested in getting more experience with a particular area of CS, the clubs are a fantastic way to get connected to the projects, activities, and outreach within the field. Students are welcome to join clubs at any point in the semester. \\
 See full list here: https://wiki.cs.jmu.edu/student/clubs/start
