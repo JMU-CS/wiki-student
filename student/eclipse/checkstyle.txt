@@ -1,11 +1,10 @@
-
 ===== The Checkstyle Plugin for Eclipse =====
 
 [[ student:checkstyle:start | Checkstyle ]] is a static analysis tool. The Checkstyle plugin for Eclipse enables the use of Checkstyle from within [[ student:eclipse:start | Eclipse ]].
 
 ==== Installation ====
 
-There are three different ways to install the Eclipse Checkstyle Plugin. They are described at the [[ http://eclipse-cs.sourceforge.net/#!/install |  Checkstyle Plugin site ]]. At the moment, the "update site" seems to be the most reliable approach.
+There are three different ways to install the Eclipse Checkstyle Plugin. They are described at the [[ http://eclipse-cs.sourceforge.net/#!/install |  Checkstyle Plugin site ]]. At the moment, the "Marketplace" seems to be the most reliable approach.
 
 If none of the normal methods work, you may want to consider installing the plugin manually.
 ((The normal Checkstyle installation process was not working reliably at the start of the Fall 2018 semester. However, it was possible to install version 8.11 "manually". So, if you have problems with the normal installation process, you may want to try this.
