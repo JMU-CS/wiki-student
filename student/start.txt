@@ -5,12 +5,13 @@
 In addition to using this page to find information, you can search the Wiki using the search field on the left or using a search engine (e.g., Google, DuckDuckGo, Bing) by including ''site:wiki.cs.jmu.edu'' with your search terms.
 
 
-==== CS Advising ====
+==== CS Curriculum ====
 
 Curriculum & Advising\\
 [[department:schedule_spring2024:start| Spring 2024 Schedule]] \\
 [[department:schedule_fall2024:start| Fall 2024 Schedule]] \\
 [[department:curriculum:start| CS Curriculum ]]\\
+[[department:cs-advising:start| CS Advising ]]\\
 [[department/advising/changing-majors:start| Changing Majors]]\\
 [[department/advising/admissions-criteria:start| New Criteria for Full Admission to the Major/Minor]]\\
 
