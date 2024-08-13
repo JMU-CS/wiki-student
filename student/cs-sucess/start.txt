@@ -8,12 +8,15 @@ Available for drop-in hours Sunday-Thursday. The CS TA lab is the beating heart 
 ====== Office Hours ======
 Our faculty are here to support your learning. The most detailed information for meeting with your professor will be in your course syllabus, but we keep information about faculty's availability here: https://wiki.cs.jmu.edu/department/officehours/start 
 
-====== CS Advisor ======
-Paige Normand is the CS Academic Advisor
-She's available to any declared CS major or student interested in CS who would like to talk about the CS curriculum, advice on classes, mapping out their curriculum path, or helping direct them to relevant faculty or resources. 
+====== Departmental Advisors ======
 
-Her assigned advisees can schedule a meeting with her via [[https://jamesmadisonuniversity1.my.site.com/s/|MyMadison Connect]]. \\
-She is available to meet with any JMU student over the summer via zoom: [[https://jamesmadisonuniversity1.my.site.com/s/book-appointment-from-invitation?invitationKey=f763e5b9-f20a-4e17-8b24-a49d1769dbba|Schedule a meeting]]  
+Advisors are experts in the major and graduation requirements and are here to set you up for success! There here to help with questions about progression in your major, advice on classes, mapping out your path to graduation, or can direct you to the right resources on campus.
+
+You can schedule a meeting with your advisor through [[https://jamesmadisonuniversity1.my.site.com/s/|MyMadison Connect]] or find their scheduler on their faculty page:
+
+CS Major/Minor Advisor: [[https://www.jmu.edu/cise/people/faculty/normand-paige.shtml|Paige Normand]]
+
+IT Major Advisor: [[https://www.jmu.edu/cise/people/faculty/hedrick-ellen.shtml|Ellen Hedrick]]
 
 
 ====== CS Advising Canvas Site ======
