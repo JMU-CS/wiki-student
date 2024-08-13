@@ -28,7 +28,7 @@ Important departmental announcements will be made through this Canvas site, so i
 ====== Ambassadors ======
 Ambassadors are available for to field questions and share their perspective as an upper-level student. Think of them as an older sibling: there for advice and guidance about your success in CS/IT and the university. They can help get you get connected to departmental clubs, events, and resources.\\
 
-**CS Ambassadors**: shoot a question to [[mailto:cs.ambassadors@dukes.jmu.edu|cs.ambassadors@dukes.jmu.edu]]\
+**CS Ambassadors**: shoot a question to [[mailto:cs.ambassadors@dukes.jmu.edu|cs.ambassadors@dukes.jmu.edu]]
 
 **IT Ambassadors**: Contact information here: https://www.jmu.edu/cise/information-technology/people/ambassadors/index.shtml
 ====== Departmental Clubs ======
