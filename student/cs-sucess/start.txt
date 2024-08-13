@@ -14,9 +14,9 @@ Advisors are experts in the major and graduation requirements and are here to se
 
 You can schedule a meeting with your advisor through [[https://jamesmadisonuniversity1.my.site.com/s/|MyMadison Connect]] or find their scheduler on their faculty page:
 
-CS Major/Minor Advisor: [[https://www.jmu.edu/cise/people/faculty/normand-paige.shtml|Paige Normand]]
+**CS Major/Minor Advisor:** [[https://www.jmu.edu/cise/people/faculty/normand-paige.shtml|Paige Normand]]
 
-IT Major Advisor: [[https://www.jmu.edu/cise/people/faculty/hedrick-ellen.shtml|Ellen Hedrick]]
+**IT Major Advisor:** [[https://www.jmu.edu/cise/people/faculty/hedrick-ellen.shtml|Ellen Hedrick]]
 
 
 ====== CS Advising Canvas Site ======
