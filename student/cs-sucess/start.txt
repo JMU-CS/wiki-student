@@ -25,6 +25,6 @@ Important departmental announcements will be made through this Canvas site, so i
 ====== CS Ambassadors ======
 CS Ambassadors are available for to field questions and share their perspective as an upper-level CS student. Think of them as an older sibling: there for advice and guidance about your success in CS and the university. They can help get you get connected to CS clubs, CS events, and resources within the department.\\
 Shoot them a question to [[mailto:cs.ambassadors@dukes.jmu.edu|cs.ambassadors@dukes.jmu.edu]]
-====== CS Clubs ======
+====== Departmental Clubs ======
 One of the best ways to succeed in CS is to get involved! If you are interested in getting more experience with a particular area of CS, the clubs are a fantastic way to get connected to the projects, activities, and outreach within the field. Students are welcome to join clubs at any point in the semester. \\
 See full list here: https://wiki.cs.jmu.edu/student/clubs/start
