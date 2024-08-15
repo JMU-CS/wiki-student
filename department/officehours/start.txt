@@ -180,9 +180,9 @@ Office Hours:
 Also feel free to come by whenever my office door is open :)
 
 
-==== Dr. Xunhua Wang - CS482-0001, CS559Ex81, CS627Ex81 [Spring 2024] ====
+==== Dr. Xunhua Wang - CS327-0003/0004, CS660Ex81 [Fall 2024] ====
 
-  * Office hours: [Tu/Th]  13:20 ~ 15:50 [King Hall 213]；or by appointment (wangxx@jmu.edu)
+  * Office hours: [Tu/Th]  10:10 am ~ 12:40 pm [King Hall 213]；or by appointment (wangxx@jmu.edu)
   * Zoom URL: [[https://jmu-edu.zoom.us/j/4401425906 |https://jmu-edu.zoom.us/j/4401425906]]
 
 
