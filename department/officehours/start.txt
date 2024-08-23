@@ -177,15 +177,17 @@ MW 2:20-3:35 and by appointment
 
 ==== Dr. Isaac Wang (Fall 2024) ====
 
-King Hall 246C and [[https://jmu-edu.zoom.us/my/drwangid?pwd=VEV4MS9MMVI3L0l2MHZnU0JaUEJjZz09|Zoom]]
+**Location:** King Hall 246C
 
 Office Hours:
-  * Monday: 3 PM - 5 PM
-  * Tuesday: 4 PM - 5 PM
-  * Friday: 1 PM - 3 PM
-  * And other times by appointment ([[wangid@jmu.edu?subject=Office Hours Appointment|wangid@jmu.edu]])
+  * **Monday**: 1 - 2:30 PM
+  * **Tuesday**: 4 - 5 PM
+  * **Wednesday**: 3:30 - 5 PM
+  * **Friday**: 1 - 2 PM
 
-Also feel free to come by whenever my office door is open :)
+And other times by appointment. First, check [[https://outlook.office365.com/calendar/published/d44e7f2373954712bd915e495a13eb49@jmu.edu/6ecf3b1679f64582be5cec4e1704c34e12626445264242444421/calendar.html|my calendar]] to find appropriate times to suggest, then [[wangid@jmu.edu?subject=Office Hours Appointment|email me]] to ask if we can meet then.
+
+**Open door policy:** Also feel free to come by whenever my office door is open :)
 
 
 ==== Dr. Xunhua Wang - CS327-0003/0004, CS660Ex81 [Fall 2024] ====
