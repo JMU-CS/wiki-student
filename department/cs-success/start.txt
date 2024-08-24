@@ -60,3 +60,5 @@ Smiley face = being helped (not laughing, smiling in the most welcoming way)
 Thumbs up = has been helped
 Queue of helped students will be deleted at the end of shift by the Lead TA
 Students other than TAs should not comment on the queue in the Lab. 
+
+===== Fall 2024 TA Lab Hours Calendar =====
