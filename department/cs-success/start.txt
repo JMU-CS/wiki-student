@@ -42,8 +42,8 @@ problem: With so much drama on the P-A-3,
 it's kinda hard bein' a student who's new to Teams.
 but i, somehow some way
 need come up with a summ'rizing bit, to get helped right away
-well i read a little spec for the details (yeah)
-and, made a few notes as I skimmed then (yeah)
+well.i. read-a-little-spec' for the de-tails (yeah)
+and, made a few notes as I skimmed.then (yeah)
 two reads in mornin' and my head's still bumping 'cause my plan ain't honed
 I got some files downloaded and in the fold
 but they ain't compilin' and I'm left moanin'
