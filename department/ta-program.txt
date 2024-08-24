@@ -1,0 +1,8 @@
+====== JMU CS TA Program ======
+We have an [[https://dl.acm.org/doi/abs/10.1145/3478432.3499148|internationally recognized]] leadership and professional development program in which our undergraduate majors and minors learn technical and professional skills while working to support their peers working to apply to the CS major.
+
+===== TA Lab Hours =====
+Our TAs help staff an on-campus computer lab for several convenient hours several days a week. See more details on the [[department:cs-success:start|TA Hours]] page.
+
+===== In-Class TA =====
+For instructors of our intro courses (CS 149 and CS 159) who choose to work with a TA, our trained undergraduate TAs regularly attend some or all of the courses' meetings (at the preference of the instructor) to help facilitate in-person activities such as labs and [[https://cspogil.org/Home|POGIL]] activities.
