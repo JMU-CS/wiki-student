@@ -54,11 +54,12 @@ The TAs will come to the queue when available and react to your reply with a smi
 Note that TAs are taught to coach you rather than write code for you. It is not their job to help you finish your homework, lab or coding assignment. Rather it is their job to help you learn to do these things yourself and help you get software installed. They will often give you a different example that uses similar concepts or give you hints. Please be respectful of their efforts to help you. Ask more questions and experiment yourself. 
 
 == Summary ==
-Put your Name, Class and Professor, Chat/Phone/Video response and Problem 
-Example: Alex Johnson, CS149-Chao, Video, getting index out of bounds error
-Smiley face = being helped (not laughing, smiling in the most welcoming way)
-Thumbs up = has been helped
-Queue of helped students will be deleted at the end of shift by the Lead TA
-Students other than TAs should not comment on the queue in the Lab. 
+  - Put your Name, Class and Professor, Chat/Phone/Video response and Problem 
+    * **Example:** ''Alex Johnson, CS149-Chao, Video, getting index out of bounds error''
+  - Teams Reactions:
+    - ''Smiley face'' = being helped (not laughing, smiling in the most welcoming way)
+    - ''Thumbs up'' = has been helped
+    - **Note:** Queue of helped students will be deleted at the end of shift by the Lead TA
+  - Students other than TAs should not comment on the queue in the Lab. 
 
 ===== Fall 2024 TA Lab Hours Calendar =====
