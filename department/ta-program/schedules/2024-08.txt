@@ -1,0 +1,23 @@
+====== Fall 2024 TA Schedule ======
+
+^ No TA Hours ^ Rationale ^ TA Hours Canceled ^ In-Class TA Canceled ^ 
+| Tuesday, October 15, 2024 | Fall Break | TRUE | FALSE | 
+| Wednesday, October 16, 2024 | Fall Break | TRUE | N/A | 
+| Thursday, October 17, 2024 | Fall Break | TRUE | N/A | 
+| Friday, October 18, 2024 | Fall Break | TRUE | N/A | 
+| Saturday, October 19, 2024 | Fall Break | TRUE | N/A | 
+| Sunday, October 20, 2024 | Fall Break | TRUE | N/A | 
+| Sunday, November 24, 2024 | Thanksgiving | TRUE | N/A | 
+| Monday, November 25, 2024 | Thanksgiving | TRUE | N/A | 
+| Tuesday, November 26, 2024 | Thanksgiving | TRUE | N/A | 
+| Wednesday, November 27, 2024 | Thanksgiving | TRUE | N/A | 
+| Thursday, November 28, 2024 | Thanksgiving | TRUE | N/A | 
+| Sunday, December 01, 2024 | Thanksgiving | TRUE | N/A | 
+| Wednesday, December 04, 2024 | End of Semester, last TA Meeting | TRUE | FALSE | 
+| Thursday, December 05, 2024 | End of Semester | TRUE | FALSE | 
+| Friday, December 06, 2024 | End of Semester, last day of classes | TRUE | FALSE | 
+| Sunday, December 08, 2024 | End of Semester | TRUE | N/A | 
+| Monday, December 09, 2024 | End of Semester | TRUE | N/A | 
+| Tuesday, December 10, 2024 | End of Semester | TRUE | N/A | 
+| Wednesday, December 11, 2024 | End of Semester | TRUE | N/A | 
+| Thursday, December 12, 2024 | End of Semester | TRUE | N/A | 
