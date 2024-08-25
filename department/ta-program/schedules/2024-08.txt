@@ -1,6 +1,23 @@
 ====== Fall 2024 TA Schedule ======
 
+===== In-person TA Support =====
+
+TAs are available in **King Hall room 248** for in-person support at the following times:
+  * **Sundays**: 3 pm - 9 pm
+  * **Mondays/Tuesdays/Thursdays**: 5 pm - 9 pm
+  * **Wednesdays**: 6 pm - 9 pm
+
+Beginning the first Monday of classes 8/26/2024
+
+===== Online TA Hours =====
+TAs are available for virtual online support from **9 pm to 11 pm Sunday through Thursday**.
+For the an explanation of how to use “The Lab” during TA Hours, visit the [[ #how_to|How To section below]]. 
+
 ^ No TA Hours ^ Rationale ^ TA Hours Canceled ^ In-Class TA Canceled ^ 
+| Wednesday August 21, 2024 | limited support: 149 & 159 setup | FALSE | FALSE | 
+| Thursday August 22, 2024 | limited support: 149 & 159 setup | FALSE | FALSE | 
+| Monday, August 26, 2024 | Begin regular hours | FALSE | FALSE | 
+| Monday, August 26, 2024 | Begin regular hours | FALSE | FALSE | 
 | Tuesday, October 15, 2024 | Fall Break | TRUE | FALSE | 
 | Wednesday, October 16, 2024 | Fall Break | TRUE | N/A | 
 | Thursday, October 17, 2024 | Fall Break | TRUE | N/A | 
