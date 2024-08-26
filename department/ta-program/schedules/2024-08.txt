@@ -13,10 +13,10 @@ Beginning the first Monday of classes 8/26/2024
 TAs are available for virtual online support from **9 pm to 11 pm Sunday through Thursday**.
 For the an explanation of how to use “The Lab” during TA Hours, visit the [[ #how_to|How To section below]]. 
 
-^ No TA Hours ^ Rationale ^ TA Hours Canceled ^ In-Class TA Canceled ^ 
+^ Date ^ Event ^ TA Hours Canceled ^ In-Class TA Canceled ^ 
 | Wednesday August 21, 2024 | limited support: 149 & 159 setup | FALSE | FALSE | 
 | Thursday August 22, 2024 | limited support: 149 & 159 setup | FALSE | FALSE | 
-| Monday, August 26, 2024 | Begin regular hours | FALSE | FALSE | 
+| Sunday, August 25, 2024 | TA Training | FALSE | FALSE | 
 | Monday, August 26, 2024 | Begin regular hours | FALSE | FALSE | 
 | Tuesday, October 15, 2024 | Fall Break | TRUE | FALSE | 
 | Wednesday, October 16, 2024 | Fall Break | TRUE | N/A | 
