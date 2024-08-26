@@ -12,14 +12,17 @@ TAs are available in **King Hall room 248** for in-person support at the followi
 TAs are available for virtual online support from **9 pm to 11 pm Sunday through Thursday**.
 For the an explanation of how to use “The Lab” during TA Hours, visit the [[ #how_to|How To section below]]. 
 ==== Getting Started ====
-You can watch a [[https://youtu.be/1T6LyuqD9pk|Tutorial Video]] for getting started with TA hours. 
+/* You can watch a [[https://youtu.be/1T6LyuqD9pk|Tutorial Video]] for getting started with TA hours. 
 \\ 
 \\
 **Team Code:** 2266aqe\\
 \\
-You will be able to join the team - JMU CS TA Lab Hours - and you will want to choose The Lab channel on the left. In the channel there will be a post for the "Help Queue" with a current date and time. You will enter your Name, Class and Professor, whether you want a text chat, phone, or video help response, and a short description of your problem. When a Teaching Assistant (TA) is available they will react to your post with a smiling face. You can then expect shortly a response in the format you requested in Teams. 
+*/
+You may join the Online TA Hours through Zoom - https://jmu-edu.zoom.us/j/88028146067 using your JMU account. You will be directed to the waiting room. While in the waiting room, you will enter your Name, Class and Professor, whether you want a text chat, phone, or video help response, and a short description of your problem. When a Teaching Assistant (TA) is available they will invite you in the main room based on your queue position. 
 
-In a Teams or Zoom Video chat, you and TAs will be able to share screens, annotate suggestions, and talk "in private". Please note that TAs will help each student in 10 minute increments and they will not be writing your code for you. Instead they will be helping you learn to write code yourself and helping you to navigate any technical problems.
+In a Teams or Zoom Video chat, you and TAs will be able to share screens, annotate suggestions, and talk "in private" (break room)  if needed. Please note that TAs will help each student in 10 minute increments and they will not be writing your code for you. Instead they will be helping you learn to write code yourself and helping you to navigate any technical problems.
+
+Kindly note that it's up to the TA's discretion to record a session, but rest assured, you will be notified before any recording begins.
 
 
 ==== How To ====
