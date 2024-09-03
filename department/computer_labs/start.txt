@@ -38,6 +38,7 @@ All labs have the same software, including but not limited to the following:
   * Python 3.12.3
   * Ruby 3.2.3
   * Rust 1.80.1 (Stu only)
+  * Sagemath 10.4 (Stu only)
   * Sqlite 3.45.1
   * Subversion 1.14.3
   * Tcl/Tk 8.6.14
