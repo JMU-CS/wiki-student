@@ -59,7 +59,3 @@ See below for the current ''known_hosts'' file for all JMUCS lab machines. You'l
 ==== Student Account Home Directory ====
 
 The ''student'' user's home directory is wiped at logout. The last 10 directories are archived locally on each machine at ''/opt/student_homes/<YYYYMMDD_HH-MM-SS>.tar.gz''. Faculty can extract these archives by running ''tar -xzvf <archive>''. Files can be copied to ''/tmp'' where students should be able to access them. You can also contact ''cs-sysadmin@jmu.edu'' for assistance. Please provide the hostname and approximate timestamp that you need recovered.
-
-==== Known Issues ====
-
-  * DrJava: Prompts to upgrade to a new version even though that version is already installed.
