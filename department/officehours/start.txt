@@ -103,7 +103,7 @@ Fall 2024: CS 149 and CS 374
 ==== Paige Normand - CS 280, Fall 2024 ====
 
   * Office: King 246A
-  * Office Hours: Wednesdays 1:30-3:00
+  * Office Hours: Wednesdays 1:30-3:30
   * Available other times by appointment: normanap@jmu.edu
   * Advising appointments available via [[https://www.jmu.edu/computing/mymadison/tutorials/schedule-advisor-appointments.shtml|MyMadison Connect]]. 
   * If I am not your assigned advisor, you can still schedule an appointment via the link on my [[https://www.jmu.edu/cise/people/faculty/normand-paige.shtml|Faculty Page]]
