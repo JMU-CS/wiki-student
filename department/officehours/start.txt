@@ -151,7 +151,7 @@ Others - By appointment (shrestcx@jmu.edu), or
 ==== Dr. Sprague ====
 
   * Office: King 226
-  * Office Hours: M/W 4:00-5:00, T/TH 1:00-2:00, F 3:00-4:00
+  * Office Hours: M/W 3:00-4:30, T/TH 9:00-10:00
   * Calendar: [[https://w3.cs.jmu.edu/spragunr/schedule.html|https://w3.cs.jmu.edu/spragunr/schedule.html]]
   * Zoom URL: Available through Canvas, or email me for the link.
 
