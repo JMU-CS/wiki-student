@@ -1,12 +1,12 @@
 ===== Faculty Office Hours =====
 
-==== Dr. Mohamed S. Aboutabl -     Fall 2023 ====
+==== Dr. Mohamed S. Aboutabl -     Fall 2024 ====
 
   * Office Hours :    
         * In-Person, In my office, Walk-in FCFS
-              * **Mon** and **Wed** 09:45am -> 11:15am
-              * **Tue** and **Thu**    11:15am -> 12:15pm
-        * On __Zoom, By Appointment-Only for CS-515 Online Students__ 
+              * **Mon** and **Wed** 04:45 PM   ->    05:45 PM
+              * **Tue** and **Thu**    11:15 AM -> 1:00 PM
+        * On __Zoom, By Appointment-Only 
               * https://jmu-edu.zoom.us/j/88604390066?pwd=L3E0QnpyT3hHYTgxemMrMXJnZnFyZz09 
 
         * If all of these times conflict with your class schedule, let me know via email, and I may be able to set up a special Zoom meeting for you.
