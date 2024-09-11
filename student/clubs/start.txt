@@ -24,7 +24,8 @@ The Cyber Defense club is a student-led group focused on learning about informat
 
   * Faculty contact: Isaac Wang (wangid)
   * Student contact: Leo Torrijos (torrijld) and Diego Navia Sejas (naviasda)
-  * Weekly meetings: Tuesdays,  6-7 PM in King 148
+  * Weekly meetings: Tuesdays,  6-7 PM in Engeo 2208
+  * Occasional events on weekends
 
 We aim to create a friendly environment for students to learn and discuss everything about game development! In addition to programming, we also look into art, music, design, etc. All majors are welcome!
 
