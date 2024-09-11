@@ -119,11 +119,11 @@ Fall 2024: CS 149 and CS 374
   * F 10-11
 
 
-==== Dr. Mona El-Kadi Rizvi - CS 149, CS 261 ====
+==== Dr. Mona El-Kadi Rizvi - CS 149, CS 374 ====
 
-Fall 2023 Office Hours (King Hall 252-A):
-  * MWF: 1:00 - 2:00 PM
-  * Wed: 4:00 - 6:00 PM
+Fall 2024 Office Hours (King Hall 253):
+  * Mon: 1:00 - 4:00 PM
+  * TuesThurs: 2:30 - 3:30 PM
   * Other times by appointment: elkadima@jmu.edu
 
 
