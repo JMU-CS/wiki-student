@@ -10,22 +10,19 @@ TAs are available in **King Hall room 248** for in-person support at the followi
 
 ===== Online TA Hours =====
 TAs are available for virtual online support from **9 pm to 11 pm Sunday through Thursday**.
-/* For the an explanation of how to use “The Lab” during TA Hours, visit the [[ #how_to|How To section below]].  */
+For the an explanation of how to use “The Lab” during TA Hours, visit the [[ #how_to|How To section below]]. 
 ==== Getting Started ====
-/* You can watch a [[https://youtu.be/1T6LyuqD9pk|Tutorial Video]] for getting started with TA hours. 
+You can watch a [[https://youtu.be/1T6LyuqD9pk|Tutorial Video]] for getting started with TA hours. 
 \\ 
 \\
 **Team Code:** 2266aqe\\
 \\
-*/
-You may join the Online TA Hours through Zoom - https://jmu-edu.zoom.us/j/88028146067 using your JMU account. You will be directed to the waiting room. While in the waiting room, you will enter your Name, Class and Professor, whether you want a text chat, phone, or video help response, and a short description of your problem. When a Teaching Assistant (TA) is available they will invite you in the main room based on your queue position. 
+You will be able to join the team - JMU CS TA Lab Hours - and you will want to choose The Lab channel on the left. In the channel there will be a post for the "Help Queue" with a current date and time. You will enter your Name, Class and Professor, whether you want a text chat, phone, or video help response, and a short description of your problem. When a Teaching Assistant (TA) is available they will react to your post with a smiling face. You can then expect shortly a response in the format you requested in Teams. 
 
-In a Teams or Zoom Video chat, you and TAs will be able to share screens, annotate suggestions, and talk "in private" (break room)  if needed. Please note that TAs will help each student in 10 minute increments and they will not be writing your code for you. Instead they will be helping you learn to write code yourself and helping you to navigate any technical problems.
-
-Kindly note that it's up to the TA's discretion to record a session, but rest assured, you will be notified before any recording begins.
+In a Teams or Zoom Video chat, you and TAs will be able to share screens, annotate suggestions, and talk "in private". Please note that TAs will help each student in 10 minute increments and they will not be writing your code for you. Instead they will be helping you learn to write code yourself and helping you to navigate any technical problems.
 
 
-/* ==== How To ====
+==== How To ====
 
 === Procedures for Attending CS TA Lab Hours ===
 
@@ -34,9 +31,7 @@ First, you will need to add yourself to the JMU CS TA Lab Hours Team in Microsof
 Once you have installed the Teams software you can add yourself to a team by clicking https://teams.microsoft.com/l/team/19%3aLkIjGrZ4ynvoXXXaul4clx6B4XBrMf2sgnGWr6BccJE1%40thread.tacv2/conversations?groupId=c9bc8905-72e0-4025-b152-8346239b5c16&tenantId=e9333c23-cac7-42f4-9989-5cee3d4a79c0 
 
 
-After you are on the JMU CS TA Lab Hours Team, click on the Posts tab at the top. You should now be able to see all the posts for lab hours. Find the particular post that has the current date and time and add yourself to the TA Lab Queue by replying to this post with the requested information, */ 
-
-Refer to the following example for the information you're required to add while in the Zoom waiting room:
+After you are on the JMU CS TA Lab Hours Team, click on the Posts tab at the top. You should now be able to see all the posts for lab hours. Find the particular post that has the current date and time and add yourself to the TA Lab Queue by replying to this post with the requested information, see the following example
 
 <code>
 name: Michael
@@ -55,13 +50,10 @@ I got some files downloaded and in the fold
 but they ain't compilin' and I'm left moanin'
 </code>
 
-/*
 The TAs will come to the queue when available and react to your reply with a smiling face when they are ready to help you. Then they will either Chat, Phone, or Video you directly in Teams depending on what you have asked them to do. Normally a TA will spend approximately 10 minutes with you before they go on to help another student. You should continue to work on your problem for at least a few minutes on your own and if you still need help, you can sign up again at the bottom of the queue. Once a TA has helped you for at least 10 minutes they will react to your reply in the queue with a thumbs up to indicate you have been helped. This way you will know how far down in the queue you are.
-*/
 
 Note that TAs are taught to coach you rather than write code for you. It is not their job to help you finish your homework, lab or coding assignment. Rather it is their job to help you learn to do these things yourself and help you get software installed. They will often give you a different example that uses similar concepts or give you hints. Please be respectful of their efforts to help you. Ask more questions and experiment yourself. 
 
-/*
 == Summary ==
   - Put your Name, Class and Professor, Chat/Phone/Video response and Problem 
     * **Example:** ''Alex Johnson, CS149-Chao, Video, getting index out of bounds error''
@@ -70,4 +62,4 @@ Note that TAs are taught to coach you rather than write code for you. It is not 
     - ''Thumbs up'' = has been helped
     - **Note:** Queue of helped students will be deleted at the end of shift by the Lead TA
   - Students other than TAs should not comment on the queue in the Lab. 
-*/
+
