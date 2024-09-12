@@ -54,7 +54,7 @@ umount ~/mnt/stu
   - Download the latest release of SSHFS-Win from here, picking your version's architecture (Likely x64): https://github.com/billziss-gh/sshfs-win/releases
   - Install WinFsp. The default selection of components can be used.
   - Install SSHFS-Win, the default options are fine.
-  - Right click on computer, and:
+  - In file explorer, right click on computer (This PC), and:
     * Select "Map Network Drive"
     * Select a drive letter that is convenient.
     * In the folder box, type in the following, substituting your EID: <code>\\sshfs\eid@stu.cs.jmu.edu</code>
