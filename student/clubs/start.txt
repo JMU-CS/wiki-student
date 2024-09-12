@@ -15,7 +15,7 @@ Do you love to solve challenging problems? Would you like to increase your progr
   * Student contact: Tyler Rabatin
   * Weekly meetings: Thursdays at 5:30pm in King 236
   * Instagram (Follow us!): https://www.instagram.com/jmu_cdc/
-  * Discord: https://discord.gg/UbHUQ8Snhf
+  * Discord: https://discord.gg/RtdrCqFese
   * Website: [[https://beinvolved.jmu.edu/organization/CyberDefenseClub|BeInvolved]]
 
 The Cyber Defense club is a student-led group focused on learning about information security techniques and tools, and participates in cyber defense competitions such as CCDC, NCL, and NSA Codebreaker. Members can expect to learn about tools and techniques used in cyber defense and penetration testing through weekly demos and exercises as well as current information security news and trends.
