@@ -32,7 +32,7 @@ Scholarships\\
 
 ==== Start-up Guides ====
 
-  * [[https://wiki.cs.jmu.edu/student/cs-sucess/start| CS Success Guide]]
+  * [[student:cs-sucess:start| CS Success Guide]]
   * [[student:firstyearstartup:start | First-Year Start-up Guide ]]
   * [[student:cs149startup:start | CS149 Start-up Guide ]]
   * [[student:firstyearfinals:start | First Year Finals Guide ]]
