@@ -6,6 +6,8 @@ The Undergraduate Research Lab is comprised of CS faculty who are currently work
 
 Interested in research! There are a variety of ways to get involved!
 
+[[https://w3.cs.jmu.edu/bowersjc/what_is_research-2024.pdf|Fall 2024 What is Research Slides]] 
+
 ===== Friday Seminars and Lunch Meetings =====
 
 The [[CS Research Seminar Talks]] are talks given by faculty members and undergraduate research assistants on a variety of topics at the cutting edge of computer science research. Talks happen on Fridays at 11:30am and occur roughly every couple of weeks, generally in King 236. The format is a 30-40 minute research talk with 10-20 minutes reserved for questions. All CS students (and other interested students and faculty) are invited to attend. Email announcements about each seminar will be sent to the CS listserv.
