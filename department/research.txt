@@ -21,7 +21,7 @@ The honors thesis generally consists of a three-semester sequence beginning in t
 
 If you are interested in this option, you should find a project or problem that you'd like to work on and request a meeting with a faculty member who might be interested in advising you. You should also look at the [[department:honors_capstone:start|CS Honors Capstone Guidelines]].
 
-===== Independent Study =====
+==== Independent Study ====
 
 If you cannot commit to a three-semester sequence, there is still the possibility to receive some academic credit for doing research through a mechanism called an Independent Study. To do this, you must find a faculty member willing to advise you and submit a proposal to the undergraduate program coordinator. You will then register for a 1-, 2-, or 3-credit CS 497 and conduct work as planned over the course of a single semester.
 
