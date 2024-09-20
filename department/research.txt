@@ -25,7 +25,7 @@ If you are interested in this option, you should find a project or problem that 
 
 If you cannot commit to a three-semester sequence, there is still the possibility to receive some academic credit for doing research through a mechanism called an Independent Study. To do this, you must find a faculty member willing to advise you and submit a proposal to the undergraduate program coordinator. You will then register for a 1-, 2-, or 3-credit CS 497 and conduct work as planned over the course of a single semester.
 
-===== Ad-hoc =====
+==== Ad-hoc ====
 
 Of course, you can also always contribute to a project without receiving any academic credit. There are other rewards, such as the experience itself as well as a nice thing to put on your resume. If a project has funding there is also occasionally the opportunity to earn a bit of part-time income as a student research employee. All of these should be discussed individually with a faculty member that you'd like to work with.
 
