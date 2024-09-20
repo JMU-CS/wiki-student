@@ -29,6 +29,10 @@ If you cannot commit to a three-semester sequence, there is still the possibilit
 
 Of course, you can also always contribute to a project without receiving any academic credit. There are other rewards, such as the experience itself as well as a nice thing to put on your resume. If a project has funding there is also occasionally the opportunity to earn a bit of part-time income as a student research employee. All of these should be discussed individually with a faculty member that you'd like to work with.
 
+==== Links ====
+  * [[https://cseweb.ucsd.edu//~wgg/CSE210/howtoread.html|How to Read a Research Paper]]
+  * "[[http://www.cs.unc.edu/~azuma/hitch4.html|Everything I wanted to know about C.S. graduate school at the beginning but didn’t learn until later]]"
+
 ===== Participating Faculty =====
 
   * [[https://users.cs.jmu.edu/bernstdh/|Prof. Bernstein]]
@@ -46,17 +50,13 @@ Of course, you can also always contribute to a project without receiving any aca
 
   * [[https://w3.cs.jmu.edu/lam2mo/lab.html|High Performance Analysis]]
 
-====== Links ======
-  * [[https://cseweb.ucsd.edu//~wgg/CSE210/howtoread.html|How to Read a Research Paper]]
-  * "[[http://www.cs.unc.edu/~azuma/hitch4.html|Everything I wanted to know about C.S. graduate school at the beginning but didn’t learn until later]]"
-
-====== Active Projects ======
+===== Active Projects =====
 
 Here is a list of research projects conducted by JMU faculty members with students. 
 
 Feel free to add your project here!
 
-===== Infill Generation for Additive Manufacturing Design =====
+==== Infill Generation for Additive Manufacturing Design ====
 
 Additive manufacturing (3D-printing) techniques are enabling lighter, stronger, and more quickly designed industrial production. A 3D printed object is neither solid nor hollow, but instead is filled with a pattern of material called an infill. This project seeks to design new computational methods for generating infill patterns that allow for both stronger and lighter materials to be constructed, generally based on some user specified parameters or simulated stress data. For example, an airplane wing experiences more stress near its attachment to the fuselage than it does at the wingtip. Can we design an infill pattern for a 3D printed airplane wing that is both strong where the stress is highest, but lighter than a wing built using traditional methods?
 
@@ -69,7 +69,7 @@ Additive manufacturing (3D-printing) techniques are enabling lighter, stronger, 
      * //*Paper included JMU student authors.// 
    * Status: Ongoing and looking for new students!
 
-===== ODE Viewer =====
+==== ODE Viewer ====
 
 Ordinary Differential Equations (ODEs) are used to model changes in real-world systems using numerical simulation. Often, mathematicians and scientists wish to visualize the results of these simulations and see what happens when particular parameters are changed. This is also useful to students who are learning about these systems. This project would involve extending a rudimentary tool written as part of a Summer 2021 project that was a collaboration between Dr. Lam and faculty in the Department of Mathematics and Statistics.
 
