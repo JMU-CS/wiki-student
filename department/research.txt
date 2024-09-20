@@ -79,4 +79,13 @@ Ordinary Differential Equations (ODEs) are used to model changes in real-world s
   * Repository: [[https://github.com/huberbp/jmodev | GitHub]]
   * Status: Ongoing and looking for new students!
 
+==== MusicCPR ====
+
+{{:department:screenshot_2024-09-20_at_12.37.35.png?direct&400|}}
+
+In collaboration with researchers, practitioners, and students of Computer Science (HCI, AI) and Music Education, we are developing a niche learning management system to support students and instructors in instrumental music education to have free access to engaging, evidence-based activities to improve their instruction and to broaden the perspective of instrumental music education. 
+
+  * Faculty contact: [[https://hcientist.com | Dr. Stewart]]
+  * Status: Ongoing and looking for new students!
+
 [[Inactive Research Projects]]
