@@ -41,7 +41,7 @@ Of course, you can also always contribute to a project without receiving any aca
   * [[https://w3.cs.jmu.edu/mayfiecs/|Prof. Mayfield]]
   * [[https://w3.cs.jmu.edu/molloykp/|Prof. Molloy]]
   * [[https://w3.cs.jmu.edu/spragunr/|Prof. Sprague]]
-  * [[https://hcientist.cs.jmu.edu/|Prof. Stewart]]
+  * [[https://hcientist.com/|Prof. Stewart]]
   * [[https://w3.cs.jmu.edu/weikleda|Prof. Weikle]]
 
 ====== Groups/Labs ======
