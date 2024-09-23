@@ -14,7 +14,7 @@ Nov 2, 2024, James Madison University
 3:30: Depart\\
 
 
-======**Workshops**======
+======Workshops======
 
 **Introduction to cyber-security:** Curious about how to protect the digital world? Join this exciting workshop where you’ll explore fundamental cybersecurity concepts and hands-on penetration testing tools. Learn how hackers think and how to defend against them—no prior experience needed! Step into the thrilling world of ethical hacking and cyber defense!
 
@@ -30,7 +30,7 @@ Nov 2, 2024, James Madison University
 
 **Python Turtle Art: **Bring your problem-solving abilities to this session as you learn how to program with Python! Python is one of the most widely-used programming languages in the tech industry today. In this workshop, you will learn how to navigate a turtle across the screen using the Python language! No prior programming experience is necessary.
 
-======**Tech gift activities:**======
+======Tech gift activities:======
 
  A pocket-sized computer that introduces you to the fundamentals of software and hardware interaction. In this hands-on session, you'll explore coding and electronics through fun projects, learning how to bring your ideas to life with this versatile device. Whether you're a beginner or looking to expand your skills, these activities are perfect for anyone interested in the exciting world of technology!
 
