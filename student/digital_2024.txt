@@ -1,0 +1,34 @@
+DIGITAL - Dukes Inspiring Girls Into Technology Across Limits
+Nov 2, 2024, James Madison University
+
+2024 Schedule
+9:00-9:30: Check In and Breakfast
+9:30-9:45: Introduction from JMU CISE and Computer Science Dept
+9:45-10:10: Talk from invited speaker
+10:20 -11:10: Station 1: parallel workshops
+11:20 -12:10: Station 2: parallel workshops
+12:20-1:10: Student Panel & Luncheon - The Future: What Opportunities Do I Have in College
+1:10-2:00: Station 3: parallel workshops
+2:10-3:10: Tech Gift Activity
+3:10-3:30: Closing
+3:30: Depart
+
+
+**Workshops**
+
+Introduction to cyber-security: Curious about how to protect the digital world? Join this exciting workshop where you’ll explore fundamental cybersecurity concepts and hands-on penetration testing tools. Learn how hackers think and how to defend against them—no prior experience needed! Step into the thrilling world of ethical hacking and cyber defense!
+
+Augmented Reality: Beyond Reality: Creating Virtual Reality Apps. Ever want to create a world that you could jump into and explore? In this session, you'll get to experience virtual reality first-hand, and use HTML to create your very own virtual world! No prior programming experience is necessary.
+
+Web development: Have you ever wondered how the websites you use on the internet are created? In this exciting session, you will learn all about web design and how to make your own website. You will get the chance to see how various components interact in order to construct the websites you use every day!
+
+Drone races: Have you ever wanted to fly your own drone? This is the session for you! In this challenging workshop, you will learn how to control a drone with code and fly it through an obstacle course. Show off your skills and see if you can navigate the drone through the entire course!
+
+Python Turtle Art: Bring your problem-solving abilities to this session as you learn how to program with Python! Python is one of the most widely-used programming languages in the tech industry today. In this workshop, you will learn how to navigate a turtle across the screen using the Python language! No prior programming experience is necessary.
+
+Mobile App: Learn how to create a mobile app using App inventor! In this interactive session, you will design and implement a fun app to show off to friends and family. Bring your creativity to this workshop and make your first app! No programming experience is required.
+
+Python Turtle Art: Bring your problem-solving abilities to this session as you learn how to program with Python! Python is one of the most widely-used programming languages in the tech industry today. In this workshop, you will learn how to navigate a turtle across the screen using the Python language! No prior programming experience is necessary.
+
+Tech gift activities: A pocket-sized computer that introduces you to the fundamentals of software and hardware interaction. In this hands-on session, you'll explore coding and electronics through fun projects, learning how to bring your ideas to life with this versatile device. Whether you're a beginner or looking to expand your skills, these activities are perfect for anyone interested in the exciting world of technology!
+
