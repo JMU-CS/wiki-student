@@ -41,7 +41,7 @@ Nov 2, 2024, James Madison University
 
 **Track 4-New Ideas: Augmented Reality**, Introduction to cyber-security, Fun and ethics of ChatGPT
 
-**Track 5- CS Overview Track**: Introduction to cyber-security, Fun and ethics of ChatGPT Augmented Reality
+**Track 5- CS Overview Track**: Introduction to cyber-security, Fun and ethics of ChatGPT,  Augmented Reality
 
 
 
