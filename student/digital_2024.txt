@@ -1,6 +1,6 @@
 **DIGITAL - Dukes Inspiring Girls Into Technology Across Limits**\\
 Nov 2, 2024, James Madison University
-{{ :student:digital24_enroll.png?600 |}}
+{{:student:digital24_enroll.png?600|}}
 
 ======2024 Schedule======
 9:00-9:30: Check In and Breakfast\\
