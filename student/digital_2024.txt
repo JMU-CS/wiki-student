@@ -30,7 +30,7 @@ Nov 2, 2024, James Madison University
 
 **Mobile App:**Learn how to create a mobile app using App inventor! In this interactive session, you will design and implement a fun app to show off to friends and family. Bring your creativity to this workshop and make your first app! No programming experience is required.
 
-**Intro to Programming with Scratch: ** This hands-on workshop introduces the basics of programming through the user-friendly platform, Scratch. Participants will learn foundational coding concepts like loops, conditionals, and variables by building interactive stories, animations, and games. Designed for beginners, this workshop encourages creativity while providing a solid introduction to computational thinking. No prior programming experience is required!
+**Fun and Ethics of ChatGPT ** Are you curious about the exciting world of AI-powered conversation? Join us for an interactive and thought-provoking workshop where we dive into the fascinating capabilities of ChatGPT, an advanced AI language model. Discover the creative possibilities, ethical considerations, and societal impact of using AI for conversation and expression.
 
 ======Tech gift activities:======
 
@@ -43,9 +43,8 @@ Nov 2, 2024, James Madison University
 
 **Track 3- Programming**: Web development, Python Turtle Art, Drone Races
 
-**Track 4-New Ideas:**  Augmented Reality, Introduction to cyber-security, Intro to Programming with Scratch!
+**Track 4-New Ideas:**  Augmented Reality, Introduction to cyber-security, Fun and Ethics of ChatGPT
 
-**Track 5- CS Overview Track**: Introduction to cyber-security, Intro to Programming with Scratch!,  Augmented Reality
-
+**Track 5- CS Overview Track**: Introduction to cyber-security, Fun and Ethics of ChatGPT,  Augmented Reality
 
 
