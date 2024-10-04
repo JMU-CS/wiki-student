@@ -112,11 +112,7 @@ Fall 2024: CS 149 and CS 374
 
 ==== Prof. Riley ====
 
-  * M 10-11
-  * Tu 3-4
-  * W 10-11
-  * Th 3-4
-  * F 10-11
+  * TuTh 11-1:30
 
 
 ==== Dr. Mona El-Kadi Rizvi - CS 149, CS 374 ====
