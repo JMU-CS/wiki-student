@@ -1,0 +1,85 @@
+===== Getting Started with Authentication via Key-Pairs =====
+
+This documentation assumes you have never done anything with keypairs before (or at least that you have no recollection of having done so).
+Most of the sections of this document assume you have first followed the preceding sections (so you shoudl strongly consider following them in order).
+
+==== Prerequisites ====
+  - If it isn't already installed on your computer, [[https://git-scm.com/downloads/ | install git]]. 
+    * To tell if it's installed,
+      - Linux or macOS: 
+        - use the built-in search feature of your operating system to search for "terminal" and launch it.
+        - type ''%%git --version%%'' and press Enter. Keep this terminal around for all the future steps!
+      - Windows:
+        - Press the windows key on the keyboard and search for "bash". If git bash is found and installed, launch it.
+        - type ''%%git --version%%'' and press Enter. Keep this terminal around for all the future steps!
+
+==== Generating a Key Pair ====
+  - Open a terminal window (specifically as specified above in the prerequisites).
+  - In the terminal Type ''%%ssh-keygen -t rsa -b 4096 -C "Generated $(date -I)"%%''
+    - when prompted for where to save the key, press Enter to save it in the default location.
+    - when prompted for a passphrase, do not enter one, just press enter to leave it blank.
+      * the whole reason we're setting this keypair authentication up is to avoid having to enter a password every time we perform actions that communicate with a server, which in some cases may be quite frequently.
+    - leave it blank (just press enter) a second time to confirm you meant it.
+    - you will see a message like
+
+  Your identification has been saved in ~/.ssh/id_rsa
+  Your public key has been saved in ~/.ssh/id_rsa.pub
+  The key fingerprint is:
+  SHA256:dkzGbszeCq4x+N6nDzqwertya0si5CWQ4MQCHMW7Ju0 Generated 2024-10-07
+  The key's randomart image is:
+  +---[RSA 4096]----+
+  |*o+.             |
+  |=+ .     .       |
+  |+.  .     +      |
+  |.  ....  B       |
+  | o... . S B      |
+  |o.o+ + o = .     |
+  |..= + = o + .    |
+  | . Eo+.= +.o     |
+  |   .o*=.++o      |
+  +----[SHA256]-----+
+
+==== Configure your computer's ssh client ====
+
+Tell your computer you'd like to use this key to connect to JMU CS's student server, "stu".
+
+  - Edit your ssh config (located at ''%%~/.ssh/config%%'') to include the following lines:
+    * If you're not sure how to edit your ssh config, try entering the following in your terminal (see prerequisite above for help opening the correct terminal for our purposes on your OS): ''%%code ~/.ssh%%''
+
+  Host *
+    ServerAliveInterval 30
+    ServerAliveCountMax 120
+    AddKeysToAgent yes # https://man.openbsd.org/ssh_config#AddKeysToAgent
+    IdentitiesOnly yes
+  Host stu # by specifying the host here as "stu", you can use "stu" as a shorthand for the full hostname when connecting via ssh to the server at the HostName below
+    HostName stu.cs.jmu.edu
+    # next setting only necessary if you aren't using a default-named key like id_rsa or id_ed25519
+          # IdentityFile ~/.ssh/name-of_non_default_private_key
+    User YOUR_EID # if you specify a user, you don't have to put the user@ when connecting via ssh
+
+** NOTICE THE PART YOU HAVE TO REPLACE ABOVE, FOR MOST IT'S IN JUST THE LAST LINE WHERE IT SAYS "YOUR_EID" **
+
+==== Tell stu this is all legit ====
+
+  - in your terminal (see prerequisite above for help opening the correct terminal for our purposes on your OS), enter ''%%ssh-copy-id stu%%''
+    - you will be prompted for your (JMU EID) password. Enter it.
+    - you should see a message like ''%%Number of key(s) added: 1%%''
+    - you should now be able to ssh to stu without entering a password. try it: ''%%ssh stu%%''
+      * logout before proceeding to the next step by entering ''%%logout%%''
+
+==== Tell Github to join the party ====
+
+If you want to do things with GitHub, you must first have an account. If you don't have one yet, [[https://github.com/signup|sign up for a GitHub account]].
+
+**Note:** it's possible that your quippy username that's served you well since middle school through that very public social media posting about that awkward thing that happened back in high school might be ok to keep around, but perhaps not as your personal-professional username. So maybe don't doxx yourself by making your github username relate to all your prior online activity. 😅
+
+  - Go to [[https://github.com/settings/ssh/new|Your GitHub SSH and GPG keys settings > New SSH Key page]].
+    * authenticate with GitHub if necessary.
+  - Enter a name for the SSH key.
+    * I suggest naming it based on the current computer you are using (try to be imaginative here. Imagine that this is but the first of many of ThatBrand™️ LapFlaps®️ that you will own in your long, laudable career). Consider something like, ''%%ThatDellWithThatOSv42%%''.
+  - leave the browser there for a sec, and go back to your terminal and show your PUBLIC key to yourself by entering ''%%cat ~/.ssh/id_rsa.pub%%''
+    * copy the output of that command.
+  - go back to the browser and paste your PUBLIC key's contents into the "Key" field.
+  - click "Add SSH key".
+  - test that all is well by entering ''%%ssh -T git@github.com%%''
+    * you should see a message like ''%%Hi hcientist! You've successfully authenticated, but GitHub does not provide shell access.%%''
