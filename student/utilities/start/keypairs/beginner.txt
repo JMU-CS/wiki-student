@@ -1,7 +1,7 @@
 ===== Getting Started with Authentication via Key-Pairs =====
 
-This documentation assumes you have never done anything with keypairs before (or at least that you have no recollection of having done so).
-Most of the sections of this document assume you have first followed the preceding sections (so you shoudl strongly consider following them in order).
+This documentation assumes you have **NEVER** done anything with keypairs before (or at least that you have no recollection of having done so). If you have done keypair stuff for CS 261, you can likely [[#tell_github_to_join_the_party|skip to the github section below]].
+Most of the sections of this document assume you have first followed the preceding sections (so you should strongly consider following them in order).
 
 ==== Prerequisites ====
   - If it isn't already installed on your computer, [[https://git-scm.com/downloads/ | install git]]. 
