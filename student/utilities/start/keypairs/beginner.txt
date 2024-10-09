@@ -52,11 +52,13 @@ Tell your computer you'd like to use this key to connect to JMU CS's student ser
     ServerAliveCountMax 120
     AddKeysToAgent yes # https://man.openbsd.org/ssh_config#AddKeysToAgent
     IdentitiesOnly yes # I am thinking maybe I should not propose this for beginners...
-  Host stu # by specifying the host here as "stu", you can use "stu" as a shorthand for the full hostname when connecting via ssh to the server at the HostName below
+  Host stu # by specifying the host here as "stu", you can use "stu" as a shorthand for
+                   # the full hostname when connecting via ssh to the server at the HostName below
     HostName stu.cs.jmu.edu
     # next setting only necessary if you aren't using a default-named key like id_rsa or id_ed25519
           # IdentityFile ~/.ssh/name-of_non_default_private_key
-    User YOUR_EID_BUT_DONT_CAPITALIZE_IT # if you specify a user, you don't have to put the user@ when connecting via ssh
+    User YOUR_EID_BUT_DONT_CAPITALIZE_IT # if you specify a user, you don't have to put the
+              # user@ when connecting via ssh
 
 ** NOTICE THE PART YOU HAVE TO REPLACE ABOVE, FOR MOST IT'S IN JUST THE LAST LINE WHERE IT SAYS "YOUR_EID" **
 
