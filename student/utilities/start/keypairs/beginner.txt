@@ -15,19 +15,19 @@ Most of the sections of this document assume you have first followed the precedi
 
 ==== Generating a Key Pair ====
   - Open a terminal window (specifically as specified above in the prerequisites).
-  - In the terminal Type ''%%ssh-keygen -t rsa -b 4096 -C "Generated $(date -I)"%%''
+  - In the terminal Type ''%%ssh-keygen -t ed25519 -b 4096 -C "Generated $(date -I)"%%''
     - when prompted for where to save the key, press Enter to save it in the default location.
     - when prompted for a passphrase, do not enter one, just press enter to leave it blank.
       * the whole reason we're setting this keypair authentication up is to avoid having to enter a password every time we perform actions that communicate with a server, which in some cases may be quite frequently.
     - leave it blank (just press enter) a second time to confirm you meant it.
     - you will see a message like
 
-  Your identification has been saved in ~/.ssh/id_rsa
-  Your public key has been saved in ~/.ssh/id_rsa.pub
+  Your identification has been saved in ~/.ssh/id_ed25519
+  Your public key has been saved in ~/.ssh/id_ed25519.pub
   The key fingerprint is:
   SHA256:dkzGbszeCq4x+N6nDzqwertya0si5CWQ4MQCHMW7Ju0 Generated 2024-10-07
   The key's randomart image is:
-  +---[RSA 4096]----+
+  +---[ed25519 4096]----+
   |*o+.             |
   |=+ .     .       |
   |+.  .     +      |
