@@ -69,7 +69,7 @@ Tell your computer you'd like to use this key to connect to JMU CS's student ser
 ED25519 key fingerprint is SHA256:RYxaUOHGdifpo+JaJeE6JHWVqiji+in1GI5lvbJluPk.
 This key is not known by any other names.
 Are you sure you want to continue connecting (yes/no/[fingerprint])?%%'', if you do, enter "yes"
-    - you will be prompted for your (JMU EID) password. Enter it.
+    - you will be prompted for your (JMU EID) password. Enter it. **NOTE: As you type your password, it is possible that nothing will be displayed in the terminal to protect your security.**
     - you should see a message like ''%%Number of key(s) added: 1%%''
     - you should now be able to ssh to stu without entering a password. try it: ''%%ssh stu%%''
       * logout before proceeding to the next step by entering ''%%logout%%''
