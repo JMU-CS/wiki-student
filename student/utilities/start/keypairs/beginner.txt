@@ -45,6 +45,7 @@ Tell your computer you'd like to use this key to connect to JMU CS's student ser
 
   - Edit your ssh config (located at ''%%~/.ssh/config%%'') to include the following lines:
     * If you're not sure how to edit your ssh config, try entering the following in your terminal (see prerequisite above for help opening the correct terminal for our purposes on your OS): ''%%code ~/.ssh%%''
+      * if you don't have a file named config in this location create one
 
   Host *
     ServerAliveInterval 30
