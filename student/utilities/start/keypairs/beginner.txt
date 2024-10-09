@@ -82,7 +82,7 @@ If you want to do things with GitHub, you must first have an account. If you don
     * authenticate with GitHub if necessary.
   - Enter a name for the SSH key.
     * I suggest naming it based on the current computer you are using (try to be imaginative here. Imagine that this is but the first of many of ThatBrand™️ LapFlaps®️ that you will own in your long, laudable career). Consider something like, ''%%ThatDellWithThatOSv42%%''.
-  - leave the browser there for a sec, and go back to your terminal and show your PUBLIC key to yourself by entering ''%%cat ~/.ssh/id_rsa.pub%%''
+  - leave the browser there for a sec, and go back to your terminal and show your PUBLIC key to yourself by entering ''%%cat ~/.ssh/id_ed25519.pub%%''
     * copy the output of that command.
   - go back to the browser and paste your PUBLIC key's contents into the "Key" field.
   - click "Add SSH key".
