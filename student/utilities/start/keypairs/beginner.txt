@@ -76,7 +76,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?%%'', if you
 
 ==== Tell Github to join the party ====
 
-**Note: For those who skipped here because of 261 reasons -  Open a terminal window (specifically as specified above in the prerequisites).**
+**Note: For those who skipped here because of 261 reasons -  Open a terminal window (specifically as specified [[#prerequisites|above in the prerequisites]]).**
 
 If you want to do things with GitHub, you must first have an account. If you don't have one yet, [[https://github.com/signup|sign up for a GitHub account]].
 
