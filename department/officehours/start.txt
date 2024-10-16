@@ -156,12 +156,16 @@ Others - By appointment (shrestcx@jmu.edu), or
 
 🌸 Fall 2024: CS 343, CS 447 🎨
 
-Note: consider consulting my  [[https://hcientist.com/contact/#calendar | ApproximateAvailabilityViewer]] if you aren't enrolled in one of my classes, but are hoping to meet me in Office Hours (it should reflect cancellations that I would have already communicated with my students).
+=== Notes ===
+  - If you aren't currently enrolled in one of my classes, but are hoping to meet me in Office Hours, consider consulting my  [[https://hcientist.com/contact/#calendar | ApproximateAvailabilityViewer]]  (it should reflect cancellations that I would have already communicated with my students).
+  - The times below apply only when classes are in session.
+    * On breaks and during final exam days, there are no office hours, contact me if you need to meet.
 
-Location:
+=== Location ===
   * Office: 212 King Hall 👑
   * on [[http://tiny.cc/stewart-hours | zoom]] by appointment (typically during the hours listed below)
-Times:
+
+=== Times ===
   * Mondays: 2-4:30PM
   * Wednesdays: 1-2:30PM
   * Thursdays: 11:20AM-12:20PM
