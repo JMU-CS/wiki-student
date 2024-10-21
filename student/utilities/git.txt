@@ -13,7 +13,7 @@ git config --global color.ui true
 
 You can also open the file ''$USER/.gitconfig'' and edit it to match the formatting below.
 
-====== Global Configuration ======
+===== Global Configuration =====
 
 <code>
 # who should git assume you're committing as?
