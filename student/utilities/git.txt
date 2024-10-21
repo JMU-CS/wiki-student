@@ -1,3 +1,4 @@
+====== Git ======
 [[https://git-scm.com/|Git]] is a powerful, distributed version control system. Consider installing it as specified on the linked site.
 
 Likely you'll wish to have [[student:utilities:start:keypairs|ssh keypairs]] in place when using git to coordinate source code between multiple machines (which are called "remotes" in git terms). 
