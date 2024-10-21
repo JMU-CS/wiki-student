@@ -12,7 +12,7 @@ git config --global user.email "YOUR@EMAIL.EDU"
 git config --global color.ui true
 </code>
 
-You can also open the file ''$USER/.gitconfig'' and edit it to match the formatting below.
+You can also open the file ''~/.gitconfig'' and edit it to match the formatting below.
 
 ===== Global Configuration =====
 
