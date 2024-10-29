@@ -1,21 +1,8 @@
 **DIGITAL - Dukes Inspiring Girls Into Technology Across Limits**\\
 Nov 2, 2024, James Madison University
 
-
-{{:student:digital2024_schedule.png?800|}}
-
-
 ======2024 Schedule======
-9:00-9:30: Check In and Breakfast\\
-9:30-9:45: Introduction from JMU CISE and Computer Science Dept\\
-9:45-10:10: Talk from invited speaker\\
-10:20 -11:10: Station 1: parallel workshops\\
-11:20 -12:10: Station 2: parallel workshops\\
-12:10-1:00: Student Panel & Luncheon - The Future: What Opportunities Do I Have in College\\
-1:10-2:00: Station 3: parallel workshops\\
-2:10-3:10: Tech Gift Activity\\
-3:10-3:30: Closing\\
-3:30: Depart\\
+{{:student:digital2024_schedule.png?800|}}
 
  [[https://jmu.co1.qualtrics.com/jfe/form/SV_9WXKSHSRjDoKKKG|Participants Pre Survey]]
 
@@ -26,19 +13,19 @@ Nov 2, 2024, James Madison University
 
 ======Workshops======
 
-**Introduction to cyber-security:** Curious about how to protect the digital world? Join this exciting workshop where you’ll explore fundamental cybersecurity concepts and hands-on penetration testing tools. Learn how hackers think and how to defend against them—no prior experience needed! Step into the thrilling world of ethical hacking and cyber defense!
+**[[https://drive.google.com/drive/folders/1nw7X7RkMRi5jEEMP0iThsLolIzx9v3Fn|Introduction to cyber-security]]:** Curious about how to protect the digital world? Join this exciting workshop where you’ll explore fundamental cybersecurity concepts and hands-on penetration testing tools. Learn how hackers think and how to defend against them—no prior experience needed! Step into the thrilling world of ethical hacking and cyber defense!
 
-**Augmented Reality:** Beyond Reality: Creating Virtual Reality Apps. Ever want to create a world that you could jump into and explore? In this session, you'll get to experience virtual reality first-hand, and use HTML to create your very own virtual world! No prior programming experience is necessary.
+**[[https://drive.google.com/drive/folders/1nw7X7RkMRi5jEEMP0iThsLolIzx9v3Fn|Augmented Reality]]:** Beyond Reality: Creating Virtual Reality Apps. Ever want to create a world that you could jump into and explore? In this session, you'll get to experience virtual reality first-hand, and use HTML to create your very own virtual world! No prior programming experience is necessary.
 
-**Web development: **Have you ever wondered how the websites you use on the internet are created? In this exciting session, you will learn all about web design and how to make your own website. You will get the chance to see how various components interact in order to construct the websites you use every day!
+**[[https://drive.google.com/drive/folders/1PygnzyZrjZpqOSoEh8UBw9nl_zVcNV-D|Web development]]: **Have you ever wondered how the websites you use on the internet are created? In this exciting session, you will learn all about web design and how to make your own website. You will get the chance to see how various components interact in order to construct the websites you use every day!
 
-**Drone races:** Have you ever wanted to fly your own drone? This is the session for you! In this challenging workshop, you will learn how to control a drone with code and fly it through an obstacle course. Show off your skills and see if you can navigate the drone through the entire course!
+**[[https://drive.google.com/drive/folders/1-BQcNrnPrkbI213zccbKzLFmUfDFUVqC|Drone races]]:** Have you ever wanted to fly your own drone? This is the session for you! In this challenging workshop, you will learn how to control a drone with code and fly it through an obstacle course. Show off your skills and see if you can navigate the drone through the entire course!
 
-**Python Turtle Art:** Bring your problem-solving abilities to this session as you learn how to program with Python! Python is one of the most widely-used programming languages in the tech industry today. In this workshop, you will learn how to navigate a turtle across the screen using the Python language! No prior programming experience is necessary.
+**[[https://drive.google.com/drive/folders/1snZA5_kKMZQ-5qxEK5ue0G4eutSRrksf|Python Turtle Art]]:** Bring your problem-solving abilities to this session as you learn how to program with Python! Python is one of the most widely-used programming languages in the tech industry today. In this workshop, you will learn how to navigate a turtle across the screen using the Python language! No prior programming experience is necessary.
 
-**Mobile App:**Learn how to create a mobile app using App inventor! In this interactive session, you will design and implement a fun app to show off to friends and family. Bring your creativity to this workshop and make your first app! No programming experience is required.
+**[[https://drive.google.com/drive/folders/1S2zxGNB3ZHlS2ORPaF_IrfH71AacF3GF|Mobile App]]:**Learn how to create a mobile app using App inventor! In this interactive session, you will design and implement a fun app to show off to friends and family. Bring your creativity to this workshop and make your first app! No programming experience is required.
 
-**Fun and Ethics of ChatGPT ** Are you curious about the exciting world of AI-powered conversation? Join us for an interactive and thought-provoking workshop where we dive into the fascinating capabilities of ChatGPT, an advanced AI language model. Discover the creative possibilities, ethical considerations, and societal impact of using AI for conversation and expression.
+**[[https://drive.google.com/drive/folders/1Df1r-ekv5Z4uoIyI3zSkxBkcxn1DgLd7|Fun and Ethics of ChatGPT]]: ** Are you curious about the exciting world of AI-powered conversation? Join us for an interactive and thought-provoking workshop where we dive into the fascinating capabilities of ChatGPT, an advanced AI language model. Discover the creative possibilities, ethical considerations, and societal impact of using AI for conversation and expression.
 
 ======Tech gift activities:======
 
