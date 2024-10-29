@@ -15,7 +15,7 @@ Nov 2, 2024, James Madison University
 
 **[[https://drive.google.com/drive/folders/1nw7X7RkMRi5jEEMP0iThsLolIzx9v3Fn|Introduction to cyber-security]]:** Curious about how to protect the digital world? Join this exciting workshop where you’ll explore fundamental cybersecurity concepts and hands-on penetration testing tools. Learn how hackers think and how to defend against them—no prior experience needed! Step into the thrilling world of ethical hacking and cyber defense!
 
-**[[https://drive.google.com/drive/folders/1nw7X7RkMRi5jEEMP0iThsLolIzx9v3Fn|Augmented Reality]]:** Beyond Reality: Creating Virtual Reality Apps. Ever want to create a world that you could jump into and explore? In this session, you'll get to experience virtual reality first-hand, and use HTML to create your very own virtual world! No prior programming experience is necessary.
+**[[https://drive.google.com/drive/folders/1zbZMyxh3cBStih_p4TE8QPwFT5uyQ9TZ|Augmented Reality]]:** Beyond Reality: Creating Virtual Reality Apps. Ever want to create a world that you could jump into and explore? In this session, you'll get to experience virtual reality first-hand, and use HTML to create your very own virtual world! No prior programming experience is necessary.
 
 **[[https://drive.google.com/drive/folders/1PygnzyZrjZpqOSoEh8UBw9nl_zVcNV-D|Web development]]: **Have you ever wondered how the websites you use on the internet are created? In this exciting session, you will learn all about web design and how to make your own website. You will get the chance to see how various components interact in order to construct the websites you use every day!
 
