@@ -13,7 +13,7 @@ Nov 2, 2024, James Madison University
 
 ======Workshops======
 
-**[[https://drive.google.com/drive/folders/1nw7X7RkMRi5jEEMP0iThsLolIzx9v3Fn|Introduction to cyber-security]]:** Curious about how to protect the digital world? Join this exciting workshop where you’ll explore fundamental cybersecurity concepts and hands-on penetration testing tools. Learn how hackers think and how to defend against them—no prior experience needed! Step into the thrilling world of ethical hacking and cyber defense!
+**[[https://drive.google.com/file/d/1Sutq--V6kWuvYkAv-cY3-QA0BqHZyVxA/view?usp=drive_link|Introduction to cyber-security]]:** Curious about how to protect the digital world? Join this exciting workshop where you’ll explore fundamental cybersecurity concepts and hands-on penetration testing tools. Learn how hackers think and how to defend against them—no prior experience needed! Step into the thrilling world of ethical hacking and cyber defense!
 
 **[[https://drive.google.com/drive/folders/1zbZMyxh3cBStih_p4TE8QPwFT5uyQ9TZ|Augmented Reality]]:** Beyond Reality: Creating Virtual Reality Apps. Ever want to create a world that you could jump into and explore? In this session, you'll get to experience virtual reality first-hand, and use HTML to create your very own virtual world! No prior programming experience is necessary.
 
