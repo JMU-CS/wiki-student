@@ -11,7 +11,7 @@ Curriculum & Advising\\
 TODO: Schedules\\
 TODO: Curriculum\\
 TODO: Advising\\
-[[department/advising/changing-majors:start| Changing Majors]]
+TODO: Changing Majors
 
 Enrollment\\
 [[department/waitlist/start| Using the Waitlist Correctly]]\\
