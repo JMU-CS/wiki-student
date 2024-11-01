@@ -5,7 +5,7 @@
 
   * Now block off your study time. Be strategic about planning your study time for when your Final will be.
 
-  * Note: The CS TAs will be available through December 9th - they will not be available during Finals' Week. First time using the TAs? Check out [[https://wiki.cs.jmu.edu/department/cs-success/start|this guide]].
+  * Note: The CS TAs will not be available during Finals' Week. First time using the TAs? Check out [[https://wiki.cs.jmu.edu/department/cs-success/start|this guide]].
 
 ==== What to study ====
   * Some professors provide study guides or practice exams - take advantage of these! Don't just scan them and see if you think you can do the problems, actually work through each one and be sure you understand the underlying concepts. You're likely to encounter similar questions on the exam.
