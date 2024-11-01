@@ -1,5 +1,6 @@
 ====== Building Maps ======
 
+Note that "ISAT/CS" has been renamed to "King Hall."
 ===== Second Floor =====
 {{:student:2ndfloor.jpg?direct&600|}}
 
