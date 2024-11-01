@@ -8,4 +8,4 @@
 
 ----
 
-This wiki contains information that is relevant to current students, teaching assistants, faculty and staff at the JMU Department of Computer Science. All members of the CS community are welcome to contribute to building this knowledge base and keeping it up to date (requires login via your EID). Additionally, visitors are welcome to peruse the [[student:start|For Current Students]] section of the wiki, however [[https://www.jmu.edu/cise/cs/|our public website]] is probably a more relevant place for visitors to start.
+This wiki contains information that is relevant to current students, teaching assistants, faculty and staff at the JMU Department of Computer Science. All members of the department community are welcome to contribute to building this knowledge base and keeping it up to date (requires login via your EID). Additionally, visitors are welcome to peruse the [[student:start|For Current Students]] section of the wiki, however [[https://www.jmu.edu/cise/cs/|our public website]] is probably a more relevant place for visitors to start.
