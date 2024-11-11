@@ -14,6 +14,14 @@ Enter your password when prompted. Nothing will appear on the screen so type car
 === Keypairs ===
 You can avoid the need to authenticate yourself (with your eID and password) each time you login [[ student:utilities:start:keypairs | using a public/private key pair]]. This is particularly useful when using another protocol (e.g., Subversion or Git) on top of SSH.
 
+=== Timeout ===
+Add the following to your ~/.ssh/config file if you are getting disconnected from stu due to an idle timeout:
+<code>
+Host *
+    TCPKeepAlive yes
+    ServerAliveInterval 15
+</code>
+
 ==== Accessing Lab Computers====
 To log into a specific lab computer you first login to stu as normal and then ssh to a lab machine by hostname. The hostnames are based on the room and computer number and take the form "L[room_number][computer_number].cs.jmu.edu".
 
