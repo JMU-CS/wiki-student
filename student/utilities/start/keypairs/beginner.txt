@@ -80,7 +80,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?%%'', if you
 
 If you want to do things with GitHub, you must first have an account. If you don't have one yet, [[https://github.com/signup|sign up for a GitHub account]].
 
-**Note:** it's possible that your quippy username that's served you well since middle school through that very public social media posting about that awkward thing that happened back in high school might be ok to keep around, but perhaps not as your personal-professional username. So maybe don't doxx yourself by making your github username relate to all your prior online activity. 😅
+**Note:** it's possible that your quippy username that's served you well since middle school through that very public social media posting about that awkward thing that happened back in high school might be ok to keep around, but perhaps not as your personal-professional username. So maybe don't [[https://en.wikipedia.org/wiki/Doxing|doxx]] yourself by making your github username relate to all your prior online activity. 😅
 
   - Go to [[https://github.com/settings/ssh/new|Your GitHub SSH and GPG keys settings > New SSH Key page]].
     * authenticate with GitHub if necessary.
