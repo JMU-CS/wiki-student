@@ -14,7 +14,7 @@ Install the OpenConnect client from your distribution's repository then launch i
 
 Your distribution may have a package that integrates the VPN into your network management software. Search your OS repositories for openconnect related packages.
 
-====== Chrome OS ======
+===== Chrome OS =====
 You can launch the VPN client for Chrome OS (i.e., Chromebooks **not** the Chrome browser) from the chrome web store at https://chromewebstore.google.com/detail/globalprotect/nicidmbokaedpmoegdbcebhnchpegcdc
 
 Set the portal to ''gp.jmu.edu''
