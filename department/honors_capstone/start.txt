@@ -24,7 +24,7 @@ The project advisor must be a member of the Computer Science faculty. In most ca
 
 ===== Deliverables =====
 
-In all cases, students must complete and deliver a properly formatted (see the [[https://www.jmu.edu/honors/handbook/basic-guidelines.shtml#formatting|Honors College Handbook]] for details) written document and associated forms.
+In all cases, students must complete and deliver a properly formatted (see the [[https://web.archive.org/web/20230601024021/https://www.jmu.edu/honors/handbook/basic-guidelines.shtml#formatting|Honors College Handbook]] for details) written document and associated forms.
 
 In many cases, students must also deliver the artifacts (e.g., source code, hardware, documentation, data) that were produced/developed/used during the process.
 
@@ -60,3 +60,27 @@ The semester before registering for CS499a, students should start thinking about
   - Submission of Final Proposal
 
 The tasks to be completed during CS499b and CS499c vary with the type of capstone. However, in almost all cases, the bulk of the work is typically completed during the second semester (when students are registered for CS499b), with the writing and final touches completed during the third semester (when students are registered for CS499c). Final deliverables are due at the Honors College long before the end of the semester, so it is important to not leave too many tasks until the third semester.
+
+===== See Also =====
+
+  * The [[https://web.archive.org/web/20230601024021/https://www.jmu.edu/honors/handbook/basic-guidelines.shtml|old honors project handbook]] provides tons of helpful information and defaults.
+  * For your reference, this //used to be// the application form students had to submit to the honors college to propose their project. **Note: the honors college doesn't publish this any longer and many of these guidelines, requirements, or processes may not actually work this way any more!** This document includes some guidance about the thesis proposal process, copied below for convenience:
+    * Proposals should be 5-15 pages in length. Unless your department has different proposal requirements, we recommend that you include the following information:
+      - Purpose and Objectives
+      - Tentative Outline
+      - Methodology and Timeline
+      - List and description of final deliverables (creative projects only)
+      - Bibliography
+    * Import Information Information
+      - Students wishing to enter the program as Track III must have a minimum cumulative GPA of 3.50 AND meet the GPA requirements of their major. Exceptions possible with approval of department head.
+      - Project Advisors MUST be tenured, tenure-track, or RTA JMU faculty members. Readers may include any full-time or part-time JMU faculty, and/or any non-JMU members with expertise applicable to the topic of the Honors project.
+      - Handwritten forms will not be accepted. The application MUST be completed in its entirety in digital format and then printed for signatures. Email addresses can be found in the JMU online directory. Nothing should be handwritten except signatures.
+      - The name of your faculty advisor MUST include middle initial and terminal degree. Ex: Philip L. Frana, Ph.D.
+      - Missing information may result in the application being returned. It is strongly recommended that you bring this completed form to the Honors College main office for review prior to gathering signatures.
+      - Submit an original application AND proposal to the Honors College once ALL signatures have been obtained: all committee members, your department head, and your college dean. The Honors College Dean will sign after reviewing the proposal.
+      - The Honors College will send an email notification to the student of the approval decision within 14 days of the proposal submission.
+      - Departmental guidelines for projects can be found on the Honors Capstone Project page, located in the Handbook section of the Honors College website. Review the guidelines specified by your major department prior to beginning the 499 sequence and again throughout the three-semester process.
+      - If the composition of your committee (project advisor or readers) changes at any point during the 499 sequence, submit a revised application, complete with ALL signatures. If the topic/content of your project changes substantially during the 499 sequence, submit a revised proposal AND application, complete with ALL signatures, thus confirming their approval of the revision.
+      - Submitting this proposal does not register you for 499A. Please discuss the registration process with the office of your major, and refer to the departmental guidelines mentioned above.
+      - Proposals are typically due during the final month of classes in the semester in which you are enrolled in 499A. Please check the Honors College website for exact dates.
+      - In the semester in which you will submit your Honors Capstone Project, you are required to submit a Pre-Submission Form to the Honors College main office by the stated deadline.
