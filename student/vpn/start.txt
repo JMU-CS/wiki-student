@@ -6,7 +6,7 @@ Download the VPN client from https://gp.jmu.edu/
 Full documentation is available from the [[https://jamesmadisonuniversity.rightanswers.com/portal/app/portlets/results/viewsolution.jsp?solutionid=241205140417860|IT Knowledge Base]].
 
 ===== Linux =====
-Install the OpenConnect client from your distribution's repository then launch it from the terminal as root: For example in Mint or Ubuntu:
+Install the OpenConnect client from your distribution's repository then launch it from the terminal as root. For example in Mint or Ubuntu:
 <code>
 # apt install openconnect
 # openconnect --protocol=gp gp.jmu.edu
