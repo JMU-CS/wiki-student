@@ -64,7 +64,7 @@ The tasks to be completed during CS499b and CS499c vary with the type of capston
 ===== See Also =====
 
   * The [[https://web.archive.org/web/20230601024021/https://www.jmu.edu/honors/handbook/basic-guidelines.shtml|old honors project handbook]] provides tons of helpful information and defaults.
-  * For your reference, this //used to be// the application form students had to submit to the honors college to propose their project. **Note: the honors college doesn't publish this any longer and many of these guidelines, requirements, or processes may not actually work this way any more!** This document includes some guidance about the thesis proposal process, copied below for convenience:
+  * For your reference, {{ :department:honors_capstone:application-honors-project-form.pdf |this used to be the application form}} students had to submit to the honors college to propose their project. **Note: the honors college doesn't publish this any longer and many of these guidelines, requirements, or processes may not actually work this way any more!** This document includes some guidance about the thesis proposal process, copied below for convenience:
     * Proposals should be 5-15 pages in length. Unless your department has different proposal requirements, we recommend that you include the following information:
       - Purpose and Objectives
       - Tentative Outline
