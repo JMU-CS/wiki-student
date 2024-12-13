@@ -3,7 +3,7 @@ The JMU VPN endpoint is changing to Palo Alto GlobalProtect on January 6 2025. T
 
 ===== Windows and Mac =====
 Download the VPN client from https://gp.jmu.edu/
-Full documentation is available from the [[https://jamesmadisonuniversity.rightanswers.com/portal/app/portlets/results/viewsolution.jsp?solutionid=241205140417860|IT Knowledge Base]]
+Full documentation is available from the [[https://jamesmadisonuniversity.rightanswers.com/portal/app/portlets/results/viewsolution.jsp?solutionid=241205140417860|IT Knowledge Base]].
 
 ===== Linux =====
 Install the OpenConnect client from your distribution's repository then launch it from the terminal as root: For example in Mint or Ubuntu:
