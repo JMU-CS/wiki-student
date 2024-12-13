@@ -1,30 +1,19 @@
-====== For Windows and Mac ======
+===== JMU VPN =====
+The JMU VPN endpoint is changing to Palo Alto GlobalProtect on January 6 2025. The existing Ivanti Secure Access client will stop working at that time.
 
-Please go here for the download and instructions on the VPN client https://www.jmu.edu/computing/internet-and-network/vpn-client.shtml
+===== Windows and Mac =====
+Download the VPN client from https://gp.jmu.edu/
 
-====== For Linux ======
-The Linux client is available directly from the VPN server in 2 flavors, rpm and deb. 
-  * For the rpm version, use this link: https://vpn.jmu.edu/dana-na/jam/getComponent.cgi?command=get;component=PulseSecure;platform=rpm
-  * For the deb version, use this link: https://vpn.jmu.edu/dana-na/jam/getComponent.cgi?command=get;component=PulseSecure;platform=deb
+===== Linux =====
+Install the OpenConnect client from your distribution's repository then launch it from the terminal as root: For example in Mint or Ubuntu:
+<code>
+# apt install openconnect
+# openconnect --protocol=gp gp.jmu.edu
+</code>
 
-Once installed, this should operate similarly to the Windows/macOS versions. Any differences will be documented here as applicable.
-
+Your distribution may have a package that integrates the VPN into your network management software. Search your OS repositories for openconnect related packages.
 
 ====== For Chrome OS ======
+You can launch the VPN client for Chrome OS (i.e., Chromebooks **not** the Chrome browser) from the chrome web store at https://chromewebstore.google.com/detail/globalprotect/nicidmbokaedpmoegdbcebhnchpegcdc
 
-You can launch the VPN client for Chrome OS (i.e., Chromebooks **not** the Chrome browser) from the chrome web store at https://chrome.google.com/webstore/detail/pulse-secure/eiddfaedmgnpnnojolcknhpjbmmpplgd
-
-After loading the app, you can create a connection as follows:
-
-  - Click on the system tray.
-  - Click on the VPN icon.
-  - Enter  %%JMU SSLVPN%% for the "Name", enter %%https://sslvpn.jmu.edu%% for the "URL", enter your "Username", and click on <key>Save</key>.
-
-After you've created a connection, you can connect to the VPN as follows:
-
-  - Click on the system tray.
-  - Click on the VPN icon.
-  - Click on  %%JMU SSLVPN%%.
-  - Enter your username and password.
-  - Proceed as described above.
-
+Set the portal to ''gp.jmu.edu''
