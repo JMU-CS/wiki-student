@@ -13,6 +13,24 @@ The Malcolm G. Lane Scholarship provides financial resources annually to one or 
 
 To be named a Kincaid Scholar, the recipient must be a full-time undergraduate student majoring in Computer Science, with financial need as determined by the Office of Financial Aid and Scholarships, whose primary residence is in Virginia. The scholarship is renewable as long as the student continues to meet the criteria, subject to the availability of funds. Scholarships will be administered at the discretion of the Department Head of Computer Science following the University's guidelines for the awarding of scholarships.
 
+==== DoD Cyber Service Academy Scholarship ====
+https://www.dodemergingtech.com/dod-programs/cyber-service-academy-csa/
+Please note that we are waiting for an update from the 2025-26 scholarship announcement. We will update this page as soon as we have new update. But most of the content will remain the same.
+Please note that the application deadline is February 1, 2025.
+The Department of Defense (DoD) Service Academy (DoD CSA), formerly Cyber Scholarship Program (CySP), is authorized by Chapter 112 of title 10, United States Code, Section 2200. The purpose of the program is to support the recruitment of new cyber talent and the retention of current highly skilled professionals within the DoD cyber workforce. Additionally, this program serves to enhance the national pipeline for the development of cyber personnel by providing grants to institutions of higher education. The DoD Cyber and Digital Services Academy (DCDSA) will partner with the DoD CSA/DCDSA in 2024.
+This is a full-ride scholarship, paying for:
+•	the full cost of tuition, 
+•	books (from the institution/degree specific required book list, not books which are optional for the class), 
+•	required fees (including health care), and 
+•	stipend to cover room and board. $29,000 for undergraduate students and $34,000 for graduate (Master’s/PhD) students. Awards will be made via a grant to JMU. 
+Computer Science and IT students (rising juniors/seniors and graduate students) with at least 3.2 GPA undergraduate and 3.5 GPA for graduate students are encouraged to apply. We especially encourage females and members of the minority to apply. 
+You must contact Dr. Heydari, the Point of Contact for the CSA program, and let him know of your intention to apply. For additional information contact Dr. Heydari: heydarmh@jmu.edu. 
+Student Application Website:
+For more details about application, eligibility, and service requirements please visit the DoD Cyber Service Academy at https://www.dodemergingtech.com/dod-programs/cyber-service-academy-csa/.
+
+
+
+
 ==== Federal Scholarship for Service ====
 
 [[https://sfs.opm.gov/|Federal Scholarship for Service]] (SFS) is a unique program designed to increase and strengthen the cadre of federal information assurance professionals that protect the government's critical information infrastructure. This program provides scholarships that fully fund the typical costs that students pay for books, tuition, and room and board while attending an approved institution of higher learning. Additionally, participants receive stipends for living expenses. The scholarships are funded through grants awarded by the National Science Foundation. (Open to rising juniors)
