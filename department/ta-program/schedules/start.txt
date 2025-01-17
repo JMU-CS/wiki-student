@@ -1,2 +1,3 @@
 ====== Semester Schedules for TA Lab Hours ======
 
+https://wiki.cs.jmu.edu/department/ta-program/schedules/2024-08
