@@ -21,7 +21,5 @@ For the an explanation of how to use “The Lab” during TA Hours, visit the [[
 | Sunday, March 16, 2025 | Weekend before Spring Break | TRUE | FALSE | 
 | Monday, March 17 - 21, 2025 | Spring Break | TRUE | TRUE | 
 | Sunday, March 23rd, 2025 | Weekend after Spring Break | ? | FALSE | 
-| Wednesday, December 04, 2024 | End of Semester, last TA Meeting | TRUE | FALSE | 
-| Thursday, December 05, 2024 | End of Semester | TRUE | FALSE | 
 | Wednesday, May 07, 2025 | End of Semester Meeting, last day of classes | TRUE | FALSE | 
 **TA Hours Ends on May 07th Last day of classes**
