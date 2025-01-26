@@ -1,5 +1,4 @@
 
-
 ===== Creating a .zip File =====
 
 
@@ -47,7 +46,7 @@ To create a ''%%.zip%%'' file from the Finder:
   - Navigate to the appropriate folder.
   - Click on the first file or directory/folder to select it.
   - Command-click on any other files or directories/folders to select them.
-  - Right-click on one of the selected files and pull down to <key>Compress ... Items</key>.
+  - Right-click (i.e., Ctrl-click) on one of the selected files and pull down to <key>Compress ... Items</key>.
 
 To create a ''%%.zip%%'' file from the command shell, you can use the following command:
 
