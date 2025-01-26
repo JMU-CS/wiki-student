@@ -1,0 +1,41 @@
+====== Spring 2025 TA Schedule ======
+
+===== In-person TA Support =====
+
+TAs are available in **King Hall room 248** for in-person support at the following times:
+  * **Sundays**: 3 pm - 9 pm
+  * **Mondays/Tuesdays/Thursdays**: 5 pm - 9 pm
+  * **Wednesdays**: 6 pm - 9 pm
+
+Beginning the Monday of 01/27/25
+
+===== Online TA Hours =====
+TAs are available for virtual online support from **9 pm to 11 pm Sunday through Thursday**.
+For the an explanation of how to use “The Lab” during TA Hours, visit the [[ #how_to|How To section below]]. 
+
+===== TA Program Availability =====
+^ Date ^ Event ^ TA Hours Canceled ^ In-Class TA Canceled ^ 
+| Wednesday August 21, 2024 | limited support: 149 & 159 setup | FALSE | FALSE | 
+| Thursday August 22, 2024 | limited support: 149 & 159 setup | FALSE | FALSE | 
+| Sunday, August 25, 2024 | TA Training | FALSE | FALSE | 
+| Monday, August 26, 2024 | Begin regular hours | FALSE | FALSE | 
+| Tuesday, October 15, 2024 | Fall Break | TRUE | FALSE | 
+| Wednesday, October 16, 2024 | Fall Break | TRUE | N/A | 
+| Thursday, October 17, 2024 | Fall Break | TRUE | N/A | 
+| Friday, October 18, 2024 | Fall Break | TRUE | N/A | 
+| Saturday, October 19, 2024 | Fall Break | TRUE | N/A | 
+| Sunday, October 20, 2024 | Fall Break | TRUE | N/A | 
+| Sunday, November 24, 2024 | Thanksgiving | TRUE | N/A | 
+| Monday, November 25, 2024 | Thanksgiving | TRUE | N/A | 
+| Tuesday, November 26, 2024 | Thanksgiving | TRUE | N/A | 
+| Wednesday, November 27, 2024 | Thanksgiving | TRUE | N/A | 
+| Thursday, November 28, 2024 | Thanksgiving | TRUE | N/A | 
+| Sunday, December 01, 2024 | Thanksgiving | TRUE | N/A | 
+| Wednesday, December 04, 2024 | End of Semester, last TA Meeting | TRUE | FALSE | 
+| Thursday, December 05, 2024 | End of Semester | TRUE | FALSE | 
+| Friday, December 06, 2024 | End of Semester, last day of classes | TRUE | FALSE | 
+| Sunday, December 08, 2024 | End of Semester | TRUE | N/A | 
+| Monday, December 09, 2024 | End of Semester | TRUE | N/A | 
+| Tuesday, December 10, 2024 | End of Semester | TRUE | N/A | 
+| Wednesday, December 11, 2024 | End of Semester | TRUE | N/A | 
+| Thursday, December 12, 2024 | End of Semester | TRUE | N/A | 
