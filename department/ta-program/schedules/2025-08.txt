@@ -1,24 +1,3 @@
-====== Spring 2025 TA Schedule ======
+====== Fall 2025 TA Schedule ======
 
-===== In-person TA Support =====
-
-TAs are available in **King Hall room 248** for in-person support at the following times:
-  * **Sundays**: 3 pm - 9 pm
-  * **Mondays/Tuesdays/Thursdays**: 5 pm - 9 pm
-  * **Wednesdays**: 6 pm - 9 pm
-
-Beginning the Monday of 01/27/25
-
-===== Online TA Hours =====
-TAs are available for virtual online support from **9 pm to 11 pm Sunday through Thursday**.
-For the an explanation of how to use “The Lab” during TA Hours, visit the [[ #how_to|How To section below]]. 
-
-===== TA Program Availability =====
-^ Date ^ Event ^ TA Hours Canceled ^ In-Class TA Canceled ^ 
-| Monday, Jan 27, 2025 | Begin regular hours | FALSE | FALSE | 
-| Friday, Jan 31, 2025 | Add/Drop Deadline | FALSE | FALSE | 
-| Sunday, March 16, 2025 | Weekend before Spring Break | TRUE | FALSE | 
-| Monday, March 17 - 21, 2025 | Spring Break | TRUE | TRUE | 
-| Sunday, March 23, 2025 | Weekend after Spring Break | TRUE | FALSE | 
-| Sunday, March 30, 2025 |  Eid-ul-Fitr  | ? | FALSE |
-**TA Hours Ends on Tuesday, May 6th**
+Try back later...
