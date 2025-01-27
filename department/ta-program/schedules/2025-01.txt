@@ -7,4 +7,16 @@ TAs are available in **King Hall room 248** for in-person support at the followi
   * **Mondays/Tuesdays/Thursdays**: 5 pm - 9 pm
   * **Wednesdays**: 6 pm - 9 pm
 
-Beginning ___________
+Beginning the Monday of 01/27/25
+
+===== Online TA Hours =====
+TAs are available for virtual online support from **9 pm to 11 pm Sunday through Thursday**.
+For the an explanation of how to use “The Lab” during TA Hours, visit the [[ #how_to|How To section below]]. 
+
+===== TA Program Availability =====
+^ Date ^ Event ^ TA Hours ^ In-Class TA ^ 
+| Monday, Jan 27, 2025 | Begin regular hours | Available | Available | 
+| Sunday, March 16, 2025 | Weekend before Spring Break | CANCELLED | N/A | 
+| Monday, March 17 - 21, 2025 | Spring Break | CANCELLED | N/A | 
+| Sunday, March 23, 2025 | Weekend after Spring Break | CANCELLED | N/A | 
+**TA Hours End on Tuesday, May 6th**
