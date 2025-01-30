@@ -95,6 +95,12 @@ Spring 2025: CS 159 and CS 343
   * https://forms.gle/b5LCRrobjongdFY99
 
 
+==== Dr. McCoy - CS 227 ====
+
+  * MTWThF 10:00-11:00
+  * By appointment (email: mccoy2ba@jmu.edu)
+
+
 ==== Dr. Molloy - CS 354, CS 412 ====
 
   * General office hours: [[http://w3.cs.jmu.edu/molloykp]]
