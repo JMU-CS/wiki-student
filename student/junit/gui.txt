@@ -136,7 +136,7 @@ class ClickPanelTest
     
     
     window.setVisible(false);
-    window.dispose(); // Terminate the event dispatch thread
+    window.dispose(); // So the event dispatch thread terminates
   }
 
 }
