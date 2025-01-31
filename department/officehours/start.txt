@@ -117,7 +117,8 @@ Spring 2025: CS 159 and CS 343
 
 ==== Prof. Riley ====
 
-  * TuTh 11-1:30
+  * MF 9-10
+  * Tu 1-4
   * Also by appointment (rileypb@jmu.edu), zoom or in-person.
 
 ==== Dr. Mona El-Kadi Rizvi - CS 149, CS 361 ====
