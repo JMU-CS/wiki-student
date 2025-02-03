@@ -74,9 +74,9 @@ Office Hours: All my classes are online, so my office hours are mostly by appoin
 
 ==== Dr. Kirkpatrick - CS 343, CS 361 ====
 
-  * Mon: 4:00 - 5:00 PM
-  * Tue: 9:00 - 11:00 AM
-  * Fri: 10:00 AM - 12:00 PM
+  * Mon: 2:45 - 4:30 PM
+  * Thu: 2:00 - 4:00 PM
+  * Fri: 11:15 AM - 12:30 PM
 
 
 ==== Dr. Lam - CS 432 ====
