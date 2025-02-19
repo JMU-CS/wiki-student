@@ -1,4 +1,4 @@
 ====== TA Program Schedules ======
 
   * [[department:ta-program:schedules:2024-08|Fall 2024]]
-  * [[department:ta-program:schedules:2025-08|Spring 2025]]
+  * [[department:ta-program:schedules:2025-01|Spring 2025]]
