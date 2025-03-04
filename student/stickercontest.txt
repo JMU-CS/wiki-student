@@ -33,4 +33,4 @@ Here are the details. Feel free to email [[mayfiecs@jmu.edu|Dr. Mayfield]] if yo
   * include what CS class(es) you are currently enrolled in
   * Submit your design: [[https://jmu.questionpro.com/t/AR5GmZ4hG0]]
 
-If you win the competition, we will need a vector version of the design for printing.
+If you win the contest, we will need a vector version of the design for printing.
