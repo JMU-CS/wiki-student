@@ -11,7 +11,7 @@ Here are the details. Feel free to email [[mayfiecs@jmu.edu|Dr. Mayfield]] if yo
   * All designs will be anonymous until winners are revealed.
 
 **Awards**
-  * First place: $75 prize and the sticker will be printed and distributed by the CS department
+  * First place: $75 prize, and the sticker will be printed and distributed by the CS department.
   * Second place: $50 prize
   * Third place: $25 prize
 
@@ -29,8 +29,8 @@ Here are the details. Feel free to email [[mayfiecs@jmu.edu|Dr. Mayfield]] if yo
 
 **Design Submissions**
   * PNG of the design
-  * a short description of your inspiration/story for your design
-  * include what CS class(es) you are currently enrolled in
+  * A short description of your inspiration/story for your design
+  * Include what CS class(es) you are currently enrolled in
   * Submit your design: [[https://jmu.questionpro.com/t/AR5GmZ4hG0]]
 
 If you win the contest, we will need a vector version of the design for printing.
