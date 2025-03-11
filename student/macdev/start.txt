@@ -42,7 +42,7 @@ To install a package that has a graphical user interface, simply run:
 
 
 ===== Window Management =====
-  - Rectangle.app
+  - [[https://rectangleapp.com/|Rectangle.app]]
   - AltTab.app
   - else?
 
