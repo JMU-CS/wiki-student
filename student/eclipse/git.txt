@@ -134,3 +134,8 @@ To add an entry to the ''.gitignore'' file, right-click on the file and then <ke
 For more information, see the [[ https://wiki.eclipse.org/EGit/User_Guide | Egit User's Guide ]]
 
 
+==== Troubleshooting ====
+
+  - If you get an error related to your HttpConnection when you attempt to clone a repository, it may be because of the HTTP client you are using. To change it, open the Git Preferences dialog and change the HTTP client (e.g., from "Apache HTTP" to "Java Built-in HTTP"
+
+
