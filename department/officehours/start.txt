@@ -12,6 +12,11 @@
         * If all of these times conflict with your class schedule, let me know via email, and I may be able to set up a special Zoom meeting with you.
 
 
+==== Dr. Ayub  ====
+
+  *  Spring 2025: M/W: 12.30 - 3.00 pm
+  * Office King Hall 252A
+  * 
 ==== Dr. Bernstein ====
 
   * Office Hours: https://users.cs.jmu.edu/bernstdh/Web/officehours.html
@@ -220,8 +225,3 @@ And other times by appointment. First, check [[https://outlook.office365.com/cal
   * Office King Hall 205
   * Email ([[weikleda@jmu.edu?subject=Office Hours Appointment|weikleda@jmu.edu]])
 
-
-==== Dr. Ayub  ====
-
-  *  Spring 2025: M/W: 12.30 - 3.00 pm
-  * Office King Hall 252A
