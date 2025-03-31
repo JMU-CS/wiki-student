@@ -18,6 +18,7 @@ Curriculum & Advising\\
 
 Enrollment\\
 [[department/waitlist/start| Using the Waitlist Correctly]]\\
+[[https://cars6.jmu.edu/DDS/DDSController?currentPage=classFinder|Unofficial Open Class Finder]]
 
 Students taking CS 149 or CS 159\\
 [[department:fya:start| First Year Advising FAQ]]\\
