@@ -11,6 +11,7 @@ Curriculum & Advising\\
 [[department:schedule_spring2024:start| Spring 2024 Schedule]] \\
 [[department:schedule_fall2024:start| Fall 2024 Schedule]] \\
 [[department:schedule_spring2025:start| Spring 2025 Schedule]] \\
+[[department:schedule_fall2025:start| Fall 2025 Schedule]] \\
 [[department:curriculum:start| CS Curriculum ]]\\
 [[department:cs-advising:start| CS Advising ]]\\
 [[department/advising/changing-majors:start| Changing Majors]]\\
