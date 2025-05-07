@@ -23,12 +23,16 @@ The primary contribution of the project need not be technical. An example of suc
 The project advisor must be a member of the Computer Science faculty. In most cases, readers will also be members of the Computer Science faculty. With the approval of the advisor, one reader may come from another department.
 
 ===== Deliverables =====
+====== Overview ======
 
 In all cases, students must complete and deliver a properly formatted (see the [[https://web.archive.org/web/20230601024021/https://www.jmu.edu/honors/handbook/basic-guidelines.shtml#formatting|Honors College Handbook]] for details) written document and associated forms.
 
 In many cases, students must also deliver the artifacts (e.g., source code, hardware, documentation, data) that were produced/developed/used during the process.
 
 Finally, students must present their results in a public forum. Currently the venue most commonly used for this purpose is the Friday research seminar series (see the [[department:research|research page]] for more info).
+
+====== Timeline ======
+====== Timeline ======
 ===== The Written Document =====
 
 The written document serves two purposes. First, it demonstrates that the student has the necessary depth of knowledge to undertake the research/development activity. Second, it describes the contribution that was made as a result of the research/development activity. The document typically contains the following chapters:
