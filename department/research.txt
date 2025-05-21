@@ -32,7 +32,7 @@ Of course, you can also always contribute to a project without receiving any aca
 ==== Links ====
   * [[https://cseweb.ucsd.edu//~wgg/CSE210/howtoread.html|How to Read a Research Paper]]
   * "[[http://www.cs.unc.edu/~azuma/hitch4.html|Everything I wanted to know about C.S. graduate school at the beginning but didn’t learn until later]]"
-  * [[https://www.nsf.gov/funding/initiatives/reu/search?f%5b0%5d=reu_research_area:25737|PAID summer research opportunities (sponsored by the National Science Foundation, these are alled "REU"s, Research Experience(s) for Undergraduates)]]
+  * [[https://www.nsf.gov/funding/initiatives/reu/search?f%5b0%5d=reu_research_area:25737|PAID summer research opportunities]] (sponsored by the National Science Foundation, these are called "REU"s: Research Experience(s) for Undergraduates)
   * [[https://www.jmu.edu/research/student/research/student-research-opportunities-virtual-bulletin-board.shtml|JMU-wide Student Research Opportunities Virtual Bulletin Board]]
 
 ===== Participating Faculty =====
