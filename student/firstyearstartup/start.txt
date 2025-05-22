@@ -53,5 +53,3 @@ In addition to your CS classes, you're probably taking an SCOM, WRTC, and/or MAT
 If you want help with study skills, time management, or adapting to online learning, schedule a meeting with [[https://www.jmu.edu/lsi/|Learning Strategies Instruction]].
 
 Also check out the Libraries extensive list of support for students adapting to [[https://www.lib.jmu.edu/temporary-online-teaching/|online learning]]. 
-
-Not sure where to even start? Schedule a meeting with the [[https://www.jmu.edu/cise/people/faculty/normand-paige.shtml|CS Advisor]], Paige Normand: you can talk through your situation and she can help point you in the right direction. 
