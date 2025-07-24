@@ -53,13 +53,13 @@ PlayMU is an organization with the sole intent of bringing in video gamers of al
 The Robotics club enables students who wish to either continue robotics work outside of class or to start with their robotics work.
 
 
-==== TechLink ====
+==== Madison Tech Society====
 
-  * Faculty contact: Livia Griffith and Ellen Hedrick
+  * Faculty contact: Livia Griffith
   * Student contact: Will Jedrzejczak
-  * Weekly meetings: Monday, King Hall 136, time TBD
+  * Weekly meetings:  TBD
 
-JMU TechLink aims to build a thriving community of IT enthusiasts and professionals by fostering connections, providing educational resources, and creating opportunities for collaboration. 
+JMU Madison Tech Society(MTS) aims to build a thriving community of IT enthusiasts and professionals by fostering connections, providing educational resources, and creating opportunities for collaboration. 
 
 We strive to empower our members with the skills, knowledge, and networks needed to excel academically and professionally in the tech industry. Through a range of networking events, mentorship programs, and skill-building activities, we seek to support our members' personal and professional growth, bridging the gap between academia and industry. Our ultimate goal is to cultivate a supportive environment where members can learn, connect, and thrive together.
 ==== UUG (Unix Users Group) ====
