@@ -19,7 +19,7 @@ The Computer Science department maintains multiple computer labs running Linux M
 All labs have the same software, including but not limited to the following:
   * Kernel 6.8.0
   * Arduino IDE 2.3.6
-  * CUDA 12.9 (King 250 only)
+  * CUDA 12.9 (King 250, ENGEO 2203 only)
   * Eclipse 2025-06
   * Emacs 29.3
   * GCC 13.3.0
