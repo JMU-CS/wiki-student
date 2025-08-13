@@ -8,13 +8,11 @@ The Computer Science department maintains multiple computer labs running Linux M
 ==== Lab Hardware ====
 
 ^ Location   ^ Type    ^ Qty ^ Description ^
-| King 224   | Laptop  | 5   | Dell Latitude 5501, Intel Core i5-9300H, 16GB RAM |
-| King 236   | Laptop  | 12  | Dell Latitude 5501, Intel Core i5-9300H, 16GB RAM |
+| King 224   | Laptop  | 22   | Dell Precision 5290, Intel Core Ultra 5 125H, 16GB RAM |
 | King 248   | Desktop | 31  | Dell Precision Workstation 3640, Intel Core i9-13900, 32GB RAM |
 | King 250   | Desktop | 31  | Dell Precision Workstation 3660, Intel Core i9-12900, 32GB RAM, Nvidia RTX A2000 (12GB) |
 | King 336   | Desktop | 32  | Dell Precision Workstation 3640, Intel Core i9-13900, 32GB RAM | 
 | EnGeo 2204 | Desktop | 32  | Dell Precision Workstation 3460, Intel Core i9-12900, 32GB RAM |
-| EnGeo 2209 | Laptop  | 12  | Dell Latitude 5501 Laptops, Intel Core i5-9300H, 16GB RAM |
 
 ==== Lab Software ====
 
