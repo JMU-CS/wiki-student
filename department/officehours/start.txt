@@ -164,7 +164,7 @@ Dr. Simmons is on leave Spring 2025.
 
 ==== Dr. Michael Stewart ====
 
-🌸 Spring 2025: CS 343 🕸️, CS 347 🕸️🎓
+🍁 Fall 2025: CS 149 🐍, CS 343 🕸️
 
 === Notes ===
   - The times below apply only when classes are in session.
@@ -176,8 +176,9 @@ Dr. Simmons is on leave Spring 2025.
 
 === Times ===
 
-  * Tuesdays: 11:00AM-12:15PM, 2:45-4PM
-  * Wednesdays: 9-10:00AM
+  * Mondays: 9:30-10:30
+  * Tuesdays & Thursdays: 10:30-12:00
+  * Fridays: 10:30-11:30
   * [[https://hcientist.com/contact/|Possibly other times by appointment]]
 
 
