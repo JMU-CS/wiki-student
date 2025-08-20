@@ -75,7 +75,7 @@ UUG is an organization for computer enthusiasts, and users of Unix-like operatin
 ==== UPE (Upsilon Pi Epsilon) ====
 
   * Faculty contact: Mike Lam (lam2mo)
-  * Student contact: Will Morris
+  * Student contact: Nathan Baker
   * (no regular meetings)
   * Website: https://upe.cs.jmu.edu/
 
