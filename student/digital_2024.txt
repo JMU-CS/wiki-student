@@ -2,7 +2,7 @@
 Nov 2, 2024, James Madison University
 
 ======2024 Schedule======
-{{:student:digital2024_schedule.png?800|}}
+{{:student:digital2024_schedule.png?800|The Schedule}}
 
  [[https://jmu.co1.qualtrics.com/jfe/form/SV_9WXKSHSRjDoKKKG|Participants Pre Survey]]
 
@@ -33,8 +33,8 @@ Nov 2, 2024, James Madison University
 
  A pocket-sized computer that introduces you to the fundamentals of software and hardware interaction. In this hands-on session, you'll explore coding and electronics through fun projects, learning how to bring your ideas to life with this versatile device. Whether you're a beginner or looking to expand your skills, these activities are perfect for anyone interested in the exciting world of technology!
 
-{{:student:1stfloor.jpg?600|}}
+{{:student:1stfloor.jpg?600|Map of the First Floor}}
 
-{{:student:2ndfloor.jpg?600|}}
+{{:student:2ndfloor.jpg?600|Map of the Second Floor}}
 
 
