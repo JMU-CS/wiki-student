@@ -46,7 +46,7 @@ Feedback about the coverage of your tests (generated
 by JaCoCo/EclEmma) is organized by class and method, and looks something like
 the following.
 
-{{student:autolab:by-method-coverage-summarizer.png}}
+{{student:autolab:by-method-coverage-summarizer.png|An example of coverage feedback}}
 
 Note that if a method contains no branches then the branch coverage
 line will be omitted. Note also that JaCoCo uses the term "branches"
