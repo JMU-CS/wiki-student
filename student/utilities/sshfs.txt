@@ -34,11 +34,11 @@ fusermount -u ~/mnt/stu
 
 Download and install both the "FUSE for macOS" and "SSHFS" packages from [[http://osxfuse.github.io/|this page]], following the instructions as prompted. When prompted, enable the "FUSE for macOS Preference Pane" to facilitate future updates. You will also need to enable a system extension in your Security & Privacy System Preferences.''
 
-{{:student:utilities:fuse01-pref_pane.png?600|}}
+{{:student:utilities:fuse01-pref_pane.png?600|FUSE Preference Pane}}
 
-{{:student:utilities:fuse02-ext_blocked.png?400|}}
+{{:student:utilities:fuse02-ext_blocked.png?400|Blocked}}
 
-{{:student:utilities:fuse03-enable_ext.png?600|}}
+{{:student:utilities:fuse03-enable_ext.png?600|Enabled}}
 
 After everything is installed correctly, you should be able to follow the same command-line instructions described in the Linux section above except that you should use the following command to unmount the remote filesystem:
 
