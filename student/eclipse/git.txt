@@ -124,7 +124,7 @@ Most Git documentation assumes that you are issuing ''git'' commands within a sh
 
 ^ ''git'' Command ^ EGit Equivalent ^
 | ''add'' | Right-click on the file and then <key>Team+Add to Index</key> |
-| ''clone'' | Open the Git Perspective and click on {{eclipse_git-clone.png}} |
+| ''clone'' | Open the Git Perspective and click on {{eclipse_git-clone.png|Clone a Git Repository}} |
 | ''commit'' | Right-click on the project/files and then <key>Team+Commit...</key> |
 | ''pull'' | Right-click on the project and then <key>Team+Pull</key> |
 | ''push'' | Right-click on the project and then <key>Team+Push</key> |
