@@ -1,9 +1,8 @@
-
 ====User Interaction====
 
 The user interface for scrumj looks something like the following:
 
-{{student:scrumj:ui.png}}
+{{student:scrumj:ui.png|The scrumj User Interface}}
 
 Headings/labels are in **bold**, the headings/labels of cells that can't be edited are in //**italic bold**//, and the headings/labels that can/should only be changed using the <key>scrumj</key> menu are in __**underlined bold**__
 
@@ -35,7 +34,7 @@ The name of the active tab is rendered in green.
 
 The Overview page provides an overview of the sprint and the progress that has been made thus far. It looks something like the following:
 
-{{student:scrumj:overview-page.png}}
+{{student:scrumj:overview-page.png|The Overview Page}}
 
 
 In general, one should only need to set the start and end dates at the start of the sprint. After that, everything else on the page should be updated automatically. In the event that this page gets "out of date" for some reason, click on <key>scrumj</key>+<key>Update Overview</key>.
@@ -51,7 +50,7 @@ The actual values in the burndown table/chart are calculated using the confirmat
 
 The Assignments page provides a summary of the various work items that each team member has volunteered for. (The term "assignment" is a bit of a misnomer, given the way the Scrum process works.) **It is also where the names of the team members are entered.** It looks something like the following:
 
-{{student:scrumj:assignments-page.png}}
+{{student:scrumj:assignments-page.png|The Assignments Page}}
 
 The task summary and acceptance criteria summary contain statistics about all of the stories in the sprint (except those that have been deactivated). It is presented for each team member individually.
 
@@ -63,7 +62,7 @@ Note that the Assignments page does not update itself automatically, because it 
 
 A story page looks something like the following:
 
-{{student:scrumj:story-page.png}}
+{{student:scrumj:story-page.png|The Story Page}}
 
 The story description can be entered "in as-I want-so" format by typing in the corresponding cells.
 
