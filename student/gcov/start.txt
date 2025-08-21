@@ -140,6 +140,6 @@ The resulting ''.html'' files will be placed in the ''tmp'' directory.
 
 The color-coded report will look something like the following.
 
-{{:student:gcov:lcov_coverage-report.png}}
+{{:student:gcov:lcov_coverage-report.png|Example coverage report}}
 
 This report makes it easy to see that the ''getPurchases()'' method was not covered by the tests.
