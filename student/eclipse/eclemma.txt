@@ -11,7 +11,7 @@ EclEmma is a Java code coverage tool for Eclipse that is based on  [[ http://www
 ==== Launching EclEmma ====
 
 
-Eclipse supports a variety of different //launch modes//  (e.g., for running applications, for debugging applications, ...).  If EclEmma is installed, the workbench should include a button  that looks like {{eclemma_coverage-mode.gif}} for  launching in EclEmma coverage mode. (Note:  If this button is not visible, click on  <key>Window</key>-<key>Perspective</key>-<key>CustomizePerspective</key>,  expand the "Launch" item, check "Coverage", and click <key>OK</key>.)  Expanding this button allows you to launch EclEmma.
+Eclipse supports a variety of different //launch modes//  (e.g., for running applications, for debugging applications, ...).  If EclEmma is installed, the workbench should include a button  that looks like {{eclemma_coverage-mode.gif|Coverage Mode}} for  launching in EclEmma coverage mode. (Note:  If this button is not visible, click on  <key>Window</key>-<key>Perspective</key>-<key>CustomizePerspective</key>,  expand the "Launch" item, check "Coverage", and click <key>OK</key>.)  Expanding this button allows you to launch EclEmma.
 
 
 ==== Selecting the Type of Coverage ====
@@ -20,7 +20,7 @@ Eclipse supports a variety of different //launch modes//  (e.g., for running app
 To select the type of coverage
 
 
-  - Expand the {{eclemma_coverage-mode.gif}} button and pull down to      <key>Coverage As</key>.
+  - Expand the {{eclemma_coverage-mode.gif|Coverage Mode}} button and pull down to      <key>Coverage As</key>.
   - Select the appropriate type of coverage.
 
 ==== Creating a Coverage Report ====
@@ -36,19 +36,19 @@ Note that EclEmma uses the term "branch" differently from the way  some other pe
 ==== Removing the Highlighting ====
 
 
-To remove the highlighting from a coverage report, click on  {{eclemma_remove-all-sessions.gif}} in the "Coverage" view.
+To remove the highlighting from a coverage report, click on  {{eclemma_remove-all-sessions.gif|Coverage Mode}} in the "Coverage" view.
  
 
 ==== Running an Entire Test Suite ====
 
 
-It is generally a good idea to create an individual JUnit tets for  each class (and sometimes for individual methods within a  class). However, when generating a coverage report you want to run  all of the tests in the suite. To do so, click on the triangle  on {{eclemma_coverage-mode.gif}} and pull down to  "Coverage configurations...". Then, select a JUnit test and click on  "Run all tests in the selected project, package, or folder" and click  on <key>Coverage</key>.
+It is generally a good idea to create an individual JUnit tets for  each class (and sometimes for individual methods within a  class). However, when generating a coverage report you want to run  all of the tests in the suite. To do so, click on the triangle  on {{eclemma_coverage-mode.gif|Coverage Mode}} and pull down to  "Coverage configurations...". Then, select a JUnit test and click on  "Run all tests in the selected project, package, or folder" and click  on <key>Coverage</key>.
 
 
 ==== Different versions of JUnit ====
 
 
-It's possible to have different versions of JUnit installed within Eclipse  at the same time. To use a particular test runner  click on the triangle  on {{eclemma_coverage-mode.gif}} and pull down to  "Coverage configurations...". Then, select a "Test runner" and  click on <key>Apply</key>.
+It's possible to have different versions of JUnit installed within Eclipse  at the same time. To use a particular test runner  click on the triangle  on {{eclemma_coverage-mode.gif|Coverage Mode}} and pull down to  "Coverage configurations...". Then, select a "Test runner" and  click on <key>Apply</key>.
    
 
 Note that your tests must then be consistent with the test runner.  So, for example, if you are using Version 4 then: all test classes  must be public, all test methods must be public, and you must  include the classes in the package ''%%org.junit%%''.
