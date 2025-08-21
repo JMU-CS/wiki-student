@@ -1,5 +1,4 @@
 
-
 ===== Coordinate Systems for the Plane =====
 
 
@@ -21,7 +20,7 @@ In a //rectangular coordinate// system the reference frame consists  of an //ori
 
 In traditional Cartesian coordinates the origin is at located at  the "center" of the plane, the basis consists of the horizontal  and vertical axis, and positive values are in the "north east"  quadrant (i.e., horizontal coordinates increase from left to right  and vertical coordinates increas from down to up). This is illustrated  in the following figure.
 
-{{cartesian-coordinates.gif}}
+{{cartesian-coordinates.gif|Cartesian coordinates}}
 
 The horizontal coordinate is traditionally denoted by \(x\)  and the vertical coordinate is traditionally denoted by \(y\).
 
@@ -31,7 +30,7 @@ The horizontal coordinate is traditionally denoted by \(x\)  and the vertical co
 
 Because of the way old hardware worked, most computer  screens/displays do not use Cartesian coordinates. Instead, they  use a rectangular system in which the origin is at the upper-left  corner, horizontal coordinates increase from left to right, and  vertical coordinates increase from up to down (and, as a result,  there are no negative coordinates). This is illustrated in the  following figure.
 
-{{coordinates.gif}}
+{{coordinates.gif|Screen coordinates}}
 
 ==== Polar Coordinates ====
 
@@ -39,7 +38,7 @@ Because of the way old hardware worked, most computer  screens/displays do not u
 In a //polar coordinate// system the reference frame consists  of and origin located at the "center" of the plane, an angular  rotation around origin (in which 0 is to the right the angle  increases counter-clockwise), and a linear distance from the  origin. Especially in the sciences and engineering, the angular  quantity is commonly called the //direction// and the linear  quantity is commonly called the  //magnitude//. This is illustrated in the following figure.
 
 
-{{polar-coordinates.gif}}
+{{polar-coordinates.gif|Polar coordinates}}
 
 While the angular quantity can be measured in radians or degrees, it is most commonly measured in radians.
 
@@ -52,7 +51,7 @@ One often needs to convert polar coordinates to Cartesian coordinates  and //vic
 
 In the following figure, the point \(p\) can be thought of  as either having the Cartesian coordinates \((p_1, p_2)\) or  the polar coordinates \((\theta, d)\). When converting from  polar coordinates to Cartesian coordinates we have \((\theta, d)\)  and must calculate \((p_1, p_2)\). On the other hand, when converting  from Cartesian coordinates to polar coordinates we have \((p_1, p_2)\)  and must find \((\theta, d)\).
 
-{{cartesian-to-polar.gif}}
+{{cartesian-to-polar.gif|Converting from Cartesian coordinates to polar coordinates}}
 
 Given \((\theta, d)\) it is clear from the figure that  \(\cos(\theta) = p_{1} / d\) and, hence, that  \(p_{1} = d \cos(\theta)\). Similarly, it is clear from the  figure that \(\sin(\theta) = p_{2} / d\) and, hence, that  \(p_{2} = d \sin(\theta)\).
 
