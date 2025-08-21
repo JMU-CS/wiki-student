@@ -90,7 +90,6 @@ Scholarships\\
   * [[student:visualparadigm:start | VisualParadigm ]]
   * [[student:vivifyscrum:start | VivifyScrum ]]
   * [[student:web_browsers:start | Web Browsers ]]
-  * [[student:webdev:start | Web Development ]]
   * [[student:xml:start | XML ]]
   * [[student:zip:start | .zip Files ]]
 
