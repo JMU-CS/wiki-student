@@ -104,7 +104,8 @@ Spring 2025: CS 159 and CS 343
 
 ==== Dr. McCoy - CS 227, CS 327 ====
 
-  * MWF 9:00-10:00 TTh 1-2
+  * MWF 9:00-10:00
+  * TTh 1:00-2:00
   * By appointment (email: mccoy2ba@jmu.edu)
 
 
