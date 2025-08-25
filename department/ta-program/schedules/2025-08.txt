@@ -11,7 +11,7 @@ Beginning Monday 08/25/25
 
 ===== Online TA Hours =====
 TAs are available for virtual online support from **9 pm to 11 pm Sunday through Thursday**.
-For the an explanation of how to use “The Lab” during TA Hours, visit the [[ https://wiki.cs.jmu.edu/department/cs-success/start#how_to|How To section below]]. 
+For the an explanation of how to use “The Lab” during TA Hours, visit the [[ https://wiki.cs.jmu.edu/department/cs-success/start#how_to|How To section]]. 
 
 ===== TA Program Availability =====
 ^ Date ^ Event ^ TA Hours ^ In-Class TA ^ 
