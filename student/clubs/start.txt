@@ -41,6 +41,14 @@ If you can't make it to regular meetings, we hold events (workshops, gamejams, e
 
 PlayMU is an organization with the sole intent of bringing in video gamers of all backgrounds, genre preferences, and platforms together in a social environment.  Our primary focus is building community.  We want to be a place where you can have a conversation with anyone about whatever game you're playing, and find someone who shares your opinions.  Feel free to contact any officers through Discord if you have any questions!
 
+==== Madison Pro Bono Development (MPBD) ====
+
+  * Faculty contact: Mona Rizvi (elkadima)
+  * Student contact: Luke Rogers (roger4lk)
+  * Discord link: https://discord.gg/cUDJumuZNT
+
+Add valuable, real-world experience to your resume and build a portfolio of deployed projects while still in school by using your software development skills to help local small businesses and non-profits that otherwise wouldn’t be able to afford these services. MPBD is a student-led club that pairs student teams with small business owners in need of tech assistance. You'll work in teams to design and develop software solutions, providing a service to the community while gaining professional experience.
+
 ==== Robotics ====
 
   * Faculty contact: Nathan Sprague (spragunr)
