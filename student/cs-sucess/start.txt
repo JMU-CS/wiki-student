@@ -2,8 +2,7 @@ Computer Science is a discipline that requires a lot of hands-on practice. The d
 
 ====== TA Hours ======
 
-https://wiki.cs.jmu.edu/department/cs-success/start\\
-Available for drop-in hours Sunday-Thursday. The CS TA lab is the beating heart of our department: this is where students go to work, support each other, and get help when they’re stuck. TAs help each student in 10 minute increments and they will not be writing your code for you. Instead they will be helping you learn to write code yourself and helping you to navigate any technical problems.
+Undergraduate Teaching Assistants are available for drop-in hours Sunday-Thursday. The CS TA lab is the beating heart of our department: this is where students go to work, support each other, and get help when they’re stuck. TAs help each student in 10 minute increments and they will not be writing your code for you. Instead they will be helping you learn to write code yourself and helping you to navigate any technical problems. [[department:cs-success:start|See more about TA Lab Hours here]].
 
 ====== Office Hours ======
 Our faculty are here to support your learning. The most detailed information for meeting with your professor will be in your course syllabus, but we keep information about faculty's availability here: https://wiki.cs.jmu.edu/department/officehours/start 
