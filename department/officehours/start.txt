@@ -16,7 +16,7 @@
 
   *  Spring 2025: M/W: 12.30 - 3.00 pm
   * Office King Hall 252A
-  * 
+
 ==== Dr. Bernstein ====
 
   * Office Hours: https://users.cs.jmu.edu/bernstdh/Web/officehours.html
