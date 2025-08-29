@@ -221,3 +221,9 @@ And other times by appointment. First, check [[https://outlook.office365.com/cal
   * Office King Hall 205
   * Email ([[weikleda@jmu.edu?subject=Office Hours Appointment|weikleda@jmu.edu]])
 
+
+==== Marijn de Waal, CS Academic Advisor ==== 
+
+* Office: King Hall 246A
+* Email: dewaalmw@jmu.edu
+* Phone: 540-568-7488
