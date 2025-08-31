@@ -47,7 +47,7 @@ You can run an executable .jar file from a command shell/terminal window as foll
 
   - Open a command shell/terminal window.
   - Change the working  directory to the directory that contains the ''%%.jar%%'' file (using the  [[https://ss64.com/|cd command]])
-  - Execute the application as follows: %% java -jar //filename//.jar %%
+  - Execute the application as follows: ''java -jar //filename//.jar''
 
 You can also run an executable .jar file from a file explorer/finder by double-clicking on it. However, your associations and permissions must first be setup.
 
