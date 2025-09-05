@@ -73,3 +73,7 @@ but we're often talking [[https://code.visualstudio.com/docs/languages/overview|
 
 
 ==== debugging in vscode ====
+
+
+
+++++ checkstyle and formatters in vscode ====
