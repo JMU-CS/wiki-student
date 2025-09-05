@@ -47,7 +47,7 @@ It will still prompt you for your password at this point. Just log in and ''exit
 10. Verify password-less access in VS Code
 
 ===== Visual Studio Code, Generally =====
-Often abbreviated as "vscode", Visual Studio Code is an example of an Integrated Development Environment (IDE) and has a Graphical User Interface (GUI). It has a basic configuration and then relies on extensions and settings (preferences for the IDE as a whole, the extensions, and for specific projects) to support pretty much any kind (language/platform/toolset) of software development. Another commonly used IDE is Eclipse.
+Often abbreviated as "vscode", Visual Studio Code is an example of an Integrated Development Environment (IDE) and has a Graphical User Interface (GUI). It has a basic configuration and then relies on extensions and settings (preferences for the IDE as a whole, the extensions, and for specific projects) to support pretty much any kind (language/platform/toolset) of software development. Another commonly used IDE is [[https://wiki.cs.jmu.edu/student/eclipse/start|Eclipse]].
 
 ==== Extensions ====
   * out of the box it's a great plaintext text editor with at least syntax-highlighting support for several languages
