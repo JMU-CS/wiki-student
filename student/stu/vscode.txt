@@ -45,3 +45,26 @@ It will still prompt you for your password at this point. Just log in and ''exit
   ssh stu
 
 10. Verify password-less access in VS Code
+
+====== Visual Studio Code, Generally ======
+often abbreviated as "vscode"... minimal (?) GUI IDE relies on extensions and settings (preferences for the IDE as a whole, the extensions, and for specific projects) to support pretty much any kind (language/platform/toolset) of software development
+
+===== Extensions =====
+  * out of the box it's a great plaintext text editor with at least syntax-highlighting support for several languages
+  * add extensions to add support for other languages, and/or better support for those languages
+
+===== Preferences/Settings =====
+Like many apps, vscode facilitates customization of its features through configuration options referred to as "settings", much like the "preferences" options supported by many apps. vscode distinguishes between [[https://code.visualstudio.com/docs/configure/settings|user (global) settings and workspace settings]]
+  * maybe you'd like to [[https://code.visualstudio.com/docs/configure/settings-sync?originUrl=%2Fdocs%2Fconfigure%2Fsettings | sync your settings]] from laptop, to lab machine, to... 
+  * in many cases you may want to [[https://code.visualstudio.com/docs/supporting/FAQ#_can-i-disable-ai-functionality-in-vs-code|disable the AI features of vscode]] to prevent them from undercutting your learning
+
+===== Language Support =====
+
+If we're talking human language, [[https://code.visualstudio.com/docs/configure/locales?originUrl=%2Fdocs%2Fconfigure%2Flocales|they got you!]]
+
+but we're often talking [[https://code.visualstudio.com/docs/languages/overview|programming languages]], and specifically it's often helpful to [[https://code.visualstudio.com/docs/languages/overview#_change-the-language-for-the-selected-file|tell the app specifically which language you want it to use]]
+
+===== Workspaces =====
+  * [[https://code.visualstudio.com/docs/editing/workspaces/workspaces| vscode has a feature called workspaces]] which are a collection of "root" directories (called either single-root if there's only one and "multi-root" otherwise) and some preferences can be set for when you open these
+
+===== git in vscode =====
