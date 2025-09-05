@@ -68,3 +68,8 @@ but we're often talking [[https://code.visualstudio.com/docs/languages/overview|
   * [[https://code.visualstudio.com/docs/editing/workspaces/workspaces| vscode has a feature called workspaces]] which are a collection of "root" directories (called either single-root if there's only one and "multi-root" otherwise) and some preferences can be set for when you open these
 
 ==== git in vscode ====
+
+
+
+
+==== debugging in vscode ====
