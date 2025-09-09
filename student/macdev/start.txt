@@ -40,6 +40,9 @@ To install a package that has a graphical user interface, simply run:
   - ''%%brew install --cask <package>%%''
     * e.g. ''%%brew install --cask meld%%''
 
+Stewart recommends you consider installing:
+  * [[https://formulae.brew.sh/formula/trash|Trash]] to be able to <code>trash</code> files and directories from the command line (they'll go to the Trash of filesystem/GUI rather than just gone like with <code>rm</code>)
+
 
 ===== Window Management =====
   - [[https://rectangleapp.com/|Rectangle.app]]
