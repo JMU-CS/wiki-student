@@ -91,8 +91,10 @@ If you want to do things with GitHub, you must first have an account. If you don
   - go back to the browser and paste your PUBLIC key's contents into the "Key" field.
   - click "Add SSH key".
   - test that all is well by entering ''%%ssh -T git@github.com%%''
-    * you may get a message like this when first connecting to GitHub(It's okay to say yes to this): The authenticity of host 'github.com (140.82.114.4)' can't be established.
-ED25519 key fingerprint is SHA256:+DiY3wvvxxxfxfffF/zLDA0zPMSvHdkr4UvCOqU.
-This key is not known by any other names.
-Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+    * you may get a message like this when first connecting to GitHub(It's okay to say yes to this):
+  The authenticity of host 'github.com (140.82.114.4)' can't be established.
+  ED25519 key fingerprint is SHA256:+DiY3wvvxxxfxfffF/zLDA0zPMSvHdkr4UvCOqU.
+  This key is not known by any other names.
+  Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+
     * you should see a message like ''%%Hi hcientist! You've successfully authenticated, but GitHub does not provide shell access.%%''
