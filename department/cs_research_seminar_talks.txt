@@ -4,7 +4,7 @@ The CS Research Seminar Talks are talks given by faculty members and undergradua
 
 ==== Fall 2025 ====
 
-  * Sept 19 - What is Research? (11:20-12:30 King 259)
+  * Sept 19 - What is Research? (11:20-12:30 King 259) [[https://w3.cs.jmu.edu/bowersjc/what_is_research-2025.pdf|Slides]]
   * Oct 10 - Isaac Wang (11:30-12:20 King 243)
   * Oct 31 - Nathan Sprague (11:30-12:20 King 243)
   * Nov 14 - Prajakta Belsare (11:30-12:20 King 243)
