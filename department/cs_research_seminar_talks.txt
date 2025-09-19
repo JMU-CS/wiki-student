@@ -1,6 +1,6 @@
 ====== CS Research Seminar Talks ======
 
-The CS Research Seminar Talks are talks given by faculty members and undergraduate research assistants on a variety of topics at the cutting edge of computer science research. Talks happen on **Fridays at 11:25am** (Fall 2023) and are usually held in **King 236**.  The format is a 40-45 minute research talk with 5-10 minutes reserved for questions. All CS students (and other interested students and faculty) are invited to attend. Email announcements about each seminar will be sent to the CS listserv.
+The CS Research Seminar Talks are talks given by faculty members and undergraduate research assistants on a variety of topics at the cutting edge of computer science research. Talks happen on **Fridays at 11:25am** (Fall 2025) and are usually held in **King 243**.  The format is a 40-45 minute research talk with 5-10 minutes reserved for questions. All CS students (and other interested students and faculty) are invited to attend. Email announcements about each seminar will be sent to the CS listserv.
 
 ==== Fall 2025 ====
 
