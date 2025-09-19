@@ -28,6 +28,26 @@ Our findings reveal that warm-season thunderstorm environments under benign syno
 **Oct 25** Will Morris - //Bringing Robustness Analysis to TLA+ and Why it Matters//
 
 **Abstract:** Tired of missing subtle edge cases in your programming assignments? Come learn how to easily prove your algorithms are correct! In response to today’s increasingly complex software systems, interest is growing in formal specification languages that allow users to prove properties of high-level models of their systems. In this presentation, I will examine the merits of model checking with a special emphasis on the TLA+ specification language. I will then explore the limitations of model checking and how the notion of software robustness can address those limits. Finally, I will detail my efforts to elevate robustness to a first-class citizen of the TLA+ language. I will also talk about my experience in the (paid) Research Experience for Undergraduates program under which I did this research, with an eye towards students who might consider applying.
+
+==== Spring 2024 ====
+
+**Apr 26** Ellona Macmillan - //MemDia: A JavaScript Library for Drawing Memory Diagrams//
+
+**Abstract:** A memory diagram is a picture that shows the contents of memory at a certain point in time while a program is running. Introductory CS courses (such as 149, 159, 240, and 261) use memory diagrams to teach subtle concepts about variables, objects, arrays, and references. Visualization tools like Python Tutor and Java Visualizer draw memory diagrams incrementally as the user steps through a program’s code. However, these tools are programming language specific and use a drawing format that is difficult for students to imitate. To address these limitations, we are developing a new library, named MemDia, for drawing memory diagrams in the browser. The user specifies a diagram in a plain text syntax, and the library draws the corresponding image in SVG format. MemDia is primarily designed for instructors and authors who wish to embed memory diagrams in classroom activities, lecture slides, and other materials.
+
+**Apr 26** Ben Saupp - //Praxly: An Online IDE for the Praxis CS Test Pseudocode//
+
+**Abstract:** CodeVA offers a 15-week professional development course for Virginia K-12 teachers to prepare for the Praxis CS test. Teachers who pass this standardized test fulfill licensure requirements to teach advanced CS courses in public schools. The test uses a pseudocode language that is quite different from traditional programming languages. Previously, teachers have not had an easy way to trace the execution of pseudocode programs when learning and practicing. This talk will present Praxly, an online IDE for teachers to visualize, run, and debug Praxis pseudocode programs. We will demo Praxly's main features including a new step debugger. We will discuss Praxly’s layered architecture and implementation details. Finally, we will summarize experiences of an initial cohort of high school teachers who used Praxly during the past five months. Future revisions to the CodeVA course will embed Praxly into Canvas as the primary means for teaching pseudocode.
+
+**Apr 12** Dr. Chris Johnson - //This is Knot Coding//
+
+**Abstract:** A knot is a path that meanders through space and returns to its start, usually crossing over itself many times. Knots have been studied by artists and mathematicians for centuries. You've seen knots in Roman, Celtic, and Islamic architecture and illuminated manuscripts. If you've ever used a Macintosh computer, you've touched one when you pressed the Command key. In this highly interactive workshop, you will learn to design your own custom knot as a mosaic of hexagonal tiles. Then you'll code it up in Twoville, a language written by Dr. Johnson for expressing shapes, and fabricate it as a vinyl sticker that you can take home. Bring a computer.
+
+**Mar 22** Dr. Siddharth Bhaskar - //How do we run a program for an infinite number of steps?// 
+
+**Abstract:** The finite world is just a tiny corner in our (mathematical) universe. Many natural algorithms extend smoothly to infinite data structures, where they typically require infinitely many steps to run. However, we have no way to formalize these algorithms with code, because we have no way to endow our code with a semantics that handles such transfinite computation. In this talk, I will construct a solution.
+
+
 ==== Fall 2023 Schedule ====
 
 Tue 9/12: Distinguished Lecture Series, Dr. Laurent Babout (Lodz University of Technology). King 259 11:30-12:30pm
