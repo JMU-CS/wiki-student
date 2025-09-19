@@ -2,6 +2,17 @@
 
 The CS Research Seminar Talks are talks given by faculty members and undergraduate research assistants on a variety of topics at the cutting edge of computer science research. Talks happen on **Fridays at 11:25am** (Fall 2023) and are usually held in **King 236**.  The format is a 40-45 minute research talk with 5-10 minutes reserved for questions. All CS students (and other interested students and faculty) are invited to attend. Email announcements about each seminar will be sent to the CS listserv.
 
+==== Fall 2025 ====
+
+  * Sept 19 - What is Research? (11:20-12:30 King 259)
+  * Oct 10 - Isaac Wang (11:30-12:20 King 243)
+  * Oct 31 - Nathan Sprague (11:30-12:20 King 243)
+  * Nov 14 - Prajakta Belsare (11:30-12:20 King 243)
+  * Nov 21 - Adeen Ayub (11:30-12:20 King 243)
+
+==== Fall 2024 ====
+[[https://w3.cs.jmu.edu/bowersjc/what_is_research-2024.pdf|Fall 2024 What is Research Slides]] 
+
 ==== Fall 2023 Schedule ====
 
 Tue 9/12: Distinguished Lecture Series, Dr. Laurent Babout (Lodz University of Technology). King 259 11:30-12:30pm
