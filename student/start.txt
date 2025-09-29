@@ -15,7 +15,7 @@ Curriculum & Advising\\
 [[department/advising/changing-majors:start| Changing Majors]]\\
 [[department/advising/admissions-criteria:start| New Criteria for Full Admission to the Major/Minor]]\\
 
-Enrollment\\
+==== Enrollment ====
 [[department/waitlist/start| Using the Waitlist Correctly]]\\
 [[https://cars6.jmu.edu/DDS/DDSController?currentPage=classFinder|Unofficial Open Class Finder]]\\
 [[https://jmu.collegescheduler.com/entry| MyMadison Schedule Planner]]\\
