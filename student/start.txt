@@ -8,10 +8,8 @@ In addition to using this page to find information, you can search the Wiki usin
 ==== CS Curriculum ====
 
 Curriculum & Advising\\
-[[department:schedule_spring2024:start| Spring 2024 Schedule]] \\
-[[department:schedule_fall2024:start| Fall 2024 Schedule]] \\
-[[department:schedule_spring2025:start| Spring 2025 Schedule]] \\
 [[department:schedule_fall2025:start| Fall 2025 Schedule]] \\
+[[department:schedule_spring2025:start| Spring 2025 Schedule]] \\
 [[department:curriculum:start| CS Curriculum ]]\\
 [[department:cs-advising:start| CS Advising ]]\\
 [[department/advising/changing-majors:start| Changing Majors]]\\
@@ -20,6 +18,7 @@ Curriculum & Advising\\
 Enrollment\\
 [[department/waitlist/start| Using the Waitlist Correctly]]\\
 [[https://cars6.jmu.edu/DDS/DDSController?currentPage=classFinder|Unofficial Open Class Finder]]
+[[https://jmu.collegescheduler.com/entry| MyMadison Schedule Planner]]
 
 Students taking CS 149 or CS 159\\
 [[department:fya:start| First Year Advising FAQ]]\\
