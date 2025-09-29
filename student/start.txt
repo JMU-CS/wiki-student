@@ -20,6 +20,12 @@ Enrollment\\
 [[https://cars6.jmu.edu/DDS/DDSController?currentPage=classFinder|Unofficial Open Class Finder]]\\
 [[https://jmu.collegescheduler.com/entry| MyMadison Schedule Planner]]\\
 
+==== Community ====
+  * [[student:stickercontest|CS Sticker Contest]]
+  * [[https://www.jmu.edu/cise/cs/contact-us/cs-ambassadors.shtml|CS Ambassadors]]
+  * [[student:career-fair:start|CISE Career & Internship Fair]]
+  * [[student:cs-branding:start|JMU CS Branding Resources]]
+  
 First Year Information (CS 149 / CS 159)\\
   * [[department:fya:start| First Year Advising FAQ]]\\
   * [[student:cs-sucess:start| CS Success Guide]]
@@ -88,14 +94,6 @@ Scholarships\\
   * [[student:xml:start | XML ]]
   * [[student:zip:start | .zip Files ]]
 
-
-==== Community ====
-  * [[student:stickercontest|CS Sticker Contest]]
-  * [[https://www.jmu.edu/cise/cs/contact-us/cs-ambassadors.shtml|CS Ambassadors]]
-  * [[student:career-fair:start|CISE Career & Internship Fair]]
-  * [[student:cs-branding:start|JMU CS Branding Resources]]
-  * [[Digital_2025]]
-  
 ==== Etiquette ====
 
   - You must be logged-in (using your JMU email address) to make additions/changes.
