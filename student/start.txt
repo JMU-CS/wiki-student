@@ -32,10 +32,10 @@ CS Seniors\\
 [[department:graduation| Graduation Process and Forms ]]\\
 
 Community\\
-  * [[student:stickercontest|CS Sticker Contest]]
-  * [[https://www.jmu.edu/cise/cs/contact-us/cs-ambassadors.shtml|CS Ambassadors]]
-  * [[student:career-fair:start|CISE Career & Internship Fair]]
-  * [[student:cs-branding:start|JMU CS Branding Resources]]
+[[student:stickercontest|CS Sticker Contest]]
+[[https://www.jmu.edu/cise/cs/contact-us/cs-ambassadors.shtml|CS Ambassadors]]
+[[student:career-fair:start|CISE Career & Internship Fair]]
+[[student:cs-branding:start|JMU CS Branding Resources]]
 
 Scholarships\\
 [[department:scholarships:start| Scholarships]]\\
