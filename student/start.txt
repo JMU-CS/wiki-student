@@ -17,33 +17,33 @@ Schedules & Advising\\
   * [[department:honors_capstone:start|Honors Capstone]]
 
 Enrollment\\
-[[department/waitlist/start| Using the Waitlist Correctly]]\\
-[[https://cars6.jmu.edu/DDS/DDSController?currentPage=classFinder|Unofficial Open Class Finder]]\\
-[[https://jmu.collegescheduler.com/entry| MyMadison Schedule Planner]]\\
+  * [[department/waitlist/start| Using the Waitlist Correctly]]\\
+  * [[https://cars6.jmu.edu/DDS/DDSController?currentPage=classFinder|Unofficial Open Class Finder]]\\
+  * [[https://jmu.collegescheduler.com/entry| MyMadison Schedule Planner]]\\
   
 First Year Information (CS 149 / CS 159)\\
-[[department:fya:start| First Year Advising FAQ]]\\
-[[student:cs-sucess:start| CS Success Guide]]\\
-[[student:firstyearstartup:start | First-Year Start-up Guide ]]\\
-[[student:cs149startup:start | CS149 Start-up Guide ]]\\
-[[student:firstyearfinals:start | First Year Finals Guide ]]\\
+  * [[department:fya:start| First Year Advising FAQ]]\\
+  * [[student:cs-sucess:start| CS Success Guide]]\\
+  * [[student:firstyearstartup:start | First-Year Start-up Guide ]]\\
+  * [[student:cs149startup:start | CS149 Start-up Guide ]]\\
+  * [[student:firstyearfinals:start | First Year Finals Guide ]]\\
 
 CS Seniors\\
-[[student:graduation-preparation:start | Graduation Requirements ]]\\
-[[department:graduation| Graduation Process and Forms ]]\\
+  * [[student:graduation-preparation:start | Graduation Requirements ]]\\
+  * [[department:graduation| Graduation Process and Forms ]]\\
 
 TA Hours / Office Hours\\
-[[department:cs-success:start| TA Hours ]]
-[[department:officehours:start| Faculty Office Hours ]]
+  * [[department:cs-success:start| TA Hours ]]
+  * [[department:officehours:start| Faculty Office Hours ]]
 
 Community\\
-[[student:stickercontest|CS Sticker Contest]]\\
-[[https://www.jmu.edu/cise/cs/contact-us/cs-ambassadors.shtml|CS Ambassadors]]\\
-[[student:career-fair:start|CISE Career & Internship Fair]]\\
-[[student:cs-branding:start|JMU CS Branding Resources]]\\
+  * [[student:stickercontest|CS Sticker Contest]]\\
+  * [[https://www.jmu.edu/cise/cs/contact-us/cs-ambassadors.shtml|CS Ambassadors]]\\
+  * [[student:career-fair:start|CISE Career & Internship Fair]]\\
+  * [[student:cs-branding:start|JMU CS Branding Resources]]\\
 
 Scholarships\\
-[[department:scholarships:start| Scholarships]]\\
+  * [[department:scholarships:start| Scholarships]]\\
 
 ==== CS Student Resources and Information ====
 
