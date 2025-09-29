@@ -8,13 +8,13 @@ In addition to using this page to find information, you can search the Wiki usin
 ==== CS Curriculum and Advising ====
 
 Schedules & Advising\\
-[[department:schedule_fall2025:start| Fall 2025 Schedule]] \\
-[[department:schedule_spring2025:start| Spring 2025 Schedule]] \\
-[[department:curriculum:start| CS Curriculum ]]\\
-[[department:cs-advising:start| CS Advising ]]\\
-[[department/advising/changing-majors:start| Changing Majors]]\\
-[[department/advising/admissions-criteria:start| New Criteria for Full Admission to the Major/Minor]]\\
-[[department:honors_capstone:start|Honors Capstone]]
+  * [[department:schedule_fall2025:start| Fall 2025 Schedule]] \\
+  * [[department:schedule_spring2025:start| Spring 2025 Schedule]] \\
+  * [[department:curriculum:start| CS Curriculum ]]\\
+  * [[department:cs-advising:start| CS Advising ]]\\
+  * [[department/advising/changing-majors:start| Changing Majors]]\\
+  * [[department/advising/admissions-criteria:start| New Criteria for Full Admission to the Major/Minor]]\\
+  * [[department:honors_capstone:start|Honors Capstone]]
 
 Enrollment\\
 [[department/waitlist/start| Using the Waitlist Correctly]]\\
