@@ -20,7 +20,7 @@ Enrollment\\
 [[https://cars6.jmu.edu/DDS/DDSController?currentPage=classFinder|Unofficial Open Class Finder]]\\
 [[https://jmu.collegescheduler.com/entry| MyMadison Schedule Planner]]\\
 
-First Year Information (CS 149 / CS 159)
+First Year Information (CS 149 / CS 159)\\
   * [[department:fya:start| First Year Advising FAQ]]\\
   * [[student:cs-sucess:start| CS Success Guide]]
   * [[student:firstyearstartup:start | First-Year Start-up Guide ]]
