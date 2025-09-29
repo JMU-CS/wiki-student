@@ -44,7 +44,7 @@ Community\\
 
 Scholarships\\
   * [[department:scholarships:start| Scholarships]]\\
-===== _____________________________________________________________________=====
+----
 ==== CS Student Resources and Information ====
 
 WIFI\\
