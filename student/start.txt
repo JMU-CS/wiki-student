@@ -20,8 +20,12 @@ Enrollment\\
 [[https://cars6.jmu.edu/DDS/DDSController?currentPage=classFinder|Unofficial Open Class Finder]]\\
 [[https://jmu.collegescheduler.com/entry| MyMadison Schedule Planner]]\\
 
-Students taking CS 149 or CS 159\\
+First Year Information (CS 149 / CS 159)\\
 [[department:fya:start| First Year Advising FAQ]]\\
+  * [[student:cs-sucess:start| CS Success Guide]]
+  * [[student:firstyearstartup:start | First-Year Start-up Guide ]]
+  * [[student:cs149startup:start | CS149 Start-up Guide ]]
+  * [[student:firstyearfinals:start | First Year Finals Guide ]]
 
 CS Seniors\\
 [[student:graduation-preparation:start | Graduation Requirements ]]\\
@@ -30,14 +34,6 @@ CS Seniors\\
 
 Scholarships\\
 [[department:scholarships:start| Scholarships]]\\
-
-
-==== Start-up Guides ====
-
-  * [[student:cs-sucess:start| CS Success Guide]]
-  * [[student:firstyearstartup:start | First-Year Start-up Guide ]]
-  * [[student:cs149startup:start | CS149 Start-up Guide ]]
-  * [[student:firstyearfinals:start | First Year Finals Guide ]]
 
 ==== University/Department-Specific Resources ====
 
@@ -63,7 +59,7 @@ Scholarships\\
   * [[student:wireless:start | Wireless ]]
 
 
-==== Technical Topics ====
+==== Technical Topics / Miscellaneous ====
 
   * [[student:c:start | C/C++ ]]
   * [[student:canvas:start | Canvas ]]
