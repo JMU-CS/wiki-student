@@ -4,6 +4,12 @@
 
 In addition to using this page to find information, you can search the Wiki using the search field on the left or using a search engine (e.g., Google, DuckDuckGo, Bing) by including ''site:wiki.cs.jmu.edu'' with your search terms.
 
+  - You must be logged-in (using your JMU email address) to make additions/changes.
+  - This wiki is not moderated. So, please be sure that your additions/changes are correct before you post them.
+  - Include an edit summary for any major change.
+  - Though wikis are searchable, they are much easier to use if they are organized hierarchically. So, please organize additions appropriately. 
+  - Students do not by default have permission to upload images or files. Ambassadors and TAs should have this permission, and other regular maintainers can apply for this permission by emailing Dr. Lam.
+  - Students also do not have permission to delete pages or files. If you would like to request a removal, please email Dr. Lam.
 
 ==== CS Curriculum and Advising ====
 
@@ -102,11 +108,3 @@ Other\\
   * [[student:xml:start | XML ]]
   * [[student:zip:start | .zip Files ]]
 
-==== Etiquette ====
-
-  - You must be logged-in (using your JMU email address) to make additions/changes.
-  - This wiki is not moderated. So, please be sure that your additions/changes are correct before you post them.
-  - Include an edit summary for any major change.
-  - Though wikis are searchable, they are much easier to use if they are organized hierarchically. So, please organize additions appropriately. 
-  - Students do not by default have permission to upload images or files. Ambassadors and TAs should have this permission, and other regular maintainers can apply for this permission by emailing Dr. Lam.
-  - Students also do not have permission to delete pages or files. If you would like to request a removal, please email Dr. Lam.
