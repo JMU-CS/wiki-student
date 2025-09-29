@@ -5,9 +5,9 @@
 In addition to using this page to find information, you can search the Wiki using the search field on the left or using a search engine (e.g., Google, DuckDuckGo, Bing) by including ''site:wiki.cs.jmu.edu'' with your search terms.
 
 
-==== CS Curriculum ====
+==== CS Curriculum and Advising ====
 
-Curriculum & Advising\\
+Schedules & Advising\\
 [[department:schedule_fall2025:start| Fall 2025 Schedule]] \\
 [[department:schedule_spring2025:start| Spring 2025 Schedule]] \\
 [[department:curriculum:start| CS Curriculum ]]\\
@@ -15,12 +15,12 @@ Curriculum & Advising\\
 [[department/advising/changing-majors:start| Changing Majors]]\\
 [[department/advising/admissions-criteria:start| New Criteria for Full Admission to the Major/Minor]]\\
 
-==== Enrollment ====
+Enrollment\\
 [[department/waitlist/start| Using the Waitlist Correctly]]\\
 [[https://cars6.jmu.edu/DDS/DDSController?currentPage=classFinder|Unofficial Open Class Finder]]\\
 [[https://jmu.collegescheduler.com/entry| MyMadison Schedule Planner]]\\
 
-==== Community ====
+Community\\
   * [[student:stickercontest|CS Sticker Contest]]
   * [[https://www.jmu.edu/cise/cs/contact-us/cs-ambassadors.shtml|CS Ambassadors]]
   * [[student:career-fair:start|CISE Career & Internship Fair]]
