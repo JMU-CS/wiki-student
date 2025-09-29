@@ -49,8 +49,9 @@ Scholarships\\
 
 WIFI\\
 [[student:wireless:start | JMU Wifi ]]\\
-Building Resources//
-[[Building Maps]]
+
+Building Resources\\
+[[Building Maps]]\\
 [[student:microwaves | Microwaves]]\\
 [[department:computer_labs:start| Computer Labs ]]\\
 
