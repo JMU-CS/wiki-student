@@ -21,7 +21,7 @@ Enrollment\\
 [[https://jmu.collegescheduler.com/entry| MyMadison Schedule Planner]]\\
 
 First Year Information (CS 149 / CS 159)\\
-[[department:fya:start| First Year Advising FAQ]]\\
+  * [[department:fya:start| First Year Advising FAQ]]\\
   * [[student:cs-sucess:start| CS Success Guide]]
   * [[student:firstyearstartup:start | First-Year Start-up Guide ]]
   * [[student:cs149startup:start | CS149 Start-up Guide ]]
