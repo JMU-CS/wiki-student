@@ -49,7 +49,7 @@ Scholarships\\
 WIFI\\
 [[student:wireless:start | JMU Wifi ]]\\
 Building Resources//
-[[Building Maps]] (King Hall and EnGeo)\\
+[[Building Maps]] (King Hall and EnGeo)
 [[student:microwaves | Microwaves]]\\
 [[department:computer_labs:start| Computer Labs ]]\\
 Clubs\\
@@ -68,7 +68,6 @@ Other\\
 [[department:cs_research_seminar_talks|Research Seminar Talks]]\\
 [[https://forms.office.com/r/ijGJwXPiHB|Travel Request Form]]\\
 [[department:research| Undergraduate Research ]]\\
-
 
 ==== Technical Topics / Miscellaneous ====
   * [[student:c:start | C/C++ ]]
