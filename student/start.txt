@@ -35,7 +35,7 @@ CS Seniors\\
 Scholarships\\
 [[department:scholarships:start| Scholarships]]\\
 
-==== University/Department-Specific Resources ====
+==== University / Department-Specific Resources ====
 
   * [[Building Maps]] (King Hall and EnGeo)
   * [[student:clubs:start | Clubs]]
