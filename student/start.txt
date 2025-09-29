@@ -46,14 +46,17 @@ Scholarships\\
 [[department:scholarships:start| Scholarships]]\\
 
 ==== CS Student Resources and Information ====
+
 WIFI\\
 [[student:wireless:start | JMU Wifi ]]\\
 Building Resources//
 [[Building Maps]]
 [[student:microwaves | Microwaves]]\\
 [[department:computer_labs:start| Computer Labs ]]\\
+
 Clubs\\
 [[student:clubs:start | Clubs]]\\
+
 Software / Servers\\
 [[student:vm:start | Virtual Machine ]]\\
 [[student:VPN:start | VPN ]]\\
@@ -61,6 +64,7 @@ Software / Servers\\
 [[student:gradescope:start | Gradescope ]]\\
 [[student:freesoftware:start | Free Software ]]\\
 [[department:listserv:start| CS Listserv ]]\\
+
 Other\\
 [[student:cluster:start | Cluster ]]\\
 [[https://jmu.libwizard.com/f/compsci-guide-basic|Library Resources (including off-campus access info)]] \\
