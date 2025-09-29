@@ -14,6 +14,7 @@ Schedules & Advising\\
 [[department:cs-advising:start| CS Advising ]]\\
 [[department/advising/changing-majors:start| Changing Majors]]\\
 [[department/advising/admissions-criteria:start| New Criteria for Full Admission to the Major/Minor]]\\
+[[department:honors_capstone:start|Honors Capstone]]
 
 Enrollment\\
 [[department/waitlist/start| Using the Waitlist Correctly]]\\
@@ -31,8 +32,9 @@ CS Seniors\\
 [[student:graduation-preparation:start | Graduation Requirements ]]\\
 [[department:graduation| Graduation Process and Forms ]]\\
 
-TA Hours\\
+TA Hours / Office Hours\\
 [[department:cs-success:start| TA Hours ]]
+[[department:officehours:start| Faculty Office Hours ]]
 
 Community\\
 [[student:stickercontest|CS Sticker Contest]]\\
@@ -43,31 +45,32 @@ Community\\
 Scholarships\\
 [[department:scholarships:start| Scholarships]]\\
 
-==== University / Department-Specific Resources ====
-
-  * [[Building Maps]] (King Hall and EnGeo)
-  * [[student:clubs:start | Clubs]]
-  * [[student:cluster:start | Cluster ]]
-  * [[department:computer_labs:start| Computer Labs ]]
-  * [[department:listserv:start| CS Listserv ]]
-  * [[department:officehours:start| Faculty Office Hours ]]
-  * [[student:freesoftware:start | Free Software ]]
-  * [[student:gradescope:start | Gradescope ]]
-  * [[department:honors_capstone:start|Honors Capstone]]
-  * [[https://jmu.libwizard.com/f/compsci-guide-basic|Library Resources]] (including off-campus access info)
-  * [[student:microwaves | Microwaves]]
-  * [[department:remote_access:start|Remote Access]]
-  * [[department:cs_research_seminar_talks|Research Seminar Talks]]
-  * [[student:stu:start | Student Server]] (stu.cs.jmu.edu)
-  * [[https://forms.office.com/r/ijGJwXPiHB|Travel Request Form]]
-  * [[department:research| Undergraduate Research ]]
-  * [[student:vm:start | Virtual Machine ]]
-  * [[student:VPN:start | VPN ]]
-  * [[student:wireless:start | Wireless ]]
+==== CS Student Resources and Information ====
+WIFI\\
+[[student:wireless:start | JMU Wifi ]]\\
+Building Resources//
+[[Building Maps]] (King Hall and EnGeo)\\
+[[student:microwaves | Microwaves]]\\
+[[department:computer_labs:start| Computer Labs ]]\\
+Clubs\\
+[[student:clubs:start | Clubs]]\\
+Software / Servers\\
+[[student:vm:start | Virtual Machine ]]\\
+[[student:VPN:start | VPN ]]\\
+[[student:stu:start | Student Server]] (stu.cs.jmu.edu)\\
+[[student:gradescope:start | Gradescope ]]\\
+[[student:freesoftware:start | Free Software ]]\\
+[[department:listserv:start| CS Listserv ]]\\
+Other\\
+[[student:cluster:start | Cluster ]]\\
+[[https://jmu.libwizard.com/f/compsci-guide-basic|Library Resources]] (including off-campus access info)\\
+[[department:remote_access:start|Remote Access]]\\
+[[department:cs_research_seminar_talks|Research Seminar Talks]]\\
+[[https://forms.office.com/r/ijGJwXPiHB|Travel Request Form]]\\
+[[department:research| Undergraduate Research ]]\\
 
 
 ==== Technical Topics / Miscellaneous ====
-
   * [[student:c:start | C/C++ ]]
   * [[student:canvas:start | Canvas ]]
   * [[student:checkstyle:start | Checkstyle ]]
