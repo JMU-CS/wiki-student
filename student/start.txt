@@ -31,6 +31,9 @@ CS Seniors\\
 [[student:graduation-preparation:start | Graduation Requirements ]]\\
 [[department:graduation| Graduation Process and Forms ]]\\
 
+TA Hours\\
+[[department:cs-success:start| TA Hours ]]
+
 Community\\
 [[student:stickercontest|CS Sticker Contest]]\\
 [[https://www.jmu.edu/cise/cs/contact-us/cs-ambassadors.shtml|CS Ambassadors]]\\
@@ -56,7 +59,6 @@ Scholarships\\
   * [[department:remote_access:start|Remote Access]]
   * [[department:cs_research_seminar_talks|Research Seminar Talks]]
   * [[student:stu:start | Student Server]] (stu.cs.jmu.edu)
-  * [[department:cs-success:start| TA Hours ]]
   * [[https://forms.office.com/r/ijGJwXPiHB|Travel Request Form]]
   * [[department:research| Undergraduate Research ]]
   * [[student:vm:start | Virtual Machine ]]
