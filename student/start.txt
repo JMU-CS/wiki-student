@@ -19,12 +19,6 @@ Enrollment\\
 [[department/waitlist/start| Using the Waitlist Correctly]]\\
 [[https://cars6.jmu.edu/DDS/DDSController?currentPage=classFinder|Unofficial Open Class Finder]]\\
 [[https://jmu.collegescheduler.com/entry| MyMadison Schedule Planner]]\\
-
-Community\\
-  * [[student:stickercontest|CS Sticker Contest]]
-  * [[https://www.jmu.edu/cise/cs/contact-us/cs-ambassadors.shtml|CS Ambassadors]]
-  * [[student:career-fair:start|CISE Career & Internship Fair]]
-  * [[student:cs-branding:start|JMU CS Branding Resources]]
   
 First Year Information (CS 149 / CS 159)\\
   * [[department:fya:start| First Year Advising FAQ]]\\
@@ -37,6 +31,11 @@ CS Seniors\\
 [[student:graduation-preparation:start | Graduation Requirements ]]\\
 [[department:graduation| Graduation Process and Forms ]]\\
 
+Community\\
+  * [[student:stickercontest|CS Sticker Contest]]
+  * [[https://www.jmu.edu/cise/cs/contact-us/cs-ambassadors.shtml|CS Ambassadors]]
+  * [[student:career-fair:start|CISE Career & Internship Fair]]
+  * [[student:cs-branding:start|JMU CS Branding Resources]]
 
 Scholarships\\
 [[department:scholarships:start| Scholarships]]\\
