@@ -44,7 +44,7 @@ Community\\
 
 Scholarships\\
   * [[department:scholarships:start| Scholarships]]\\
------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 ==== CS Student Resources and Information ====
 
 WIFI\\
@@ -73,7 +73,7 @@ Other\\
   * [[department:cs_research_seminar_talks|Research Seminar Talks]]\\
   * [[https://forms.office.com/r/ijGJwXPiHB|Travel Request Form]]\\
   * [[department:research| Undergraduate Research ]]\\
------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 ==== Technical Topics / Miscellaneous ====
   * [[student:c:start | C/C++ ]]
   * [[student:canvas:start | Canvas ]]
