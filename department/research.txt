@@ -69,16 +69,6 @@ Additive manufacturing (3D-printing) techniques are enabling lighter, stronger, 
      * //*Paper included JMU student authors.// 
    * Status: Ongoing and looking for new students!
 
-==== ODE Viewer ====
-
-Ordinary Differential Equations (ODEs) are used to model changes in real-world systems using numerical simulation. Often, mathematicians and scientists wish to visualize the results of these simulations and see what happens when particular parameters are changed. This is also useful to students who are learning about these systems. This project would involve extending a rudimentary tool written as part of a Summer 2021 project that was a collaboration between Dr. Lam and faculty in the Department of Mathematics and Statistics.
-
-{{ :department:odeviewer.png?400 |}}
-
-  * Faculty contact: Dr. Lam
-  * Repository: [[https://github.com/huberbp/jmodev | GitHub]]
-  * Status: Ongoing and looking for new students!
-
 ==== MusicCPR ====
 
 {{:department:screenshot_2024-09-20_at_12.37.35.png?direct&400|}}
