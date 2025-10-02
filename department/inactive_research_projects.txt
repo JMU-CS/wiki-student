@@ -36,3 +36,13 @@ Sometimes it is useful to run a program and perform a "shadow" calculation for e
   * Paper: [[ https://w3.cs.jmu.edu/lam2mo/papers/2016-Lam-ESPT.pdf | "Floating-Point Shadow Value Analysis" ]]
   * SHVAL repository: [[ https://github.com/crafthpc/shval | GitHub ]]
   * Status: Suspended pending new student interest.
+
+==== ODE Viewer ====
+
+Ordinary Differential Equations (ODEs) are used to model changes in real-world systems using numerical simulation. Often, mathematicians and scientists wish to visualize the results of these simulations and see what happens when particular parameters are changed. This is also useful to students who are learning about these systems. This project would involve extending a rudimentary tool written as part of a Summer 2021 project that was a collaboration between Dr. Lam and faculty in the Department of Mathematics and Statistics.
+
+{{ :department:odeviewer.png?400 |}}
+
+  * Faculty contact: Dr. Lam
+  * Repository: [[https://github.com/huberbp/jmodev | GitHub]]
+  * Status: Suspended pending new student interest.
