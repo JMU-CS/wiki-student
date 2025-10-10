@@ -1,1 +1,3 @@
-Initial events page
+====== JMU CS Student Events ======
+===== Fall 2025 =====
+  * [[events:/2025-10-08-KickStarting-Professional-Experience|10/08 - Kickstarting Professional Experience]]
