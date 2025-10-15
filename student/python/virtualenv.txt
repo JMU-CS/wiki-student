@@ -1,4 +1,7 @@
 ===== Python Virtual Environments =====
+  * if a student on windows (in powershell) gets a warning about execution policy, they should consider:
+  * Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
 [[https://virtualenv.pypa.io/en/stable/ | virtualenv]] is a tool for creating self-contained, isolated Python environments. This allows developers to use different versions of libraries, dependencies, and even python itself on a per-project basis.  A virtual environment consists of several utilities and helper scripts installed inside of a directory and be "activated" prior to use by running a command that modifies several environment variables like $PATH to point to the versions installed inside of the virtual environment.
 
 ==== Creating a Virtualenv ====
