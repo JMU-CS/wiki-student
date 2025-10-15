@@ -34,12 +34,11 @@ where //input-files// can include ''%%.class%%'' files,  packages, and resources
 
 ==== Creating an Executable JAR File ====
 
-
-An "executable JAR" file can be executed using the ''%%java%%''  tool with the ''%%-jar%%'' switch or, if the associations are  set properly, by "clicking" on it.
-
-
-
 You can create an executable JAR file by including  a manifest that includes a ''%%Main-Class:%%'' directive.  For more information, see the  [[ http://java.sun.com/docs/books/tutorial/deployment/jar/appman.html | tutorial ]].
+
+The manifest can include a ''Class-Path'' entry that can contain external class files and jar files. FOr more information, see the 
+[[https://docs.oracle.com/javase/tutorial/deployment/jar/downman.html | tutorial ]].
+
 
 ==== Running an Executable .jar File ====
 
