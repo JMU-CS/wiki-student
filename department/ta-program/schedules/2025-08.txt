@@ -13,7 +13,7 @@ Beginning Monday 08/25/25
 TAs are available for virtual online support from **9 pm to 11 pm Sunday through Thursday**.
 For the an explanation of how to use “The Lab” during TA Hours, visit the [[ https://wiki.cs.jmu.edu/department/cs-success/start#how_to|How To section]]. 
 
-===== TA Program Availability =====
+===== TA Lab Hours Availability =====
 ^ Date ^ Event ^ TA Lab Hours ^ 
 | Monday, Aug 25, 2025 | Begin regular hours | Available | 
 | Tuesday October 21-Sunday October 26, 2025 | Fall Break | CANCELLED |
