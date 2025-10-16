@@ -19,7 +19,7 @@ You can schedule a meeting with your advisor through [[https://jamesmadisonunive
 
 
 ====== CS Advising Canvas Site ======
-Paige Normand manages a Canvas site with all the Advising Resources you need to navigate your path to graduation. All declared CS majors and minors are enrolled. 
+The CS advisors manage a Canvas site with all the Advising Resources you need to navigate your path to graduation. All declared CS majors and minors are enrolled. 
 
 Anyone is welcome to self-enroll here: https://canvas.jmu.edu/enroll/7PDLY6
 
