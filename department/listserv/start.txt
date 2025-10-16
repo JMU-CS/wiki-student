@@ -5,7 +5,7 @@ The department maintains an email distribution list [[ https://listserv.jmu.edu/
 Several other lists are available:
 
   * IT program students: [[it-students-l@jmu.edu]] 
-  * all CS and IT faculty: [[jmucsdepartment@jmu.edu]]
+  * All CS and IT faculty: [[jmucsdepartment@jmu.edu]]
   * CS program faculty: [[csfaculty@jmu.edu]]
 
 You can also create a [[https://listserv.jmu.edu/cgi-bin/wa?GETPW1 | Listserv account]] which allows you to view the message archive. Creating an account also allows you to manage your listserv subscriptions by logging in. If you don't have an account you can manage your subscription via the subscription link above. 
