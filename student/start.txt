@@ -67,7 +67,7 @@ Clubs\\
 Software / Servers\\
   * [[student:vm:start | Virtual Machine ]]\\
   * [[student:VPN:start | VPN ]]\\
-  * [[student:stu:start | Student Server( stu.cs.jmu.edu)]]\\
+  * [[student:stu:start | Student Server (stu.cs.jmu.edu)]]\\
   * [[student:gradescope:start | Gradescope ]]\\
   * [[student:freesoftware:start | Free Software ]]\\
   * [[department:listserv:start| CS Listserv ]]\\
