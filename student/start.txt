@@ -39,7 +39,7 @@ CS Seniors\\
   * [[department:graduation| Graduation Process and Forms ]]\\
 
 TA Hours / Office Hours\\
-  * [[department:cs-success:start| TA Hours ]]
+  * [[https://wiki.cs.jmu.edu/department/ta-program/schedules/2025-08| TA Hours]] (Fall 2025)
   * [[department:officehours:start| Faculty Office Hours ]]
 
 Community\\
