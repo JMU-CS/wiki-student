@@ -1,6 +1,7 @@
 **Schedule:**
 
-{{:student:digital_2025.png?800|}}
+{{:student:digital2025_schedule.png?600|}}
+
 
 **Survey:** 
   * [[http://example.com|Participants Pre Survey]]
