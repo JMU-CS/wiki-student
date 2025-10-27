@@ -46,6 +46,7 @@ Community\\
   * [[student:stickercontest|CS Sticker Contest]]\\
   * [[https://www.jmu.edu/cise/cs/contact-us/cs-ambassadors.shtml|CS Ambassadors]]\\
   * [[student:career-fair:start|CISE Career & Internship Fair]]\\
+  * [[student:DIGITAL2025|DIGITAL2025]]
   * [[student:cs-branding:start|JMU CS Branding Resources]]\\
 
 Scholarships\\
