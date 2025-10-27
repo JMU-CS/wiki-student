@@ -12,7 +12,7 @@ organize code.
 To easiest way to refer to icons in a portable fashion is to use a ''%%URL%%'' object (from the ''%%java.net%%'' package), and the easiest way to get the appropriate ''%%URL%%'' object is to use a  ''%%Class%%'' object. For example, if you want to get the  ''%%URL%%'' for a resource named ''%%logo.png%%'' that is  in the ''%%images%%'' directory **under the top-level directory containing the class of the object referred to by ''%%this%%''** then  you would do the following:
 
 <code java>
-URL url = this.getClass().getResource("/images/logo.png").
+URL url = this.getClass().getResource("images/logo.png").
 </code>
 
 You could then load it as follows:
@@ -40,7 +40,7 @@ For example, if you want to get the  ''%%InputStream%%'' for a text resource nam
 
 
 <code java>
-InputStream is = this.getClass().getResourceAsStream("/configurations/config.txt").
+InputStream is = this.getClass().getResourceAsStream("configurations/config.txt").
 </code>
 
 You could then read the first line of this text resource as follows:
