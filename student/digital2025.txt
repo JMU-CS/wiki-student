@@ -1,12 +1,12 @@
 **Schedule:**
 
-{{:student:digital2025_schedule.png?600|}}
+{{:student:digital2025_schedule.png?800|}}
 
 
 **Survey:** 
-  * [[http://example.com|Participants Pre Survey]]
-  * [[http://example.com|Participants Post Survey]]
-  * [[http://example.com|Volunteer feedback Survey]]
+  * [[https://jmu.co1.qualtrics.com/jfe/form/SV_eERzAATBje6fvb8|Participants Pre Survey]]
+  * [[https://jmu.co1.qualtrics.com/jfe/form/SV_8CI2N94yaH2GSIC|Participants Post Survey]]
+  * [[https://jmu.co1.qualtrics.com/jfe/form/SV_3FbU4iGaNwio8se|Volunteer feedback Survey]]
 
 **Workshops within the Tracks:**
 
