@@ -14,6 +14,7 @@ In addition to using this page to find information, you can search the Wiki usin
 ==== CS Curriculum and Advising ====
 
 Schedules & Advising\\
+  * [[department:schedule_spring2026:start| Spring 2026 Schedule]] \\
   * [[department:schedule_fall2025:start| Fall 2025 Schedule]] \\
   * [[department:schedule_spring2025:start| Spring 2025 Schedule]] \\
   * [[department:curriculum:start| CS Curriculum ]]\\
