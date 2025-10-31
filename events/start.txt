@@ -1,4 +1,23 @@
 ====== JMU CS Student Events ======
 ===== Fall 2025 =====
+
+----
+
+==== August ====
+  * N/A
+==== September ====
   * [[events:/2025-09-25-Progressing on Programming Problems|09/25 - "How to Eat an Elephant" - Progressing on Programming Problems]]
+==== October ====
   * [[events:/2025-10-08-KickStarting-Professional-Experience|10/08 - Kickstarting Professional Experience]]
+==== November ====
+  * N/A
+==== December ====
+
+===== Spring 2026 =====
+
+----
+
+==== January ====
+==== Feburary ====
+==== March ====
+==== April ====
