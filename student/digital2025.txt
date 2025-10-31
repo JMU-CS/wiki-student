@@ -31,4 +31,5 @@ Curious about how to protect the digital world? Join this exciting workshop wher
 **Tech Activity:**
 A pocket-sized computer that introduces you to the fundamentals of software and hardware interaction. In this hands-on session, you'll explore coding and electronics through fun projects, learning how to bring your ideas to life with this versatile device. Whether you're a beginner or looking to expand your skills, these activities are perfect for anyone interested in the exciting world of technology![[https://drive.google.com/drive/folders/181IHLvlc8_7akGFk-aGqB5w38yXl2mWe?usp=sharing|Tutorial]]
 
-{{:student:1stfloor.jpg?400|{{:student:2ndfloor.jpg?400|}}}}
+{{:student:map.png?800|}}
+
