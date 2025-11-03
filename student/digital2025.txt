@@ -20,7 +20,8 @@ Discover how to make data come alive! Join us for a hands-on Vega-Lite workshop 
 Have you ever wondered how the websites you use on the internet are created? In this exciting session, you will learn all about web design and how to make your own website. You will get the chance to see how various components interact in order to construct the websites you use every day![[https://drive.google.com/drive/folders/11j9j4l0DqRJClVp6lixACsW3SYfmtZwh?usp=sharing|Tutorial]]
 
 **Introduction to programming:**
-Bring your problem-solving skills to this hands-on session as you dive into programming with Python—one of the most widely used languages in the tech industry today. You’ll learn the fundamentals of coding using Python. No prior programming experience is required—just curiosity and creativity![[https://drive.google.com/drive/folders/1zh7DQMSbERcNpPpFF8zT8u6oOY8a4tIm|Tutorial]]
+Bring your problem-solving skills to this hands-on session as you dive into programming with Python—one of the most widely used languages in the tech industry today. You’ll learn the fundamentals of coding using Python. No prior programming experience is required—just curiosity and creativity![[https://drive.google.com/drive/folders/1zh7DQMSbERcNpPpFF8zT8u6oOY8a4tIm|Tutorial 1]], [[https://w3stu.cs.jmu.edu/peter2av/digital/|Tutorial 2]]
+
 
 **Mobile App:**
 Learn how to create a mobile app using App inventor! In this interactive session, you will design and implement a fun app to show off to friends and family. Bring your creativity to this workshop and make your first app! No programming experience is required.[[https://drive.google.com/drive/folders/1Ufv2vhfJd_1GXyYWx84JJWG7_g8jBhBD?usp=sharing|Tutorial]]
