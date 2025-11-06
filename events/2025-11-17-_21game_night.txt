@@ -31,3 +31,5 @@ Get ready to show off your department pride, appreciation, and creativity! The J
 
   * Theme: Show your Duke spirit ahead of the weekend football game!
   * Activity: CS/IT Ambassadors will distribute the remaining faculty thank you notes
+
+{{ :events:csit_spirit_week_poster.png?nolink&600 |}}
