@@ -44,6 +44,7 @@ TA Hours / Office Hours\\
   * [[department:officehours:start| Faculty Office Hours ]]
 
 Community\\
+  * [[events:start|CS Community Events]]\\
   * [[student:stickercontest|CS Sticker Contest]]\\
   * [[https://www.jmu.edu/cise/cs/contact-us/cs-ambassadors.shtml|CS Ambassadors]]\\
   * [[student:career-fair:start|CISE Career & Internship Fair]]\\
