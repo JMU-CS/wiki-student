@@ -7,7 +7,7 @@ According to  www.eclipse.org, the Eclipse project is an "open development platf
 ==== Startup ====
 
 
-If Eclispe is running slowly you may want to increase the amount of memory allocated to it. You can do this by adding lines to the file ''%%eclipse.ini%%''. For example:
+If Eclipse is running slowly you may want to increase the amount of memory allocated to it. You can do this by adding lines to the file ''%%eclipse.ini%%''. For example:
 
 
 <code>
@@ -19,6 +19,12 @@ If Eclispe is running slowly you may want to increase the amount of memory alloc
 </code>
 
 The first line indicates that the subsequent lines should be sent to the virtual machine as arguments. The second sets the heap space to 128Mb initially. The third sets the maximum heap space to 521Mb. The last two set the starting and maximum amount of space to use for class names, objects that are never garbage collected, etc...) to 128Mb.
+
+
+==== Opening a Terminal ====
+
+You can open a terminal in Eclipse by clicking on <mouse>Window+Show View+Terminal</mouse>
+ and then clicking on the <mouse>Open Terminal</mouse> button and making the appropriate choices (e.g., Local Terminal, SSH, etc.) in the dialog box. 
 
 
 ==== Workspaces ====
