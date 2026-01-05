@@ -1,0 +1,21 @@
+name: Build Student Wiki
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    runs-on: w3-websites
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+      - name: Virtual environment
+        run: python -m venv venv && source venv/bin/activate && pip install --upgrade pip
+      - name: Install Zensical
+        run: source venv/bin/activate && pip install zensical
+      - name: Build public site
+        run: source venv/bin/activate && zensical build --clean
+      - name: Group permissions
+        run: chown -R :wiki ./site && chmod -R g+w ./site
+      - name: Deploy via rsync
+        run: rsync -vcaOz --delete --exclude=faculty ./site/ /data/www/wiki/

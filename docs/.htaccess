@@ -1,0 +1,7 @@
+RewriteEngine On
+
+# Fix misspelling: cs-sucess → cs-success
+RewriteRule ^(.*/)cs-sucess(/.*)?$ /wiki/$1cs-success$2 [R=301,L]
+
+# Remove trailing /start from any path
+RewriteRule ^(.*/)start(/)?$ /wiki/$1 [R=301,L]
