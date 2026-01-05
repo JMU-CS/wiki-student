@@ -1,31 +1,33 @@
-==== Shortcomings of the Total Grade Calculation in Canvas ====
+# Shortcomings of the Total Grade Calculation in Canvas
 
 Because most course grades are weighted and assessments are categorized differently, the total grade calculated by Canvas can be very misleading, and probably shouldn't be used. Instead, you should use Canvas as a source for your individual grades and create a spreadsheet or program that does a better job of forecasting your total grade.
 
 The easiest way to see the shortcomings of the Canvas calculation is to consider an example. To that end, imagine you are taking a course in which there are quizzes, assignments, and exams that are weighted as follows:
 
-^ Quizzes      ^ Assignments       ^ Exam 1 ^ Exam 2 ^ Exam 3 ^ Exam 4    ^
-|  10%              |   15%                         |  5%          |  15%         |  25%           |  30%            |
+| Quizzes | Assignments | Exam 1 | Exam 2 | Exam 3 | Exam 4 |
+|:--------|:------------|--------|--------|--------|:-------|
+| 10%     | 15%         | 5%     | 15%    | 25%    | 30%    |
 
 Further, suppose that after 4 weeks you have completed one quarter of the quizzes, one quarter of the assignments, and one exam and that you have the following grades:
 
-^ Quizzes      ^ Assignments       ^ Exam 1 ^ Exam 2 ^ Exam 3 ^ Exam 4    ^
-|  10%              |   15%                         |  5%          |  15%         |  25%           |  30%            |
-|  100               |  90                            |  70         |                 |                   |                     |
+| Quizzes | Assignments | Exam 1 | Exam 2 | Exam 3 | Exam 4 |
+|:--------|:------------|--------|--------|--------|:-------|
+| 10%     | 15%         | 5%     | 15%    | 25%    | 30%    |
+| 100     | 90          | 70     |        |        |        |
 
 Canvas will calculate your total grade as follows:
 
-    ((100 * .10) + (90 * .15) + (70 * .05)) / (.10 + .15  + .05) = (27 / .3) = 90
+      ((100 * .10) + (90 * .15) + (70 * .05)) / (.10 + .15  + .05) = (27 / .3) = 90
 
 Now, suppose your performance for the rest of the semester is consistent with your performance during the first four weeks. Then, at the end of the semester, your grades will be:
 
-^ Quizzes      ^ Assignments       ^ Exam 1 ^ Exam 2 ^ Exam 3 ^ Exam 4    ^
-|   10%              |    15%                         |   5%          |   15%         |   25%           |   30%            |
-|   100                |   90                            |   70           |   70           |   70             |   70               |
+| Quizzes | Assignments | Exam 1 | Exam 2 | Exam 3 | Exam 4 |
+|:--------|:------------|--------|--------|--------|:-------|
+| 10%     | 15%         | 5%     | 15%    | 25%    | 30%    |
+| 100     | 90          | 70     | 70     | 70     | 70     |
 
 and your final grade will be:
 
-    ((100 * .10) + (90 * .15) + (70 * .75)) / (.10 + .15  + .75) = (76 / 1.0) = 76
+      ((100 * .10) + (90 * .15) + (70 * .75)) / (.10 + .15  + .75) = (76 / 1.0) = 76
 
 Hence, the total grade calculated by Canvas at the end of week four was a significant overestimate and made you think you were doing better in the course than you actually were.
-

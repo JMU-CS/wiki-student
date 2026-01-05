@@ -1,72 +1,71 @@
-===== Using SSH with a Key-Pair =====
+# Using SSH with a Key-Pair
 
-Secure shell (i.e., ''%%ssh%%'') normally prompts you for an ID and password when you login, however, it's possible to "sidestep" this process using a public/private key pair for authentication. This is particularly convenient when using some other protocol (e.g., SVN, Git) on top of SSH. To take advantage of this feature you must first create such a pair and then provide the server with your public key.
+Secure shell (i.e., `ssh`) normally prompts you for an ID and password when you login, however, it's possible to "sidestep" this process using a public/private key pair for authentication. This is particularly convenient when using some other protocol (e.g., SVN, Git) on top of SSH. To take advantage of this feature you must first create such a pair and then provide the server with your public key.
 
-=== Checking for an Existing Key-Pair ===
+## Checking for an Existing Key-Pair
 
 You may already have a key-pair (that was created for some other purpose). If so, you should use it.
 
-To check, open a command shell and navigate to your home directory (e.g., ''%%\users\username%%'' in MS-Windows, ''%%~%%'' in Unix/Linux and OS X) and see if you have a directory/folder named ''%%.ssh%%'' (note the period). If you do, it will contain the files ''%%id_rsa%%'' (your private key) and ''%%id_rsa.pub%%'' (your public key).
+To check, open a command shell and navigate to your home directory (e.g., `\users\username` in MS-Windows, `~` in Unix/Linux and OS X) and see if you have a directory/folder named `.ssh` (note the period). If you do, it will contain the files `id_rsa` (your private key) and `id_rsa.pub` (your public key).
 
 If you have these files then you do not need to create a key-pair.
 
-=== Creating a Key-Pair ===
+## Creating a Key-Pair
 
-You can create a key-pair using the ''%%ssh-keygen%%'' utility from the command shell. (In versions of MS-Windows prior to 10 you will need to use the PuTTY Key Generator or the MSYS/MINGW shell, both of which are available for free.)
+You can create a key-pair using the `ssh-keygen` utility from the command shell. (In versions of MS-Windows prior to 10 you will need to use the PuTTY Key Generator or the MSYS/MINGW shell, both of which are available for free.)
 
 To do so, enter the command:
 
-<code bash>
+``` bash
 ssh-keygen -C "Generated YYMMDD"
-</code>
+```
 
-where YYMMDD is the date. (Note: The -C flag simply inserts a comment that is useful when trying to identify key pairs.) By default, ''%%ssh-keygen%%'' will generate a key with 2048 bits. This can be changed using the ''%%-b%%'' flag.
+where YYMMDD is the date. (Note: The -C flag simply inserts a comment that is useful when trying to identify key pairs.) By default, `ssh-keygen` will generate a key with 2048 bits. This can be changed using the `-b` flag.
 
-Then press <key>Enter</key> in response to the prompts (unless you want to change the directory/folder where the keys will be stored and/or want to further protect your private key with a passphrase). 
+Then press "Enter" in response to the prompts (unless you want to change the directory/folder where the keys will be stored and/or want to further protect your private key with a passphrase).
 
-This will create two files, one named ''%%id_rsa%%'' (your private key) and one named ''%%id_rsa.pub%%'' (your public key). As the name implies, you should not give your private key to anyone, but you can give your public key to anyone without risk.
+This will create two files, one named `id_rsa` (your private key) and one named `id_rsa.pub` (your public key). As the name implies, you should not give your private key to anyone, but you can give your public key to anyone without risk.
 
-=== Copying your Public Key to a Linux Server ===
+## Copying your Public Key to a Linux Server
 
-On Linux servers, a user's public keys are stored in the file ''%%~/.ssh/authorized_keys%%''. If you have ''%%ssh-copy-id%%'' on your computer, you can use it to upload your public key to a Linux server (e.g., ''%%stu.cs.jmu.edu%%'' and append it to this file. If not, you will need to upload the file manually (e.g., using SCP) and then append it to this file as follows:
+On Linux servers, a user's public keys are stored in the file `~/.ssh/authorized_keys`. If you have `ssh-copy-id` on your computer, you can use it to upload your public key to a Linux server (e.g., `stu.cs.jmu.edu` and append it to this file. If not, you will need to upload the file manually (e.g., using SCP) and then append it to this file as follows:
 
-<code bash>
+``` bash
 cat id_rsa.pub >> ~/.ssh/authorized_keys
-</code>
+```
 
 If the ~/.ssh directory does not exist you can create it. SSH has strict permission requirements on these files:
-<code>
-mkdir ~/.ssh
-chmod 700 ~/.ssh
-touch ~/.ssh/authorized_keys
-chmod 600 ~/.ssh/authorized_keys
-</code>
 
-=== Logging-In using the Key-Pair ===
+    mkdir ~/.ssh
+    chmod 700 ~/.ssh
+    touch ~/.ssh/authorized_keys
+    chmod 600 ~/.ssh/authorized_keys
+
+## Logging-In using the Key-Pair
 
 At this point, you should be able to use SSH (either directly or indirectly) to login to the Linux server without providing an ID and/or password.
 
-=== SSH Config File Example ===
-Below is an example ssh config file that on linux and mac would be located at ''%%~/.ssh/config%%''
-<code>
-Host *
-	ServerAliveInterval 30
-	ServerAliveCountMax 120
-	AddKeysToAgent yes # https://man.openbsd.org/ssh_config#AddKeysToAgent
-	IdentitiesOnly yes
-Host github.com
-       IdentityFile /Users/tgm/.ssh/githubta
-Host stu
-	HostName stu.cs.jmu.edu
-	# next setting only necessary if you aren't using a default-named key like id_rsa or id_ed25519
-        # IdentityFile ~/.ssh/fac.cs.jmu.edu
-	User stewarmc # if you specify a user, you don't have to put the user@ when connecting via ssh
-Host aplaceicantreachdirectly
-        HostName internalonly.cs.jmu.edu
-        ProxyJump stu
-        ## some ssh servers may be listenign on a non-standard port. (the standard is 22)
-        # Port 23 # is typically for telnet, but people can do what they want with their servers 
-</code>
+## SSH Config File Example
+
+Below is an example ssh config file that on linux and mac would be located at `~/.ssh/config`
+
+    Host *
+        ServerAliveInterval 30
+        ServerAliveCountMax 120
+        AddKeysToAgent yes # https://man.openbsd.org/ssh_config#AddKeysToAgent
+        IdentitiesOnly yes
+    Host github.com
+           IdentityFile /Users/tgm/.ssh/githubta
+    Host stu
+        HostName stu.cs.jmu.edu
+        # next setting only necessary if you aren't using a default-named key like id_rsa or id_ed25519
+            # IdentityFile ~/.ssh/fac.cs.jmu.edu
+        User stewarmc # if you specify a user, you don't have to put the user@ when connecting via ssh
+    Host aplaceicantreachdirectly
+            HostName internalonly.cs.jmu.edu
+            ProxyJump stu
+            ## some ssh servers may be listenign on a non-standard port. (the standard is 22)
+            # Port 23 # is typically for telnet, but people can do what they want with their servers 
 
 Test the github one:
 ssh -T git@github.com

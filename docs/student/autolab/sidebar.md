@@ -1,6 +1,6 @@
-  * Autolab 
-    - [[student:autolab:common-tasks|Common Tasks]]
-    - [[student:autolab:grade-report|Understanding Grade Reports]]
-    - [[student:autolab:gradingtier-summarizers | Autograders for Java Submissions (gradingtier)]]
+# Sidebar
 
-
+- Autolab
+    1.  [Common Tasks](common-tasks.md)
+    2.  [Understanding Grade Reports](grade-report.md)
+    3.  [Autograders for Java Submissions (gradingtier)](gradingtier-summarizers.md)

@@ -1,29 +1,31 @@
-==== Zero-cost Software ====
+# Free Software
+
+## Zero-cost Software
 
 Many software and technologies companies make their commercial software or services available at no cost to university students:
 
-  * Amazon's [[https://aws.amazon.com/education/awseducate/ | AWS Educate]]
-  * GitHub's [[https://education.github.com/pack | Student Developer Pack]]
-  * JetBrain's [[https://www.jetbrains.com/student/ | Desktop IDEs]] (including IntelliJ IDEA)
-  * Microsoft's [[https://azure.microsoft.com/en-us/free/students/ | Azure for Students]]
-  * VMWare products at [[https://jmucs.onthehub.com/ | OnTheHub]]
+- Amazon's [AWS Educate](https://aws.amazon.com/education/awseducate/)
+- GitHub's [Student Developer Pack](https://education.github.com/pack)
+- JetBrain's [Desktop IDEs](https://www.jetbrains.com/student/) (including IntelliJ IDEA)
+- Microsoft's [Azure for Students](https://azure.microsoft.com/en-us/free/students/)
+- VMWare products at [OnTheHub](https://jmucs.onthehub.com/)
 
-Besides VMWare products, other packages are available from [[https://onthehub.com/ | OnTheHub]]. Search for JMU and choose either "James Madison University" or "College of Integrated Science and Engineering" as the department to find other packages.
+Besides VMWare products, other packages are available from [OnTheHub](https://onthehub.com/). Search for JMU and choose either "James Madison University" or "College of Integrated Science and Engineering" as the department to find other packages.
 
-**Important:** The above offerings are "free as in beer" not "free as in speech" (for more info, see "[[https://en.wikipedia.org/wiki/Gratis_versus_libre |gratis vs. libre]]" and the [[https://en.wikipedia.org/wiki/Free_software |Free Software]] movement). For the most part, these companies make their software and services available for free with the goal of acquiring you or your employer as a paying customer after you graduate.
+**Important:** The above offerings are "free as in beer" not "free as in speech" (for more info, see "[gratis vs. libre](https://en.wikipedia.org/wiki/Gratis_versus_libre)" and the [Free Software](https://en.wikipedia.org/wiki/Free_software) movement). For the most part, these companies make their software and services available for free with the goal of acquiring you or your employer as a paying customer after you graduate.
 
-==== Free/Libre Software ====
+## Free/Libre Software
 
 Here are some popular "free as in speech" alternatives to commercial software:
 
-  * [[https://www.audacityteam.org/ | Audacity]] - audio editor
-  * [[https://www.blender.org/ | Blender]] - 3D creation suite
-  * [[https://www.eclipse.org/ | Eclipse]] - development environment
-  * [[https://www.gimp.org/ | GNU Image Manipulation Program]] - image editor
-  * [[https://www.gnu.org/software/octave/ | GNU Octave]] - scientific programming language
-  * [[https://inkscape.org/ | Inkscape]] - vector graphics editor
-  * [[https://krita.org/en/ | Krita]] - painting program
-  * [[https://www.latex-project.org/ | LaTeX]] - document preparation system
-  * [[https://www.libreoffice.org/ | LibreOffice]] - office suite
-  * [[https://www.scribus.net/ | Scribus]] - desktop publishing
-  * [[https://www.virtualbox.org/ | VirtualBox]] - desktop virtualization
+- [Audacity](https://www.audacityteam.org/) - audio editor
+- [Blender](https://www.blender.org/) - 3D creation suite
+- [Eclipse](https://www.eclipse.org/) - development environment
+- [GNU Image Manipulation Program](https://www.gimp.org/) - image editor
+- [GNU Octave](https://www.gnu.org/software/octave/) - scientific programming language
+- [Inkscape](https://inkscape.org/) - vector graphics editor
+- [Krita](https://krita.org/en/) - painting program
+- [LaTeX](https://www.latex-project.org/) - document preparation system
+- [LibreOffice](https://www.libreoffice.org/) - office suite
+- [Scribus](https://www.scribus.net/) - desktop publishing
+- [VirtualBox](https://www.virtualbox.org/) - desktop virtualization

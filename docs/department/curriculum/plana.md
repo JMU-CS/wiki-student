@@ -1,34 +1,283 @@
-Sample plans of study for new students: 
- // //
-====== Option A - Delay 261 ======
+# Plans of Study
 
-|              ^ Fall           ^ Spring          ^
-^ Year 1    | CS 149 \\ Math 231/235\\ GenEd \\ GenEd \\ GenEd\\ | CS 159 \\ Math 232/236 \\ CS/MATH 227 \\ GenEd \\ GenEd\\      |
-^ Year 2    | CS 240 \\ CS 345 \\ MATH 220/318 \\ GenEd \\ GenEd \\ | CS 261 \\ GenEd \\ GenEd \\ Elective \\ Elective \\ |
-^ Year 3    | CS 361 \\ CS 327 \\ GenEd \\ GenEd \\ Elective \\ | CS 430 \\ CS 4xxS (CS Systems Elective) \\ GenEd \\ Elective \\ Elective \\ |
-^ Year 4    | CS 412/452 \\ CS 4xx (CS Elective) \\  Elective \\ Elective \\ Elective \\ | CS 4xx (CS Elective) \\ CS 4xx (CS Elective) \\ Elective \\ Elective \\ Elective | 
-\\ \\
-====== Option  - Delay 345 ======
+Sample plans of study for new students:
 
-|              ^ Fall           ^ Spring          ^
-^ Year 1    | CS 149 \\ Math 231/235\\ GenEd \\ GenEd \\ GenEd\\ | CS 159 \\ Math 232/236 \\ CS/MATH 227 \\ GenEd \\ GenEd      |
-^ Year 2   | CS 240 \\ CS 261 \\ MATH 220/318 \\ GenEd \\ GenEd \\ | CS 327 \\ CS 361 \\ GenEd \\ GenEd \\ Elective |
-^ Year 3   | CS 4xxS (CS Systems Elective) \\ CS 4xx (CS Elective) \\ GenEd \\ Elective \\ Elective \\ | CS 345 \\ CS 430 \\  GenEd \\ Elective \\ Elective |
-^ Year 4   | CS 412/452 \\ CS 4xx (CS Elective) \\  GenEd \\ Elective \\ Elective \\ | CS 4xx (CS Elective) \\ Elective \\ Elective \\ Elective \\ Elective |
-\\ \\
-====== Option C - Core Early ======
+## Option A - Delay 261
 
-|              ^ Fall           ^ Spring          ^
-^ Year 1    | CS 149 \\ Math 231/235\\ GenEd \\ GenEd \\ GenEd\\ | CS 159 \\ Math 232/236 \\ CS/MATH 227 \\ GenEd \\ GenEd\\      |
-^ Year 2    | CS 240 \\ CS 261 \\ MATH 220/318 \\ GenEd \\ GenEd \\ | CS 327 \\ CS 361 \\ GenEd \\ GenEd \\ Elective \\  |
-^ Year 3    | CS 345 \\ CS 4xxS (CS Systems Elective) \\ GenEd \\ Elective \\ Elective \\ | CS 430 \\ CS 412/452 \\ Elective \\ Elective \\ Elective \\ |
-^ Year 4    | CS 4xx (CS Elective) \\  CS 4xx (CS Elective) \\ GenEd \\ Elective \\ Elective \\ | CS 4xx (CS Elective) \\ GenEd \\ Elective \\ Elective \\ Elective |
-\\ \\
-====== Option D - Late Start ======
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"></td>
+<td style="text-align: left;">Fall</td>
+<td style="text-align: left;">Spring</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Year 1</td>
+<td style="text-align: left;">CS 149<br />
+Math 231/235<br />
+GenEd<br />
+GenEd<br />
+GenEd<br />
+</td>
+<td style="text-align: left;">CS 159<br />
+Math 232/236<br />
+CS/MATH 227<br />
+GenEd<br />
+GenEd<br />
+</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Year 2</td>
+<td style="text-align: left;">CS 240<br />
+CS 345<br />
+MATH 220/318<br />
+GenEd<br />
+GenEd<br />
+</td>
+<td style="text-align: left;">CS 261<br />
+GenEd<br />
+GenEd<br />
+Elective<br />
+Elective<br />
+</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Year 3</td>
+<td style="text-align: left;">CS 361<br />
+CS 327<br />
+GenEd<br />
+GenEd<br />
+Elective<br />
+</td>
+<td style="text-align: left;">CS 430<br />
+CS 4xxS (CS Systems Elective)<br />
+GenEd<br />
+Elective<br />
+Elective<br />
+</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Year 4</td>
+<td style="text-align: left;">CS 412/452<br />
+CS 4xx (CS Elective)<br />
+Elective<br />
+Elective<br />
+Elective<br />
+</td>
+<td style="text-align: left;">CS 4xx (CS Elective)<br />
+CS 4xx (CS Elective)<br />
+Elective<br />
+Elective<br />
+Elective</td>
+</tr>
+</tbody>
+</table>
+
+## Option B - Delay 345
+
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"></td>
+<td style="text-align: left;">Fall</td>
+<td style="text-align: left;">Spring</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Year 1</td>
+<td style="text-align: left;">CS 149<br />
+Math 231/235<br />
+GenEd<br />
+GenEd<br />
+GenEd<br />
+</td>
+<td style="text-align: left;">CS 159<br />
+Math 232/236<br />
+CS/MATH 227<br />
+GenEd<br />
+GenEd</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Year 2</td>
+<td style="text-align: left;">CS 240<br />
+CS 261<br />
+MATH 220/318<br />
+GenEd<br />
+GenEd<br />
+</td>
+<td style="text-align: left;">CS 327<br />
+CS 361<br />
+GenEd<br />
+GenEd<br />
+Elective</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Year 3</td>
+<td style="text-align: left;">CS 4xxS (CS Systems Elective)<br />
+CS 4xx (CS Elective)<br />
+GenEd<br />
+Elective<br />
+Elective<br />
+</td>
+<td style="text-align: left;">CS 345<br />
+CS 430<br />
+GenEd<br />
+Elective<br />
+Elective</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Year 4</td>
+<td style="text-align: left;">CS 412/452<br />
+CS 4xx (CS Elective)<br />
+GenEd<br />
+Elective<br />
+Elective<br />
+</td>
+<td style="text-align: left;">CS 4xx (CS Elective)<br />
+Elective<br />
+Elective<br />
+Elective<br />
+Elective</td>
+</tr>
+</tbody>
+</table>
+
+## Option C - Core Early
+
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"></td>
+<td style="text-align: left;">Fall</td>
+<td style="text-align: left;">Spring</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Year 1</td>
+<td style="text-align: left;">CS 149<br />
+Math 231/235<br />
+GenEd<br />
+GenEd<br />
+GenEd<br />
+</td>
+<td style="text-align: left;">CS 159<br />
+Math 232/236<br />
+CS/MATH 227<br />
+GenEd<br />
+GenEd<br />
+</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Year 2</td>
+<td style="text-align: left;">CS 240<br />
+CS 261<br />
+MATH 220/318<br />
+GenEd<br />
+GenEd<br />
+</td>
+<td style="text-align: left;">CS 327<br />
+CS 361<br />
+GenEd<br />
+GenEd<br />
+Elective<br />
+</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Year 3</td>
+<td style="text-align: left;">CS 345<br />
+CS 4xxS (CS Systems Elective)<br />
+GenEd<br />
+Elective<br />
+Elective<br />
+</td>
+<td style="text-align: left;">CS 430<br />
+CS 412/452<br />
+Elective<br />
+Elective<br />
+Elective<br />
+</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Year 4</td>
+<td style="text-align: left;">CS 4xx (CS Elective)<br />
+CS 4xx (CS Elective)<br />
+GenEd<br />
+Elective<br />
+Elective<br />
+</td>
+<td style="text-align: left;">CS 4xx (CS Elective)<br />
+GenEd<br />
+Elective<br />
+Elective<br />
+Elective</td>
+</tr>
+</tbody>
+</table>
+
+## Option D - Late Start
+
 It is also possible to compress the major, for example if it is started in the sophomore year. The following table shows one way to do this. (Note: the major requires at least five semesters to complete due to prerequisites).
 
-|              ^ Fall           ^ Spring          ^
-^ Year 1    | GenEd \\ GenEd \\ Elective \\ Elective \\ Elective\\ | GenEd \\ GenEd \\ GenEd \\ Elective \\ Elective |
-^ Year 2    | CS 149 \\ MATH 231/235 \\ MATH 220/318 \\ GenEd \\ GenEd \\ | CS 159 \\ MATH 232/236 \\ CS/MATH 227 \\ GenEd \\ GenEd |
-^ Year 3    | CS 240 \\ CS 261 \\ CS 345 \\ GenEd \\ Elective \\ | CS 327 \\ CS 361 \\ CS 430 \\ GenEd \\ GenEd |
-^ Year 4    | CS 412/452 \\ 4xxS (CS Systems Elective) \\ CS 4xx (CS Elective) \\  Elective \\ Elective \\ | CS 4xx (CS Elective) \\ CS 4xx (CS Elective) \\ Elective \\ Elective \\ Elective |
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"></td>
+<td style="text-align: left;">Fall</td>
+<td style="text-align: left;">Spring</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Year 1</td>
+<td style="text-align: left;">GenEd<br />
+GenEd<br />
+Elective<br />
+Elective<br />
+Elective<br />
+</td>
+<td style="text-align: left;">GenEd<br />
+GenEd<br />
+GenEd<br />
+Elective<br />
+Elective</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Year 2</td>
+<td style="text-align: left;">CS 149<br />
+MATH 231/235<br />
+MATH 220/318<br />
+GenEd<br />
+GenEd<br />
+</td>
+<td style="text-align: left;">CS 159<br />
+MATH 232/236<br />
+CS/MATH 227<br />
+GenEd<br />
+GenEd</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Year 3</td>
+<td style="text-align: left;">CS 240<br />
+CS 261<br />
+CS 345<br />
+GenEd<br />
+Elective<br />
+</td>
+<td style="text-align: left;">CS 327<br />
+CS 361<br />
+CS 430<br />
+GenEd<br />
+GenEd</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Year 4</td>
+<td style="text-align: left;">CS 412/452<br />
+4xxS (CS Systems Elective)<br />
+CS 4xx (CS Elective)<br />
+Elective<br />
+Elective<br />
+</td>
+<td style="text-align: left;">CS 4xx (CS Elective)<br />
+CS 4xx (CS Elective)<br />
+Elective<br />
+Elective<br />
+Elective</td>
+</tr>
+</tbody>
+</table>

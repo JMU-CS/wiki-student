@@ -1,20 +1,19 @@
-===== Scholarships =====
+# Scholarships
 
-==== Computer Science Department Scholarships ====
+## Computer Science Department Scholarships
 
 The Computer Science Department awards various scholarships to rising sophomores, juniors and seniors majoring in computer science. Students are notified each year when applications are due via the department listserv. (Open to all Computer Science students)
 
+## Malcolm G. Lane Scholarship
 
-==== Malcolm G. Lane Scholarship ====
+The Malcolm G. Lane Scholarship provides financial resources annually to one or more students in their junior or senior year. To be eligible for this scholarship, recipients must have a declared major in Computer Science and a GPA of 3.25 or higher after at least two semesters of study at JMU. Malcolm Lane is a former Computer Science Department Head and a distinguished computer scientist with a range of experience in academe and industry. Students are notified each year when applications are due via the department listserv. (Open to rising juniors and seniors)
 
-The Malcolm G. Lane Scholarship provides financial resources annually to one or more students in their junior or senior year.  To be eligible for this scholarship, recipients must have a declared major in Computer Science and a GPA of 3.25 or higher after at least two semesters of study at JMU.  Malcolm Lane is a former Computer Science Department Head and a distinguished computer scientist with a range of experience in academe and industry. Students are notified each year when applications are due via the department listserv. (Open to rising juniors and seniors)
-
-==== Walter Quintin “Teddy” Kincaid (‘22) Scholarship ====
+## Walter Quintin “Teddy” Kincaid (‘22) Scholarship
 
 To be named a Kincaid Scholar, the recipient must be a full-time undergraduate student majoring in Computer Science, with financial need as determined by the Office of Financial Aid and Scholarships, whose primary residence is in Virginia. The scholarship is renewable as long as the student continues to meet the criteria, subject to the availability of funds. Scholarships will be administered at the discretion of the Department Head of Computer Science following the University's guidelines for the awarding of scholarships.
 
- ==== DoD Cyber Service Academy Scholarship ====
-https://www.dodemergingtech.com/dod-programs/cyber-service-academy-csa/
+==== DoD Cyber Service Academy Scholarship ====
+<https://www.dodemergingtech.com/dod-programs/cyber-service-academy-csa/>
 
 Please note that we are waiting for an update from the 2025-26 scholarship announcement. We will update this page as soon as we have new update. But most of the content will remain the same.
 
@@ -24,24 +23,22 @@ The Department of Defense (DoD) Service Academy (DoD CSA), formerly Cyber Schola
 
 **This is a full-ride scholarship, paying for:**
 
-  *   the full cost of tuition, 
-  *   books (from the institution/degree specific required book list, not books which are optional for the class), 
-  *   required fees (including health care), and 
-  *   stipend to cover room and board: 
-  *   -   $29,000 for undergraduate  and  
-  *   -   $34,000   for graduate students 
-  *   Awards will be made via a grant to JMU. 
+-  the full cost of tuition,
+-  books (from the institution/degree specific required book list, not books which are optional for the class),
+-  required fees (including health care), and
+-  stipend to cover room and board:
+-  - \$29,000 for undergraduate and
+-  - \$34,000 for graduate students
+-  Awards will be made via a grant to JMU.
 
-Computer Science and IT students (rising juniors/seniors and graduate students) with at least 3.2 GPA undergraduate and 3.5 GPA for graduate students are encouraged to apply. We especially encourage females and members of the minority to apply. 
-You must contact Dr. Heydari, the Point of Contact for the CSA program, and let him know of your intention to apply. 
-For additional information contact Dr. Heydari: heydarmh@jmu.edu. 
+Computer Science and IT students (rising juniors/seniors and graduate students) with at least 3.2 GPA undergraduate and 3.5 GPA for graduate students are encouraged to apply. We especially encourage females and members of the minority to apply.
+You must contact Dr. Heydari, the Point of Contact for the CSA program, and let him know of your intention to apply.
+For additional information contact Dr. Heydari: heydarmh@jmu.edu.
 
 **Student Application Website:**
 
-For more details about application, eligibility, and service requirements please visit the DoD Cyber Service Academy at https://www.dodemergingtech.com/dod-programs/cyber-service-academy-csa/.
+For more details about application, eligibility, and service requirements please visit the DoD Cyber Service Academy at <https://www.dodemergingtech.com/dod-programs/cyber-service-academy-csa/>.
 
+## Federal Scholarship for Service
 
-
-==== Federal Scholarship for Service ====
-
-[[https://sfs.opm.gov/|Federal Scholarship for Service]] (SFS) is a unique program designed to increase and strengthen the cadre of federal information assurance professionals that protect the government's critical information infrastructure. This program provides scholarships that fully fund the typical costs that students pay for books, tuition, and room and board while attending an approved institution of higher learning. Additionally, participants receive stipends for living expenses. The scholarships are funded through grants awarded by the National Science Foundation. (Open to rising juniors)
+[Federal Scholarship for Service](https://sfs.opm.gov/) (SFS) is a unique program designed to increase and strengthen the cadre of federal information assurance professionals that protect the government's critical information infrastructure. This program provides scholarships that fully fund the typical costs that students pay for books, tuition, and room and board while attending an approved institution of higher learning. Additionally, participants receive stipends for living expenses. The scholarships are funded through grants awarded by the National Science Foundation. (Open to rising juniors)

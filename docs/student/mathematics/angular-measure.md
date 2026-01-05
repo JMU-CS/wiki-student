@@ -1,25 +1,15 @@
+# Angular Measure
 
+## Introduction
 
-===== Angular Measure =====
+Angles are generally measured by dividing a "complete turn" (i.e., a circle) into an even number of pieces. Obviously, this means that there are an infinite number of different angular units. We will consider some of the more common here.
 
+## Degree Measure
 
+In *degree measure* (also called *sexagesimal measure*) the circle is divided into 360 *degrees*. Each degree is divided into 60 *minutes* and each minute is divided into 60 *seconds*.
 
-==== Introduction ====
+## Radian Measure
 
+The math libraries in most programming languages do not use degree measure, they use *radian measure*. To understand radian measure, start with a unit circle (i.e., a circle with radius 1). Now, you should recall that the circumference of a circle with radius $r$ is given by $2 \pi r$ so, the unit circle has circumference $2 \pi$. Hence, in radian measure, one "complete turn" is divided into $2 \pi$ radians.
 
-Angles are generally measured by dividing a "complete turn" (i.e., a circle) into an even  number of pieces.  Obviously, this means that there are an  infinite number of different angular units.  We will consider some  of the more common here.
-
-
-==== Degree Measure ====
-
-
-In //degree measure// (also called //sexagesimal measure//)  the circle is divided into 360 //degrees//.  Each degree is divided into 60 //minutes// and each minute is  divided into 60 //seconds//.
-
-
-==== Radian Measure ====
-
-
-The math libraries in most programming languages do not use degree  measure, they use //radian measure//. To understand radian  measure, start with a unit circle (i.e., a circle with radius 1).  Now, you should recall that the circumference of a circle with  radius \(r\) is given by  \(2 \pi r\) so, the unit circle has  circumference \(2 \pi\).  Hence, in radian measure, one  "complete turn" is divided into  \(2 \pi\) radians.
-
-
-It should be clear that 360 degrees equals   \(2 \pi\) radians.   Hence, to convert from degrees to radians just multiply by   \(\pi / 180\).
+It should be clear that 360 degrees equals $2 \pi$ radians. Hence, to convert from degrees to radians just multiply by $\pi / 180$.

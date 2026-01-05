@@ -1,24 +1,25 @@
-=====Enum Types=====
-Note: This reading has been modified from [[https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html|its original version]]. It has been formatted to fit your course.
+# Enum Types
 
-An ''%%enum type%%'' is a special data type that enables for a variable to be a set of predefined constants. The variable must be equal to one of the values that have been predefined for it. Common examples include compass directions (values of NORTH, SOUTH, EAST, and WEST) and the days of the week.
+Note: This reading has been modified from [its original version](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html). It has been formatted to fit your course.
+
+An `enum type` is a special data type that enables for a variable to be a set of predefined constants. The variable must be equal to one of the values that have been predefined for it. Common examples include compass directions (values of NORTH, SOUTH, EAST, and WEST) and the days of the week.
 
 Because they are constants, the names of an enum type's fields are in uppercase letters.
 
-In the Java programming language, you define an enum type by using the ''%%enum%%'' keyword. For example, you would specify a days-of-the-week enum type as:
+In the Java programming language, you define an enum type by using the `enum` keyword. For example, you would specify a days-of-the-week enum type as:
 
-<code java>
+``` java
 public enum Day {
     SUNDAY, MONDAY, TUESDAY, WEDNESDAY,
     THURSDAY, FRIDAY, SATURDAY 
 }
-</code>
+```
 
-You should use enum types any time you need to represent a fixed set of constants. That includes natural enum types such as the planets in our solar system and data sets where you know all possible values at compile time&mdash;for example, the choices on a menu, command line flags, and so on.
+You should use enum types any time you need to represent a fixed set of constants. That includes natural enum types such as the planets in our solar system and data sets where you know all possible values at compile time—for example, the choices on a menu, command line flags, and so on.
 
-Here is some code that shows you how to use the ''%%Day%%'' enum defined above:
+Here is some code that shows you how to use the `Day` enum defined above:
 
-<code java>
+``` java
 public class EnumTest {
     Day day;
     
@@ -59,38 +60,40 @@ public class EnumTest {
         seventhDay.tellItLikeItIs();
     }
 }
-</code>
+```
 
 The output is:
-<code java>
+
+``` java
 Mondays are bad.
 Midweek days are so-so.
 Fridays are better.
 Weekends are best.
 Weekends are best.
-</code>
+```
 
-Java programming language enum types are much more powerful than their counterparts in other languages. The ''%%enum%%'' declaration defines a ''%%class%%'' (called an ''%%enum type%%''). The enum class body can include methods and other fields. The compiler automatically adds some special methods when it creates an enum. For example, they have a static ''%%values%%'' method that returns an array containing all of the values of the enum in the order they are declared. This method is commonly used in combination with a ''%%for%%'' loop to iterate over the values of an enum type. For example, this code from the ''%%Planet%%'' class example below iterates over all the planets in the solar system.
+Java programming language enum types are much more powerful than their counterparts in other languages. The `enum` declaration defines a `class` (called an `enum type`). The enum class body can include methods and other fields. The compiler automatically adds some special methods when it creates an enum. For example, they have a static `values` method that returns an array containing all of the values of the enum in the order they are declared. This method is commonly used in combination with a `for` loop to iterate over the values of an enum type. For example, this code from the `Planet` class example below iterates over all the planets in the solar system.
 
-<code java>
+``` java
 Planet[] planetValues = Planet.values();
 for (int i = 0; i < planetValues.length; i++) {
     Planet p = planetValues[i];
     System.out.printf("Your weight on %s is %f%n",
                       p, p.surfaceWeight(mass));
 }
-</code>
+```
 
-**Note: //All//** enums implicitly extend ''%%java.lang.Enum%%''. Because a class can only extend one parent (see [[https://docs.oracle.com/javase/tutorial/java/javaOO/classdecl.html|Declaring Classes]]), the Java language does not support multiple inheritance of state (see [[https://docs.oracle.com/javase/tutorial/java/IandI/multipleinheritance.html|Multiple Inheritance of State, Implementation, and Type]]), and therefore an enum cannot extend anything else.
+**Note: *All*** enums implicitly extend `java.lang.Enum`. Because a class can only extend one parent (see [Declaring Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/classdecl.html)), the Java language does not support multiple inheritance of state (see [Multiple Inheritance of State, Implementation, and Type](https://docs.oracle.com/javase/tutorial/java/IandI/multipleinheritance.html)), and therefore an enum cannot extend anything else.
 
-In the following example, ''%%Planet%%'' is an enum type that represents the planets in the solar system. They are defined with constant mass and radius properties.
+In the following example, `Planet` is an enum type that represents the planets in the solar system. They are defined with constant mass and radius properties.
 
 Each enum constant is declared with values for the mass and radius parameters. These values are passed to the constructor when the constant is created. Java requires that the constants be defined first, prior to any fields or methods. Also, when there are fields and methods, the list of enum constants must end with a semicolon.
 
 **Note:** The constructor for an enum type must be package-private or private access. It automatically creates the constants that are defined at the beginning of the enum body. You cannot invoke an enum constructor yourself.
-       
-In addition to its properties and constructor, ''%%Planet%%'' has methods that allow you to retrieve the surface gravity and weight of an object on each planet. Here is a sample program that takes your weight on earth (in any unit) and calculates and prints your weight on all of the planets (in the same unit):
-<code java>
+
+In addition to its properties and constructor, `Planet` has methods that allow you to retrieve the surface gravity and weight of an object on each planet. Here is a sample program that takes your weight on earth (in any unit) and calculates and prints your weight on all of the planets (in the same unit):
+
+``` java
 public enum Planet {
     MERCURY (3.303e+23, 2.4397e6),
     VENUS   (4.869e+24, 6.0518e6),
@@ -134,32 +137,31 @@ public enum Planet {
         }
     }
 }
-</code>
+```
 
-If you run ''%%Planet.class%%'' from the command line with an argument of 175, you get this output:
-<code>
-$ java Planet 175
-Your weight on MERCURY is 66.107583
-Your weight on VENUS is 158.374842
-Your weight on EARTH is 175.000000
-Your weight on MARS is 66.279007
-Your weight on JUPITER is 442.847567
-Your weight on SATURN is 186.552719
-Your weight on URANUS is 158.397260
-Your weight on NEPTUNE is 199.207413
-</code>
+If you run `Planet.class` from the command line with an argument of 175, you get this output:
 
-=====With thanks to Dr. Bernstein...=====
+    $ java Planet 175
+    Your weight on MERCURY is 66.107583
+    Your weight on VENUS is 158.374842
+    Your weight on EARTH is 175.000000
+    Your weight on MARS is 66.279007
+    Your weight on JUPITER is 442.847567
+    Your weight on SATURN is 186.552719
+    Your weight on URANUS is 158.397260
+    Your weight on NEPTUNE is 199.207413
 
-The following was [[https://w3.cs.jmu.edu/bernstdh/web/common/lectures/slides_developing-enumerated-types.php|stolen from Dr. Bernstein]].
+## With thanks to Dr. Bernstein...
 
-Though it is not immediately obvious from the documentation for the [[https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html|Java API]], all enumerated types have the following methods "implemented for them".
+The following was [stolen from Dr. Bernstein](https://w3.cs.jmu.edu/bernstdh/web/common/lectures/slides_developing-enumerated-types.php).
 
-  * Static Methods:
-    * ''%%values()%%'' returns an array containing all of the objects in the set
-    * ''%%valueOf(String)%%'' returns the instance with the specified identifier (or throws ''%%IllegalArgumentException%%'')
-  * Non-Static Methods:
-    * ''%%int compareTo(E other)%%'' which uses the order of the elements
-    * ''%%boolean equals(E other)%%''
-    * ''%%ordinal()%%'' returns the ordinal value of the instance (0-based)
-    * ''%%toString()%%'' returns a ''%%String%%'' representation of the identifier
+Though it is not immediately obvious from the documentation for the [Java API](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html), all enumerated types have the following methods "implemented for them".
+
+- Static Methods:
+    - `values()` returns an array containing all of the objects in the set
+    - `valueOf(String)` returns the instance with the specified identifier (or throws `IllegalArgumentException`)
+- Non-Static Methods:
+    - `int compareTo(E other)` which uses the order of the elements
+    - `boolean equals(E other)`
+    - `ordinal()` returns the ordinal value of the instance (0-based)
+    - `toString()` returns a `String` representation of the identifier

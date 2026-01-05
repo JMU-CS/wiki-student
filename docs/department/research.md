@@ -1,81 +1,81 @@
-====== Overview ======
+# Overview
 
 The Undergraduate Research Lab is comprised of CS faculty who are currently working with or actively seeking talented undergraduate research assistants to collaborate on research projects in a variety of fields. Students gain experience in all aspects of research, while working closely with faculty members to push the boundaries of human knowledge. Projects can be anywhere from a semester long collaboration to multiple years. If you are interested in research, are thinking about graduate school, or just want to learn more about what we’re up to, please contact one of the faculty members listed below.
 
-===== Getting Involved =====
+## Getting Involved
 
 Interested in research! There are a variety of ways to get involved!
 
-==== Friday Seminars ====
+### Friday Seminars
 
-The [[CS Research Seminar Talks]] are talks given by faculty members and undergraduate research assistants on a variety of topics at the cutting edge of computer science research. Talks happen on Fridays at 11:30am and occur roughly every couple of weeks, generally in King 236. The format is a 30-40 minute research talk with 10-20 minutes reserved for questions. All CS students (and other interested students and faculty) are invited to attend. Email announcements about each seminar will be sent to the CS listserv.
+The [CS Research Seminar Talks](cs_research_seminar_talks.md) are talks given by faculty members and undergraduate research assistants on a variety of topics at the cutting edge of computer science research. Talks happen on Fridays at 11:30am and occur roughly every couple of weeks, generally in King 236. The format is a 30-40 minute research talk with 10-20 minutes reserved for questions. All CS students (and other interested students and faculty) are invited to attend. Email announcements about each seminar will be sent to the CS listserv.
 
+### Honors Theses
 
-==== Honors Theses ====
-
-Many students who become involved in research elect to do an "[[https://www.jmu.edu/honors/capstone-project.shtml | Honors Capstone Project]]" (or "honors thesis"). This option is open to any student and you do not need to be a member of the honors college. Many faculty prefer this option for students who wish to do research.
+Many students who become involved in research elect to do an "[Honors Capstone Project](https://www.jmu.edu/honors/capstone-project.shtml)" (or "honors thesis"). This option is open to any student and you do not need to be a member of the honors college. Many faculty prefer this option for students who wish to do research.
 
 The honors thesis generally consists of a three-semester sequence beginning in the Spring of your Junior year, where you enroll in a 1-credit CS499A course and work with your faculty advisor to do some preliminary research and write a project proposal. In the Fall of your Senior year, you enroll in a 3-credit CS499B and do the majority of the work. Finally, in the Spring of your Senior year, you enroll in a 2-credit CS499C and finish any leftover work while writing and finalizing your final report and/or software deliverable. You will also present your work as part of the research seminar series in your final semester.
 
-If you are interested in this option, you should find a project or problem that you'd like to work on and request a meeting with a faculty member who might be interested in advising you. You should also look at the [[department:honors_capstone:start|CS Honors Capstone Guidelines]].
+If you are interested in this option, you should find a project or problem that you'd like to work on and request a meeting with a faculty member who might be interested in advising you. You should also look at the [CS Honors Capstone Guidelines](honors_capstone/index.md).
 
-==== Independent Study ====
+### Independent Study
 
 If you cannot commit to a three-semester sequence, there is still the possibility to receive some academic credit for doing research through a mechanism called an Independent Study. To do this, you must find a faculty member willing to advise you and submit a proposal to the undergraduate program coordinator. You will then register for a 1-, 2-, or 3-credit CS 497 and conduct work as planned over the course of a single semester.
 
-==== Ad-hoc ====
+### Ad-hoc
 
 Of course, you can also always contribute to a project without receiving any academic credit. There are other rewards, such as the experience itself as well as a nice thing to put on your resume. If a project has funding there is also occasionally the opportunity to earn a bit of part-time income as a student research employee. All of these should be discussed individually with a faculty member that you'd like to work with.
 
-==== Links ====
-  * [[https://cseweb.ucsd.edu//~wgg/CSE210/howtoread.html|How to Read a Research Paper]]
-  * "[[http://www.cs.unc.edu/~azuma/hitch4.html|Everything I wanted to know about C.S. graduate school at the beginning but didn’t learn until later]]"
-  * [[https://www.nsf.gov/funding/initiatives/reu/search?f%5b0%5d=reu_research_area:25737|PAID summer research opportunities]] (sponsored by the National Science Foundation, these are called "REU"s: Research Experience(s) for Undergraduates)
-  * [[https://www.jmu.edu/research/student/research/student-research-opportunities-virtual-bulletin-board.shtml|JMU-wide Student Research Opportunities Virtual Bulletin Board]]
+### Links
 
-===== Participating Faculty =====
+- [How to Read a Research Paper](https://cseweb.ucsd.edu//~wgg/CSE210/howtoread.html)
+- "[Everything I wanted to know about C.S. graduate school at the beginning but didn’t learn until later](http://www.cs.unc.edu/~azuma/hitch4.html)"
+- [PAID summer research opportunities](https://www.nsf.gov/funding/initiatives/reu/search?f%5b0%5d=reu_research_area:25737) (sponsored by the National Science Foundation, these are called "REU"s: Research Experience(s) for Undergraduates)
+- [JMU-wide Student Research Opportunities Virtual Bulletin Board](https://www.jmu.edu/research/student/research/student-research-opportunities-virtual-bulletin-board.shtml)
 
-  * [[https://users.cs.jmu.edu/bernstdh/|Prof. Bernstein]]
-  * [[https://w3.cs.jmu.edu/bowersjc/|Prof. Bowers]]
-  * [[https://users.cs.jmu.edu/foxcj/Web/|Prof. Fox]]
-  * [[https://w3.cs.jmu.edu/kirkpams/index.shtml|Prof. Kirkpatrick]]
-  * [[https://w3.cs.jmu.edu/lam2mo/|Prof. Lam]]
-  * [[https://w3.cs.jmu.edu/mayfiecs/|Prof. Mayfield]]
-  * [[https://w3.cs.jmu.edu/molloykp/|Prof. Molloy]]
-  * [[https://w3.cs.jmu.edu/spragunr/|Prof. Sprague]]
-  * [[https://hcientist.com/|Prof. Stewart]]
-  * [[https://w3.cs.jmu.edu/weikleda|Prof. Weikle]]
+## Participating Faculty
 
-===== Groups/Labs =====
+- [Prof. Bernstein](https://users.cs.jmu.edu/bernstdh/)
+- [Prof. Bowers](https://w3.cs.jmu.edu/bowersjc/)
+- [Prof. Fox](https://users.cs.jmu.edu/foxcj/Web/)
+- [Prof. Kirkpatrick](https://w3.cs.jmu.edu/kirkpams/index.shtml)
+- [Prof. Lam](https://w3.cs.jmu.edu/lam2mo/)
+- [Prof. Mayfield](https://w3.cs.jmu.edu/mayfiecs/)
+- [Prof. Molloy](https://w3.cs.jmu.edu/molloykp/)
+- [Prof. Sprague](https://w3.cs.jmu.edu/spragunr/)
+- [Prof. Stewart](https://hcientist.com/)
+- [Prof. Weikle](https://w3.cs.jmu.edu/weikleda)
 
-  * [[https://w3.cs.jmu.edu/lam2mo/lab.html|High Performance Analysis]]
+## Groups/Labs
 
-===== Active Projects =====
+- [High Performance Analysis](https://w3.cs.jmu.edu/lam2mo/lab.html)
 
-Here is a list of research projects conducted by JMU faculty members with students. 
+## Active Projects
+
+Here is a list of research projects conducted by JMU faculty members with students.
 
 Feel free to add your project here!
 
-==== Infill Generation for Additive Manufacturing Design ====
+### Infill Generation for Additive Manufacturing Design
 
 Additive manufacturing (3D-printing) techniques are enabling lighter, stronger, and more quickly designed industrial production. A 3D printed object is neither solid nor hollow, but instead is filled with a pattern of material called an infill. This project seeks to design new computational methods for generating infill patterns that allow for both stronger and lighter materials to be constructed, generally based on some user specified parameters or simulated stress data. For example, an airplane wing experiences more stress near its attachment to the fuselage than it does at the wingtip. Can we design an infill pattern for a 3D printed airplane wing that is both strong where the stress is highest, but lighter than a wing built using traditional methods?
 
-   * Faculty contact: [[ https://johncbowers.com | John C. Bowers ]]
-   * Papers:
-     * Journal paper (submitted): "Design optimization of a Graded Lattice Structure and its application to Additive Manufacturing"
-     * Conference paper: [[ https://www.osti.gov/biblio/1479756-graded-infill-structure-wind-turbine-blade-accounting-internal-stress-big-area-additive-manufacturing | "Graded Infill Structure of Wind Turbine Blade Accounting for Internal Stress in Big Area Additive Manufacturing" ]]
-     * Conference paper*: [[ https://dl.acm.org/citation.cfm?id=3092883 | "A framework for tool path optimization in fused filament fabrication." ]]
-     * Conference paper*: [[ https://www.researchgate.net/publication/324953513_An_integrated_design_approach_for_infill_patterning_of_fused_deposition_modeling_and_its_application_to_an_airfoil | "An Integrated Design Approach for Infill Patterning of Fused Deposition Modeling and its Application to An Airfoil." ]]
-     * //*Paper included JMU student authors.// 
-   * Status: Ongoing and looking for new students!
+* Faculty contact: [John C. Bowers](https://johncbowers.com)
+* Papers:
+    * Journal paper (submitted): "Design optimization of a Graded Lattice Structure and its application to Additive Manufacturing"
+    * Conference paper: ["Graded Infill Structure of Wind Turbine Blade Accounting for Internal Stress in Big Area Additive Manufacturing"](https://www.osti.gov/biblio/1479756-graded-infill-structure-wind-turbine-blade-accounting-internal-stress-big-area-additive-manufacturing)
+    * Conference paper*: ["A framework for tool path optimization in fused filament fabrication."](https://dl.acm.org/citation.cfm?id=3092883)
+    * Conference paper*: ["An Integrated Design Approach for Infill Patterning of Fused Deposition Modeling and its Application to An Airfoil."](https://www.researchgate.net/publication/324953513_An_integrated_design_approach_for_infill_patterning_of_fused_deposition_modeling_and_its_application_to_an_airfoil)
+    * //*Paper included JMU student authors.//
+* Status: Ongoing and looking for new students!
 
-==== MusicCPR ====
+### MusicCPR
 
-{{:department:screenshot_2024-09-20_at_12.37.35.png?direct&400|}}
+![MusicCPR Aural Demo as Student: Perform Melody Activity with interactive sheet music](screenshot_2024-09-20_at_12.37.35.png){width="400"}
 
-In collaboration with researchers, practitioners, and students of Computer Science (HCI, AI) and Music Education, we are developing a niche learning management system to support students and instructors in instrumental music education to have free access to engaging, evidence-based activities to improve their instruction and to broaden the perspective of instrumental music education. 
+In collaboration with researchers, practitioners, and students of Computer Science (HCI, AI) and Music Education, we are developing a niche learning management system to support students and instructors in instrumental music education to have free access to engaging, evidence-based activities to improve their instruction and to broaden the perspective of instrumental music education.
 
-  * Faculty contact: [[https://hcientist.com | Dr. Stewart]]
-  * Status: Ongoing and looking for new students!
+- Faculty contact: [Dr. Stewart](https://hcientist.com)
+- Status: Ongoing and looking for new students!
 
-[[Inactive Research Projects]]
+[Inactive Research Projects](inactive_research_projects.md)

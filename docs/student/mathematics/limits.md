@@ -1,59 +1,45 @@
-===== Limits =====
+# Limits
 
+## Introduction
 
+Most people know that there isn't a "biggest" number or a "smallest" number. If they thought about it, most people would also realize that there is no number "closest to zero". If I asked you to start listing small numbers, you'd probably start with 1/10 then go to 1/100, 1/1000, 1/10000, .... and quickly get the point. The question then arises of how one should talk about really, really big numbers or really, really small numbers? One way to do it is to use *limits*.
 
-==== Introduction ====
+## Sequences and Limits
 
+When using limits you ask yourself what happens as some number gets larger or what happens as some number gets smaller. In other words, you consider a *sequence* of events.
 
-Most people know that there isn't a "biggest" number or a "smallest" number.  If they thought about it, most people would also realize that there is no number "closest to zero".  If I asked you to start listing small numbers, you'd probably start with 1/10 then go to 1/100, 1/1000, 1/10000, ....  and quickly get the point.  The question then arises of how one should talk about really, really big numbers or really, really small numbers?  One way to do it is to use //limits//.
+If you don't understand, an example should clear things right up. What happens to the fraction $1/n$ as $n$ gets larger and larger? Well, starting at $n=1$ (and assuming that $n$ is an integer), as $n$ gets larger and larger we get a sequence of numbers $1/1, 1/2, 1/3, 1/4, ...$. Thus, what happens as $n$ gets larger and larger is that $1/n$ gets smaller and smaller. In fact, $1/n$ gets closer and closer to zero.
 
+Congratulations! You've just taken your first limit. How would you write this down? There are two ways. One way is to write: if $n \rightarrow \infty $ then $1/n \rightarrow 0$ (i.e., if $n$ grows without bound then $1/n$ goes to zero). Another way is to write:
 
-==== Sequences and Limits ====
+$$ lim_{n \rightarrow \infty} 1/n = 0 $$
 
+which says that the limit of $1/n$ as $n$ goes to infinity (i.e., as $n$ grows without bound) is zero.
 
-When using limits you ask yourself what happens as some number gets larger or what happens as some number gets smaller.  In other words, you consider a //sequence// of events.
+So, how do you talk about situations where some number is getting really large or really small? You talk about what happens "in the limit".
 
-
-If you don't understand, an example should clear things right up. What happens to the fraction \(1/n\) as \(n\) gets larger and larger?  Well, starting at \(n=1\) (and assuming that \(n\) is an integer), as \(n\) gets larger and larger we get a sequence of numbers \(1/1, 1/2, 1/3, 1/4, ...\).  Thus, what happens as \(n\) gets larger and larger is that \(1/n\) gets smaller and smaller.  In fact, \(1/n\) gets closer and closer to zero.
-
-Congratulations!  You've just taken your first limit.  How would you write this down?  There are two ways.  One way is to write: if \(n \rightarrow  \infty \) then \(1/n \rightarrow 0\) (i.e., if \(n\) grows without bound then \(1/n\) goes to zero). Another way is to write:
-
-|   \(lim_{n \rightarrow  \infty} 1/n = 0\)   |
-
-which says that the limit of \(1/n\) as \(n\) goes to infinity (i.e., as \(n\) grows without bound) is zero.
-
-So, how do you talk about situations where some number is getting really large or really small?  You talk about what happens "in the limit".
-
-
-==== An Example ====
-
+## An Example
 
 Suppose:
 
+$$ f(x) = \frac{1 - x^2}{1 - x} $$
 
-|   \(f(x) = \frac{1 - x^2}{1 - x}\)   |
+and you are interested in $lim_{x \rightarrow 1} f(x)$. You can't simply substitute 1 for $x$ since it would lead to a division by 0. One way to avoid this problem is to eliminate $1-x$ from the denominator which can be accomplished in this case by observing that:
 
-and you are interested in \(lim_{x \rightarrow 1} f(x)\).  You can't simply substitute 1 for \(x\) since it would lead to a division by 0.  One way to avoid this problem is to eliminate \(1-x\) from the denominator which can be accomplished in this case by observing that:
+$$ f(x) = \frac{1 - x^2}{1 - x} = (1 + x) $$
 
-|   \(f(x) = \frac{1 - x^2}{1 - x} = (1 + x)\)   |
+It now becomes clear that $lim_{x \rightarrow 1} f(x) = 2$.
 
-It now becomes clear that \(lim_{x \rightarrow 1} f(x) = 2\).
+## Formal Definition of a Limit of a Sequence
 
+Suppose $x_1$, $x_2$, ..., $x_n$ is a sequence of real numbers, then $L$ is the limit of the sequence if for each positive $\epsilon$ there is an $N$ such that for all $i \geq N$ we have $|x_i - L| \lt \epsilon$.
 
-==== Formal Definition of a Limit of a Sequence ====
-
-
-Suppose \(x_1\), \(x_2\), ..., \(x_n\) is a sequence of real numbers, then \(L\) is the limit of the sequence if for each positive \(\epsilon\) there is an \(N\) such that for all \(i \geq N\) we have \(|x_i - L| \lt \epsilon\).
-
-
-==== Finding Limits of Functions ====
-
+## Finding Limits of Functions
 
 There are a number of simple results/rules that make it very easy to find limits of functions.
 
-
-  - If \(f(x)=m x + b\) then \(lim_{x \rightarrow N}f = m N + b\)
-  - If \(f(x)=x^{k}\) then \(lim_{x \rightarrow N} f = N^{k}\)
-  - Given two functions of \(x\), \(f_{1}\) and  \(f_{2}\), with finite limits, \(L_{1}\) and \(L_{2}\) it follows that \(lim_{x \rightarrow N}(f_{1} + f_{2}) = L_{1} + L_{2}\)
-  - Given two functions of \(x\), \(f_{1}\) and  \(f_{2}\), with finite limits, \(L_{1}\) and \(L_{2}\) it follows that then \(lim_{x \rightarrow N}(f_{1} f_{2}) = L_{1} L_{2}\)
-  - (L'Hopital's Rule) Given two differentiable functions of \(x\), \(f_{1}\) and  \(f_{2}\), with infinite limits and derivatives \(f_{1}^{\prime}\) and \(f_{2}^{\prime}\), it follows that \(lim_{x \rightarrow \infty}(\frac{f_{1}}{f_{2}}) =  lim_{x \rightarrow \infty}(\frac{f_{1}^{\prime}}{f_{2}^{\prime}})\). 
+1.  If $f(x)=m x + b$ then $lim_{x \rightarrow N}f = m N + b$
+2.  If $f(x)=x^{k}$ then $lim_{x \rightarrow N} f = N^{k}$
+3.  Given two functions of $x$, $f_{1}$ and $f_{2}$, with finite limits, $L_{1}$ and $L_{2}$ it follows that $lim_{x \rightarrow N}(f_{1} + f_{2}) = L_{1} + L_{2}$
+4.  Given two functions of $x$, $f_{1}$ and $f_{2}$, with finite limits, $L_{1}$ and $L_{2}$ it follows that then $lim_{x \rightarrow N}(f_{1} f_{2}) = L_{1} L_{2}$
+5.  (L'Hopital's Rule) Given two differentiable functions of $x$, $f_{1}$ and $f_{2}$, with infinite limits and derivatives $f_{1}^{\prime}$ and $f_{2}^{\prime}$, it follows that $lim_{x \rightarrow \infty}(\frac{f_{1}}{f_{2}}) = lim_{x \rightarrow \infty}(\frac{f_{1}^{\prime}}{f_{2}^{\prime}})$.

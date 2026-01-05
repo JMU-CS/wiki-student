@@ -1,62 +1,62 @@
- 
-====== Changing Your Major ======
+# Changing Your Major
 
 **Planning**
 
-  * Review the degree requirements of any new major you are considering in the JMU Course Catalog: https://catalog.jmu.edu/index.php
+- Review the degree requirements of any new major you are considering in the JMU Course Catalog: <https://catalog.jmu.edu/index.php>
 
-  * You can find a clear overview of majors and links to their corresponding pages here: https://www.jmu.edu/academics/undergraduate/majors/index.shtml
+- You can find a clear overview of majors and links to their corresponding pages here: <https://www.jmu.edu/academics/undergraduate/majors/index.shtml>
 
-  * You can find online resources for explore majors here: https://www.jmu.edu/advising/majors/explore.shtml
+- You can find online resources for explore majors here: <https://www.jmu.edu/advising/majors/explore.shtml>
 
-  * If you’d like to meet with a **Exploratory Advisor**, someone who would have a more “big picture” view of majors as JMU, you can schedule that through MyMadison Connect in the "Available to Everyone" dropdown: https://jamesmadisonuniversity1.my.site.com/s/
+- If you’d like to meet with a **Exploratory Advisor**, someone who would have a more “big picture” view of majors as JMU, you can schedule that through MyMadison Connect in the "Available to Everyone" dropdown: <https://jamesmadisonuniversity1.my.site.com/s/>
 
-  * I strongly recommend your reach out to the advisor of the new major to discuss your transition. Sometimes they are listed in the Course Catalog; sometimes you have to search through the faculty page of the department. If you are unable to identify an advisor in the department, reach out to the departmental front office, departmental coordinator, office assistant, or (lastly) the department head. 
+- I strongly recommend your reach out to the advisor of the new major to discuss your transition. Sometimes they are listed in the Course Catalog; sometimes you have to search through the faculty page of the department. If you are unable to identify an advisor in the department, reach out to the departmental front office, departmental coordinator, office assistant, or (lastly) the department head.
 
 **Logistics**
 
-To declare a new major or change your degree can be done via MyMadison. I find the process confusing, so here are a couple of tutorials: 
-  * Major/Minor change [[https://www.jmu.edu/computing/ittraining/e-training/mymadison-student-change-declare-major/story_html5.html|Video tutorial]]
-  * Major/Minor change [[https://www.jmu.edu/computing/mymadison/tutorials/plan-change.shtml|Step-by-step Guide]]
+To declare a new major or change your degree can be done via MyMadison. I find the process confusing, so here are a couple of tutorials:
+
+- Major/Minor change [Video tutorial](https://www.jmu.edu/computing/ittraining/e-training/mymadison-student-change-declare-major/story_html5.html)
+- Major/Minor change [Step-by-step Guide](https://www.jmu.edu/computing/mymadison/tutorials/plan-change.shtml)
 
 **Feedback**
 
 If you have any feedback for the Computer Science department about the reason you have decided to leave the program, we very much want to discuss the details with you! Please contact your CS Advisor to talk about your experience.
 
-====== Switching from CS to IT ======
+## Switching from CS to IT
 
-There is a helpful overlap of our introductory CS courses and the new IT major. If you have decided not to stay in CS but would like to continue in a computing field, IT is a great option! 
+There is a helpful overlap of our introductory CS courses and the new IT major. If you have decided not to stay in CS but would like to continue in a computing field, IT is a great option!
 
-Overview of the IT curriculum: https://www.jmu.edu/cise/information-technology/academics/index.shtml
+Overview of the IT curriculum: <https://www.jmu.edu/cise/information-technology/academics/index.shtml>
 
 If you'd like to discuss details about the IT major, reach out to the IT Advisor, Ellen Hedrick, hedricme@jmu.edu
 
-====== Switching from CS to ISAT ======
+## Switching from CS to ISAT
 
-If you find you do not enjoy the in-the-weeds problem solving that CS demands, you might enjoy ISAT, which focuses on more high-level problem-solving. 
+If you find you do not enjoy the in-the-weeds problem solving that CS demands, you might enjoy ISAT, which focuses on more high-level problem-solving.
 
-Overview of the ISAT curriculum: https://www.jmu.edu/bsisat/academics/curriculum/overview/index.shtml
+Overview of the ISAT curriculum: <https://www.jmu.edu/bsisat/academics/curriculum/overview/index.shtml>
 
 If you'd like to discuss details about the ISAT major, reach out to the ISAT Advisor, Paul Henriksen, henrikpw@jmu.edu
-====== Switching from CS to CIS ======
 
-Here is a helpful comparison of the two programs: https://www.jmu.edu/cob/cis/academics/cis-vs-cs.shtml
+## Switching from CS to CIS
 
-**Note:** switching from CS to CIS is not just a change of major, but a change of degree (from a BS to a BBA). This means you will need to complete the Business Core. This can add more classes to your graduation requirements; however, the College of Business is good about offering summer classes so you will have the opportunity to catch up there. 
+Here is a helpful comparison of the two programs: <https://www.jmu.edu/cob/cis/academics/cis-vs-cs.shtml>
 
-Overview of the CIS Curriculum: https://www.jmu.edu/cob/cis/academics/index.shtml
+**Note:** switching from CS to CIS is not just a change of major, but a change of degree (from a BS to a BBA). This means you will need to complete the Business Core. This can add more classes to your graduation requirements; however, the College of Business is good about offering summer classes so you will have the opportunity to catch up there.
 
-If you are a Freshman or Sophomore CS student who is interested in switching to CIS, meet with the CIS Madison Advising Peer, Elliot Davis: https://www.jmu.edu/cob/asc/maps/index.shtml 
+Overview of the CIS Curriculum: <https://www.jmu.edu/cob/cis/academics/index.shtml>
 
-If you are a Junior or Senior CS student who is interested in switching to CIS, meet with one of the 4 COB advisors who assist with CIS: https://www.jmu.edu/cob/asc/advising/index.shtml
+If you are a Freshman or Sophomore CS student who is interested in switching to CIS, meet with the CIS Madison Advising Peer, Elliot Davis: <https://www.jmu.edu/cob/asc/maps/index.shtml>
 
+If you are a Junior or Senior CS student who is interested in switching to CIS, meet with one of the 4 COB advisors who assist with CIS: <https://www.jmu.edu/cob/asc/advising/index.shtml>
 
-====== Switching from CS to SMAD ======
+## Switching from CS to SMAD
 
-School of Media and Arts Design, Interactive Media Concentration: https://www.jmu.edu/smad/our-program/index.shtml#id
+School of Media and Arts Design, Interactive Media Concentration: <https://www.jmu.edu/smad/our-program/index.shtml#id>
 
-Curriculum Requirements: https://catalog.jmu.edu/preview_entity.php?catoid=50&ent_oid=4687
+Curriculum Requirements: <https://catalog.jmu.edu/preview_entity.php?catoid=50&ent_oid=4687>
 
-SMAD Advisor: Joe Loyacano, https://www.jmu.edu/smad/about-smad/our-people/loyacano-joe.shtml 
+SMAD Advisor: Joe Loyacano, <https://www.jmu.edu/smad/about-smad/our-people/loyacano-joe.shtml>
 
-SMAD FAQ: https://www.jmu.edu/smad/our-program/academic-advising.shtml
+SMAD FAQ: <https://www.jmu.edu/smad/our-program/academic-advising.shtml>

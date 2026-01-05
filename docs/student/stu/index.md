@@ -1,6 +1,6 @@
-===== stu =====
+# stu
 
-  - [[ student:stu:basics | stu Basics ]]
-  - [[ student:stu:ettiquette | stu Ettiquette ]]
-  - [[ student:stu:vscode | stu and VS Code ]]
-  - [[ student:stu:gdb | stu and GDB ]]
+1.  [stu Basics](basics.md)
+2.  [stu Ettiquette](ettiquette.md)
+3.  [stu and VS Code](vscode.md)
+4.  [stu and GDB](gdb.md)

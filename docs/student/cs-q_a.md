@@ -1,3 +1,5 @@
+# CS Q&A
+
 **Is there still a competitive coding club?**
 
 Yes! They meet on Fridays from 4-5pm in Eng/Geo 2204. Look on the clubs page on the wiki for more information! -- Riley Harbick
@@ -12,11 +14,11 @@ Students usually start taking CS electives their junior or senior year (it's fin
 
 CS Electives are a way to do a deep dive into a particular area (we offer three CS electives that focus on: web development, information security, Robotics/AI) or you can explore different areas of CS and get a wide range of experience.
 
-Dr. Buchholz will send out an advising newsletter to the listserv a week or so before enrollment that details the electives the CS department will be offering the following semester. We also update our "Anticipated Offerings" every year or so.  
+Dr. Buchholz will send out an advising newsletter to the listserv a week or so before enrollment that details the electives the CS department will be offering the following semester. We also update our "Anticipated Offerings" every year or so.
 
-- Page Normand, CS Advisor, normanap@jmu.edu
+\- Page Normand, CS Advisor, normanap@jmu.edu
 
-**What are some of your future career goals?** 
+**What are some of your future career goals?**
 
 I hope to someday be a CPO for a technology company. I really love being able to talk to the clients and stakeholders to figure out there problem, and translate it for a team of developers who will develop the solution. -- Riley Harbick
 
@@ -30,17 +32,16 @@ There is certainly no reason why you wouldn't ;).
 
 **Is there a best practice for finding student based internships? (A filter on handshake or similar?)**
 
-As far as best-practice for finding student internships--there are a number of places these can live. Handshake is by far the easiest place to start. We've also compiled a list of resources that are internship-specific for undergraduate students: https://www.jmu.edu/career/students/jobintern/identify/internship.shtml
+As far as best-practice for finding student internships--there are a number of places these can live. Handshake is by far the easiest place to start. We've also compiled a list of resources that are internship-specific for undergraduate students: <https://www.jmu.edu/career/students/jobintern/identify/internship.shtml>
 
-The Commonwealth STEM Industry Internship Program is always looking for CS majors. 
+The Commonwealth STEM Industry Internship Program is always looking for CS majors.
 
-I also really encourage students to attend both the CISE Career and Internship Fair as well as the Campus-Wide Career and Internship Fair. The list of attending organizations is in Handshake and students can create a short list of folks they would like to meet with by using filters such as "Computer Science" and/or "Internship". 
+I also really encourage students to attend both the CISE Career and Internship Fair as well as the Campus-Wide Career and Internship Fair. The list of attending organizations is in Handshake and students can create a short list of folks they would like to meet with by using filters such as "Computer Science" and/or "Internship".
 
-- Lindsey Scott, University Career Center, marti2le@jmu.edu
+\- Lindsey Scott, University Career Center, marti2le@jmu.edu
 
 **Are there any courses related to developing AI or is it just Machine Learning?**
 
 **Are there any CS classes that focus on cryptography or graph theory?**
 
-
-Have other questions you'd like us to address? Email them to normanap@jmu.edu 
+Have other questions you'd like us to address? Email them to normanap@jmu.edu

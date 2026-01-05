@@ -1,39 +1,42 @@
- 
-====== CS Sticker Contest======
- 
-Submit your design for our Third Annual CS sticker contest and you could win up to $75 and have your design printed and distributed to CS students! We’re offering prizes for 1st, 2nd, and 3rd place.
- 
+# CS Sticker Contest
+
+Submit your design for our Third Annual CS sticker contest and you could win up to \$75 and have your design printed and distributed to CS students! We’re offering prizes for 1st, 2nd, and 3rd place.
+
 Accepting submissions through **April 9th!**
- 
+
 We’re looking for students to design a sticker that reflects the spirit of the CS Department for the 22-23 year.
 Here are the details. Feel free to email me if you have any questions!
- 
+
 **Judging**
-  * CS faculty will select top 5 finalists and CS students will vote on the winners.
-  * All designs will be anonymous until winners are revealed.
- 
+
+- CS faculty will select top 5 finalists and CS students will vote on the winners.
+- All designs will be anonymous until winners are revealed.
+
 **Awards**
-  * First place: $75 prize and the sticker will be printed and distributed by the CS department
-  * Second place: $50 prize
-  * Third place: $25 prize
- 
+
+- First place: \$75 prize and the sticker will be printed and distributed by the CS department
+- Second place: \$50 prize
+- Third place: \$25 prize
+
 **Eligibility**
-  * To submit a design, the student must be currently enrolled in at least one CS course.
- 
+
+- To submit a design, the student must be currently enrolled in at least one CS course.
+
 **Design Specs**
-  * Design should reflect the spirit of the CS department for the 22-23 year
-  * Dimensions: circle, square, or 2:3 rectangle with a minimum width of 1000px
-  * Design must abide by copyright regulations
-  * No profanity or inappropriate content
-  * Optional: include “JMU,” “CS,” and “2023” in the design
-  * Optional: JMU branding, [[https://www.jmu.edu/identity/|https://www.jmu.edu/identity/]]
-  * Optional: CS Dept branding,[[ https://wiki.cs.jmu.edu/student/cs-branding/start| https://wiki.cs.jmu.edu/student/cs-branding/start]]
- 
+
+- Design should reflect the spirit of the CS department for the 22-23 year
+- Dimensions: circle, square, or 2:3 rectangle with a minimum width of 1000px
+- Design must abide by copyright regulations
+- No profanity or inappropriate content
+- Optional: include “JMU,” “CS,” and “2023” in the design
+- Optional: JMU branding, <https://www.jmu.edu/identity/>
+- Optional: CS Dept branding, <https://wiki.cs.jmu.edu/student/cs-branding/start>
+
 **Design Submissions**
-  * Send to Paige Normand, normanap@jmu.edu
-  * PNG of the design
-  * a short description of your inspiration/story for your design
-  * include what CS class(es) you are currently enrolled in
+
+- Send to Paige Normand, normanap@jmu.edu
+- PNG of the design
+- a short description of your inspiration/story for your design
+- include what CS class(es) you are currently enrolled in
 
 If you win the competition, I will need a vector version of the design for printing.
- 

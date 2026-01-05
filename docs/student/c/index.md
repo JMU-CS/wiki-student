@@ -1,6 +1,6 @@
-===== C/C++ =====
+# C/C++
 
-  - [[ student:c:gdb | GDB Quick Reference ]] (Debugging)
-  - [[ student:c:gpp | GPP Quick Reference ]] (Compiling and Linking)
-  - [[ student:c:make | make ]] (Building)
-  - For CS 261 students: [[https://w3.cs.jmu.edu/lam2mo/cs261_2019_08/02-compilation.html | Compilation Lab]]
+1.  [GDB Quick Reference](gdb.md) (Debugging)
+2.  [GPP Quick Reference](gpp.md) (Compiling and Linking)
+3.  [make](make.md) (Building)
+4.  For CS 261 students: [Compilation Lab](https://w3.cs.jmu.edu/lam2mo/cs261_2019_08/02-compilation.html)

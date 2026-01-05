@@ -1,65 +1,65 @@
-====== TA Hours ======
-[[department:ta-program:schedules|TA Program Schedules]]
+# TA Hours
 
-===== In-person TA Support =====
+[TA Program Schedules](ta-program/schedules/index.md)
+
+## In-person TA Support
 
 TAs are available in **King Hall room 248** for in-person support at the following times:
-  * **Sunday**: 3 pm - 9 pm
-  * **Monday/Tuesday/Thursday**: 5 pm - 9 pm
-  * **Wednesday**: **6:15pm** (updated from 6:00PM in Fall 2025) - 9 pm
 
-===== Online TA Hours =====
+- **Sunday**: 3 pm - 9 pm
+- **Monday/Tuesday/Thursday**: 5 pm - 9 pm
+- **Wednesday**: **6:15pm** (updated from 6:00PM in Fall 2025) - 9 pm
+
+## Online TA Hours
+
 TAs are available for virtual online support from **9 pm to 11 pm Sunday through Thursday**.
-For the an explanation of how to use “The Lab” during TA Hours, visit the [[ #how_to|How To section below]]. 
-==== Getting Started ====
-You can watch a [[https://youtu.be/1T6LyuqD9pk|Tutorial Video]] for getting started with TA hours. 
-\\ 
-\\
-**Team Code:** 2266aqe\\
-\\
-You will be able to join the team - JMU CS TA Lab Hours - and you will want to choose The Lab channel on the left. In the channel there will be a post for the "Help Queue" with a current date and time. You will enter your Name, Class and Professor, whether you want a text chat, phone, or video help response, and a short description of your problem. When a Teaching Assistant (TA) is available they will react to your post with a smiling face. You can then expect shortly a response in the format you requested in Teams. 
+For the an explanation of how to use “The Lab” during TA Hours, visit the [How To section below](#how-to).
+
+### Getting Started
+
+You can watch a [Tutorial Video](https://youtu.be/1T6LyuqD9pk) for getting started with TA hours.
+
+**Team Code:** 2266aqe
+
+You will be able to join the team - JMU CS TA Lab Hours - and you will want to choose The Lab channel on the left. In the channel there will be a post for the "Help Queue" with a current date and time. You will enter your Name, Class and Professor, whether you want a text chat, phone, or video help response, and a short description of your problem. When a Teaching Assistant (TA) is available they will react to your post with a smiling face. You can then expect shortly a response in the format you requested in Teams.
 
 In a Teams or Zoom Video chat, you and TAs will be able to share screens, annotate suggestions, and talk "in private". Please note that TAs will help each student in 10 minute increments and they will not be writing your code for you. Instead they will be helping you learn to write code yourself and helping you to navigate any technical problems.
 
+### How To
 
-==== How To ====
+#### Procedures for Attending CS TA Lab Hours
 
-=== Procedures for Attending CS TA Lab Hours ===
+First, you will need to add yourself to the JMU CS TA Lab Hours Team in Microsoft Teams. You should be able to get the Teams application as part of your student software package from JMU. If you have not installed this software you can find it here: <https://www.jmu.edu/computing/communication-and-collaboration/microsoft-teams.shtml>
 
-First, you will need to add yourself to the JMU CS TA Lab Hours Team in Microsoft Teams. You should be able to get the Teams application as part of your student software package from JMU. If you have not installed this software you can find it here: https://www.jmu.edu/computing/communication-and-collaboration/microsoft-teams.shtml 
-
-Once you have installed the Teams software you can add yourself to a team by clicking https://teams.microsoft.com/l/team/19%3aLkIjGrZ4ynvoXXXaul4clx6B4XBrMf2sgnGWr6BccJE1%40thread.tacv2/conversations?groupId=c9bc8905-72e0-4025-b152-8346239b5c16&tenantId=e9333c23-cac7-42f4-9989-5cee3d4a79c0 
-
+Once you have installed the Teams software you can add yourself to a team by clicking <https://teams.microsoft.com/l/team/19%3aLkIjGrZ4ynvoXXXaul4clx6B4XBrMf2sgnGWr6BccJE1%40thread.tacv2/conversations?groupId=c9bc8905-72e0-4025-b152-8346239b5c16&tenantId=e9333c23-cac7-42f4-9989-5cee3d4a79c0>
 
 After you are on the JMU CS TA Lab Hours Team, click on the Posts tab at the top. You should now be able to see all the posts for lab hours. Find the particular post that has the current date and time and add yourself to the TA Lab Queue by replying to this post with the requested information, see the following example
 
-<code>
-name: Michael
-pronouns: he/him
-course: CS 159
-instructor: Dr. Stewart
-mode pref: screenshare
-problem: With so much drama on the P-A-3,
-it's kinda hard bein' a student who's new to Teams.
-but i, somehow some way
-need come up with a summ'rizing bit, to get helped right away
-well.i. read-a-little-spec' for the de-tails (yeah)
-and, made a few notes as I skimmed.then (yeah)
-two reads in mornin' and my head's still bumping 'cause my plan ain't honed
-I got some files downloaded and in the fold
-but they ain't compilin' and I'm left moanin'
-</code>
+    name: Michael
+    pronouns: he/him
+    course: CS 159
+    instructor: Dr. Stewart
+    mode pref: screenshare
+    problem: With so much drama on the P-A-3,
+    it's kinda hard bein' a student who's new to Teams.
+    but i, somehow some way
+    need come up with a summ'rizing bit, to get helped right away
+    well.i. read-a-little-spec' for the de-tails (yeah)
+    and, made a few notes as I skimmed.then (yeah)
+    two reads in mornin' and my head's still bumping 'cause my plan ain't honed
+    I got some files downloaded and in the fold
+    but they ain't compilin' and I'm left moanin'
 
 The TAs will come to the queue when available and react to your reply with a smiling face when they are ready to help you. Then they will either Chat, Phone, or Video you directly in Teams depending on what you have asked them to do. Normally a TA will spend approximately 10 minutes with you before they go on to help another student. You should continue to work on your problem for at least a few minutes on your own and if you still need help, you can sign up again at the bottom of the queue. Once a TA has helped you for at least 10 minutes they will react to your reply in the queue with a thumbs up to indicate you have been helped. This way you will know how far down in the queue you are.
 
-Note that TAs are taught to coach you rather than write code for you. It is not their job to help you finish your homework, lab or coding assignment. Rather it is their job to help you learn to do these things yourself and help you get software installed. They will often give you a different example that uses similar concepts or give you hints. Please be respectful of their efforts to help you. Ask more questions and experiment yourself. 
+Note that TAs are taught to coach you rather than write code for you. It is not their job to help you finish your homework, lab or coding assignment. Rather it is their job to help you learn to do these things yourself and help you get software installed. They will often give you a different example that uses similar concepts or give you hints. Please be respectful of their efforts to help you. Ask more questions and experiment yourself.
 
-== Summary ==
-  - Put your Name, Class and Professor, Chat/Phone/Video response and Problem 
-    * **Example:** ''Alex Johnson, CS149-Chao, Video, getting index out of bounds error''
-  - Teams Reactions:
-    - ''Smiley face'' = being helped (not laughing, smiling in the most welcoming way)
-    - ''Thumbs up'' = has been helped
-    - **Note:** Queue of helped students will be deleted at the end of shift by the Lead TA
-  - Students other than TAs should not comment on the queue in the Lab. 
+#### Summary
 
+1.  Put your Name, Class and Professor, Chat/Phone/Video response and Problem
+    - **Example:** `Alex Johnson, CS149-Chao, Video, getting index out of bounds error`
+2.  Teams Reactions:
+    1.  `Smiley face` = being helped (not laughing, smiling in the most welcoming way)
+    2.  `Thumbs up` = has been helped
+    3.  **Note:** Queue of helped students will be deleted at the end of shift by the Lead TA
+3.  Students other than TAs should not comment on the queue in the Lab.

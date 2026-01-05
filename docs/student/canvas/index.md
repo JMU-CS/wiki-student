@@ -1,10 +1,11 @@
-===== Canvas =====
+# Canvas
 
-=== Scanning a Document for Uploading ===
-    * [[https://support.apple.com/en-us/HT210336|scanning a document on iOS]]
-    * [[https://www.technipages.com/scan-documents-android-camera|scanning a document on android]]
-    * The [[ https://www.lib.jmu.edu/printing/ | library also has scanners. ]]
+## Scanning a Document for Uploading
 
-=== The Canvas Gradebook ===
+* [scanning a document on iOS](https://support.apple.com/en-us/HT210336)
+* [scanning a document on android](https://www.technipages.com/scan-documents-android-camera)
+* [The library also has scanners.](https://www.lib.jmu.edu/printing/)
 
-[[student:canvas:calculations | Shortcomings of the Total Grade Calculation ]]
+## The Canvas Gradebook
+
+* [Shortcomings of the Total Grade Calculation](calculations.md)

@@ -1,105 +1,99 @@
-{{:student:jmu-computer_science-horiz-purple.png?400|}}
+# IT Start
 
-===== Information for IT Major Students =====
+## Information for IT Major Students
 
-In addition to using this page to find information, you can search the Wiki using the search field on the left or using a search engine (e.g., Google, DuckDuckGo, Bing) by including ''site:wiki.cs.jmu.edu'' with your search terms.
+In addition to using this page to find information, you can search the Wiki using the search field on the left or using a search engine (e.g., Google, DuckDuckGo, Bing) by including `site:wiki.cs.jmu.edu` with your search terms.
 
+### IT Curriculum
 
-==== IT Curriculum ====
-
-Curriculum & Advising\\
-TODO: Schedules\\
-TODO: Curriculum\\
-TODO: Advising\\
+Curriculum & Advising  
+TODO: Schedules  
+TODO: Curriculum  
+TODO: Advising  
 TODO: Changing Majors
 
-Enrollment\\
-[[department/waitlist/start| Using the Waitlist Correctly]]\\
+Enrollment  
+[Using the Waitlist Correctly](../department/waitlist/index.md)  
+Students taking CS 149 or IT 160  
+[First Year Advising FAQ](../department/fya/index.md)  
+IT Seniors  
+TODO: IT Graduation Requirements  
+[Graduation Process and Forms](../department/graduation.md)  
 
-Students taking CS 149 or IT 160\\
-[[department:fya:start| First Year Advising FAQ]]\\
+Scholarships  
+TODO: IT Scholarships  
 
-IT Seniors\\
-TODO: IT Graduation Requirements\\
-[[department:graduation| Graduation Process and Forms ]]\\
+### Start-up Guides
 
+- TODO: IT Success Guide
+- TODO: IT First-Year Start-up Guide
+- [CS149 Start-up Guide](cs149startup.md)
+- [First Year Finals Guide](firstyearfinals.md)
 
-Scholarships\\
-TODO: IT Scholarships\\
+### University/Department-Specific Resources
 
+- [Building Maps](building_maps.md) (King Hall and EnGeo)
+- [Clubs](clubs.md)
+- [Cluster](cluster.md)
+- [Computer Labs](../department/computer_labs/index.md)
+- TODO: IT Listserv
+- TODO: IT Faculty Office Hours
+- [Free Software](freesoftware.md)
+- [Gradescope](gradescope/index.md)
+- TODO: IT Honors
+- [Library Resources](https://jmu.libwizard.com/f/compsci-guide-basic) (including off-campus access info)
+- [Remote Access](../department/remote_access.md)
+- [Research Seminar Talks](../department/cs_research_seminar_talks.md)
+- [Student Server](stu/index.md) (stu.cs.jmu.edu)
+- [CS TA Hours](../department/cs-success.md)
+- TODO: IT TA Hours?
+- [Undergraduate Research](../department/research.md)
+- [Virtual Machine](vm.md)
+- [VPN](vpn.md)
+- [Wireless](wireless.md)
 
-==== Start-up Guides ====
+### Technical Topics
 
-  * TODO: IT Success Guide
-  * TODO: IT First-Year Start-up Guide
-  * [[student:cs149startup:start | CS149 Start-up Guide ]]
-  * [[student:firstyearfinals:start | First Year Finals Guide ]]
+- [C/C++](c/index.md)
+- [Canvas](canvas/index.md)
+- [Checkstyle](checkstyle/index.md)
+- [Command Line Help](https://ss64.com/)
+- [Eclipse](eclipse/index.md)
+- [gcov/lcov](gcov/index.md)
+- [GitHub for Personal Use](personalgithub/index.md)
+- [Java](java/index.md)
+- [jGRASP](jgrasp/index.md)
+- [JUnit](junit/index.md)
+- [KDiff3](kdiff.md)
+- [MacOS Setup for Developers](macdev.md)
+- [Mathematical Foundations](mathematics/index.md)
+- [Mounting Remote Directories Locally](utilities/sshfs.md)
+- [Operating System Utilities](utilities/index.md)
+- [Managing your Personal Space of Information (Ψ)](psi.md)
+- [Python Virtual Environments](python/virtualenv.md)
+- [ScrumBoard](scrumboard.md)
+- [scrumj](scrumj/index.md)
+- [SSH Key Pairs](utilities/start/keypairs.md)
+- [Typographic Conventions](typographic-conventions.md)
+- [VisualParadigm](visualparadigm/index.md)
+- [VivifyScrum](vivifyscrum/index.md)
+- [Web Browsers](web_browsers.md)
+- [Web Development](webdev.md)
+- [XML](xml/index.md)
+- [.zip Files](zip/index.md)
 
-==== University/Department-Specific Resources ====
+### Community
 
-  * [[Building Maps]] (King Hall and EnGeo)
-  * [[student:clubs:start | Clubs]]
-  * [[student:cluster:start | Cluster ]]
-  * [[department:computer_labs:start| Computer Labs ]]
-  * TODO: IT Listserv
-  * TODO: IT Faculty Office Hours
-  * [[student:freesoftware:start | Free Software ]]
-  * [[student:gradescope:start | Gradescope ]]
-  * TODO: IT Honors
-  * [[https://jmu.libwizard.com/f/compsci-guide-basic|Library Resources]] (including off-campus access info)
-  * [[department:remote_access:start|Remote Access]]
-  * [[department:cs_research_seminar_talks|Research Seminar Talks]]
-  * [[student:stu:start | Student Server]] (stu.cs.jmu.edu)
-  * [[department:cs-success:start| CS TA Hours ]]
-  * TODO: IT TA Hours?
-  * [[department:research| Undergraduate Research ]]
-  * [[student:vm:start | Virtual Machine ]]
-  * [[student:VPN:start | VPN ]]
-  * [[student:wireless:start | Wireless ]]
+- TODO: IT Sticker Contest
+- [IT Ambassadors](https://www.jmu.edu/cise/information-technology/people/ambassadors/index.shtml)
+- [CISE Career & Internship Fair](career-fair.md)
+- [JMU CS Branding Resources](cs-branding/index.md)
 
+### Etiquette
 
-==== Technical Topics ====
-
-  * [[student:c:start | C/C++ ]]
-  * [[student:canvas:start | Canvas ]]
-  * [[student:checkstyle:start | Checkstyle ]]
-  * [[https://ss64.com/ | Command Line Help ]]
-  * [[student:eclipse:start | Eclipse ]]
-  * [[student:gcov:start | gcov/lcov ]]
-  * [[student:personalgithub:start | GitHub for Personal Use ]] 
-  * [[student:java:start | Java ]]
-  * [[student:jgrasp:start | jGRASP ]]
-  * [[student:junit:start | JUnit ]]
-  * [[student:kdiff:start | KDiff3 ]]
-  * [[student:macdev:start | MacOS Setup for Developers ]]
-  * [[student:mathematics:start | Mathematical Foundations ]]
-  * [[student:utilities:sshfs | Mounting Remote Directories Locally ]]
-  * [[student:utilities:start | Operating System Utilities ]]
-  * [[student:psi:start | Managing your Personal Space of Information (Ψ) ]]
-  * [[student:python:virtualenv|Python Virtual Environments]]
-  * [[student:scrumboard:start | ScrumBoard ]]
-  * [[student:scrumj:start | scrumj ]]
-  * [[student:utilities:start:keypairs | SSH Key Pairs ]]
-  * [[student:typographic-conventions:start | Typographic Conventions ]]
-  * [[student:visualparadigm:start | VisualParadigm ]]
-  * [[student:vivifyscrum:start | VivifyScrum ]]
-  * [[student:web_browsers:start | Web Browsers ]]
-  * [[student:webdev:start | Web Development ]]
-  * [[student:xml:start | XML ]]
-  * [[student:zip:start | .zip Files ]]
-
-
-==== Community ====
-  * TODO: IT Sticker Contest
-  * [[https://www.jmu.edu/cise/information-technology/people/ambassadors/index.shtml|IT Ambassadors]]
-  * [[student:career-fair:start|CISE Career & Internship Fair]]
-  * [[student:cs-branding:start|JMU CS Branding Resources]]
-  
-==== Etiquette ====
-
-  - You must be logged-in (using your JMU email address) to make additions/changes.
-  - This wiki is not moderated. So, please be sure that your additions/changes are correct before you post them.
-  - Include an edit summary for any major change.
-  - Though wikis are searchable, they are much easier to use if they are organized hierarchically. So, please organize additions appropriately. 
-  - Students do not by default have permission to upload images or files. Ambassadors and TAs should have this permission, and other regular maintainers can apply for this permission by emailing Dr. Lam.
-  - Students also do not have permission to delete pages or files. If you would like to request a removal, please email Dr. Lam.
+1.  You must be logged-in (using your JMU email address) to make additions/changes.
+2.  This wiki is not moderated. So, please be sure that your additions/changes are correct before you post them.
+3.  Include an edit summary for any major change.
+4.  Though wikis are searchable, they are much easier to use if they are organized hierarchically. So, please organize additions appropriately.
+5.  Students do not by default have permission to upload images or files. Ambassadors and TAs should have this permission, and other regular maintainers can apply for this permission by emailing Dr. Lam.
+6.  Students also do not have permission to delete pages or files. If you would like to request a removal, please email Dr. Lam.

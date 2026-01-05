@@ -1,37 +1,32 @@
-====== Computer Science Curriculum ======
+# Computer Science Curriculum
 
 The following resources will help you determine which classes you need to take and when you should take them.
 
-==== Requirements ====
+## Requirements
 
-See the JMU Catalog for the official [[https://catalog.jmu.edu/preview_program.php?catoid=54&poid=23356 | Major Requirements]].
+See the JMU Catalog for the official [Major Requirements](https://catalog.jmu.edu/preview_program.php?catoid=54&poid=23356).
 
-See the JMU Catalog for the official [[https://catalog.jmu.edu/content.php?filter%5B27%5D=CS&filter%5B29%5D=&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=51&expand=&navoid=2659&search_database=Filter#acalog_template_course_filter | Course Descriptions]].
+See the JMU Catalog for the official [Course Descriptions](https://catalog.jmu.edu/content.php?filter%5B27%5D=CS&filter%5B29%5D=&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=51&expand=&navoid=2659&search_database=Filter#acalog_template_course_filter).
 
-
-
-==== Prerequisites ====
+## Prerequisites
 
 You can view the prerequisite structure in our
-[[https://wiki.cs.jmu.edu/_media/department/curriculum/jmu_cs_curriculum.pdf|prerequisite tree]]
+[prerequisite tree](jmu_cs_curriculum.pdf)
 
+## Curriculum Checklists and Plan of Study
 
-==== Curriculum Checklists and Plan of Study ====
+The example [curriculum checklists](https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/index.shtml#plan) on the CS website illustrate various ways to fulfill CS requirements.
 
-The example [[https://www.jmu.edu/cise/cs/academics/undergraduate/curriculum/index.shtml#plan|curriculum checklists]] on the CS website illustrate various ways to fulfill CS requirements.
+The JMU Course Catalog has a [Sample Plan of Study](https://catalog.jmu.edu/preview_program.php?catoid=51&poid=21773&hl)
 
-The JMU Course Catalog has a [[https://catalog.jmu.edu/preview_program.php?catoid=51&poid=21773&hl|Sample Plan of Study]]
-
-==== CS Advising Canvas Site ====
+## CS Advising Canvas Site
 
 All CS Advising information and resources are on the CS Advising Canvas site.
 
 All declared majors and minors will be maintained as members of the site.
 
-You are welcome to self-enroll here: https://canvas.jmu.edu/enroll/7PDLY6
+You are welcome to self-enroll here: <https://canvas.jmu.edu/enroll/7PDLY6>
 
+## Additional Advice (work in progress)
 
-==== Additional Advice (work in progress) ====
-
-* [[department:advising-dualmath| Pairing a Math Major or Minor with CS]]\\
-
+* [Pairing a Math Major or Minor with CS](../advising-dualmath.md)

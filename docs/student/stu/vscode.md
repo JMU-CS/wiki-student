@@ -1,79 +1,84 @@
-====== Visual Studio Code on stu ======
+# Visual Studio Code on stu
 
-===== Links to video tutorials by Dr. Lam =====
-  * Video 1 (password-less access and remote SSH extension setup): https://youtu.be/-RBHz-Ep6Y0
-  * Video 2 (C/C++ debugging setup and basic Git, mainly for CS 261): https://youtu.be/WQTwtnrk8hc
+## Links to video tutorials by Dr. Lam
 
-===== Quick reference ======
+- Video 1 (password-less access and remote SSH extension setup): <https://youtu.be/-RBHz-Ep6Y0>
+- Video 2 (C/C++ debugging setup and basic Git, mainly for CS 261): <https://youtu.be/WQTwtnrk8hc>
+
+## Quick reference
 
 These instructions are for Windows machines, and cover the same material as the Video 1 linked above. On Macs, use Terminal instead of PowerShell, TextEdit instead of Notepad, and Finder instead of File Explorer. On Linux, use whatever terminal, text editor, and file explorer come with your desktop distribution.
 
-1. Verify your eID/password in PowerShell (replace "''EID''" with your eID):
-  ssh EID@stu.cs.jmu.edu
+1\. Verify your eID/password in PowerShell (replace "`EID`" with your eID):
 
-Your password may not appear as you press keys and that's fine – just type your password and press Enter! Once it succeeds, use the ''exit'' command or restart PowerShell to get back to your local machine. If your account seems to be locked out but you can still access Canvas and MyMadison, contact the system administrators about getting your account unlocked. If you can't even get into Canvas or MyMadison, go to the JMU IT help desk.
+    ssh EID@stu.cs.jmu.edu
 
-2. Generate a key pair in PowerShell:
-  ssh-keygen -t ed25519
+Your password may not appear as you press keys and that's fine – just type your password and press Enter! Once it succeeds, use the `exit` command or restart PowerShell to get back to your local machine. If your account seems to be locked out but you can still access Canvas and MyMadison, contact the system administrators about getting your account unlocked. If you can't even get into Canvas or MyMadison, go to the JMU IT help desk.
 
-3. Set up an SSH configuration. Using a file explorer, open the "''.ssh''" subfolder inside your home directory (usually ''C:\Users\YourName'' on Windows, ''/Users/YourName'' on Macs, and ''/home/YourName'' on most Linux machines). If it doesn't already exist, create a text file called ''config'' in that folder, with the following contents (again, replace "''EID''" with your eID):
+2\. Generate a key pair in PowerShell:
 
-  Host stu
-      Hostname stu.cs.jmu.edu
-      User EID
+    ssh-keygen -t ed25519
 
-On Windows, you may need to show hidden files and/or file extensions using the View menu in File Explorer. You may need to manually remove the "''.txt''" by renaming the file with the file extensions enabled. It will warn you about this -- go ahead and do it.
+3\. Set up an SSH configuration. Using a file explorer, open the "`.ssh`" subfolder inside your home directory (usually `C:\Users\YourName` on Windows, `/Users/YourName` on Macs, and `/home/YourName` on most Linux machines). If it doesn't already exist, create a text file called `config` in that folder, with the following contents (again, replace "`EID`" with your eID):
 
-**WARNING:** This is a non-trivial operation if you've never done anything like it before, and there are many details that need to be exactly right. If you encounter issues or it doesn't seem to be working, visit TA hours for help.
+    Host stu
+        Hostname stu.cs.jmu.edu
+        User EID
 
-4. Verify quicker access in PowerShell:
-  ssh stu
-
-It will still prompt you for your password at this point. Just log in and ''exit'' again or just press ''Ctrl-C'' to interrupt or close PowerShell.
-
-5. (if needed) Install VS Code from [[https://code.visualstudio.com]].
-
-6. Install extension(s) by opening the Extensions tab (icon w/ boxes at the bottom of the tab strip on the left-hand side). Install the “Remote SSH” extension by Microsoft. If you are in CS 261 or CS 432, you should also install the “Makefile Tools” extension by Microsoft.
-
-7. Connect to ''stu'' in VS Code. Click the little green lightning icon in the lower-left corner of the window or press ''Ctrl-Shift-P'', then choose the “Connect Current Window to Host” option from the menu at the top. Choose the "stu" option. If prompted for the machine type, choose "Linux".
-
-8. Copy your public key to stu using VS Code. You will need to copy the entire line of text from the ''id_ed25519.pub'' file in the ''.ssh'' folder on your local machine into a file called ''authorized_keys'' in the ''.ssh'' folder on ''stu''. You may need to create the ''.ssh'' folder and/or the ''authorized_keys'' file on ''stu''. If you already have an ''authorized_keys'' file, do not delete or overwrite it; just add the new line to the end.
+On Windows, you may need to show hidden files and/or file extensions using the View menu in File Explorer. You may need to manually remove the "`.txt`" by renaming the file with the file extensions enabled. It will warn you about this -- go ahead and do it.
 
 **WARNING:** This is a non-trivial operation if you've never done anything like it before, and there are many details that need to be exactly right. If you encounter issues or it doesn't seem to be working, visit TA hours for help.
 
-9. Verify password-less access in PowerShell:
-  ssh stu
+4\. Verify quicker access in PowerShell:
 
-10. Verify password-less access in VS Code
+    ssh stu
 
-===== Visual Studio Code, Generally =====
-Often abbreviated as "vscode", Visual Studio Code is an example of an Integrated Development Environment (IDE) and has a Graphical User Interface (GUI). It has a basic configuration and then relies on extensions and settings (preferences for the IDE as a whole, the extensions, and for specific projects) to support pretty much any kind (language/platform/toolset) of software development. Another commonly used IDE is [[https://wiki.cs.jmu.edu/student/eclipse/start|Eclipse]].
+It will still prompt you for your password at this point. Just log in and `exit` again or just press `Ctrl-C` to interrupt or close PowerShell.
 
-==== Extensions ====
-  * out of the box it's a great plaintext text editor with at least syntax-highlighting support for several languages
-  * add extensions to add support for other languages, and/or better support for those languages
+5\. (if needed) Install VS Code from <https://code.visualstudio.com>.
 
-==== Preferences/Settings ====
-Like many apps, vscode facilitates customization of its features through configuration options referred to as "settings", much like the "preferences" options supported by many apps. vscode distinguishes between [[https://code.visualstudio.com/docs/configure/settings|user (global) settings and workspace settings]]
-  * maybe you'd like to [[https://code.visualstudio.com/docs/configure/settings-sync?originUrl=%2Fdocs%2Fconfigure%2Fsettings | sync your settings]] from laptop, to lab machine, to... 
-  * in many cases you may want to [[https://code.visualstudio.com/docs/supporting/FAQ#_can-i-disable-ai-functionality-in-vs-code|disable the AI features of vscode]] to prevent them from undercutting your learning
+6\. Install extension(s) by opening the Extensions tab (icon w/ boxes at the bottom of the tab strip on the left-hand side). Install the “Remote SSH” extension by Microsoft. If you are in CS 261 or CS 432, you should also install the “Makefile Tools” extension by Microsoft.
 
-==== Language Support ====
+7\. Connect to `stu` in VS Code. Click the little green lightning icon in the lower-left corner of the window or press `Ctrl-Shift-P`, then choose the “Connect Current Window to Host” option from the menu at the top. Choose the "stu" option. If prompted for the machine type, choose "Linux".
 
-If we're talking human language, [[https://code.visualstudio.com/docs/configure/locales?originUrl=%2Fdocs%2Fconfigure%2Flocales|they got you!]]
+8\. Copy your public key to stu using VS Code. You will need to copy the entire line of text from the `id_ed25519.pub` file in the `.ssh` folder on your local machine into a file called `authorized_keys` in the `.ssh` folder on `stu`. You may need to create the `.ssh` folder and/or the `authorized_keys` file on `stu`. If you already have an `authorized_keys` file, do not delete or overwrite it; just add the new line to the end.
 
-but we're often talking [[https://code.visualstudio.com/docs/languages/overview|programming languages]], and specifically it's often helpful to [[https://code.visualstudio.com/docs/languages/overview#_change-the-language-for-the-selected-file|tell the app specifically which language you want it to use]]
+**WARNING:** This is a non-trivial operation if you've never done anything like it before, and there are many details that need to be exactly right. If you encounter issues or it doesn't seem to be working, visit TA hours for help.
 
-==== Workspaces ====
-  * [[https://code.visualstudio.com/docs/editing/workspaces/workspaces| vscode has a feature called workspaces]] which are a collection of "root" directories (called either single-root if there's only one and "multi-root" otherwise) and some preferences can be set for when you open these
+9\. Verify password-less access in PowerShell:
 
-==== git in vscode ====
+    ssh stu
 
+10\. Verify password-less access in VS Code
 
+## Visual Studio Code, Generally
 
+Often abbreviated as "vscode", Visual Studio Code is an example of an Integrated Development Environment (IDE) and has a Graphical User Interface (GUI). It has a basic configuration and then relies on extensions and settings (preferences for the IDE as a whole, the extensions, and for specific projects) to support pretty much any kind (language/platform/toolset) of software development. Another commonly used IDE is [Eclipse](../eclipse/index.md).
 
-==== debugging in vscode ====
+### Extensions
 
+- out of the box it's a great plaintext text editor with at least syntax-highlighting support for several languages
+- add extensions to add support for other languages, and/or better support for those languages
 
+### Preferences/Settings
 
-==== checkstyle and formatters in vscode ====
+Like many apps, vscode facilitates customization of its features through configuration options referred to as "settings", much like the "preferences" options supported by many apps. vscode distinguishes between [user (global) settings and workspace settings](https://code.visualstudio.com/docs/configure/settings)
+
+- maybe you'd like to [sync your settings](https://code.visualstudio.com/docs/configure/settings-sync?originUrl=%2Fdocs%2Fconfigure%2Fsettings) from laptop, to lab machine, to...
+- in many cases you may want to [disable the AI features of vscode](https://code.visualstudio.com/docs/supporting/FAQ#_can-i-disable-ai-functionality-in-vs-code) to prevent them from undercutting your learning
+
+### Language Support
+
+If we're talking human language, [they got you!](https://code.visualstudio.com/docs/configure/locales?originUrl=%2Fdocs%2Fconfigure%2Flocales)
+
+but we're often talking [programming languages](https://code.visualstudio.com/docs/languages/overview), and specifically it's often helpful to [tell the app specifically which language you want it to use](https://code.visualstudio.com/docs/languages/overview#_change-the-language-for-the-selected-file)
+
+### Workspaces
+
+- [vscode has a feature called workspaces](https://code.visualstudio.com/docs/editing/workspaces/workspaces) which are a collection of "root" directories (called either single-root if there's only one and "multi-root" otherwise) and some preferences can be set for when you open these
+
+### git in vscode
+
+### debugging in vscode
+
+### checkstyle and formatters in vscode

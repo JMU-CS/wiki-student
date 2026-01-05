@@ -1,35 +1,35 @@
-====== Refund Information ======
+# Refund Information
 
-Details can be found here: https://www.jmu.edu/ubo/faq-Spring-2020.shtml
+Details can be found here: <https://www.jmu.edu/ubo/faq-Spring-2020.shtml>
 
-From the email distributed to all students on March 23, 2020. See full list of official [[https://www.jmu.edu/news/covid-19-faqs.shtml|Covid-19 updates]].
+From the email distributed to all students on March 23, 2020. See full list of official [Covid-19 updates](https://www.jmu.edu/news/covid-19-faqs.shtml).
 
-====== Fees for online Summer 2020 classes ======
- 
-Fees will be reduced by 50%. 
+## Fees for online Summer 2020 classes
 
-As previously announced, the university will hold all classes for the Summer 2020 semester online. We recognize that some students who were not planning to take classes this summer, now need or want to take summer classes to continue their academic progress. Because of this, the university is reducing the online fee for all students from 50 dollars per credit hour, to 25 dollars per credit hour, resulting in a $75 savings for a standard three credit course. 
+Fees will be reduced by 50%.
 
-This change applies to fees for the Summer 2020 semester only. Tuition rates still apply. See full [[https://www.jmu.edu/ubo/rates-summer.shtml|Summer semester tuition rates]]   
+As previously announced, the university will hold all classes for the Summer 2020 semester online. We recognize that some students who were not planning to take classes this summer, now need or want to take summer classes to continue their academic progress. Because of this, the university is reducing the online fee for all students from 50 dollars per credit hour, to 25 dollars per credit hour, resulting in a \$75 savings for a standard three credit course.
 
-====== Registration for Fall 2020 moved back. ======
+This change applies to fees for the Summer 2020 semester only. Tuition rates still apply. See full [Summer semester tuition rates](https://www.jmu.edu/ubo/rates-summer.shtml)
 
-Registration for Fall 2020 semester will begin on April 21 for juniors; April 22 for sophomores; and April 23 for freshmen. Beginning April 8, students can check MyMadison to view their updated Fall 2020 enrollment appointment. 
+## Registration for Fall 2020 moved back.
 
+Registration for Fall 2020 semester will begin on April 21 for juniors; April 22 for sophomores; and April 23 for freshmen. Beginning April 8, students can check MyMadison to view their updated Fall 2020 enrollment appointment.
 
-====== Credit/No-credit Grading Option ======
+## Credit/No-credit Grading Option
 
 James Madison University is providing students with expanded access to the credit/no-credit grading options for the Spring 2020 semester due to the transition from in-person to online course delivery.
 
 If undergraduate students choose to take a course as credit/no credit, they receive credits for successfully completing the course with a “C” or above and receive no credit or penalty for completing the course with a lower grade. At some universities, this option is called pass/fail.
 
 Current credit/no-credit policies are suspended for the Spring 2020 semester only and will be replaced with the following:
-  * Students may change any course in which they are enrolled to credit/no-credit, except those being taken with a Repeat Credit or Repeat/Forgiveness option that were previously taken for a letter grade.
-  * There will be no limit to the number of Spring 2020 courses or credit hours that may be taken as credit/no-credit.
-  * Spring 2020 courses graded as credit/no-credit may satisfy general education, major, minor, degree and/or elective requirements.
-  * If students select the credit/no-credit option, grades of “A” through “C” will change to “CR” and will earn the number of credit hours designated for the course. These grade equivalents for “CR” align with current JMU policy and parallel practices at many other universities.
-  * If students select the credit/no-credit option, grades of “C-“ through “F” will change to “NC” and no credits will be earned for the course. These grade equivalents for “NC” align with current JMU policy and parallel practices at many other universities.
-  * Grades of “CR” and “NC” will not affect students’ grade point average.
+
+- Students may change any course in which they are enrolled to credit/no-credit, except those being taken with a Repeat Credit or Repeat/Forgiveness option that were previously taken for a letter grade.
+- There will be no limit to the number of Spring 2020 courses or credit hours that may be taken as credit/no-credit.
+- Spring 2020 courses graded as credit/no-credit may satisfy general education, major, minor, degree and/or elective requirements.
+- If students select the credit/no-credit option, grades of “A” through “C” will change to “CR” and will earn the number of credit hours designated for the course. These grade equivalents for “CR” align with current JMU policy and parallel practices at many other universities.
+- If students select the credit/no-credit option, grades of “C-“ through “F” will change to “NC” and no credits will be earned for the course. These grade equivalents for “NC” align with current JMU policy and parallel practices at many other universities.
+- Grades of “CR” and “NC” will not affect students’ grade point average.
 
 **Important Considerations for Credit/No-credit Option**
 
@@ -37,23 +37,23 @@ A student’s decision to switch to credit/no-credit is irreversible.
 
 Before deciding to choose the credit/no-credit option, students should discuss the changes with their academic advisers to ensure there are no unforeseen consequences of switching to credit/no-credit, such as accreditation requirements within the major or minor, or future application to graduate or professional schools. Students should consult MyMadison should they need to be reminded of the names of their advisers.
 
-  * Course prerequisites that require a certain letter grade will not be satisfied with a “CR” grade. In those instances, students must request overrides from their academic unit heads to enroll in those particular courses in future semesters. Students should consult their major advisers with questions regarding prerequisites.
-  * If a course counts as part of a group of courses required for admission to a major in which grades are averaged, “CR” will not be included in the GPA calculation. Students should consult with the appropriate major and other advisers prior to changing their grading option.
-  * Courses earning a grade of “CR” will count toward credits to graduate, but courses earning a grade of “NC” do not earn credits.
+- Course prerequisites that require a certain letter grade will not be satisfied with a “CR” grade. In those instances, students must request overrides from their academic unit heads to enroll in those particular courses in future semesters. Students should consult their major advisers with questions regarding prerequisites.
+- If a course counts as part of a group of courses required for admission to a major in which grades are averaged, “CR” will not be included in the GPA calculation. Students should consult with the appropriate major and other advisers prior to changing their grading option.
+- Courses earning a grade of “CR” will count toward credits to graduate, but courses earning a grade of “NC” do not earn credits.
 
 **Instructions for Changing Courses to Credit/No-credit**
 
-  * Students should identify the courses to be changed to the credit/no-credit grading option. An electronic form will be available on the Office of the Registrar website Tuesday, April 7, for students to request a grading option change to credit/no-credit.
-  * Students must submit the form no later than 5:00 p.m. Monday, May 18. Late requests will not be processed.
+- Students should identify the courses to be changed to the credit/no-credit grading option. An electronic form will be available on the Office of the Registrar website Tuesday, April 7, for students to request a grading option change to credit/no-credit.
+- Students must submit the form no later than 5:00 p.m. Monday, May 18. Late requests will not be processed.
 
 JMU has chosen May 18 as the deadline to change grading options to provide maximum flexibility to students. Students will be able to make the decision to choose the credit/no-credit option after receiving their final grades.
 
-====== Final Exam Week ======
+## Final Exam Week
 
 Final exam week will remain as originally scheduled, May 1-7. As exam week approaches, faculty will communicate
 with students regarding course-specific plans for finals.
 
-====== Withdrawal from Courses or the University ======
+## Withdrawal from Courses or the University
 
 **Withdrawal from Individual Courses in Spring 2020**
 
@@ -69,12 +69,12 @@ The deadline for dropping all Spring 2020 courses and receiving a tuition reimbu
 
 Students who decide to withdraw from all courses must contact the Office of the Dean of Students at 540-568- 6468 or deanofstudents@jmu.edu to begin the steps required to complete an official withdrawal.
 
-Undergraduate students who officially withdraw from the university and plan to return for Summer or Fall 2020 must apply for re-entry as soon as possible. This online process can be accessed from the Registrar’s website at https://www.jmu.edu/registrar/students/intent-to-enroll.shtml.
+Undergraduate students who officially withdraw from the university and plan to return for Summer or Fall 2020 must apply for re-entry as soon as possible. This online process can be accessed from the Registrar’s website at <https://www.jmu.edu/registrar/students/intent-to-enroll.shtml>.
 
 Students currently in good standing will be automatically approved and provided access to registration appointments for the Summer and/or Fall semesters based on the number of credit hours they have completed. Applications for re- entry must be entered prior to the beginning of registration. Summer registration will begin on April 6; Fall registration will begin on April 13.
 Students who are not in academic good standing must contact the Office of Academic Student Services at acadconcerns@jmu.edu for help with the re-entry application.
 
-====== CS Policy for Credit/No Credit ======
+## CS Policy for Credit/No Credit
 
 Please wait until you get your final grade to decide if you will switch any of your courses to CR/NC.
 
@@ -82,25 +82,24 @@ Since this is a unique semester, the rules for admission into the major are anno
 
 **For CS 149 students**
 
-Students in CS 149 who take the CR/NC option and receive a CR may move on to CS 159. Keep in mind  that historically students who have scored below a B- in CS 149 have not been  able to make a high enough grade in CS 159 to continue in the major. In addition we have many examples of students who retook CS 149 and then did quite well in CS 159. If you are
-on the  fence with your CS 149 score, we suggest you retake the course. Also, talk with your CS advisor about what will work best for you.
+Students in CS 149 who take the CR/NC option and receive a CR may move on to CS 159. Keep in mind that historically students who have scored below a B- in CS 149 have not been able to make a high enough grade in CS 159 to continue in the major. In addition we have many examples of students who retook CS 149 and then did quite well in CS 159. If you are
+on the fence with your CS 149 score, we suggest you retake the course. Also, talk with your CS advisor about what will work best for you.
 
 In order to help alleviate stress this semester, retaking CS 149 after having taken it for the first time this semester will not count against you for automatic admission. For example, if you get a CR in CS 149 this semester, retake CS 149 and get an B and then take CS 159 and get a B on the first attempt (in Spring 2021), you would be guaranteed admission.
 
-If you select the grade option in CS149, you need to earn a B- or better in CS149 to continue to CS159.  The progression standards will remain in effect for admissions into the major.
+If you select the grade option in CS149, you need to earn a B- or better in CS149 to continue to CS159. The progression standards will remain in effect for admissions into the major.
 
 **For CS 159 students**
 
-Students in CS 159 who take the CR option may still apply for admission to the  major. If you had either an A or A- in CS 149 you will be automatically accepted if you receive a CR in CS 159. If you had a grade below an A- in CS 149, you may still apply and your CS 149 and CS 159 professors will meet to evaluate your application. The committee will work very hard to make a decision that is best for you, considering the current situation. If you are denied admission, you may retake CS 159
+Students in CS 159 who take the CR option may still apply for admission to the major. If you had either an A or A- in CS 149 you will be automatically accepted if you receive a CR in CS 159. If you had a grade below an A- in CS 149, you may still apply and your CS 149 and CS 159 professors will meet to evaluate your application. The committee will work very hard to make a decision that is best for you, considering the current situation. If you are denied admission, you may retake CS 159
 without penalty. In other words, if you are denied admission this year, but then get a B+ or better in CS 159 next year, you would receive automatic admission to the major even though you retook CS 159.
 
 If you do not switch to the CR/NC option, you must have an average grade of 3.0 or better in CS 149 and CS 159 to continue in the major and the progression rules remain in effect for admissions into the major.
 
-====== CS Policy for Enrollment Limits ======
+## CS Policy for Enrollment Limits
 
 The undergraduate catalog for the CS major/minor states:
 "Students may enroll in each of CS 149, CS 159, CS 240 and CS 261 at
 most twice." The CS department has decided to not count classes taken
 this semester toward this enrollment limit. It will therefore be ok to
 enroll in a course again next semester if you need to.
-

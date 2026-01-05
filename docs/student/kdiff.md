@@ -1,28 +1,19 @@
-===== KDiff3 =====
+# KDiff3
 
+## What is KDiff3?
 
+[KDiff3](http://kdiff3.sourceforge.net/) "compares or merges two or three text input files or directories".
 
-==== What is KDiff3? ====
+## Tips and Tricks
 
-
-[[ http://kdiff3.sourceforge.net/ | KDiff3 ]] "compares or merges two or three text input files or directories".
-
-
-==== Tips and Tricks ====
-
-=== Line Termination ===
-
+### Line Termination
 
 KDiff3 indicates the "Line end style" being used just below the file name (on the right side). This can be very useful when comparing files created under different operating systems.
 
+### Ignore/Consider
 
-=== Ignore/Consider ===
+You can instruct KDiff3 whether to ignore or consider numbers, comments, and case. To do so, click on "Settings"-"Configure"-"Diff" then select/deselect the appropriate checkboxes.
 
+### Showing White Space
 
-You can instruct KDiff3 whether to ignore or consider numbers, comments, and case.To do so, click on <key>Settings</key>-<key>Configure</key>-<key>Diff</key> then select/deselect the appropriate checkboxes.
-
-
-=== Showing White Space ===
-
-
-When comparing two files, it can sometimes be very difficult to see differences in "white space" (e.g., spaces and tabs). KDiff3 lets you insert visible representations of white space. To do so, click on <key>Diffview</key> then select/deselect the appropriate checkboxes.
+When comparing two files, it can sometimes be very difficult to see differences in "white space" (e.g., spaces and tabs). KDiff3 lets you insert visible representations of white space. To do so, click on "Diffview" then select/deselect the appropriate checkboxes.

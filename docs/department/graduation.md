@@ -1,5 +1,4 @@
-
-===== Graduation Process  =====
+# Graduation Process
 
 Graduation applications need to be done electronically via MyMadison. Before you can submit an application you need to make sure that all the graduation requirements in the Academic Requirements are listed as "satisfied." This may not happen until you actually enroll for classes for your last semester. However, there may be some issues you need to work out with your adviser first, so if you think you have met all the requirements but not everything is listed correctly, please get in touch with your advisor to fix things.
 
@@ -7,4 +6,4 @@ Graduation applications generally open up mid-semester in the semester preceding
 
 The online application can be accessed off the Registrar's website:
 
-[[https://www.jmu.edu/registrar/students/graduation_applyUG.shtml]]
+<https://www.jmu.edu/registrar/students/graduation_applyUG.shtml>

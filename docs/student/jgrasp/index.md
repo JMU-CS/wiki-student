@@ -1,4 +1,4 @@
-===== Information about jGRASP =====
+# Information about jGRASP
 
-  - [[ student:jgrasp:help | Help using jGRASP ]]
-  - [[ https://www.jgrasp.org/jgrasp_help.html | Installing jGRASP ]]
+1.  [Help using jGRASP](help.md)
+2.  [Installing jGRASP](https://www.jgrasp.org/jgrasp_help.html)

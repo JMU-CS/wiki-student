@@ -1,42 +1,31 @@
-===== Intervals =====
+# Intervals
 
-==== Definitions ====
+## Definitions
 
-The //closed interval// of real numbers with lower bound \(a\) and upper bound \(b\) is defined as the set of all real numbers, \(x\), such that \(a \leq x \leq b\).
+The *closed interval* of real numbers with lower bound $a$ and upper bound $b$ is defined as the set of all real numbers, $x$, such that $a \leq x \leq b$.
 
+Similarly, the *open interval* of real numbers with lower bound $a$ and upper bound $b$ is defined as the set of all real numbers, $x$, such that $a \lt x \lt b$.
 
-Similarly, the //open interval// of real numbers with lower bound \(a\) and upper bound \(b\) is defined as the set of all real numbers, \(x\), such that \(a \lt x \lt b\).
+## Notation
 
+The notation $[a , b]$ is often used to denote the closed interval of real numbers with lower bound $a$ and upper bound $b$. That is:
 
-==== Notation ====
+$$
+[a,b] = \{ x \in \mathbb{R} : a \leq x \leq b \}
+$$
 
-The notation \([a , b]\) is often used to denote the closed interval of real numbers with lower bound \(a\) and upper bound \(b\). That is:
+Simlarly, the notation $(a , b)$ is often used to denote the open interval of real numbers with lower bound $a$ and upper bound $b$. That is:
 
-
-
-\[
-[a,b] = \{x \in \mathbb{R} : a \leq x \leq b \}
-\]
-
-
-Simlarly, the notation \((a , b)\) is often used to denote the open interval of real numbers with lower bound \(a\) and upper bound \(b\). That is:
-
-
-\[
-(a,b) = \{x \in \mathbb{R} : a \lt x \lt b \}
-\]
-
+$$
+(a,b) = \{ x \in \mathbb{R} : a \lt x \lt b \}
+$$
 
 It is sometimes necessary to work with intervals that are said to be either half-open or half-closed. In such situations, the following notation is commonly used:
 
+$$
+(a,b] = \{ x \in \mathbb{R} : a \lt x \leq b \}
+$$
 
-\[
-(a,b] = \{x \in \mathbb{R} : a \lt x \leq b \}
-\]
-
-
-
-\[
-[a,b) = \{x \in \mathbb{R} : a \leq x \lt b \}
-\]
-
+$$
+[a,b) = \{ x \in \mathbb{R} : a \leq x \lt b \}
+$$

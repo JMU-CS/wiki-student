@@ -1,13 +1,13 @@
-===== Information about Java =====
+# Information about Java
 
-  - [[ student:java:attributedstring | Strings with Attributes  ]]
-  - [[ student:java:formatting | Formatting Strings ]]
-  - [[ student:java:jar | .jar Files (i.e., Java Archives) ]]
-  - [[ student:java:javadoc | javadocs ]]
-  - [[ student:java:enum | Enumerations ]]
-  - [[ student:java:localization | Localization/Internationalization ]]
-  - [[ student:java:loookandfeel | Look and Feel ]]
-  - [[ student:java:browser | Opening an External WWW Browser ]]
-  - [[ student:java:profiling | Profiling ]]
-  - [[ student:java:resources | Using Resources ]]  
-  - [[ student:java:versions | Versions (and Numbering Systems) ]]
+1.  [Strings with Attributes](attributedstring.md)
+2.  [Formatting Strings](formatting.md)
+3.  [.jar Files (i.e., Java Archives)](jar.md)
+4.  [javadocs](javadoc.md)
+5.  [Enumerations](enum.md)
+6.  [Localization/Internationalization](localization.md)
+7.  [Look and Feel](loookandfeel.md)
+8.  [Opening an External WWW Browser](browser.md)
+9.  [Profiling](profiling.md)
+10. [Using Resources](resources.md)
+11. [Versions (and Numbering Systems)](versions.md)

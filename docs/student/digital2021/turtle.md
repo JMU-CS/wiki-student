@@ -1,8 +1,8 @@
-====== Python Turtle Art, DIGITAL 2021 ======
+# Python Turtle Art, DIGITAL 2021
 
-[[http://pythonsandbox.com/turtle|Python Turtle Sandbox]]
+[Python Turtle Sandbox](http://pythonsandbox.com/turtle)
 
-<code>
+``` py
 ## square version 1 (algorithm)
 
 t.forward(100)
@@ -164,5 +164,4 @@ def sierpinski(x, y, size):
 
 t.speed(0)
 sierpinski(-100,-100,200)
-
-</code>
+```

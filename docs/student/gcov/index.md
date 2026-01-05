@@ -1,14 +1,14 @@
-====== gcov/lcov ======
+# gcov/lcov
 
-[[ https://gcc.gnu.org/onlinedocs/gcc/Gcov.html | gcov ]] is a test coverage tool for the GCC (GNU Compiler Collection). [[ https://wiki.documentfoundation.org/Development/Lcov | lcov ]] is a graphical front-end for ''gcov''. "It collects ''gcov'' data for multiple source files and creates HTML pages containing the source code annotated with coverage information."
+[gcov](https://gcc.gnu.org/onlinedocs/gcc/Gcov.html) is a test coverage tool for the GCC (GNU Compiler Collection). [lcov](https://wiki.documentfoundation.org/Development/Lcov) is a graphical front-end for `gcov`. "It collects `gcov` data for multiple source files and creates HTML pages containing the source code annotated with coverage information."
 
-==== Before Using gcov/lcov ====
+## Before Using gcov/lcov
 
 Before you can use gcov and lcov you must have written both the code and the unit tests. The unit tests may either use a framework/harness or not.
 
-For example, consider the following ''Shopper'' class in C++.
+For example, consider the following `Shopper` class in C++.
 
-<code C++>
+``` C++
 #ifndef edu_jmu_cs_Shopper_h
 #define edu_jmu_cs_Shopper_h
  
@@ -31,9 +31,9 @@ class Shopper {
 };
 
 #endif
-</code>
+```
 
-<code C++>
+``` C++
 #include "Shopper.h"
      
 Shopper::Shopper(int accountNumber) {
@@ -57,11 +57,11 @@ double Shopper::getPurchases(void) {
 void Shopper::setFee(double annualFee) {
   fee = annualFee;
 }
-</code>
+```
 
 This class could be tested using the following "home grown" unit tests.
 
-<code C++>
+``` C++
 #include <stdio.h>
 #include <string>
 #include "Shopper.h"
@@ -82,64 +82,62 @@ int main(int argc, const char* argv[]) {
 
   assertEquals(20, shopper.getAccount(), "getAccount()");
 }
-</code>
+```
 
-==== Instrumenting the Code ====
+## Instrumenting the Code
 
-There are several command-line options that can be used to control the way [[ https://gcc.gnu.org/onlinedocs/gcc/Instrumentation-Options.html#Instrumentation-Options | GCC instruments code ]]. The easiest way to instrument code for ''gcov'' is to use the ''--coverage'' option. 
+There are several command-line options that can be used to control the way [GCC instruments code](https://gcc.gnu.org/onlinedocs/gcc/Instrumentation-Options.html#Instrumentation-Options). The easiest way to instrument code for `gcov` is to use the `--coverage` option.
 
 Continuing with the example above, the two files would be compiled as follows:
 
-<code bash>
+``` bash
 g++ -c --coverage Shopper.cpp -o Shopper.o
 g++ -c --coverage ShopperTest.cpp -o ShopperTest.o
-</code>
+```
 
 and then linked as follows:
 
-<code bash>
+``` bash
 g++ --coverage Shopper.o ShopperTest.o -o ShopperTest
-</code>
+```
 
-When a file is compiled using the ''--coverage'' option a ''.gcno'' file is created that contains machine readable notes that will be used by ''gcov''.  Specifically, it contains information that can be used to reconstruct block graphs and associate source line numbers with blocks. 
+When a file is compiled using the `--coverage` option a `.gcno` file is created that contains machine readable notes that will be used by `gcov`. Specifically, it contains information that can be used to reconstruct block graphs and associate source line numbers with blocks.
 
-
-==== Executing the Instrumented Code ====
+## Executing the Instrumented Code
 
 Instrumented code can be executed in the normal fashion. For example, in Linux/Unix, the example above can be executed as follows:
 
-<code bash>
+``` bash
 ./ShopperTest
-</code>
+```
 
-This will create a machine readable ''.gcda'' file for each instrumented ''.o'' file. The ''.gcda'' files contain arc transition information, profile information, and summary information. 
+This will create a machine readable `.gcda` file for each instrumented `.o` file. The `.gcda` files contain arc transition information, profile information, and summary information.
 
-==== Executing gcov ====
+## Executing gcov
 
-''gcov'' creates a human-readble ''.gcov'' file for each instrumented ''.o'' file. that contains coverage information. For example, the command:
+`gcov` creates a human-readble `.gcov` file for each instrumented `.o` file. that contains coverage information. For example, the command:
 
-<code bash>
+``` bash
 gcov ShopperTest.cpp Shopper.cpp -m
-</code>
+```
 
-will create two ''.gcov'' files (with de-mangled names).
+will create two `.gcov` files (with de-mangled names).
 
+## Executing lcov
 
-==== Executing lcov ====
+While `.gcov` files are human readable, they can be a little difficult to navigate and interpret. `lcov` can be used to create `.html` files from `.gcov` files. For example, the following commands can be used to create a report for the above example that excludes information about `ShopperTest.cpp`.
 
-While ''.gcov'' files are human readable, they can be a little difficult to navigate and interpret. ''lcov'' can be used to create ''.html'' files from ''.gcov'' files. For example, the following commands can be used to create a report for the above example that excludes information about ''ShopperTest.cpp''.
-
-<code bash>
+``` bash
 lcov --quiet --rc lcov_branch_coverage=1 --no-external --capture --directory . --output-file coverage.info
 lcov --quiet --rc lcov_branch_coverage=1 --remove coverage.info '*Test*' --output-file coverage.info
 lcov --summary coverage.info
 genhtml  --legend --rc genhtml_branch_coverage=1 coverage.info -o tmp
-</code>
+```
 
-The resulting ''.html'' files will be placed in the ''tmp'' directory.
+The resulting `.html` files will be placed in the `tmp` directory.
 
 The color-coded report will look something like the following.
 
-{{:student:gcov:lcov_coverage-report.png|Example coverage report}}
+![Example coverage report](lcov_coverage-report.png)
 
-This report makes it easy to see that the ''getPurchases()'' method was not covered by the tests.
+This report makes it easy to see that the `getPurchases()` method was not covered by the tests.

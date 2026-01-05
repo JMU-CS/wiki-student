@@ -1,63 +1,67 @@
-===== Computer Labs =====
-The Computer Science department maintains multiple computer labs running Linux Mint 22.1. Desktop machines may be accessed over the network. See the article on [[student:stu:basics|stu]] for more information. You are free to use these labs whenever there is no class scheduled there. These labs are located in:
-  - King 248 (where [[department:cs-success:start|TA Hours]] are held)
-  - King 250
-  - King 336
-  - EnGeo 2204
+# Computer Labs
 
-==== Lab Hardware ====
+The Computer Science department maintains multiple computer labs running Linux Mint 22.1. Desktop machines may be accessed over the network. See the article on [stu](../../student/stu/basics.md) for more information. You are free to use these labs whenever there is no class scheduled there. These labs are located in:
 
-^ Location   ^ Type    ^ Qty ^ Description ^
-| King 224   | Laptop  | 22   | Dell Precision 5290, Intel Core Ultra 5 125H, 16GB RAM |
-| King 248   | Desktop | 31  | Dell Precision Workstation 3640, Intel Core i9-13900, 32GB RAM |
+1.  King 248 (where [TA Hours](../cs-success.md) are held)
+2.  King 250
+3.  King 336
+4.  EnGeo 2204
+
+## Lab Hardware
+
+| Location   | Type    | Qty | Description                                                                             |
+|:-----------|:--------|-----|-----------------------------------------------------------------------------------------|
+| King 224   | Laptop  | 22  | Dell Precision 5290, Intel Core Ultra 5 125H, 16GB RAM                                  |
+| King 248   | Desktop | 31  | Dell Precision Workstation 3640, Intel Core i9-13900, 32GB RAM                          |
 | King 250   | Desktop | 31  | Dell Precision Workstation 3660, Intel Core i9-12900, 32GB RAM, Nvidia RTX A2000 (12GB) |
-| King 336   | Desktop | 32  | Dell Precision Workstation 3640, Intel Core i9-13900, 32GB RAM | 
-| EnGeo 2204 | Desktop | 32  | Dell Precision Workstation 3460, Intel Core i9-12900, 32GB RAM |
+| King 336   | Desktop | 32  | Dell Precision Workstation 3640, Intel Core i9-13900, 32GB RAM                          |
+| EnGeo 2204 | Desktop | 32  | Dell Precision Workstation 3460, Intel Core i9-12900, 32GB RAM                          |
 
-==== Lab Software ====
+## Lab Software
 
 All labs have the same software, including but not limited to the following:
-  * Kernel 6.8.0
-  * Arduino IDE 2.3.6
-  * CUDA 12.9 (King 250, ENGEO 2203 only)
-  * Eclipse 2025-06
-  * Emacs 29.3
-  * GCC 13.3.0
-  * GHC 9.4.7
-  * Git 2.43.0
-  * Go 1.22.2
-  * IntelliJ IDEA 2025.1.3
-  * Java 21.0.8 (OpenJDK)
-  * Meld 3.22.2
-  * Mercurial 6.7.2
-  * Pandoc 3.1.3
-  * Processing 4.4.4
-  * Prolog SWI-Prolog 9.0.4
-  * Python 3.12.3
-  * Ruby 3.2.3
-  * Rust 1.80.1 (Stu only)
-  * Sagemath 10.4 (Stu only)
-  * Sqlite 3.45.1
-  * Subversion 1.14.3
-  * Tcl/Tk 8.6.14
-  * Texlive 2023.20240207
-  * Thonny 4.0.1
-  * Vim 9.1
-  * Visual Paradigm 17.2
-  * Visual Studio Code 1.102.3
-  * VMware Workstation 17.6.4 (Desktops only)
-  * Zoom 6.5.3.2773
 
-==== Known Hosts ====
+- Kernel 6.8.0
+- Arduino IDE 2.3.6
+- CUDA 12.9 (King 250, ENGEO 2203 only)
+- Eclipse 2025-06
+- Emacs 29.3
+- GCC 13.3.0
+- GHC 9.4.7
+- Git 2.43.0
+- Go 1.22.2
+- IntelliJ IDEA 2025.1.3
+- Java 21.0.8 (OpenJDK)
+- Meld 3.22.2
+- Mercurial 6.7.2
+- Pandoc 3.1.3
+- Processing 4.4.4
+- Prolog SWI-Prolog 9.0.4
+- Python 3.12.3
+- Ruby 3.2.3
+- Rust 1.80.1 (Stu only)
+- Sagemath 10.4 (Stu only)
+- Sqlite 3.45.1
+- Subversion 1.14.3
+- Tcl/Tk 8.6.14
+- Texlive 2023.20240207
+- Thonny 4.0.1
+- Vim 9.1
+- Visual Paradigm 17.2
+- Visual Studio Code 1.102.3
+- VMware Workstation 17.6.4 (Desktops only)
+- Zoom 6.5.3.2773
 
-See below for the current ''known_hosts'' file for all JMUCS lab machines. You'll need to replace or merge it with your existing ''~/.ssh/known_hosts'', removing any duplicate hosts.
+## Known Hosts
 
-{{jmucs-known_hosts.txt?linkonly}} Last updated: 2025-08-13
+See below for the current `known_hosts` file for all JMUCS lab machines. You'll need to replace or merge it with your existing `~/.ssh/known_hosts`, removing any duplicate hosts.
 
-==== Student Account Home Directory ====
+[jmucs-known_hosts.txt](jmucs-known_hosts.txt) Last updated: 2025-08-13
 
-The ''student'' user's home directory is wiped at logout. The last 10 directories are archived locally on each machine at ''/opt/student_homes/<YYYYMMDD_HH-MM-SS>.tar.gz''. Faculty can extract these archives by running ''tar -xzvf <archive>''. Files can be copied to ''/tmp'' where students should be able to access them. You can also contact ''cs-sysadmin@jmu.edu'' for assistance. Please provide the hostname and approximate timestamp that you need recovered.
+## Student Account Home Directory
 
-==== Screen Recording for Demo Purposes ====
+The `student` user's home directory is wiped at logout. The last 10 directories are archived locally on each machine at `/opt/student_homes/<YYYYMMDD_HH-MM-SS>.tar.gz`. Faculty can extract these archives by running `tar -xzvf <archive>`. Files can be copied to `/tmp` where students should be able to access them. You can also contact `cs-sysadmin@jmu.edu` for assistance. Please provide the hostname and approximate timestamp that you need recovered.
 
-From the Linux Mint menu, launch '''Webcamoid''' to create a screen recording. Maybe the details in this wiki are correct for how to use the app: https://github.com/webcamoid/webcamoid/wiki/Recording-videos
+## Screen Recording for Demo Purposes
+
+From the Linux Mint menu, launch `'Webcamoid`' to create a screen recording. Maybe the details in this wiki are correct for how to use the app: <https://github.com/webcamoid/webcamoid/wiki/Recording-videos>

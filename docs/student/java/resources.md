@@ -1,61 +1,57 @@
-===== Using Resources in Java Programs =====
+# Using Resources in Java Programs
 
-==== Overview ====
+## Overview
 
 One commonly wants to use icons, configuration files, and other kinds of resources in Java programs.
 While there are many ways to do accomplish, doing it in a way that is portable requires some thought
-because of the way different IDEs and deployment mechanisms (e.g., [[ student:java:jar | .jar files ]])
+because of the way different IDEs and deployment mechanisms (e.g., [.jar files](jar.md))
 organize code.
 
-==== Icons ====
+## Icons
 
-To easiest way to refer to icons in a portable fashion is to use a ''%%URL%%'' object (from the ''%%java.net%%'' package), and the easiest way to get the appropriate ''%%URL%%'' object is to use a  ''%%Class%%'' object. For example, if you want to get the  ''%%URL%%'' for a resource named ''%%logo.png%%'' that is  in the ''%%images%%'' directory **under the top-level directory containing the class of the object referred to by ''%%this%%''** then  you would do the following:
+To easiest way to refer to icons in a portable fashion is to use a `URL` object (from the `java.net` package), and the easiest way to get the appropriate `URL` object is to use a `Class` object. For example, if you want to get the `URL` for a resource named `logo.png` that is in the `images` directory **under the top-level directory containing the class of the object referred to by `this`** then you would do the following:
 
-<code java>
+``` java
 URL url = this.getClass().getResource("images/logo.png").
-</code>
+```
 
 You could then load it as follows:
 
-<code java>
+``` java
 ImageIcon icon = new ImageIcon(url);
-</code>
+```
 
+## Resource Bundles
 
-==== Resource Bundles ====
+The static `getBundle()` method in the `ResourceBundle` class can be passed a `ClassLoader` that it will use to locate the resources. For example, if you want to get the `ResourceBundle` with the prefix `Strings` that is in the **top-level directory containing the class of the object referred to by `this`** then you would do the following:
 
-The static ''%%getBundle()%%'' method in the ''%%ResourceBundle%%'' class can be passed a ''%%ClassLoader%%'' that it will use to locate the resources.  For example, if you want to get the  ''%%ResourceBundle%%'' with the prefix ''%%Strings%%'' that is  in the **top-level directory containing the class of the object referred to by ''%%this%%''** then  you would do the following:
-
-<code java>
+``` java
 ResourceBundle strings;
 strings = ResourceBundle.getBundle("Strings", Locale.getDefault(), this.getClass().getClassLoader());
-</code>
+```
 
-==== Other Kinds of Resources ====
+## Other Kinds of Resources
 
-For other kinds of resources (e.g., configuration files), the easiest way to ensure that your code is portable is to use an ''%%InputStream%%'' object (from the ''%%java.io%%'' package) to refer to the resource and use a  ''%%Class%%'' object to retrieve the appropriate ''%%InputStream%%'' object.
+For other kinds of resources (e.g., configuration files), the easiest way to ensure that your code is portable is to use an `InputStream` object (from the `java.io` package) to refer to the resource and use a `Class` object to retrieve the appropriate `InputStream` object.
 
+For example, if you want to get the `InputStream` for a text resource named `default.cfg` that is in the `configurations` directory **under the top-level directory containing the class of the object referred to by `this`** then you would do the following:
 
-For example, if you want to get the  ''%%InputStream%%'' for a text resource named ''%%default.cfg%%'' that is in the ''%%configurations%%'' directory **under the top-level directory containing the class of the object referred to by ''%%this%%''** then  you would do the following:
-
-
-<code java>
+``` java
 InputStream is = this.getClass().getResourceAsStream("configurations/config.txt").
-</code>
+```
 
 You could then read the first line of this text resource as follows:
 
-<code java>
+``` java
 BufferedReader in = new BufferedReader(new InputStreamReader(is));
 String   line = in.readLine();
-</code>
+```
 
+## Copying Resources to a Temporary Directory
 
-==== Copying Resources to a Temporary Directory ====
+Sometimes it is necessary to copy resources from a .jar file to a temporary directory on the files system (e.g., if you want to load .html files that are in a .jar file into a browser). The following utility class can be used for this purpose.
 
-Sometimes it is necessary to copy resources from a %%.jar%% file to a temporary directory on the files system (e.g., if you want to load %%.html%% files that are in a %%.jar%% file into a browser). The following utility class can be used for this purpose.
-
-<code java>
+``` java
 import java.io.IOException;
 import java.net.URI;
 import java.net.URISyntaxException;
@@ -128,16 +124,8 @@ public class ResourceCopier {
         return destinationPath;
     }
 }
-</code>
+```
 
+## Under the Hood
 
-
-==== Under the Hood ====
-
-These technique use the ''%%ClassLoader%%'' infrastructure to  retrieve resources from the ''%%.jar%%'' file. So, it is very  important that you understand the relative locations of the  resource and the object that you call ''%%getClass()%%'' on.  A leading ''%%/%%'' will start at the root of the directory  tree,  but you still must understand where in the ''%%.jar%%''  file is the root. Omitting the leading ''%%/%%'', on the other hand, will start at the location of the ''%%.class%%'' file of the object referred to by ''%%this%%''.
-
-
-
-
-
-
+These technique use the `ClassLoader` infrastructure to retrieve resources from the `.jar` file. So, it is very important that you understand the relative locations of the resource and the object that you call `getClass()` on. A leading `/` will start at the root of the directory tree, but you still must understand where in the `.jar` file is the root. Omitting the leading `/`, on the other hand, will start at the location of the `.class` file of the object referred to by `this`.

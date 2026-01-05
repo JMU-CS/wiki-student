@@ -1,63 +1,57 @@
-===== Installing the Eclipse IDE =====
+# Installing the Eclipse IDE
 
-
-
-==== Prepare ====
+## Prepare
 
 Eclipse requires Java. If you are going to use Eclipse to write programs in a language other than Java, you need only install the Java Runtime Environment (JRE). If you are going to use Java to develop programs written in Java then you must install the Java Development Kit (JDK).
 
+## Download and Install
 
-==== Download and Install ====
+The current version of Eclipse has an [installer](https://www.eclipse.org/downloads). First, click on the appropriate link for your operating system.(If you don't know whether you have a 32 bit or 64 bit operating system choose "32 bit" or search the WWW to learn how to find out whether your OS is 32 bit or 64 bit. Note that the bit-width of the JDK Java and Eclipse must match.) Then, save the file to your local file system. Finally, follow the [installation instructions](https://www.eclipse.org/downloads/packages/installer). For programming courses that use Java (e.g., CS149/159/345) you should install the "Eclipse IDE for Java Developers" package.
 
+(If you prefer, you can install Eclipse manually using the packages at [eclipse.org](https://eclipse.org/downloads/packages). First select your operating system from the drop-down box.Next, click on either the "32 bit" or "64 bit" link of the appropriate package. For programming courses that use Java (e.g., CS149/159/345) you should download the "Eclipse IDE for Java Developers". Save the file to your local filesystem and then "unpackage" it.)
 
-The current version of Eclipse has an [[ https://www.eclipse.org/downloads | installer ]]. First, click on the appropriate link for your operating system.(If you don't know whether you have a 32 bit or 64 bit operating system choose "32 bit" or search the WWW to learn how to find out whether your OS is 32 bit or 64 bit. Note that the bit-width of the JDK Java and Eclipse must match.) Then, save the file to your local file system. Finally, follow the [[ https://www.eclipse.org/downloads/packages/installer | installation instructions ]]. For programming courses that use Java (e.g., CS149/159/345) you should install the "Eclipse IDE for Java Developers" package.
+## Create Workspaces
 
-(If you prefer, you can install Eclipse manually using the packages at [[ https://eclipse.org/downloads/packages | eclipse.org ]]. First select your operating system from the drop-down box.Next, click on either the "32 bit" or "64 bit" link of the appropriate package. For programming courses that use Java (e.g., CS149/159/345) you should download the "Eclipse IDE for Java Developers". Save the file to your local filesystem and then "unpackage" it.)
+Since you may customize Eclipse differently for different courses, you should make a workspace for each course. To do so, click on "File"-"Select Workspace".
 
-==== Create Workspaces ====
-
-Since you may customize Eclipse differently for different courses, you should make a workspace for each course. To do so, click on <key>File</key>-<key>Select Workspace</key>.
-
-
-==== Install and Use a Custom Formatter ====
+## Install and Use a Custom Formatter
 
 If your course has a formatter, you should install it. (Note: You can use one formatter for all of your projects or you can use different formatters for different projects. If you need to use a different formatter for different projects, you will need to customize each project individually.)
 
+1.  If you have not already done so, download the formatter to an appropriate location on your local file system.
+2.  If you have not already done so, start Eclipse.
+3.  Click on "Preferences" (which will either be under "Window" or "Eclipse" depending on your OS)
+4.  Expand the appropriate "*Language*" (e.g., "Java"), expand "Code Style" and select "Formatter".
+5.  Click on "Import..." and navigate to the `.xml` file you downloaded.
+6.  Click on "Open".
+7.  Select the appropriate "Active profile".
+8.  Click on "Apply and Close".
 
-  - If you have not already done so, download the formatter to an appropriate location on your local file system.
-  - If you have not already done so, start Eclipse.
-  - Click on <key>Preferences</key> (which will either be under <key>Window</key> or <key>Eclipse</key> depending on your OS)
-  - Expand the appropriate "//Language//" (e.g., "Java"), expand "Code Style" and select "Formatter".
-  - Click on <key>Import...</key> and navigate to the ''%%.xml%%'' file you downloaded.
-  - Click on <key>Open</key>.
-  - Select the appropriate "Active profile".
-  - Click on <key>Apply and Close</key>.
-
-==== Install and Use a Custom Checks Configuration File ====
+## Install and Use a Custom Checks Configuration File
 
 If your course has a checks configuration file for Checkstyle, you should install the Checkstyle Plugin and then load the checks configuration file. (Note: You can use one checks configuration file for all of your projects or you can use different configurations for different projects. If you need to use a different different configuration for different projects, you will need to customize each project individually.)
 
-  - If you have not already done so, download the checks configuration file to an appropriate location on your local file system.
-  - If you have not already done so, start Eclipse.
-  - If you have not already done so, [[ student:eclipse:checkstyle#install | install the Checkstyle plugin ]].
-  - Click on <key>Preferences</key> (which will either be under <key>Window</key> or <key>Eclipse</key> depending on your OS).
-  - Click on "Checkstyle".
-  - Click on <key>New...</key>.
-  - Select "External Configuration File", click on <key>Browse...</key>, and navigate to the ''%%.xml%%'' file you downloaded.
-  - Enter a "Name" (e.g., "CS999StyleGuide").
-  - Click on <key>OK</key>.
-  - Select the appropriate configuration file.
-  - Click on <key>Set as Default</key>.
-  - Click on <key>Apply and Close</key>.
+1.  If you have not already done so, download the checks configuration file to an appropriate location on your local file system.
+2.  If you have not already done so, start Eclipse.
+3.  If you have not already done so, [install the Checkstyle plugin](checkstyle.md#installation).
+4.  Click on "Preferences" (which will either be under "Window" or "Eclipse" depending on your OS).
+5.  Click on "Checkstyle".
+6.  Click on "New...".
+7.  Select "External Configuration File", click on "Browse...", and navigate to the `.xml` file you downloaded.
+8.  Enter a "Name" (e.g., "CS999StyleGuide").
+9.  Click on "OK".
+10. Select the appropriate configuration file.
+11. Click on "Set as Default".
+12. Click on "Apply and Close".
 
-==== Install and Use a Custom Code Template ====
+## Install and Use a Custom Code Template
 
-If your course has a custom code template, you should install it. (Note: You can use one template for all of your projects or you can use different templates for different projects. If you need to use a different template for different projects, you will need to customize each project individually.) 
+If your course has a custom code template, you should install it. (Note: You can use one template for all of your projects or you can use different templates for different projects. If you need to use a different template for different projects, you will need to customize each project individually.)
 
-  - If you have not already done so, download the code template an appropriate location on your local file system.
-  - If you have not already done so, start Eclipse.
-  - Click on <key>Preferences</key> (which will either be under <key>Window</key> or <key>Eclipse</key> depending on your OS)
-  - Expand the appropriate "//Language//" (e.g., "Java"), expand "Code Style" and select "Code Templates".
-  - Click on <key>Import...</key> and navigate to the ''%%.xml%%'' file you downloaded.
-  - Click on <key>OK</key>.
-  - Click on <key>OK</key>.
+1.  If you have not already done so, download the code template an appropriate location on your local file system.
+2.  If you have not already done so, start Eclipse.
+3.  Click on "Preferences" (which will either be under "Window" or "Eclipse" depending on your OS)
+4.  Expand the appropriate "*Language*" (e.g., "Java"), expand "Code Style" and select "Code Templates".
+5.  Click on "Import..." and navigate to the `.xml` file you downloaded.
+6.  Click on "OK".
+7.  Click on "OK".

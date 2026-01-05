@@ -1,3 +1,3 @@
-===== XML =====
+# XML
 
-  - [[ student:xml:basics | Basics ]] 
+1.  [Basics](basics.md)

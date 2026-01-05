@@ -1,60 +1,50 @@
-
-
-===== XML Basics =====
-
+# XML Basics
 
 XML is a subset of the Standard Generalized Markup Language (SGML)
 and, as such, is a meta-language that is used to create languages that
-describe hierarchical data.  XHTML (a variant of HTML) is one such
+describe hierarchical data. XHTML (a variant of HTML) is one such
 language that is used for mark-up papers/articles/books.
 
+## Elements
 
+XML has two different kind of elements, those that can contain component elements and those that can't. Both types can have attributes, which are name-value pairs.
 
-==== Elements ====
+XML elements that can't contain other elements have the following syntax (sometimes called the abbreviated syntax for empty elements):
 
-
-XML has two different kind of elements, those that can contain   component elements and those that can't. Both types can have   attributes, which are name-value pairs.
-
-
-XML elements that can't contain other elements have the following syntax   (sometimes called the abbreviated syntax for empty elements):
-
-''**<**//tag// [ //attribute//**="**//value//**"** ] ... **/>**''
+`<tag [ attribute="value" ] ... />`
 
 For example, the following might be such an element in a railroad
 system:
 
-<code xml>
+``` xml
 <Caboose id="857-931" type="limited" />
-</code>
+```
 
 Elements that can contain other elements have the following syntax:
 
-''**<**//tag// [ //attribute//**="**//value//**"** ] ... **>** [ //component// ... ] 
-  **</**//tag//**>**''
+`<tag [ attribute="value" ] ... > [ component ... ] </tag>`
 
 For example, the following might be such an element in a railroad system:
 
-<code xml>
+``` xml
   <Train id="321">
     <Caboose id="857-931" type="limited" />
   </Train>
-</code>
+```
 
-Note that both tags and attribute names are case-sensitive.   Note also that text strings can be components.
+Note that both tags and attribute names are case-sensitive. Note also that text strings can be components.
 
-
-==== Well-Formed XML Documents ====
-
+## Well-Formed XML Documents
 
 An XML document is said to be well-formed if and only if:
 
+- It only contain elements that have a start tag and a close tag or use the abbreviated syntax for empty elements;
+- It has a single root element; and
+- It has the XML declaration \<?xml version="1.0" ?\> as the first line.
 
-  * It only contain elements that have a start tag and a close tag or use the abbreviated syntax for empty elements;
-  * It has a single root element; and
-  * It has the XML declaration <?xml  version="1.0" ?> as the first line.
-The following is an example of a well-formed XML document in a   railroad timetable system.
+The following is an example of a well-formed XML document in a railroad timetable system.
 
-<code xml>
+``` xml
 <?xml version="1.0"?>
 <timetable title="Boston...Providence...New London...New York"
      subtitle="Through services to Philadelphia...Washington...Newport News">
@@ -82,20 +72,17 @@ The following is an example of a well-formed XML document in a   railroad timeta
     </stop>
   </train>
 </timetable>
-</code>
+```
 
+## Imposing Structure
 
-==== Imposing Structure ====
+To be well-formed an XML document must satisfy a few simple requirements. However, these requirements say nothing about the structure of the document (e.g., the attributes for each element, the hierarchical structure of the elements).
 
-
-To be well-formed an XML document must satisfy a few simple   requirements.  However, these requirements say nothing about the   structure of the document (e.g., the attributes for each element,   the hierarchical structure of the elements).
-
-
-There are two different ways to impose structure. One is to use a   Document Type Definition (DTD) and the other is to use a Schema.   Thought they have very different syntaxes, they are conceptually   very similar.
+There are two different ways to impose structure. One is to use a Document Type Definition (DTD) and the other is to use a Schema. Thought they have very different syntaxes, they are conceptually very similar.
 
 For example, the following DTD:
 
-<code dtd>
+``` dtd
 <!ELEMENT timetable (train*) >
   <!ATTLIST timetable subtitle CDATA #IMPLIED>
   <!ATTLIST timetable title CDATA #IMPLIED>
@@ -117,11 +104,11 @@ For example, the following DTD:
   <!ATTLIST train normaldays (Daily | Mo-Fr | Sa | Su) #REQUIRED >
   <!ATTLIST train number CDATA #REQUIRED >
   <!ATTLIST train reservations (YES | NO) "NO" >
-</code>
+```
 
 and the following Schema:
 
-<code xml>
+``` xml
 <?xml version="1.0" ?>
 <Schema name="timetable_schema"
         xmlns="urn:schemas-microsoft-com:xml-data"
@@ -169,8 +156,8 @@ and the following Schema:
   </ElementType>
 
 </Schema>
-</code>
+```
 
 can both be used to impose structure on a railroad timetable document.
 
-The primary advantage of Schemas is that they are also written in   XML, which means that the same parser can be used for the data   document and the document that describes its structure.
+The primary advantage of Schemas is that they are also written in XML, which means that the same parser can be used for the data document and the document that describes its structure.

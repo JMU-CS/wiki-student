@@ -1,1 +1,1 @@
-====== Finch Robots Workshop, DIGITAL 2021 ======
+# Finch Robots Workshop, DIGITAL 2021

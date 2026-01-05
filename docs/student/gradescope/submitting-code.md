@@ -1,37 +1,36 @@
-===== Help Submitting Code =====
+# Help Submitting Code
 
 If a Gradescope assignment requires you to submit code, a dialog box will appear that will allow you to supply your code. Gradescope supports three different methods of supplying the code that it calls "Upload", "GitHub", and "Bitbucket". Different courses at JMU may require you to use a specific method or methods.
 
-==== Upload ====
+## Upload
 
-The upload option supports two different ways of supplying the code, "drag and drop" and "browse". 
+The upload option supports two different ways of supplying the code, "drag and drop" and "browse".
 
-Regardless of which you use, **if you are submitting Java code that is in packages**, you should submit a ''.zip'' file that contains the directories/folders corresponding to the packages, and these directories/folders must be at the top of the ''.zip'' file. For more information, see the page on [[student:zip:creating| creating a ''.zip'' file]]. (Note: If you submit the directories/folders themselves, Gradescope will "flatten" the tree. In other words, all of the files will be placed in a single directory/folder, which may cause problems if your code or the autograder expects things to be in specific directories/folders. You can check to see if this has happened by clicking on the <key>Code</key> tab after the autograder finishes. If the directory/folder name corresponding to the package does not appear before the name of the file then your submission was "flattened", in which case, your code may compile but not execute correctly.)
+Regardless of which you use, **if you are submitting Java code that is in packages**, you should submit a `.zip` file that contains the directories/folders corresponding to the packages, and these directories/folders must be at the top of the `.zip` file. For more information, see the page on [creating a `.zip` file](../zip/creating.md). (Note: If you submit the directories/folders themselves, Gradescope will "flatten" the tree. In other words, all of the files will be placed in a single directory/folder, which may cause problems if your code or the autograder expects things to be in specific directories/folders. You can check to see if this has happened by clicking on the "Code" tab after the autograder finishes. If the directory/folder name corresponding to the package does not appear before the name of the file then your submission was "flattened", in which case, your code may compile but not execute correctly.)
 
-After you identify your code, you must click on the <key>Upload</key> button to complete the process.
+After you identify your code, you must click on the "Upload" button to complete the process.
 
-=== Drag and Drop ===
+### Drag and Drop
 
 To use "drag and drop":
 
-  - Open a file explorer/finder.
-  - Navigate to the appropriate directory/folder.
-  - Drag the appropriate file(s) from the file explorer/finder and drop it into the dialog box.
+1.  Open a file explorer/finder.
+2.  Navigate to the appropriate directory/folder.
+3.  Drag the appropriate file(s) from the file explorer/finder and drop it into the dialog box.
 
-=== Browse ===
+### Browse
 
 To "browse" to the file(s):
 
-  - Click in the interior of the dashed rectangle in the dialog box.
-  - Navigate to the appropriate directory/folder.
-  - Select the appropriate file(s).
-  - Click on <key>Open</key>/<key>OK</key>/<key>Done</key>/... as appropriate for your operating system and browser.
+1.  Click in the interior of the dashed rectangle in the dialog box.
+2.  Navigate to the appropriate directory/folder.
+3.  Select the appropriate file(s).
+4.  Click on "Open"/"OK"/"Done"/... as appropriate for your operating system and browser.
 
-
-==== After Supplying the Code ====
+## After Supplying the Code
 
 When your upload is successful, you’ll see a confirmation message on your screen and you’ll receive an email.
 
-You must then wait for the autograder to grade your code file. When your results appear, scroll down to view any failed tests. 
+You must then wait for the autograder to grade your code file. When your results appear, scroll down to view any failed tests.
 
 If there are any errors, you can edit your code and click Resubmit at the bottom of your screen to resubmit your code file. Assignments can be resubmitted as many times as you’d like before the deadline, although some instructors may limit the number of times you can resubmit as part of their autograders.

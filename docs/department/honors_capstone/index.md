@@ -1,16 +1,16 @@
-====== Honors Capstone Guidelines ======
+# Honors Capstone Guidelines
 
-===== Purpose of this Document =====
+## Purpose of this Document
 
-This document contains guidelines and rules for students who are majoring in Computer Science and working on an Honors Capstone using the Departmental Capstone Pathway. For general information, see [[https://www.jmu.edu/honors/current-students/capstone-experience.shtml| the page on honors capstone experiences]] published by the JMU Honors Program.
+This document contains guidelines and rules for students who are majoring in Computer Science and working on an Honors Capstone using the Departmental Capstone Pathway. For general information, see [the page on honors capstone experiences](https://www.jmu.edu/honors/current-students/capstone-experience.shtml) published by the JMU Honors Program.
 
-===== Categories of Computer Science "Honors Capstones" =====
+## Categories of Computer Science "Honors Capstones"
 
-All students who major in Computer Science and graduate //With Distinction// are required to use the "honors capstones" to make a contribution to either the field/discipline of computer science or to make a contribution to society at large using computational thinking. These "honors capstones" usually fall into one of the following categories:
+All students who major in Computer Science and graduate *With Distinction* are required to use the "honors capstones" to make a contribution to either the field/discipline of computer science or to make a contribution to society at large using computational thinking. These "honors capstones" usually fall into one of the following categories:
 
 **Theses**: To complete a thesis, a student must make a contribution to the body of knowledge in the field of computer science. Hence, completion of a thesis involves academic research and discovery.
 
-Theses are either //theoretical// or //empirical//. Theoretical theses generally involve formal mathematics, logic or some other formal method of analysis or description (e.g., an analysis of the worst case asymptotic bounds of a new sorting algorithm, an analysis of the strength of a new encryption algorithm, the development of a new programming language, the development of a new design notation, an analysis of the underpinnings of a software engineering methodology). Empirical theses generally employ the scientific method (e.g., an analysis of the performance characteristics of a new type of contention detection/resolution process for local area networks, an analysis of the effectiveness of a new software engineering process, an analysis of the usability of a particular product).
+Theses are either *theoretical* or *empirical*. Theoretical theses generally involve formal mathematics, logic or some other formal method of analysis or description (e.g., an analysis of the worst case asymptotic bounds of a new sorting algorithm, an analysis of the strength of a new encryption algorithm, the development of a new programming language, the development of a new design notation, an analysis of the underpinnings of a software engineering methodology). Empirical theses generally employ the scientific method (e.g., an analysis of the performance characteristics of a new type of contention detection/resolution process for local area networks, an analysis of the effectiveness of a new software engineering process, an analysis of the usability of a particular product).
 
 **Projects**: To complete a project, a student must create a computational system that contributes to society. Hence, completion of a project involves the design and implementation of a suitably complex system of software and/or hardware system that benefits society.
 
@@ -18,84 +18,89 @@ Projects usually involve software components, hardware components, or both. An e
 
 The primary contribution of the project need not be technical. An example of such a project is the creation of a social networking site for the differently-abled.
 
-===== Composition of the Committee =====
+## Composition of the Committee
 
 The project advisor must be a member of the Computer Science faculty. In most cases, readers will also be members of the Computer Science faculty. With the approval of the advisor, one reader may come from another department.
 
-====== Deliverables ======
-==== Overview ====
+## Deliverables
 
-In all cases, students must complete and deliver a properly formatted (see the [[https://web.archive.org/web/20230601024021/https://www.jmu.edu/honors/handbook/basic-guidelines.shtml#formatting|Honors College Handbook]] for details) written document and associated forms.
+### Overview
+
+In all cases, students must complete and deliver a properly formatted (see the [Honors College Handbook](https://web.archive.org/web/20230601024021/https://www.jmu.edu/honors/handbook/basic-guidelines.shtml#formatting) for details) written document and associated forms.
 
 In many cases, students must also deliver the artifacts (e.g., source code, hardware, documentation, data) that were produced/developed/used during the process.
 
-Finally, students must present their results in a public forum. Currently the venue most commonly used for this purpose is the Friday research seminar series (see the [[department:research|research page]] for more info).
+Finally, students must present their results in a public forum. Currently the venue most commonly used for this purpose is the Friday research seminar series (see the [research page](../research.md) for more info).
 
-==== Timeline ====
+### Timeline
+
 Many of the items in this suggested timeline maybe slightly negotiable. Reach out to the departmental honors college liaison for support if you need it.
 
-=== CS 499 A ===
-  * whenever Fall enrollment is happening: request that the CS undergraduate program director create a CS 499 B section and send the student an override to enroll
-  * send a proposal document to the honor's college liaison once the committee has all agreed on it
+#### CS 499 A
 
-=== CS 499 B ===
-  * whenever Spring enrollment is happening: request that the CS undergraduate program director create a CS 499 C section and send the student an override to enroll
+- whenever Fall enrollment is happening: request that the CS undergraduate program director create a CS 499 B section and send the student an override to enroll
+- send a proposal document to the honor's college liaison once the committee has all agreed on it
 
-=== CS 499 C ===
-* by the DEADLINE? send an email to the CS dept honors college liaison that the student has successfully completed their project/thesis and that the committee has signed off
+#### CS 499 B
 
-===== The Written Document =====
+- whenever Spring enrollment is happening: request that the CS undergraduate program director create a CS 499 C section and send the student an override to enroll
+
+#### CS 499 C
+
+- by the DEADLINE? send an email to the CS dept honors college liaison that the student has successfully completed their project/thesis and that the committee has signed off
+
+## The Written Document
 
 The written document serves two purposes. First, it demonstrates that the student has the necessary depth of knowledge to undertake the research/development activity. Second, it describes the contribution that was made as a result of the research/development activity. The document typically contains the following chapters:
 
-  * **Introduction**: A non-technical discussion of the question/issue that motivated the activity and why that question/issue is important (either to the field or society at large). This chapter should also include an overview of the structure of the rest of the document.
-  * **Literature Review**: A critical discussion of the relevant literature. This chapter should demonstrate the student's knowledge.
-  * **Problem/Project Statement**: A technical description of the question/issue in relation to the existing literature on the subject. This chapter should highlight the need for the theses/project and carefully describe the undertaking.
-  * **Analysis/Results/Findings**: A discussion of the contribution itself. For a theoretical theses this will include the mathematical or logical "argument". For empirical theses this will include the research design and the statistical analysis. For projects, this will include a detailed description of the project and the way in which it benefits society.
-  * **Future Research**: A description of the questions/issues that were uncovered but not resolved.
-  * **References**: A collection of works cited in the earlier parts of the document.
+- **Introduction**: A non-technical discussion of the question/issue that motivated the activity and why that question/issue is important (either to the field or society at large). This chapter should also include an overview of the structure of the rest of the document.
+- **Literature Review**: A critical discussion of the relevant literature. This chapter should demonstrate the student's knowledge.
+- **Problem/Project Statement**: A technical description of the question/issue in relation to the existing literature on the subject. This chapter should highlight the need for the theses/project and carefully describe the undertaking.
+- **Analysis/Results/Findings**: A discussion of the contribution itself. For a theoretical theses this will include the mathematical or logical "argument". For empirical theses this will include the research design and the statistical analysis. For projects, this will include a detailed description of the project and the way in which it benefits society.
+- **Future Research**: A description of the questions/issues that were uncovered but not resolved.
+- **References**: A collection of works cited in the earlier parts of the document.
 
 The committee will specify the style and format of the written document (including, the citation style, the footnote/endnote style, the use of first/third person). The style will be consistent with the category of the thesis/project. In addition, the committee will specify the "technology" to be used to produce the document. For example, the committee might require the use of LaTeX for a theoretical thesis and might require the use of OpenDoc for an open source project.
 
-We provide [[https://github.com/JMU-CS/HonorsThesisTemplate|a template for using LaTex]]. This template follows [[https://web.archive.org/web/20230601024021/https://www.jmu.edu/honors/handbook/basic-guidelines.shtml#formatting|the honors college guidelines (from when they were last available)]].
+We provide [a template for using LaTex](https://github.com/JMU-CS/HonorsThesisTemplate). This template follows [the honors college guidelines (from when they were last available)](https://web.archive.org/web/20230601024021/https://www.jmu.edu/honors/handbook/basic-guidelines.shtml#formatting).
 
-===== The Registration Process =====
+## The Registration Process
 
 Students normally complete the capstone over the course of their last three semesters. In the first semester, students register for CS499a (which is a 1-credit course), in the second semester they register for CS499b (which is a 3-credit course), and the third semester they register for CS499c (which is a 2-credit course).
 
 The semester before registering for CS499a, students should start thinking about a topic and talking to potential project advisors. Students must identify a project advisor who is willing to work with them on the capstone and must have a written description of what they expect to accomplish during the first semester, before they can register for CS499a. A typical CS499a proceeds as follows:
 
-  - Initial Discussion of the Topic
-  - Completion of an Initial Literature Review
-  - Refinement of the Topic
-  - Completion of a Detailed Literature Review	
-  - Development of a Proposal
-  - Formation of Committee
-  - Discussion of Proposal with Committee
-  - Submission of Final Proposal
+1.  Initial Discussion of the Topic
+2.  Completion of an Initial Literature Review
+3.  Refinement of the Topic
+4.  Completion of a Detailed Literature Review
+5.  Development of a Proposal
+6.  Formation of Committee
+7.  Discussion of Proposal with Committee
+8.  Submission of Final Proposal
 
 The tasks to be completed during CS499b and CS499c vary with the type of capstone. However, in almost all cases, the bulk of the work is typically completed during the second semester (when students are registered for CS499b), with the writing and final touches completed during the third semester (when students are registered for CS499c). Final deliverables are due at the Honors College long before the end of the semester, so it is important to not leave too many tasks until the third semester.
 
-===== See Also =====
+## See Also
 
-  * The [[https://web.archive.org/web/20230601024021/https://www.jmu.edu/honors/handbook/basic-guidelines.shtml|old honors project handbook]] provides tons of helpful information and defaults.
-  * For your reference, {{ :department:honors_capstone:application-honors-project-form.pdf |this used to be the application form}} students had to submit to the honors college to propose their project. **Note: the honors college doesn't publish this any longer and many of these guidelines, requirements, or processes may not actually work this way any more!** This document includes some guidance about the thesis proposal process, copied below for convenience:
-    * Proposals should be 5-15 pages in length. Unless your department has different proposal requirements, we recommend that you include the following information:
-      - Purpose and Objectives
-      - Tentative Outline
-      - Methodology and Timeline
-      - List and description of final deliverables (creative projects only)
-      - Bibliography
-    * Import Information Information
-      - Students wishing to enter the program as Track III must have a minimum cumulative GPA of 3.50 AND meet the GPA requirements of their major. Exceptions possible with approval of department head.
-      - Project Advisors MUST be tenured, tenure-track, or RTA JMU faculty members. Readers may include any full-time or part-time JMU faculty, and/or any non-JMU members with expertise applicable to the topic of the Honors project.
-      - Handwritten forms will not be accepted. The application MUST be completed in its entirety in digital format and then printed for signatures. Email addresses can be found in the JMU online directory. Nothing should be handwritten except signatures.
-      - The name of your faculty advisor MUST include middle initial and terminal degree. Ex: Philip L. Frana, Ph.D.
-      - Missing information may result in the application being returned. It is strongly recommended that you bring this completed form to the Honors College main office for review prior to gathering signatures.
-      - Submit an original application AND proposal to the Honors College once ALL signatures have been obtained: all committee members, your department head, and your college dean. The Honors College Dean will sign after reviewing the proposal.
-      - The Honors College will send an email notification to the student of the approval decision within 14 days of the proposal submission.
-      - Departmental guidelines for projects can be found on the Honors Capstone Project page, located in the Handbook section of the Honors College website. Review the guidelines specified by your major department prior to beginning the 499 sequence and again throughout the three-semester process.
-      - If the composition of your committee (project advisor or readers) changes at any point during the 499 sequence, submit a revised application, complete with ALL signatures. If the topic/content of your project changes substantially during the 499 sequence, submit a revised proposal AND application, complete with ALL signatures, thus confirming their approval of the revision.
-      - Submitting this proposal does not register you for 499A. Please discuss the registration process with the office of your major, and refer to the departmental guidelines mentioned above.
-      - Proposals are typically due during the final month of classes in the semester in which you are enrolled in 499A. Please check the Honors College website for exact dates.
-      - In the semester in which you will submit your Honors Capstone Project, you are required to submit a Pre-Submission Form to the Honors College main office by the stated deadline.
+- The [old honors project handbook](https://web.archive.org/web/20230601024021/https://www.jmu.edu/honors/handbook/basic-guidelines.shtml) provides tons of helpful information and defaults.
+- For your reference, [application-honors-project-form.pdf](application-honors-project-form.pdf) students had to submit to the honors college to propose their project. **Note: the honors college doesn't publish this any longer and many of these guidelines, requirements, or processes may not actually work this way any more!** This document includes some guidance about the thesis proposal process, copied below for convenience:
+    - Proposals should be 5-15 pages in length. Unless your department has different proposal requirements, we recommend that you include the following information:
+        1.  Purpose and Objectives
+        2.  Tentative Outline
+        3.  Methodology and Timeline
+        4.  List and description of final deliverables (creative projects only)
+        5.  Bibliography
+    - Import Information Information
+        1.  Students wishing to enter the program as Track III must have a minimum cumulative GPA of 3.50 AND meet the GPA requirements of their major. Exceptions possible with approval of department head.
+        2.  Project Advisors MUST be tenured, tenure-track, or RTA JMU faculty members. Readers may include any full-time or part-time JMU faculty, and/or any non-JMU members with expertise applicable to the topic of the Honors project.
+        3.  Handwritten forms will not be accepted. The application MUST be completed in its entirety in digital format and then printed for signatures. Email addresses can be found in the JMU online directory. Nothing should be handwritten except signatures.
+        4.  The name of your faculty advisor MUST include middle initial and terminal degree. Ex: Philip L. Frana, Ph.D.
+        5.  Missing information may result in the application being returned. It is strongly recommended that you bring this completed form to the Honors College main office for review prior to gathering signatures.
+        6.  Submit an original application AND proposal to the Honors College once ALL signatures have been obtained: all committee members, your department head, and your college dean. The Honors College Dean will sign after reviewing the proposal.
+        7.  The Honors College will send an email notification to the student of the approval decision within 14 days of the proposal submission.
+        8.  Departmental guidelines for projects can be found on the Honors Capstone Project page, located in the Handbook section of the Honors College website. Review the guidelines specified by your major department prior to beginning the 499 sequence and again throughout the three-semester process.
+        9.  If the composition of your committee (project advisor or readers) changes at any point during the 499 sequence, submit a revised application, complete with ALL signatures. If the topic/content of your project changes substantially during the 499 sequence, submit a revised proposal AND application, complete with ALL signatures, thus confirming their approval of the revision.
+        10. Submitting this proposal does not register you for 499A. Please discuss the registration process with the office of your major, and refer to the departmental guidelines mentioned above.
+        11. Proposals are typically due during the final month of classes in the semester in which you are enrolled in 499A. Please check the Honors College website for exact dates.
+        12. In the semester in which you will submit your Honors Capstone Project, you are required to submit a Pre-Submission Form to the Honors College main office by the stated deadline.

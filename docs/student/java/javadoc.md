@@ -1,48 +1,42 @@
-===== The Java Documentation Generator (javadoc) =====
+# The Java Documentation Generator (javadoc)
 
+## Overview
 
+`javadoc` is a tool that creates HTML pages (often called "java docs") from documentation included in Java source files.
 
-==== Overview ====
+`javadoc` looks for specially-formatted block comments (that start with `/**` and end with `*/`) for information to include in the HTML pages it creates. These comments include a main description followed by one or more *tags*.
 
-''%%javadoc%%'' is a tool that creates HTML pages (often called "java docs") from documentation included in Java source files.
-
-''%%javadoc%%'' looks for specially-formatted block comments     (that start with ''%%/**%%'' and end with ''%%*/%%'')     for information to include in the HTML pages it creates.     These comments include a main description followed by one or more     //tags//.
-
-
-==== Tags for Constructors and Methods ====
-
+## Tags for Constructors and Methods
 
 The most frequently-used tags for constructors and methods are:
 
+- @author *text*
+- @deprecated *text*
+- @param *nametext*
+- @return *text*
+- @since *text*
+- @throws *classtext*
 
-  * @author  //text//
-  * @deprecated  //text//
-  * @param  //name////text//
-  * @return  //text//
-  * @since   //text//
-  * @throws  //class////text//
+Below is an annotated example of a method that contains `javadoc`-formatted comments:
 
-Below is an annotated example of a method that contains ''%%javadoc%%''-formatted comments:
+![An example of javadoc-formatted comments](javadocs.gif)
 
-{{javadocs.gif|An example of javadoc-formatted comments}}
-
-==== Tags for Classes and Interfaces ====
+## Tags for Classes and Interfaces
 
 The most frequently-used tags for classes and interfaces are:
 
-  * @author //text//
-  * @deprecated //text//
-  * @since //text//
-  * @version  //text//
+- @author *text*
+- @deprecated *text*
+- @since *text*
+- @version *text*
 
-==== An Example ====
+## An Example
 
+Below is a descriptive example of a class that contains `javadoc`-formatted comments:
 
-Below is a descriptive example of a class that contains ''%%javadoc%%''-formatted comments:
-
-<code java>
+``` java
 /**
- * This is where the description of the class goes.  
+ * This is where the description of the class goes.
  * You can include HTML tags if you would like.
  *
  * @author      Author's name
@@ -62,38 +56,33 @@ public class ClassName
 
     }
 }
+```
+
+## Executing the Tool
+
+The `javadoc` tool can be executed at the command line. It has the following syntax:
+
+<code>
+javadoc \[*options*\] \[*packages*\] \[*files*\]
 </code>
-
-
-==== Executing the Tool ====
-
-
-The ''%%javadoc%%'' tool can be executed at the command line. It has the following syntax:
-
-
-|   javadoc [//options//] [//packages//] [//files//]   |
 
 For example:
 
-''%%javadoc Calculator.java Controller.java%%''
+`javadoc Calculator.java Controller.java`
 
-will create the HTML pages for the source files named ''%%Calculator.java%%'' and ''%%Controller.java%%''.
+will create the HTML pages for the source files named `Calculator.java` and `Controller.java`.
 
-Many integrated development environments also have the capability of running the ''%%javadoc%%'' tool, including [[student:eclipse:help#creating_html_documentation|Eclipse]].
+Many integrated development environments also have the capability of running the `javadoc` tool, including [Eclipse](../eclipse/help.md#creating-html-documentation).
 
-Note that the ''%%javadoc%%'' tool generates a large number of     "supporting" files even if you only generate documentation for a     single class.  The file ''%%index.html%%'' is the "main" page.
+Note that the `javadoc` tool generates a large number of "supporting" files even if you only generate documentation for a single class. The file `index.html` is the "main" page.
 
+## Troubleshooting
 
-==== Troubleshooting ====
+If you're style-checker gives you a message like `@param tag must be preceeded by a blank line`, it probably means that there is extra whitespace on the line the line containing the `@param` tag. Delete anything (even if you can't see it) that is after the asterisk on the "blank" line.
 
-If you're style-checker gives you a message like ''%%@param tag must be preceeded by a blank line%%'',  it probably means that there is extra whitespace on the line the line containing the ''%%@param%%'' tag. Delete anything (even if you can't see it) that is after the asterisk on the "blank" line.
+## For More Information
 
+The `javadoc` tool is very powerful and has a number of capabilities that are not discussed here. For more information, see:
 
-
-==== For More Information ====
-
-
-The ''%%javadoc%%'' tool is very powerful and has a number of     capabilities that are not discussed here. For more information, see:
-
-  * [[ http://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html | Using the javadoc Tool ]]
-  * [[ http://www.oracle.com/technetwork/articles/java/index-137868.html | Writing Comments for the javadoc Tool ]]
+- [Using the javadoc Tool](http://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html)
+- [Writing Comments for the javadoc Tool](http://www.oracle.com/technetwork/articles/java/index-137868.html)

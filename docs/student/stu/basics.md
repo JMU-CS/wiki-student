@@ -1,60 +1,63 @@
-===== Help with stu.cs.jmu.edu =====
+# Help with stu.cs.jmu.edu
+
 "stu" is a server running Linux that is available to all students in the JMU
 Computer Science Department.
 
-==== Logging in to stu ====
-You can login to "stu" using an SSH client (and the host name   ''%%stu.cs.jmu.edu%%''). All modern operating systems should come with command-line SSH client (usually named ''%%ssh%%''). Windows 10 users may need to install the client [[https://www.howtogeek.com/336775/how-to-enable-and-use-windows-10s-built-in-ssh-commands/|manually]], depending on version and edition. GUI SSH clients are also available, but add little.
+## Logging in to stu
 
-To log in, type the following in a terminal/cmd window, replacing <eid> with your JMU username.
+You can login to "stu" using an SSH client (and the host name `stu.cs.jmu.edu`). All modern operating systems should come with command-line SSH client (usually named `ssh`). Windows 10 users may need to install the client [manually](https://www.howtogeek.com/336775/how-to-enable-and-use-windows-10s-built-in-ssh-commands/), depending on version and edition. GUI SSH clients are also available, but add little.
 
-    ssh <eid>@stu.cs.jmu.edu
+To log in, type the following in a terminal/cmd window, replacing \<eid\> with your JMU username.
+
+      ssh <eid>@stu.cs.jmu.edu
 
 Enter your password when prompted. Nothing will appear on the screen so type carefully!
 
-=== Keypairs ===
-You can avoid the need to authenticate yourself (with your eID and password) each time you login [[ student:utilities:start:keypairs | using a public/private key pair]]. This is particularly useful when using another protocol (e.g., Subversion or Git) on top of SSH.
+### Keypairs
 
-=== Timeout ===
+You can avoid the need to authenticate yourself (with your eID and password) each time you login [using a public/private key pair](../utilities/start/keypairs.md). This is particularly useful when using another protocol (e.g., Subversion or Git) on top of SSH.
+
+### Timeout
+
 Add the following to your ~/.ssh/config file if you are getting disconnected from stu due to an idle timeout:
-<code>
-Host *
-    TCPKeepAlive yes
-    ServerAliveInterval 15
-</code>
 
-==== Accessing Lab Computers====
-To log into a specific lab computer you first login to stu as normal and then ssh to a lab machine by hostname. The hostnames are based on the room and computer number and take the form "L[room_number][computer_number].cs.jmu.edu".
+    Host *
+        TCPKeepAlive yes
+        ServerAliveInterval 15
 
-^ Room         ^ Hostname Range          ^
-| ISAT/CS 248 | L248{01..32}.cs.jmu.edu |
-| ISAT/CS 250 | L250{01..31}.cs.jmu.edu |
-| ENGEO 2204 | L2204{01..32}.cs.jmu.edu  |
+## Accessing Lab Computers
 
-This can be simplified by using the ''-J'' option to ssh. For example, the following command would jump through stu to reach a lab computer in ISAT/CS 250.
+To log into a specific lab computer you first login to stu as normal and then ssh to a lab machine by hostname. The hostnames are based on the room and computer number and take the form "L\[room_number\]\[computer_number\].cs.jmu.edu".
 
-    ssh -J <eid>@stu.cs.jmu.edu <eid>@l25005.cs.jmu.edu
+| Room        | Hostname Range           |
+|:------------|:-------------------------|
+| ISAT/CS 248 | L248{01..32}.cs.jmu.edu  |
+| ISAT/CS 250 | L250{01..31}.cs.jmu.edu  |
+| ENGEO 2204  | L2204{01..32}.cs.jmu.edu |
+
+This can be simplified by using the `-J` option to ssh. For example, the following command would jump through stu to reach a lab computer in ISAT/CS 250.
+
+      ssh -J <eid>@stu.cs.jmu.edu <eid>@l25005.cs.jmu.edu
 
 You can do this transparently by adding the following to your ~/.ssh/config:
 
-    Match !host stu.cs.jmu.edu host *.cs.jmu.edu !exec "nc -z -w 1 %h %p"
-        ProxyJump stu.cs.jmu.edu
+      Match !host stu.cs.jmu.edu host *.cs.jmu.edu !exec "nc -z -w 1 %h %p"
+          ProxyJump stu.cs.jmu.edu
 
-This uses netcat to determine if you can connect directly to the host and if not, for all .cs.jmu.edu hosts other than stu, jump through stu. Connecting to a lab machine with this configuration is the same from on or off campus: ''ssh l25005.cs.jmu.edu''.
+This uses netcat to determine if you can connect directly to the host and if not, for all .cs.jmu.edu hosts other than stu, jump through stu. Connecting to a lab machine with this configuration is the same from on or off campus: `ssh l25005.cs.jmu.edu`.
 
 Setting up keypairs is highly recommended if you're doing this regularly to avoid multiple password prompts.
 
-==== Transferring Files to and From stu ====
-You can transfer files to "stu" using an SCP client (and the host name  ''%%stu.cs.jmu.edu%%''). Modern operating systems include a command-line scp client named ''scp''. See [[http://www.hypexr.org/linux_scp_help.php|this article]] for some usage examples. There are also GUI clients available that work like a file explorer. Options include [[ https://filezilla-project.org/| FileZilla]], [[https://winscp.net/eng/index.php|WinSCP]] and [[https://cyberduck.io/|Cyberduck]]. Both SCP and SFTP use port 22 (see more detailed instructions on [[student:stu:filezilla|Transferring Files from Your JMU CS Account with FileZilla]].
+## Transferring Files to and From stu
 
+You can transfer files to "stu" using an SCP client (and the host name `stu.cs.jmu.edu`). Modern operating systems include a command-line scp client named `scp`. See [this article](http://www.hypexr.org/linux_scp_help.php) for some usage examples. There are also GUI clients available that work like a file explorer. Options include [FileZilla](https://filezilla-project.org/), [WinSCP](https://winscp.net/eng/index.php) and [Cyberduck](https://cyberduck.io/). Both SCP and SFTP use port 22 (see more detailed instructions on [Transferring Files from Your JMU CS Account with FileZilla](filezilla.md).
 
-If you want a more seamless experience or the ability to edit files on "stu" using a local editor like Eclipse or VS Code, you can [[student:utilities:sshfs|mount your home folder locally]]. 
+If you want a more seamless experience or the ability to edit files on "stu" using a local editor like Eclipse or VS Code, you can [mount your home folder locally](../utilities/sshfs.md).
 
-==== Using stu as an HTTP Server ====
+## Using stu as an HTTP Server
 
+You (should) have a directory named `www` in your home directory. Any file that you put in that directory will be available to the public as a "web page" (i.e., it will be served in response to an HTTP GET request) from the server `w3stu.cs.jmu.edu` under your e-ID.
 
-You (should) have a directory named ''%%www%%'' in your home directory.   Any file that you put in that directory will be available to the   public as a "web page" (i.e., it will be served in response to an HTTP GET   request) from the server ''%%w3stu.cs.jmu.edu%%'' under your   e-ID.
+For example, if Prof. Fakename (i.e., `fakenazx`) put a file named `test.html` in her `www` directory it would be accessible to the public using the URL as `w3stu.cs.jmu.edu/fakenazx/test.html`.
 
-
-For example, if Prof. Fakename (i.e., ''%%fakenazx%%'')   put a file named ''%%test.html%%'' in her ''%%www%%''   directory it would be accessible to the public using the URL   as ''%%w3stu.cs.jmu.edu/fakenazx/test.html%%''.
-
-Of course, the HTTP server must have permission to read the file. So,   the file must be world-readable.
+Of course, the HTTP server must have permission to read the file. So, the file must be world-readable.

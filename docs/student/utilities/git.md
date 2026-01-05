@@ -1,60 +1,57 @@
-====== Git ======
-[[https://git-scm.com/|Git]] is a powerful, distributed version control system. Consider installing it as specified on the linked site.
+# Git
 
-Likely you'll wish to have [[student:utilities:start:keypairs|ssh keypairs]] in place when using git to coordinate source code between multiple machines (which are called "remotes" in git terms). 
+[Git](https://git-scm.com/) is a powerful, distributed version control system. Consider installing it as specified on the linked site.
+
+Likely you'll wish to have [ssh keypairs](start/keypairs.md) in place when using git to coordinate source code between multiple machines (which are called "remotes" in git terms).
 
 There are a few settings that you must set to prevent having to have a ton of flags on the command line for your git commands, then there are many more that you may just like to have in place. Consider those in the sample below.
 
-Oh by the way, you can set global git configuration options on the command line by doing things like the following (example demonstrates the first few settings from the subsequent global ''.giticonfig'' file):
-<code>
-git config --global user.name "YOUR_NAME"
-git config --global user.email "YOUR@EMAIL.EDU"
-git config --global color.ui true
-</code>
+Oh by the way, you can set global git configuration options on the command line by doing things like the following (example demonstrates the first few settings from the subsequent global `.giticonfig` file):
 
-You can also open the file ''~/.gitconfig'' and edit it to match the formatting below.
+    git config --global user.name "YOUR_NAME"
+    git config --global user.email "YOUR@EMAIL.EDU"
+    git config --global color.ui true
 
-===== Global Configuration =====
+You can also open the file `~/.gitconfig` and edit it to match the formatting below.
 
-<code>
-# who should git assume you're committing as?
-[user]
-	name = Michael Stewart
-	email = stewarmc@jmu.edu
-[color]
-	ui = true
-[core]
-	excludesfile = /usuallyThePathToYourUserHomeDirectory/.gitignore_global
-	editor = code --wait 	# this will use vscode as the default editor. 
-				# it assumes that you have the code command installed 
-				# and in your PATH. Note: because of the --wait option,
-				# you will need to close the editor tab that git opens
-				# before the git task will complete (e.g. if you commit
-				# without a message, vscode will open an editor tab in
-				# which you should type a commit message, then if you
-				# save that "file" and close the tab, git will know that
-				# you're done and will proceed with the commit now with
-				# its message updated)
-[init]
-	defaultBranch = main
+## Global Configuration
 
-# how should git handle reconciling divergent branches when pulling?
-[pull]
-	rebase = true
+    # who should git assume you're committing as?
+    [user]
+        name = Michael Stewart
+        email = stewarmc@jmu.edu
+    [color]
+        ui = true
+    [core]
+        excludesfile = /usuallyThePathToYourUserHomeDirectory/.gitignore_global
+        editor = code --wait    # this will use vscode as the default editor. 
+                    # it assumes that you have the code command installed 
+                    # and in your PATH. Note: because of the --wait option,
+                    # you will need to close the editor tab that git opens
+                    # before the git task will complete (e.g. if you commit
+                    # without a message, vscode will open an editor tab in
+                    # which you should type a commit message, then if you
+                    # save that "file" and close the tab, git will know that
+                    # you're done and will proceed with the commit now with
+                    # its message updated)
+    [init]
+        defaultBranch = main
 
-# git should remember how i've resolved a given conflict and not prompt me for that conflict again
-[rerere]
-	enabled = true
+    # how should git handle reconciling divergent branches when pulling?
+    [pull]
+        rebase = true
 
-# if you just want to add one of these from the command line, you might do something like
-# git config --global rerere.enabled true
+    # git should remember how i've resolved a given conflict and not prompt me for that conflict again
+    [rerere]
+        enabled = true
 
-# optional but popular aliases
-[alias]
-  ci = commit
-  st = status
-  co = checkout
-  di = diff --color-words
-  br = branch
+    # if you just want to add one of these from the command line, you might do something like
+    # git config --global rerere.enabled true
 
-</code>
+    # optional but popular aliases
+    [alias]
+      ci = commit
+      st = status
+      co = checkout
+      di = diff --color-words
+      br = branch

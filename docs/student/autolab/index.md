@@ -1,36 +1,36 @@
-{{student:autolab:autolabjmu.png}}
+# Autolab JMU
 
-[[ http://www.autolabproject.com/ | Autolab ]] is a system that allows
+![autolabjmu.png](autolabjmu.png)
+
+[Autolab](http://www.autolabproject.com/) is a system that allows
 students to submit their solutions to programming assignments and, in
 some cases, to get immediate feedback on (some aspects of) them. These
 pages contain information for students about how to use Autolab (some of which is specific to the use of Autolab at JMU).
 
-==== Help with Common Tasks ====
+## Help with Common Tasks
 
-Help is available on a variety of 
-[[student:autolab:common-tasks|common tasks]] performed by students.
+Help is available on a variety of
+[common tasks](common-tasks.md) performed by students.
 
-
-==== Help Understanding Grade Reports ====
+## Help Understanding Grade Reports
 
 Regardless of the autograder that is used, the grade report has the same structure.
 
-  * [[student:autolab:grade-report|Help Understanding Grade Reports]]
+- [Help Understanding Grade Reports](grade-report.md)
 
+## Help Interpreting Feedback from Autograders
 
-==== Help Interpreting Feedback from Autograders ====
-
-There are two kinds of feedback in Autolab - instructor-generated code 
+There are two kinds of feedback in Autolab - instructor-generated code
 annotations and autograder-generated feedback on submission criteria/problems.
 
 The instructor-generated annotations appear at the bottom of the grade report under the **Remarks** heading. This part of the report contains one line for each annotation that always includes a textual comment and the relevant file and line number. It may also include a criterion and deduction.
 
 The autograder-generated feedback latter varies from autograder to autograder. Help is available on the feedback provided by the following autograders:
 
-  * [[student:autolab:gradingtier-summarizers | Autograders using gradingtier (with Checkstyle, JUnit, and JaCoCo/EclEmma) for Java Submissions]]
+- [Autograders using gradingtier (with Checkstyle, JUnit, and JaCoCo/EclEmma) for Java Submissions](gradingtier-summarizers.md)
 
-==== Troubleshooting ====
+## Troubleshooting
 
 If you have trouble, you should consult the following guide before contacting your professor.
 
-  *[[student:autolab:troubleshooting|Troubleshooting Autolab]]
+* [Troubleshooting Autolab](troubleshooting.md)

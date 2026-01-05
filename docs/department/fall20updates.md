@@ -1,14 +1,14 @@
-====== Fall 2020 Course Offerings======
+# Fall 2020 Course Offerings
 
-This document describes the //currently// planned mode of delivery for courses being offered by faculty in the Computer Science Department. Changes may be made in response to changing conditions. 
+This document describes the *currently* planned mode of delivery for courses being offered by faculty in the Computer Science Department. Changes may be made in response to changing conditions.
 
-Note: JMU's grading policy has returned to normal, including the [[https://catalog.jmu.edu/content.php?catoid=41&navoid=1555&_ga=2.99565148.373648508.1595243189-1318295689.1572380449#credit-hours|CR/NC policy]]. 
+Note: JMU's grading policy has returned to normal, including the [CR/NC policy](https://catalog.jmu.edu/content.php?catoid=41&navoid=1555&_ga=2.99565148.373648508.1595243189-1318295689.1572380449#credit-hours).
 
-**CS 101** \\
-All Sections (Simmons) - A combination of in person lectures and synchronous zoom lectures with recordings, predominantly Zoom/similar platform.  Group work will be conducted online using Zoom and/or similar platforms.  
+**CS 101**  
+All Sections (Simmons) - A combination of in person lectures and synchronous zoom lectures with recordings, predominantly Zoom/similar platform. Group work will be conducted online using Zoom and/or similar platforms.
 
-**CS 149** \\
-Section 3 & 4 (Zhuojun Duan): Hybrid. Most Mondays and Wednesdays will be held online by Zoom, and most Fridays will be held in face to face(not all students at a time) and live streamed. All office hours will be online by Zoom. Assignments and exams should be submitted electronically(Canvas). Note: not all portions of class will be recorded, please attend the classes regularly. 
+**CS 149**  
+Section 3 & 4 (Zhuojun Duan): Hybrid. Most Mondays and Wednesdays will be held online by Zoom, and most Fridays will be held in face to face(not all students at a time) and live streamed. All office hours will be online by Zoom. Assignments and exams should be submitted electronically(Canvas). Note: not all portions of class will be recorded, please attend the classes regularly.
 
 Sections 5 & 6 (Weikle) - Online only. Synchronous Zoom (or similar) online active learning sessions (POGIL group activities or labs) during scheduled class times supported by asynchronous readings and pre-recorded videos. Assignments and exams submitted electronically. Office hours in Zoom (or similar).
 
@@ -16,70 +16,70 @@ Section 8 (Bernstein) - Synchronous Zoom (or similar) lectures during most sched
 
 Sections 9 & 10 (K. Richards) - Hybrid. Occasional face to face meetings (with a portion of students at a time) intermittently throughout the semester. Some synchronous meetings using Zoom, primarily for activities/Q&A. Recorded lectures and activities for asynchronous use. Assignments to be submitted electronically.
 
-Sections 11 and 12 (Bowers) - Online only. Synchronous Zoom (or similar) lectures, POGIL activities, and labs during scheduled meeting times. 
+Sections 11 and 12 (Bowers) - Online only. Synchronous Zoom (or similar) lectures, POGIL activities, and labs during scheduled meeting times.
 
-Section 13 (Molloy) -- Hybrid.  First 2 weeks will be entirely virtual/online.  Afterwards, all Tuesday's will be online and Thursday's will alternate between Purple and Gold days (you will be assigned a "color" at the end of the second week of class).
+Section 13 (Molloy) -- Hybrid. First 2 weeks will be entirely virtual/online. Afterwards, all Tuesday's will be online and Thursday's will alternate between Purple and Gold days (you will be assigned a "color" at the end of the second week of class).
 
-Section 14 (Chao): Hybrid.  Purple and Gold days.  I will prior to start of semester have students join either Purple or Gold sections.  Each section will meet once a week in person with the opposite group attending via online Webex live meeting.  Purple(Thursday start) Gold(Tues start).  I will setup video recordings either from the live classroom meetings as a Webex call or prior to the class as a video.   Most class days will be a 20 min lecture then the remainder of time for an in-class lab or help on Homework assignments.  Lab and Homework Assignments will be submitted electronically in Canvas / Autolab.  Exams are being planned for in class on your particular day.
+Section 14 (Chao): Hybrid. Purple and Gold days. I will prior to start of semester have students join either Purple or Gold sections. Each section will meet once a week in person with the opposite group attending via online Webex live meeting. Purple(Thursday start) Gold(Tues start). I will setup video recordings either from the live classroom meetings as a Webex call or prior to the class as a video. Most class days will be a 20 min lecture then the remainder of time for an in-class lab or help on Homework assignments. Lab and Homework Assignments will be submitted electronically in Canvas / Autolab. Exams are being planned for in class on your particular day.
 
-**CS 159** \\
-Sections 1–2 (Norton)  - Fully online with synchronous Zoom. All assignments & exams online.
+**CS 159**  
+Sections 1–2 (Norton) - Fully online with synchronous Zoom. All assignments & exams online.
 
 Sections 3-5 (Mayfield) - Hybrid. Most Tuesdays will be held online using Zoom, and most Thursdays will be held in person and live streamed. Some but not all portions of class will be recorded. Students will be encouraged to participate during the regularly scheduled class times.
 
-**CS 227** \\
+**CS 227**  
 All Sections (Riley and Fox)—Completely online with synchronous Zoom meetings for problem-solving and questions twice per week. Interactive textbook (zyBook) with optional recorded lectures. No midterms or final exam, but weekly unit tests.
 
-**CS 240** \\
-All Sections (Kirkpatrick and Sprague)—Completely online with synchronous Zoom meetings for lecture, problem solving and questions. Interactive textbook (OpenDSA). 
+**CS 240**  
+All Sections (Kirkpatrick and Sprague)—Completely online with synchronous Zoom meetings for lecture, problem solving and questions. Interactive textbook (OpenDSA).
 
-**CS 261** \\
-All Sections  (Lam and Weikle) -- Fully online with synchronous Zoom (or similar) sessions for questions and lab work in groups during scheduled meeting times. Textbook readings, Canvas quizzes, and pre-recorded mini-lectures for preparation before in class labs. Programming assignments submitted on stu (JMU Computer Science server) but test suites will be provided to allow work on a personal computer. Assessments will include Canvas timed quizzes and tests as well as Gradescope-submitted pdfs for labs and possibly exams. Office hours in Zoom (or similar).
+**CS 261**  
+All Sections (Lam and Weikle) -- Fully online with synchronous Zoom (or similar) sessions for questions and lab work in groups during scheduled meeting times. Textbook readings, Canvas quizzes, and pre-recorded mini-lectures for preparation before in class labs. Programming assignments submitted on stu (JMU Computer Science server) but test suites will be provided to allow work on a personal computer. Assessments will include Canvas timed quizzes and tests as well as Gradescope-submitted pdfs for labs and possibly exams. Office hours in Zoom (or similar).
 
-**CS 280** \\
-Only Section (Kirkpatrick)—Completely online with synchronous Zoom meetings for lecture, discussion, and questions. Online textbook ([[https://info340.github.io/index.html|Client-Side Web Development]]). Lab components will be asynchronous.
+**CS 280**  
+Only Section (Kirkpatrick)—Completely online with synchronous Zoom meetings for lecture, discussion, and questions. Online textbook ([Client-Side Web Development](https://info340.github.io/index.html)). Lab components will be asynchronous.
 
-**CS 327** \\
-Sections 1 and 2 (Wang) will be taught in a hybrid manner. Students will be organized into two groups: Purple and Gold. In the first few weeks, students in the Purple Group will attend the class in person on Tuesdays and students in the Gold Group attend on Thursdays. Students not in personal attendance will watch pre-recorded lectures of the same content. After students become more familiar with the teaching style of the instructor, this course will transition more toward online, with in-person meetings on Tuesdays only and groups take turns for them. All assignments must be turned in electronically to Canvas. Office hours will be held electronically with tools like Zoom. 
+**CS 327**  
+Sections 1 and 2 (Wang) will be taught in a hybrid manner. Students will be organized into two groups: Purple and Gold. In the first few weeks, students in the Purple Group will attend the class in person on Tuesdays and students in the Gold Group attend on Thursdays. Students not in personal attendance will watch pre-recorded lectures of the same content. After students become more familiar with the teaching style of the instructor, this course will transition more toward online, with in-person meetings on Tuesdays only and groups take turns for them. All assignments must be turned in electronically to Canvas. Office hours will be held electronically with tools like Zoom.
 
-**CS 345** \\
+**CS 345**  
 All Sections (Fox and Riley)—Completely online with synchronous Zoom meetings for occasional lectures, frequent labs and team activities, and semester team project meetings. Two midterms and a final exam online during class meeting times.
 
-**CS 347**\\
-Completely online. Short video lectures will be released frequently for asynchronous viewing. Two significant and open-ended projects will be assigned: a static website and a React app. Students will participate in weekly video chats with the teaching staff and a small group of their peers to critique projects. During scheduled lecture times, synchronous lab activities and office hours will be conducted over Zoom.  Students will set up and manage their own web servers and will need a reliable network connection and an SSH client. All work can be completed on personal machines or through the department's virtual machines. Other graded components are still being considered, but they will not depend on students being in a particular place at a particular time.
+**CS 347**  
+Completely online. Short video lectures will be released frequently for asynchronous viewing. Two significant and open-ended projects will be assigned: a static website and a React app. Students will participate in weekly video chats with the teaching staff and a small group of their peers to critique projects. During scheduled lecture times, synchronous lab activities and office hours will be conducted over Zoom. Students will set up and manage their own web servers and will need a reliable network connection and an SSH client. All work can be completed on personal machines or through the department's virtual machines. Other graded components are still being considered, but they will not depend on students being in a particular place at a particular time.
 
-**CS 354** \\
-Section 1 (Sprague/Molloy) -- Hybrid.  In general, Tuesdays will be face-to-face lectures with half of the class in person and the other half participating synchronously through Zoom.  Thursdays will be fully online synchronous Zoom meetings for labs and group activities.   As the semester progresses we may also have occasional face-to-face lab activities to facilitate working with the physical robots.
+**CS 354**  
+Section 1 (Sprague/Molloy) -- Hybrid. In general, Tuesdays will be face-to-face lectures with half of the class in person and the other half participating synchronously through Zoom. Thursdays will be fully online synchronous Zoom meetings for labs and group activities. As the semester progresses we may also have occasional face-to-face lab activities to facilitate working with the physical robots.
 
-**CS 361** \\
+**CS 361**  
 Sections 1 and 2 (Buchholz) -- Hybrid. Recorded videos will emphasize important aspects of the reading assignments. face-to-face meetings will be used to go over problems, Q&A, as well as explaining and helping with the course projects.
 
-**CS 374** \\
-Section 1 (Norton)  - Fully online with synchronous Zoom. All assignments & exams online.
+**CS 374**  
+Section 1 (Norton) - Fully online with synchronous Zoom. All assignments & exams online.
 
-**CS 374** \\
+**CS 374**  
 Section 2 (Richards) - Hybrid. A combination of occasional face-to-face meetings (with a portion of the students at a time) for question/answer sessions and lab tutorials, asynchronous recorded lectures, and occasional synchronous meetings using the zoom/similar platform. All assignments and exams submitted electronically.
 
-**CS 432** \\
+**CS 432**  
 Section 1 (Lam) -- Fully online with regular synchronous video sessions for interactive lectures, problem solving sessions, and lab work. Textbook readings and reading quizzes on Canvas. Labs will be submitted via Gradescope. Programming assignments on stu. Take-home midterm(s) and final also submitted via Gradescope.
 
-**CS 445** \\ 
-Section 1 (Molloy).   Hybrid.  A combination of in person lectures and synchronous zoom lectures with recordings, predominantly Zoom/similar platform.  Group work will be conducted online using Zoom and/or similar platforms and student's will be expected to present their work live during class time.
+**CS 445**  
+Section 1 (Molloy). Hybrid. A combination of in person lectures and synchronous zoom lectures with recordings, predominantly Zoom/similar platform. Group work will be conducted online using Zoom and/or similar platforms and student's will be expected to present their work live during class time.
 
-**CS 450**\\
+**CS 450**  
 Section 1 (Tjaden) Online.
 
-**CS 452** \\ 
-Section 1 (Bowers) - Online only. Synchronous lectures and problem solving sessions. Students will be required to present algorithms and proofs live during class time. 
+**CS 452**  
+Section 1 (Bowers) - Online only. Synchronous lectures and problem solving sessions. Students will be required to present algorithms and proofs live during class time.
 
-**CS 455** \\ 
-Section 1 (Aboutabl):  Hybrid.  Online Video Lectures (either synchronous on the class scheduled time, or pre-recorded that must be viewed by students before class time). In case of pre-recorded lectures, class will meet on Zoom (unless otherwise announced) to answer questions on the pre-recorded lectures. In both cases, attendance will be recorded. Office hours will be done in a similar arrangement. I will have some face-to-face meetings in the lab during certain projects, at which time at most 50% of the class can be in the room. Each such meeting will be repeated for the other 50% of the class.
+**CS 455**  
+Section 1 (Aboutabl): Hybrid. Online Video Lectures (either synchronous on the class scheduled time, or pre-recorded that must be viewed by students before class time). In case of pre-recorded lectures, class will meet on Zoom (unless otherwise announced) to answer questions on the pre-recorded lectures. In both cases, attendance will be recorded. Office hours will be done in a similar arrangement. I will have some face-to-face meetings in the lab during certain projects, at which time at most 50% of the class can be in the room. Each such meeting will be repeated for the other 50% of the class.
 
-**CS 457** \\ 
-Sections 1 and 2  (Aboutabl):  Hybrid. Online Video Lectures (either synchronous on the class scheduled time, or pre-recorded that must be viewed by students before class time). In case of pre-recorded lectures, class will meet on Zoom (unless otherwise announced) to answer questions on the pre-recorded lectures. In both cases, attendance will be recorded. Office hours will be done in a similar arrangement. I will have some face-to-face meetings in the lab during certain projects, at which time at most 50% of the class can be in the room. Each such meeting will be repeated for the other 50% of the class.
+**CS 457**  
+Sections 1 and 2 (Aboutabl): Hybrid. Online Video Lectures (either synchronous on the class scheduled time, or pre-recorded that must be viewed by students before class time). In case of pre-recorded lectures, class will meet on Zoom (unless otherwise announced) to answer questions on the pre-recorded lectures. In both cases, attendance will be recorded. Office hours will be done in a similar arrangement. I will have some face-to-face meetings in the lab during certain projects, at which time at most 50% of the class can be in the room. Each such meeting will be repeated for the other 50% of the class.
 
-**CS 462** \\ 
+**CS 462**  
 Section 1 (Bernstein) - Synchronous Zoom (or similar) lectures during most scheduled meeting times. Lectures will be recorded for asynchronous use. Occasional face-to-face meetings (with a portion of the students at a time) for question/answer sessions. Assignments and exams submitted electronically.
 
-**TECH 230** \\ 
+**TECH 230**  
 Section 1 (Bernstein) - Synchronous Zoom (or similar) lectures during most scheduled meeting times. Lectures will be recorded for asynchronous use. Occasional face-to-face meetings (with a portion of the students at a time) for question/answer sessions. Assignments and exams submitted electronically.

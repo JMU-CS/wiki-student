@@ -1,66 +1,60 @@
-===== Mounting a Remote Filesystem Locally =====
+# Mounting a Remote Filesystem Locally
 
 It can often be beneficial to mount a remote filesystem locally to your computer, allowing you to treat the contents as if they were local to your machine. This would, for example, allow you to use a local IDE to edit/compile/run files hosted on stu.cs.jmu.edu. This article describes how to mount your JMUCS home directory using sshfs.
 
-==== Prerequisites ====
+## Prerequisites
 
-  - SSH access to the server hosting the filesystem you wish to mount. It can be helpful to set up [[student:utilities:start:keypairs|ssh keypairs]] as well.
-  - Install the sshfs client on your local machine. See the appropriate section below for your Operating System.
+1.  SSH access to the server hosting the filesystem you wish to mount. It can be helpful to set up [ssh keypairs](start/keypairs.md) as well.
+2.  Install the sshfs client on your local machine. See the appropriate section below for your Operating System.
 
-==== Linux ====
+## Linux
 
-Most distributions package [[https://github.com/libfuse/sshfs|sshfs]] in their repositories and installing from there is far easier than compiling it yourself. For Ubuntu/Mint you could run ''apt-get install sshfs''.
-   
-=== Mounting the remote filesystem ===
+Most distributions package [sshfs](https://github.com/libfuse/sshfs) in their repositories and installing from there is far easier than compiling it yourself. For Ubuntu/Mint you could run `apt-get install sshfs`.
+
+### Mounting the remote filesystem
 
 You must create a local mountpoint before mounting the remote filesystem (this must be done only once). Then the filesystem can be mounted.
 
-<code>
-mkdir -p ~/mnt/stu
-sshfs <eid>@stu.cs.jmu.edu: ~/mnt/stu
-</code>
+    mkdir -p ~/mnt/stu
+    sshfs <eid>@stu.cs.jmu.edu: ~/mnt/stu
 
-Where ''<eid>'' is your JMU username. The ''~/mnt/stu'' directory on your local machine now contains the contents of your JMUCS home directory. Changes made in one place will automatically be reflected in the other. See ''man sshfs'' for additional options.
+Where `<eid>` is your JMU username. The `~/mnt/stu` directory on your local machine now contains the contents of your JMUCS home directory. Changes made in one place will automatically be reflected in the other. See `man sshfs` for additional options.
 
-=== Unmounting the filesystem ===
+### Unmounting the filesystem
 
-When you are done using the remote filesystem you should unmount it using the ''fuermount'' command.
+When you are done using the remote filesystem you should unmount it using the `fuermount` command.
 
-<code>
-fusermount -u ~/mnt/stu
-</code>
+    fusermount -u ~/mnt/stu
 
-==== macOS ====
+## macOS
 
-Download and install both the "FUSE for macOS" and "SSHFS" packages from [[http://osxfuse.github.io/|this page]], following the instructions as prompted. When prompted, enable the "FUSE for macOS Preference Pane" to facilitate future updates. You will also need to enable a system extension in your Security & Privacy System Preferences.''
+Download and install both the "FUSE for macOS" and "SSHFS" packages from [this page](http://osxfuse.github.io/), following the instructions as prompted. When prompted, enable the "FUSE for macOS Preference Pane" to facilitate future updates. You will also need to enable a system extension in your Security & Privacy System Preferences.''
 
-{{:student:utilities:fuse01-pref_pane.png?600|FUSE Preference Pane}}
+![FUSE Preference Pane](fuse01-pref_pane.png){width="600"}
 
-{{:student:utilities:fuse02-ext_blocked.png?400|Blocked}}
+![Blocked](fuse02-ext_blocked.png){width="400"}
 
-{{:student:utilities:fuse03-enable_ext.png?600|Enabled}}
+![Enabled](fuse03-enable_ext.png){width="600"}
 
 After everything is installed correctly, you should be able to follow the same command-line instructions described in the Linux section above except that you should use the following command to unmount the remote filesystem:
 
-<code>
-umount ~/mnt/stu
-</code>
+    umount ~/mnt/stu
 
-**WARNING FOR EARLY ADOPTERS:** There are [[https://github.com/osxfuse/osxfuse/issues/705|known issues]] with OSXFUSE on macOS 11.0 ("Big Sur"). If you upgrade to Big Sur, you will need to re-install the latest version of OSXFUSE (v3.11.0) and you may experience performance degradation.
+**WARNING FOR EARLY ADOPTERS:** There are [known issues](https://github.com/osxfuse/osxfuse/issues/705) with OSXFUSE on macOS 11.0 ("Big Sur"). If you upgrade to Big Sur, you will need to re-install the latest version of OSXFUSE (v3.11.0) and you may experience performance degradation.
 
-==== Windows ====
+## Windows
 
-  - Download the latest release of WinFsp from here: https://github.com/billziss-gh/winfsp/releases
-  - Download the latest release of SSHFS-Win from here, picking your version's architecture (Likely x64): https://github.com/billziss-gh/sshfs-win/releases
-  - Install WinFsp. The default selection of components can be used.
-  - Install SSHFS-Win, the default options are fine.
-  - In file explorer, right click on computer (This PC), and:
-    * Select "Map Network Drive"
-    * Select a drive letter that is convenient.
-    * In the folder box, type in the following, substituting your EID: <code>\\sshfs\eid@stu.cs.jmu.edu</code>
-    * Click finish, and type in your EID password.
-  - You should now have your stu home directory mounted at the drive letter you specified
+1.  Download the latest release of WinFsp from here: <https://github.com/billziss-gh/winfsp/releases>
+2.  Download the latest release of SSHFS-Win from here, picking your version's architecture (Likely x64): <https://github.com/billziss-gh/sshfs-win/releases>
+3.  Install WinFsp. The default selection of components can be used.
+4.  Install SSHFS-Win, the default options are fine.
+5.  In file explorer, right click on computer (This PC), and:
+    - Select "Map Network Drive"
+    - Select a drive letter that is convenient.
+    - In the folder box, type in the following, substituting your EID: `\\sshfs\eid@stu.cs.jmu.edu`
+    - Click finish, and type in your EID password.
+6.  You should now have your stu home directory mounted at the drive letter you specified
 
-=== Unmounting the filesystem ===
+### Unmounting the filesystem
 
 When you are done using the remote filesystem you should unmount it by right clicking the Network drive and selecting "Disconnect"

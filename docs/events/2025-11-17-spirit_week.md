@@ -1,35 +1,34 @@
-====== SPIRIT WEEK! ======
+# SPIRIT WEEK!
 
 🎉 JMU CS Department Spirit Week: November 17th - 21st!
 
 Get ready to show off your department pride, appreciation, and creativity! The JMU CS Department is hosting a Spirit Week from Monday, November 17th, through Friday, November 21st! Join your fellow students for fun activities every day as we celebrate the CS community and prepare for the semester's end.
 
+------------------------------------------------------------------------
 
-----
+## Monday, November 17th: Pink/Blue Out Day
 
-=== Monday, November 17th: Pink/Blue Out Day ===
+- Theme: Wear pink or blue to support the CS and IT Departments
+- Activity: Faculty Thank You Note Tabling from 10:00 AM – 1:30 PM in the King Hall Atrium.
 
-  * Theme: Wear pink or blue to support the CS and IT Departments
-  * Activity: Faculty Thank You Note Tabling from 10:00 AM – 1:30 PM in the King Hall Atrium.
+## Tuesday, November 18th: Dress Up Like a Professor Day
 
-=== Tuesday, November 18th: Dress Up Like a Professor Day ===
+- Theme: Find your best tweed and elbow patches!
+- Contest Entry: To enter the "Best Dressed" contest, take a picture with the professor you're dressed up as and DM it to @jmucs on Instagram.
+- Activity: Faculty Thank You Note Tabling from 10:00 AM – 1:30 PM in the King Hall Atrium.
 
-  * Theme: Find your best tweed and elbow patches!
-  * Contest Entry: To enter the "Best Dressed" contest, take a picture with the professor you're dressed up as and DM it to @jmucs on Instagram.
-  * Activity: Faculty Thank You Note Tabling from 10:00 AM – 1:30 PM in the King Hall Atrium.
+## Wednesday, November 19th: Anything But a Backpack Day
 
-=== Wednesday, November 19th: Anything But a Backpack Day ===
+- Theme: Get creative! Carry your books in anything but a traditional backpack.
 
-  * Theme: Get creative! Carry your books in anything but a traditional backpack.
+## Thursday, November 20th: Spirit Rock Painting & Distribution
 
-=== Thursday, November 20th: Spirit Rock Painting & Distribution ===
+- Activity 1: Spirit Rock Painting from 10:00 AM – 3:00 PM (Location TBD/Near King Hall).
+- Activity 2: CS/IT Ambassadors will distribute faculty thank you notes.
 
-  * Activity 1: Spirit Rock Painting from 10:00 AM – 3:00 PM (Location TBD/Near King Hall).
-  * Activity 2: CS/IT Ambassadors will distribute faculty thank you notes.
+## Friday, November 21st: Wear Purple Day
 
-=== Friday, November 21st: Wear Purple Day ===
+- Theme: Show your Duke spirit ahead of the weekend football game!
+- Activity: CS/IT Ambassadors will distribute the remaining faculty thank you notes
 
-  * Theme: Show your Duke spirit ahead of the weekend football game!
-  * Activity: CS/IT Ambassadors will distribute the remaining faculty thank you notes
-
-{{ :events:csit_spirit_week_poster.png?nolink&600 |}}
+![CS & IT Sprit Week: Mon 17 Color Wars, Tue 18 Dress like a Professor, etc.](csit_spirit_week_poster.png){width="600" class="align-center"}

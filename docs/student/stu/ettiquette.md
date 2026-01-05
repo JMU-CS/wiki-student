@@ -1,48 +1,49 @@
-===== Etiquette =====
+# Etiquette
 
 The student server is a shared resource, and as with any shared resource it is important to be considerate of others who are using the resource. Please make sure the machine remains responsive by closely monitoring any processes that you have running and terminating them if they are using an abnormal amount of CPU time, memory, or I/O bandwidth. This article describes tools that can be useful for monitoring and controlling resource-intensive processes that are running on the system.
 
-===== Monitoring =====
-==== top ====
+## Monitoring
 
-[[ http://man7.org/linux/man-pages/man1/top.1.html | top ]] provides insight into the overall load on a system and the details on  running processes. By default, top sorts processes by CPU usage though you can change the sort column with the ''<'' and ''>'' keys while top is running.
+### top
 
-It's a good idea to monitor your processes in a separate window while working on stu. To do this, start another ssh session to stu and run ''top -u $USER''; this will display only your processes. You can press ''k'' to kill processes directly from top. This will prompt you for a pid and default to the process at the top of the list.
+[top](http://man7.org/linux/man-pages/man1/top.1.html) provides insight into the overall load on a system and the details on running processes. By default, top sorts processes by CPU usage though you can change the sort column with the `<` and `>` keys while top is running.
 
-The load average is another useful piece of information provided by top and consists of three numbers indicating the CPU and IO load over the last one, five, and 15 minute periods. 
+It's a good idea to monitor your processes in a separate window while working on stu. To do this, start another ssh session to stu and run `top -u $USER`; this will display only your processes. You can press `k` to kill processes directly from top. This will prompt you for a pid and default to the process at the top of the list.
 
-==== pidstat ====
+The load average is another useful piece of information provided by top and consists of three numbers indicating the CPU and IO load over the last one, five, and 15 minute periods.
 
-Disk IO is usually the culprit when top indicates a high load average combined with low CPU usage. [[ https://linux.die.net/man/1/pidstat | pidstat ]] can be used to display a user's per-process IO statistics over a given interval. Use ''pidstat -d 1'' to display IO statistics every one second. The example below shows two processes reading and writing to disk.
+### pidstat
 
-  11:26:00 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
-  11:26:01 AM  2069     39724    932.00      0.00      0.00      81  tar
-  11:26:01 AM  2069     39726      0.00    192.00      0.00       0  gzip
+Disk IO is usually the culprit when top indicates a high load average combined with low CPU usage. [pidstat](https://linux.die.net/man/1/pidstat) can be used to display a user's per-process IO statistics over a given interval. Use `pidstat -d 1` to display IO statistics every one second. The example below shows two processes reading and writing to disk.
 
-===== Limits =====
+    11:26:00 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+    11:26:01 AM  2069     39724    932.00      0.00      0.00      81  tar
+    11:26:01 AM  2069     39726      0.00    192.00      0.00       0  gzip
 
-==== cpulimit ====
+## Limits
 
-[[ https://www.unix.com/man-page/debian/1/cpulimit/ | cpulimit ]] can limit the cpu usage of a running process. For example, the following command would limit PID 1234 to 25% CPU usage. You can identify PIDs with ''top'' or ''ps''.
+### cpulimit
 
-  cpulimit -p 1234 -l 25
+[cpulimit](https://www.unix.com/man-page/debian/1/cpulimit/) can limit the cpu usage of a running process. For example, the following command would limit PID 1234 to 25% CPU usage. You can identify PIDs with `top` or `ps`.
 
-==== nice ====
+    cpulimit -p 1234 -l 25
 
-By default, Linux considers all processes equally important and allots them equal CPU time. The [[ https://linux.die.net/man/1/nice | nice ]] command can be used to run processes at a lower priority, thus making them "nicer". Niceness values range from -20 to +19, with higher numbers having a lower priority. Only the superuser can set negative niceness values. For example:
+### nice
 
-  nice -n 19 ./long_running_job
+By default, Linux considers all processes equally important and allots them equal CPU time. The [nice](https://linux.die.net/man/1/nice) command can be used to run processes at a lower priority, thus making them "nicer". Niceness values range from -20 to +19, with higher numbers having a lower priority. Only the superuser can set negative niceness values. For example:
 
-[[ https://linux.die.net/man/8/renice | renice ]] allows users to set the niceness of an already running command.
+    nice -n 19 ./long_running_job
 
-===== Space Consumption =====
+[renice](https://linux.die.net/man/8/renice) allows users to set the niceness of an already running command.
+
+## Space Consumption
 
 Please be mindful of the disk space you consume, as it is also a shared resource.
 
 You can easily see how much space you are using by using du:
 
-  du -h $HOME
-  
-You can also use [[https://linux.die.net/man/1/ncdu | ncdu ]], which provides a more graphical representation of space consumption.
+    du -h $HOME
+
+You can also use [ncdu](https://linux.die.net/man/1/ncdu), which provides a more graphical representation of space consumption.
 
 Stu has a 10Gbps link to fs, the server on which your data is stored. This helps with performance but a side effect is that runaway processes writing data can consume large amounts of disk space very quickly. Please make sure your software isn't creating large files like this, and please clean it up if it does.

@@ -1,4 +1,4 @@
-====== Microwaves ======
+# Microwaves
 
 The microwave in the CS department mail room is for faculty and staff use only.
 

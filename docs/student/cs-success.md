@@ -1,35 +1,42 @@
-Computer Science is a discipline that requires a lot of hands-on practice. The department offers many avenues for students to work with other students, TAs, and Faculty to develop their CS skills and knowledge. 
+# CS Success
 
-====== TA Hours ======
+Computer Science is a discipline that requires a lot of hands-on practice. The department offers many avenues for students to work with other students, TAs, and Faculty to develop their CS skills and knowledge.
 
-Undergraduate Teaching Assistants are available for drop-in hours Sunday-Thursday. The CS TA lab is the beating heart of our department: this is where students go to work, support each other, and get help when they’re stuck. TAs help each student in 10 minute increments and they will not be writing your code for you. Instead they will be helping you learn to write code yourself and helping you to navigate any technical problems. [[department:cs-success:start|See more about TA Lab Hours here]].
+## TA Hours
 
-====== Office Hours ======
-Our faculty are here to support your learning. The most detailed information for meeting with your professor will be in your course syllabus, but we keep information about faculty's availability here: https://wiki.cs.jmu.edu/department/officehours/start 
+Undergraduate Teaching Assistants are available for drop-in hours Sunday-Thursday. The CS TA lab is the beating heart of our department: this is where students go to work, support each other, and get help when they’re stuck. TAs help each student in 10 minute increments and they will not be writing your code for you. Instead they will be helping you learn to write code yourself and helping you to navigate any technical problems. [See more about TA Lab Hours here](../department/cs-success.md).
 
-====== Departmental Advisors ======
+## Office Hours
+
+Our faculty are here to support your learning. The most detailed information for meeting with your professor will be in your course syllabus, but we keep information about faculty's availability here: [department/officehours/start](../department/officehours.md)
+
+## Departmental Advisors
 
 Advisors are experts in the major and graduation requirements and are here to set you up for success! There here to help with questions about progression in your major, advice on classes, mapping out your path to graduation, or can direct you to the right resources on campus.
 
-You can schedule a meeting with your advisor through [[https://jamesmadisonuniversity1.my.site.com/s/|MyMadison Connect]] or find their scheduler on their faculty page:
+You can schedule a meeting with your advisor through [MyMadison Connect](https://jamesmadisonuniversity1.my.site.com/s/) or find their scheduler on their faculty page:
 
-**CS Major/Minor Advisor:** Marijn de Waal 
+**CS Major/Minor Advisor:** Marijn de Waal
 
-**IT Major Advisor:** [[https://www.jmu.edu/cise/people/faculty/hedrick-ellen.shtml|Ellen Hedrick]]
+**IT Major Advisor:** [Ellen Hedrick](https://www.jmu.edu/cise/people/faculty/hedrick-ellen.shtml)
 
+## CS Advising Canvas Site
 
-====== CS Advising Canvas Site ======
-The CS advisors manage a Canvas site with all the Advising Resources you need to navigate your path to graduation. All declared CS majors and minors are enrolled. 
+The CS advisors manage a Canvas site with all the Advising Resources you need to navigate your path to graduation. All declared CS majors and minors are enrolled.
 
-Anyone is welcome to self-enroll here: https://canvas.jmu.edu/enroll/7PDLY6
+Anyone is welcome to self-enroll here: <https://canvas.jmu.edu/enroll/7PDLY6>
 
 Important departmental announcements will be made through this Canvas site, so it's important that you keep up with the updates!
-====== Ambassadors ======
-Ambassadors are available for to field questions and share their perspective as an upper-level student. Think of them as an older sibling: there for advice and guidance about your success in CS/IT and the university. They can help get you get connected to departmental clubs, events, and resources.\\
 
-**CS Ambassadors**: shoot a question to [[mailto:cs.ambassadors@dukes.jmu.edu|cs.ambassadors@dukes.jmu.edu]]
+## Ambassadors
 
-**IT Ambassadors**: Contact information here: https://www.jmu.edu/cise/information-technology/people/ambassadors/index.shtml
-====== Departmental Clubs ======
-One of the best ways to succeed in CS is to get involved! If you are interested in getting more experience with a particular area of CS, the clubs are a fantastic way to get connected to the projects, activities, and outreach within the field. Students are welcome to join clubs at any point in the semester. \\
-See full list here: https://wiki.cs.jmu.edu/student/clubs/start
+Ambassadors are available for to field questions and share their perspective as an upper-level student. Think of them as an older sibling: there for advice and guidance about your success in CS/IT and the university. They can help get you get connected to departmental clubs, events, and resources.
+
+**CS Ambassadors**: shoot a question to <cs.ambassadors@dukes.jmu.edu>
+
+**IT Ambassadors**: Contact information here: <https://www.jmu.edu/cise/information-technology/people/ambassadors/index.shtml>
+
+## Departmental Clubs
+
+One of the best ways to succeed in CS is to get involved! If you are interested in getting more experience with a particular area of CS, the clubs are a fantastic way to get connected to the projects, activities, and outreach within the field. Students are welcome to join clubs at any point in the semester.
+See full list here: [student/clubs/start](clubs.md)

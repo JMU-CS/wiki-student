@@ -1,1 +1,1 @@
-====== Drone Races, DIGITAL 2021 ======
+# Drone Races, DIGITAL 2021

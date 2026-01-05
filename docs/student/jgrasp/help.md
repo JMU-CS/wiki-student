@@ -1,119 +1,82 @@
+# Help using jGRASP
 
+## What is jGRASP?
 
-===== Help using jGRASP =====
+According to [www.jGRASP.org](https://www.jGRASP.org/), "jGRASP is a lightweight development environment, created specifically to provide automatic generation of software visualizations to improve the comprehensibility of software".
 
+## Entering Command-Line Arguments
 
+Command-line arguments are the `String` objects that are passed to the `main()` method (as a `String[]`). They can be set/entered in several ways.
 
-==== What is jGRASP? ====
+One way is to click on "Build" and pull down to "Run Arguments". This will open an entry field below the tool bar that you can use to enter the arguments (delimited by spaces) that will be passed to `main()` when you run the application.
 
+You can also "permanently" set the command-line arguments by clicking on "Settings", pulling down to "Compiler Settings" and then over to "Workspace" or "File", whichever you prefer. Then select the "Compiler" tab and the "Flags/Args" tab. The "Run" field under "FLAGS or ARGS" contains the command-line arguments. When the box next to it is selected, no arguments are passed to `main()`, when it isn't whatever arguments are in the field are passed to `main()`.
 
-According to [[ https://www.jGRASP.org/ | www.jGRASP.org ]], "jGRASP is a lightweight development environment, created specifically to   provide automatic generation of software visualizations to improve   the comprehensibility of software".
+## Setting the Tab Size
 
+To set the tab size, click on "Settings"+"CSD Window" and then select either File, Project or Workspace (depending on which you want to change). Then "unlock" the tab size slider (by clicking on the default box) and change the "Tab Size" to the value you want.
 
-==== Entering Command-Line Arguments ====
+## Changing Tabs to Spaces (and Back)
 
+Some editors use tabs and some use spaces. This makes it a little difficult to move between editors. Most, however, allow you to switch between the two. In jGRASP:
 
-Command-line arguments are the ''%%String%%'' objects that are passed   to the ''%%main()%%'' method (as a ''%%String[]%%''). They can   be set/entered in several ways. 
+1.  Select the text you want to change.
+2.  Click on "Edit"+"Spaces/Tabs" and then "Tabify" or "Untabify".
 
-
-One way is to click on <key>Build</key> and pull down   to <key>Run Arguments</key>. This will open an entry field below the tool   bar that you can use to enter the arguments (delimited by spaces) that will be passed to ''%%main()%%'' when you run the application.
-
-You can also "permanently" set the command-line arguments by clicking on   <key>Settings</key>, pulling down to <key>Compiler Settings</key>   and then over to <key>Workspace</key> or <key>File</key>, whichever   you prefer. Then select the "Compiler" tab and the "Flags/Args" tab.   The "Run" field under "FLAGS or ARGS" contains the command-line   arguments. When the box next to it is selected, no arguments are passed to   ''%%main()%%'', when it isn't whatever arguments are in the field are   passed to ''%%main()%%''.
-
-
-==== Setting the Tab Size ====
-
-
-To set the tab size, click on   <key>Settings</key>+<key>CSD Window</key> and then   select either File, Project or Workspace (depending on which   you want to change).  Then "unlock"   the tab size slider (by clicking on the default box) and change the   "Tab Size" to the value you want.
-
-
-==== Changing Tabs to Spaces (and Back) ====
-
-
-Some editors use tabs and some use spaces.  This makes it a little   difficult to move between editors.  Most, however, allow you   to switch between the two. In jGRASP: 
-
-
-  - Select the text you want to change.
-  - Click on <key>Edit</key>+<key>Spaces/Tabs</key> and then <key>Tabify</key> or <key>Untabify</key>.
-
-
-==== Setting the End of Line Character ====
+## Setting the End of Line Character
 
 Linux/Unix, MS-Windows, and OS X all use slightly different characters to indicate the end of a line and this can cause problems with some tools. As a general rule, it is safest to use the Linux/Unix standard.
 
-You can instruct jGRASP to use the Unix format when you save a file by clicking on <key>File</key>+<key>Save as</key> and then selecting "Binary/Unix" under "Format".
+You can instruct jGRASP to use the Unix format when you save a file by clicking on "File"+"Save as" and then selecting "Binary/Unix" under "Format".
 
-
-==== Cleaning-Up Indenting ====
-
+## Cleaning-Up Indenting
 
 jGRASP does not have a command that re-indents code, but you can trick it into doing so.
 
+1.  Click on "View"+"Generate CSD" (or the ![jgrasp-viewcsd.png](jgrasp-viewcsd.png) button).
+2.  Click on "View"+"Remove CSD" (or the ![jgrasp-removecsd.png](jgrasp-removecsd.png) button).
 
-  - Click on  <key>View</key>+<key>Generate CSD</key> (or the {{student:jgrasp:jgrasp-viewcsd.png}} button).
-  - Click on  <key>View</key>+<key>Remove CSD</key> (or the {{student:jgrasp:jgrasp-removecsd.png}} button).
+## Using Checkstyle
 
+### Selecting a Checks File
 
-==== Using Checkstyle ====
-
-
-
-=== Selecting a Checks File ===
-
-
-In jGRASP, click on <key>Tools</key>, pull down     to <key>Checkstyle</key> and across     to <key>Settings</key>. In the field labeled "Checks File"     navigate to the ''%%.xml%%'' file. Then, click     on <key>OK</key>.
-
+In jGRASP, click on "Tools", pull down to "Checkstyle" and across to "Settings". In the field labeled "Checks File" navigate to the `.xml` file. Then, click on "OK".
 
 You must exit and re-start jGRASP for the change to take effect.
 
+### Setting the checkstyle binary ("JAR file")
 
-=== Setting the checkstyle binary ("JAR file") ===
-  - Download an appropriate checkstyle jar file, either provided by your instructor or from [[https://github.com/checkstyle/checkstyle/releases/download/checkstyle-8.45.1/checkstyle-8.45.1-all.jar|this link to 8.45]].
-    * Right-click and choose "Save Link As...'
-    * put this somewhere on the computer that you won't accidentally delete it before you're done with it.
-  - In jGRASP, click on <key>Tools</key>, pull down     to <key>Checkstyle</key> and across     to <key>Settings</key>. For the field labeled "Checkstyle Home or Jar" , click <key>Browse</key>, navigate to the ''%%.xml%%'' file. Then, click on <key>OK</key>.
-=== Running Checkstyle ===
+1.  Download an appropriate checkstyle jar file, either provided by your instructor or from [this link to 8.45](https://github.com/checkstyle/checkstyle/releases/download/checkstyle-8.45.1/checkstyle-8.45.1-all.jar).
+    - Right-click and choose "Save Link As...'
+    - put this somewhere on the computer that you won't accidentally delete it before you're done with it.
+2.  In jGRASP, click on "Tools", pull down to "Checkstyle" and across to "Settings". For the field labeled "Checkstyle Home or Jar" , click "Browse", navigate to the `.xml` file. Then, click on "OK".
 
+### Running Checkstyle
 
-In jGRASP, click on <key>Tools</key>, pull down to <key>Checkstyle</key> and over to <key>Check File</key> (or click on {{student:jgrasp:jgrasp-RunCheckstyleOnFile.png}}).
+In jGRASP, click on "Tools", pull down to "Checkstyle" and over to "Check File" (or click on ![jgrasp-RunCheckstyleOnFile.png](jgrasp-runcheckstyleonfile.png)).
 
+### Correcting "File does not end with a newline" Defects
 
-=== Correcting "File does not end with a newline" Defects ===
+Most styleguides require that files end in a newline character. So, it is important to use the Linux/Unix [end of line character.](#setting-the-end-of-line-character)
 
-Most styleguides require that files end in a newline character. So, it is important to use the Linux/Unix [[ #Setting the End of Line Character | end of line character. ]]
+## Using JUnit with jGRASP
 
+### Configuration
 
+To configure jGRASP to work with JUnit, click on "Tools", pull down to "JUnit" and select "Configure". Then, in the textfield labeled "JUnit Home", browse to the directory/folder that has `junit.jar`.
 
-==== Using JUnit with jGRASP ====
+If you have properly configured jGRASP, the "Create JUnit test file" button, ![jgrasp-CreateJUnitTestFile.png](jgrasp-createjunittestfile.png), will appear whenever you open a `.java` file.
 
+#### Classpath
 
+Though it's not absolutely necessary (depending on how you create your test classes), you should also add `junit.jar` to the CLASSPATH for your workspace. To do so, click on "Settings"-"PATH/CLASSPATH" -"Workspace" and select the CLASSPATHS tab. Then, click on "New" and add `junit.jar`.
 
-=== Configuration ===
+### Creating a Test Class
 
+To create a JUnit test class for an existing class, open the source file for that class and click on ![jgrasp-CreateJUnitTestFile.png](jgrasp-createjunittestfile.png). This will create an empty class for you to complete. (If you already have such a test class it will ask if you want to re-use it.) It will also add the ![jgrasp-JUnitCompile.png](jgrasp-junitcompile.png) and ![jgrasp-JUnitCompileAndRun.png](jgrasp-junitcompileandrun.png) buttons (for compiling and running test classes). (Note: If you don't create the file this way, you **must** add `junit.jar` to the CLASSPATH for your workspace. See above.)
 
-To configure jGRASP to work with JUnit, click on <key>Tools</key>,  pull down to <key>JUnit</key> and select <key>Configure</key>.  Then, in the textfield labeled "JUnit Home", browse to the directory/folder  that has ''%%junit.jar%%''.
+Unless you understand what it is doing, you should probably delete all of the code that jGrasp inserts into this class and start from scratch.
 
+### Compiling and Running a Test Class
 
-If you have properly configured jGRASP, the "Create JUnit test file"  button, {{jgrasp-CreateJUnitTestFile.png}}, will appear  whenever you open a ''%%.java%%'' file.
-
-
-== Classpath ==
-
-Though it's not absolutely necessary (depending on how you create  your test classes), you should also add  ''%%junit.jar%%'' to the CLASSPATH for your workspace. To do  so, click on <key>Settings</key>-<key>PATH/CLASSPATH</key>  -<key>Workspace</key> and select the CLASSPATHS tab. Then, click on  <key>New</key> and add ''%%junit.jar%%''.
-
-
-=== Creating a Test Class ===
-
-
-To create a JUnit test class for an existing class, open the source  file for that class and click on {{jgrasp-CreateJUnitTestFile.png}}. This will create an empty  class for you to complete. (If you already have such a test class  it will ask if you want to re-use it.) It will also add the {{jgrasp-JUnitCompile.png}} and {{jgrasp-JUnitCompileAndRun.png}} buttons (for compiling and  running test classes). (Note: If you don't create the file this  way, you **must** add ''%%junit.jar%%'' to the CLASSPATH  for your workspace. See above.)
-
-
-Unless you understand what it is doing, you should probably delete  all of the code that jGrasp inserts into this class and start from  scratch.
-
-
-=== Compiling and Running a Test Class ===
-
-
-To compile a test class click on  {{jgrasp-JUnitCompile.png}} and to run  a test class click on {{jgrasp-JUnitCompileAndRun.png}}.  As always in jGrasp, the test class must have the focus to compile  and/or run it.
-
-
+To compile a test class click on ![jgrasp-JUnitCompile.png](jgrasp-junitcompile.png) and to run a test class click on ![jgrasp-JUnitCompileAndRun.png](jgrasp-junitcompileandrun.png). As always in jGrasp, the test class must have the focus to compile and/or run it.

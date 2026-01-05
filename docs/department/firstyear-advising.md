@@ -1,60 +1,57 @@
-====== First-Year Advising ======
+# First-Year Advising
 
-//Dates for Fall 2023//
+*Dates for Fall 2023*
 
-  * [[#mid-semester_grades|Mid-Term Grades]] -- Tue, Oct 17th
-  * [[#withdraw_deadline|Withdraw Deadline]] -- Wed, Oct 25th
-  * [[#spring_enrollment|Spring Enrollment]] -- Week of Nov 6th
+- [Mid-Term Grades](#mid-term-grades) -- Tue, Oct 17th
+- [Withdraw Deadline](#withdraw-deadline) -- Wed, Oct 25th
+- [Spring Enrollment](#spring-enrollment) -- Week of Nov 6th
 
-
-===== Mid-Term Grades =====
+## Mid-Term Grades
 
 Mid-term grades will be posted by **Tuesday, Oct 17th**.
 Please check your grades in MyMadison.
-See [[https://www.jmu.edu/computing/mymadison/tutorials/view-grades.shtml|this page]] for step-by-step instructions.
-When you get to the Grades screen, click the dropdown on //Official Grades// and change to //Mid-term Grades//.
+See [this page](https://www.jmu.edu/computing/mymadison/tutorials/view-grades.shtml) for step-by-step instructions.
+When you get to the Grades screen, click the dropdown on *Official Grades* and change to *Mid-term Grades*.
 
-=== D or F Grades ===
+#### D or F Grades
 
 Mid-term grades are unofficial and meant to give you a sense of where you currently stand in each of your courses.
 If you have any grades of D or F, please make plans to discuss your progress, possible options, and available resources.
 You might receive an email from your First-Year Advisor asking you to make an appointment.
 
-
-===== Withdraw Deadline =====
+## Withdraw Deadline
 
 The deadline to Withdraw from a semester course is **Wednesday, Oct 25th**.
 Withdrawal from a course by this deadline will result in a "W" grade on your transcript.
 A "W" is not calculated into the GPA but is factored in to the formula for Satisfactory Academic Progress (SAP) used by Financial Aid.
-Any student receiving Financial Aid should review the [[https://www.jmu.edu/financialaid/learn/sap/|SAP page]] AND consult with the Financial Aid office before withdrawing from a course.
+Any student receiving Financial Aid should review the [SAP page](https://www.jmu.edu/financialaid/learn/sap/) AND consult with the Financial Aid office before withdrawing from a course.
 You do NOT need permission to withdraw, BUT we highly recommend that you also discuss your plans with your advisor too.
 
-=== Withdrawing AFTER Oct 25th ===
+#### Withdrawing AFTER Oct 25th
 
 Any student wanting to withdraw from a course after the deadline can do so only when an instructor agrees to issue a final grade of "WP" (withdraw pass) or "WF" (Withdraw Fail) based on grade at time of withdrawal.
 This option is strictly at the discretion of the instructor, and most professors will consider it only if there is a legitimate issue or extenuating circumstance.
 
-
-===== Spring Enrollment =====
+## Spring Enrollment
 
 Spring 2024 enrollment appointments begin the **week of Nov 6th**.
 Look at MyMadison for YOUR appointment date and time.
 (Most first-year students may begin enrolling on Nov 8th or 9th.)
 
 You are responsible for selecting courses and building your schedule.
-See the [[https://canvas.jmu.edu/courses/1900876/pages/cs-curriculum-overview?module_item_id=35672163|CS Curriculum Overview]] page on Canvas.
+See the [CS Curriculum Overview](https://canvas.jmu.edu/courses/1900876/pages/cs-curriculum-overview?module_item_id=35672163) page on Canvas.
 The following general rules apply:
 
-  * CS
-    * If you have not yet taken CS 149, enroll in CS 149.
-    * If you are currently taking CS 149 and expect to have a B- or higher grade, enroll in CS 159 **and** CS 227.
-    * If you are currently taking CS 149 and don't think you'll get a B- or higher, enroll in CS 149 again.
-  * Math
-    * If you have not yet taken Calculus, enroll in MATH 231 / MATH 235 based on your ALEKS placement score.
-    * If you are currently taking MATH 231, enroll in MATH 232.
-  * Gen-Ed
-    * Enroll in any remaining Madison Foundation courses (you must take all three during your first year).
-    * See the [[https://www.jmu.edu/gened/_files/general-education-planner-2023-24.pdf|General Education Planner]] for other course options.
+- CS
+    - If you have not yet taken CS 149, enroll in CS 149.
+    - If you are currently taking CS 149 and expect to have a B- or higher grade, enroll in CS 159 **and** CS 227.
+    - If you are currently taking CS 149 and don't think you'll get a B- or higher, enroll in CS 149 again.
+- Math
+    - If you have not yet taken Calculus, enroll in MATH 231 / MATH 235 based on your ALEKS placement score.
+    - If you are currently taking MATH 231, enroll in MATH 232.
+- Gen-Ed
+    - Enroll in any remaining Madison Foundation courses (you must take all three during your first year).
+    - See the [General Education Planner](https://www.jmu.edu/gened/_files/general-education-planner-2023-24.pdf) for other course options.
 
 If you are unsure what to sign up for, please make an appointment with your advisor.
 During OPEN ENROLLMENT, you can expect SOME movement in courses.
@@ -62,7 +59,7 @@ So you are welcome to continue to look for courses through the second Tuesday of
 HOWEVER, do NOT count on finding a seat in a specific course.
 **Enroll in 14-16 credit hours during your appointment**, and then SWAP later on if you find a course you would rather take.
 
-=== Check for Holds! ===
+#### Check for Holds!
 
 A number of students are non-compliant with their immunizations and currently have a hold on their account that will prevent them from enrolling in spring courses.
 All have been sent multiple emails explaining what is missing and the consequences.

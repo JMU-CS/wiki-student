@@ -1,49 +1,55 @@
-===== Python Virtual Environments =====
-  * if a student on windows (in powershell) gets a warning about execution policy, they should consider:
-  * Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+# Python Virtual Environments
 
-[[https://virtualenv.pypa.io/en/stable/ | virtualenv]] is a tool for creating self-contained, isolated Python environments. This allows developers to use different versions of libraries, dependencies, and even python itself on a per-project basis.  A virtual environment consists of several utilities and helper scripts installed inside of a directory and be "activated" prior to use by running a command that modifies several environment variables like $PATH to point to the versions installed inside of the virtual environment.
+- if a student on windows (in powershell) gets a warning about execution policy, they should consider:
+- Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
-==== Creating a Virtualenv ====
+[virtualenv](https://virtualenv.pypa.io/en/stable/) is a tool for creating self-contained, isolated Python environments. This allows developers to use different versions of libraries, dependencies, and even python itself on a per-project basis. A virtual environment consists of several utilities and helper scripts installed inside of a directory and be "activated" prior to use by running a command that modifies several environment variables like \$PATH to point to the versions installed inside of the virtual environment.
+
+## Creating a Virtualenv
+
 See the following steps to create a python3 virtual environment in the ~/project directory. This is just an example; you should choose any directory that fits your needs.
 
-    $ mkdir ~/project
-    $ virtualenv -p /usr/bin/python3 ~/project
-    $ cd ~/project
-    $ source bin/activate
+      $ mkdir ~/project
+      $ virtualenv -p /usr/bin/python3 ~/project
+      $ cd ~/project
+      $ source bin/activate
 
-Once activated, running ''which python'' points to the python inside of the virtualenv:
+Once activated, running `which python` points to the python inside of the virtualenv:
 
-    $ which python
-    ~/project/bin/python
+      $ which python
+      ~/project/bin/python
 
-You will need to activate the virtual environment in each terminal session each time you want to work with it. You should run ''deactivate'' or close the terminal session when finished to undo the changes to your environment variables. Any python modules you install will be contained within this directory. You do not need to use the ''--user'' option on pip.
+You will need to activate the virtual environment in each terminal session each time you want to work with it. You should run `deactivate` or close the terminal session when finished to undo the changes to your environment variables. Any python modules you install will be contained within this directory. You do not need to use the `--user` option on pip.
 
-==== Tips ====
-=== Upgrade existing modules ===
+## Tips
+
+### Upgrade existing modules
+
 Often the versions of pip and setuptools installed in a virtual environment are out of date which can cause python modules to fail to build. You can update them inside of an activated virtual environment by running the following commands.
 
-    $ pip install --upgrade pip
-    $ pip install --upgrade setuptools
+      $ pip install --upgrade pip
+      $ pip install --upgrade setuptools
 
-=== Using a different version of python ===
-Many systems have both python2 and python3 installed by default. You can specify which to use with the '' -p PYTHON_EXE'' option to the ''virtualenv'' command. The following commands illustrate creating both a python2 and python3 virtualenv.
+### Using a different version of python
 
-    $ virtualenv -p /usr/bin/python2 ~/py2venv
-    $ virtualenv -p /usr/bin/python3 ~/py3venv
+Many systems have both python2 and python3 installed by default. You can specify which to use with the '' -p PYTHON_EXE'' option to the `virtualenv` command. The following commands illustrate creating both a python2 and python3 virtualenv.
 
-However, sometimes you need more control over the version of python; perhaps your project requires python 3.8.1 and the system python3 is 3.6.8. In this case, you'll need to [[https://www.python.org/downloads/ | download]] and compile the specific version of python somewhere in your home directory and point to that when creating your virtualenv. For example, assuming my compiled python binary is stored at ~/python-3.8.1/bin/python
+      $ virtualenv -p /usr/bin/python2 ~/py2venv
+      $ virtualenv -p /usr/bin/python3 ~/py3venv
 
-    $ virtualenv -p ~/python-3.8.1/bin/python ~/venv
+However, sometimes you need more control over the version of python; perhaps your project requires python 3.8.1 and the system python3 is 3.6.8. In this case, you'll need to [download](https://www.python.org/downloads/) and compile the specific version of python somewhere in your home directory and point to that when creating your virtualenv. For example, assuming my compiled python binary is stored at ~/python-3.8.1/bin/python
 
-=== Changing pip's cache directory ===
-This is only necessary on systems like the [[student:cluster:start|HPC Cluster]] that have restrictive file system quotas on your home directory. This is not necessary on lab machines or stu. This example places the cache on the cluster's scratch partition but you should adjust the paths as necessary.
+      $ virtualenv -p ~/python-3.8.1/bin/python ~/venv
 
-Create a ''pip.conf'' file with the following contents inside of your virtualenv directory.
+### Changing pip's cache directory
 
-    [global]
-    cache-dir = /scratch/<username>/.cache/pip
+This is only necessary on systems like the [HPC Cluster](../cluster.md) that have restrictive file system quotas on your home directory. This is not necessary on lab machines or stu. This example places the cache on the cluster's scratch partition but you should adjust the paths as necessary.
+
+Create a `pip.conf` file with the following contents inside of your virtualenv directory.
+
+      [global]
+      cache-dir = /scratch/<username>/.cache/pip
 
 Then create the directory:
 
-    $ mkdir -p /scratch/<username>/.cache/pip
+      $ mkdir -p /scratch/<username>/.cache/pip
