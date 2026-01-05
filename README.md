@@ -1,5 +1,4 @@
-# wiki-stu
-Experimental redesign of CS dept wiki
+# wiki-student
 
 The wiki is built using [Zensical](https://zensical.org/), a static site generator.
 Deployment to `wiki.cs.jmu.edu` is automated via GitHub actions.
