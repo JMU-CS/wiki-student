@@ -5,6 +5,7 @@ on:
       - main
 jobs:
   deploy:
+    if: github.repository == "JMU-CS/wiki-student"
     runs-on: w3-websites
     steps:
       - name: Checkout repository
