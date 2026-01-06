@@ -25,7 +25,7 @@
 
 ### December
 
-- N/A
+- N/A except for break
 
 ## Spring 2026
 
