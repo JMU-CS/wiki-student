@@ -6,7 +6,7 @@ on:
 jobs:
   deploy:
     # Disable in forks, given the job would fail to start
-    if: ${{ github.repository == "JMU-CS/wiki-student" }}
+    if: github.repository == 'JMU-CS/wiki-student'
     runs-on: w3-websites
     steps:
       - name: Checkout repository
