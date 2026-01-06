@@ -5,7 +5,7 @@ on:
       - main
 jobs:
   deploy:
-    # Disable in forks, given the job would fail to start
+    # Disable in forks (the job would fail to start)
     if: github.repository == 'JMU-CS/wiki-student'
     runs-on: w3-websites
     steps:
