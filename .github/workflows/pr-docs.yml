@@ -1,0 +1,36 @@
+name: Check Edited Files
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: read
+
+jobs:
+  docs-only:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Determine changed files
+        run: |
+          git fetch origin "${{ github.base_ref }}"
+          git diff --name-only "origin/${{ github.base_ref }}"...HEAD > changed_files.txt
+
+      - name: Validate changed files
+        run: |
+          echo "Changed files:"
+          cat changed_files.txt
+
+          disallowed=$(grep -vE '^docs/[^/]+/' changed_files.txt || true)
+
+          if [[ -n "$disallowed" ]]; then
+            echo "::error::This PR modifies files outside docs/*/:"
+            echo "$disallowed"
+            exit 1
+          fi

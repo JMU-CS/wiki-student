@@ -3,8 +3,12 @@ on:
   push:
     branches:
       - main
+permissions:
+  contents: read
 jobs:
   deploy:
+    # Disable in forks (the job would fail to start)
+    if: github.repository == 'JMU-CS/wiki-student'
     runs-on: w3-websites
     steps:
       - name: Checkout repository
@@ -12,10 +16,10 @@ jobs:
       - name: Virtual environment
         run: python -m venv venv && source venv/bin/activate && pip install --upgrade pip
       - name: Install Zensical
-        run: source venv/bin/activate && pip install zensical
+        run: source venv/bin/activate && pip install zensical==0.0.*
       - name: Build public site
         run: source venv/bin/activate && zensical build --clean
       - name: Group permissions
         run: chown -R :wiki ./site && chmod -R g+w ./site
       - name: Deploy via rsync
-        run: rsync -vcaOz --delete --exclude=faculty ./site/ /data/www/wiki/
+        run: rsync -vcaOz --delete --safe-links --exclude=faculty ./site/ /data/www/wiki/
