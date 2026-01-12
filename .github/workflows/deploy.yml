@@ -9,7 +9,7 @@ jobs:
   deploy:
     # Disable in forks (the job would fail to start)
     if: github.repository == 'JMU-CS/wiki-student'
-    runs-on: w3-websites
+    runs-on: w3-wiki
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
