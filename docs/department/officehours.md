@@ -75,7 +75,7 @@
 - M: 9-11 AM in King 246-E
 - Tu: 12:30-1:30 PM in King 246-E
 - W: 12:30-1:30 PM in King 246-E
-- Th: 12:30-1:30 PM in King 246-E
+- F: 1:35-2:35 PM in King 246-E
 
 ## Dr. Kirkpatrick - CS 343, CS 361
 
