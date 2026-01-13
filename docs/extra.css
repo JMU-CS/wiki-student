@@ -51,6 +51,15 @@
   margin-right: auto;
 }
 
+/* footers */
+
+.last-modified {
+  background-color: var(--md-code-bg-color);
+  font-size: small;
+  margin-top: 3em;
+  padding: 1em;
+}
+
 /* print settings */
 
 .md-typeset h2,

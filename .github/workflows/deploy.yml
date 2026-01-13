@@ -13,12 +13,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 0  # fetch all history
       - name: Virtual environment
         run: python -m venv venv && source venv/bin/activate && pip install --upgrade pip
       - name: Install Zensical
         run: source venv/bin/activate && pip install zensical==0.0.*
       - name: Build public site
-        run: source venv/bin/activate && zensical build --clean
+        run: source venv/bin/activate && zensical build --clean && ./last-modified.py
       - name: Group permissions
         run: chown -R :wiki ./site && chmod -R g+w ./site
       - name: Deploy via rsync
