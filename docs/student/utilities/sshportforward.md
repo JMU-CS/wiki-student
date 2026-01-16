@@ -4,7 +4,7 @@ If the VPN is unavailable, or overloaded, you can utilize SSH port forwarding to
 
 ## Create a SOCKS proxy
 
-To create an SOCKS proxy through stu, for example, you could use the following command:
+To create an SOCKS proxy through stu, for example, you could use the following command in your terminal:
 
     ssh -D9001 eid@stu.cs.jmu.edu
 
