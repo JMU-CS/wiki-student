@@ -28,7 +28,7 @@ site_description = "Information relevant to students, faculty, and staff at the 
 # documentation you should set this.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_url
-site_url = "http://w3.cs.jmu.edu/wiki/"
+site_url = "https://wiki.cs.jmu.edu/"
 
 # Display information about the project's repository as part of the
 # static site, including stars and forks.
@@ -55,13 +55,14 @@ edit_uri = "edit/main/docs/"
 #   { "Get started" = "index.md" },
 #   { "Markdown in 5min" = "markdown.md" },
 # ]
-nav = [
-    {"Home" = "index.md"},
-    {"Department" = "department/index.md"},
-    {"Events" = "events/index.md"},
-    {"Student" = "student/index.md"},
-    {"Help" = "help/index.md"}
-]
+
+# nav = [
+#   { "Home" = "index.md" },
+#   { "Department" = "department/index.md" },
+#   { "Events" = "events/index.md" },
+#   { "Student" = "student/index.md" },
+#   { "Help" = "help/index.md" },
+# ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
@@ -80,7 +81,7 @@ extra_css = ["extra.css"]
 # Read more: https://zensical.org/docs/customization/#additional-javascript
 extra_javascript = [
     "mathjax.js",
-    "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"
+    "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js",
 ]
 
 # ----------------------------------------------------------------------------
