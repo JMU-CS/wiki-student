@@ -55,6 +55,13 @@ edit_uri = "edit/main/docs/"
 #   { "Get started" = "index.md" },
 #   { "Markdown in 5min" = "markdown.md" },
 # ]
+nav = [
+    {"Home" = "index.md"},
+    {"Department" = "department/index.md"},
+    {"Events" = "events/index.md"},
+    {"Student" = "student/index.md"},
+    {"Help" = "help/index.md"}
+]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
