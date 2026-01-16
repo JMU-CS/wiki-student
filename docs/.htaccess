@@ -4,4 +4,7 @@ RewriteEngine On
 RewriteRule ^(.*/)cs-sucess(/.*)?$ /$1cs-success$2 [R=301,L]
 
 # Remove trailing /start from any path
-RewriteRule ^(.*/)start(/)?$ /$1 [R=301,L]
+RewriteRule ^(.*/)start/?$ /$1 [R=301,L]
+
+# Redirect optional start on root page
+RewriteRule ^start/?$ / [R=301,L]
