@@ -197,7 +197,7 @@ And other times by appointment. First, check [my calendar](https://outlook.offic
 ## Dr. Xunhua Wang - CS482/CS559/CS627 \[Spring 2026\]
 
 - Office hours: in-person: \[Mon/Wed\] 12:40 ~ 15:10 \[King Hall 213\]；or by appointment (wangxx@jmu.edu)
-- Office hours: viertual: \[Fri\] 16:00 ~ 17:00, by appointment (wangxx@jmu.edu); Zoom URL: <https://jmu-edu.zoom.us/j/4401425906>
+- Office hours: virtual: \[Fri\] 16:00 ~ 17:00, by appointment (wangxx@jmu.edu); Zoom URL: <https://jmu-edu.zoom.us/j/4401425906>
 
 ## Dr. Weikle
 
