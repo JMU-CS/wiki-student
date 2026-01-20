@@ -201,7 +201,8 @@ And other times by appointment. First, check [my calendar](https://outlook.offic
 
 ## Dr. Weikle
 
-- Fall 2025: Mon/Wed/Fri 12:30-1:30 pm, Thurs. 2-4 pm King Hall 205 and Zoom, other times by appointment
+- Spring 2026: Mon/Wed 3-4 pm, Thurs. 2-4 pm King Hall 205 and Zoom, Fri 3-4 ENGEO 2203
+       other times by appointment
 - [Zoom Link](https://jmu-edu.zoom.us/j/82736232468?pwd=Y1JUMXZCLzlwTnIvM0gvZ3NOTDFUQT09)
 - Office King Hall 205
 - Email ([weikleda@jmu.edu](mailto:weikleda@jmu.edu?subject=office_hours_appointment))
