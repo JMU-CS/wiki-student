@@ -93,9 +93,9 @@ By appointment: Tue 3:00-4:30pm (send email to schedule)
 
 ## Dr. Mayfield
 
-Fall 2025: CS 149 and CS 374
+Spring 2026: CS 159 and CS 343
 
-- M/W/F 12:30–1:30 and Tu/Th 1:00–2:00
+- M/W/F 12:30–1:30 and Tu/Th 11:00–12:00
 - In person (King 208) or online (Zoom)
 - <https://forms.gle/b5LCRrobjongdFY99>
 
