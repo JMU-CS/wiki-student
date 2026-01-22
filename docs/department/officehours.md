@@ -65,14 +65,13 @@ Feel free to stop by anytime my door is open!!!
 
 * Zoom/Other times by appointment.
 
-## Dr. Zhuojun Duan - CS240, CS412 Fall2025
+## Dr. Zhuojun Duan - CS240, CS149 Spring 2026
 
-**Office hours (King 246B):**
+**Office hours, in person (King 246B):**
 
-* Monday: 9:50–10:20 AM(In person) & 4-5pm(Zoom: https://jmu-edu.zoom.us/j/85186362659?pwd=pUYjTYPsqKbbLbCQKxqxqPdNLdCfdZ.1)
-* Wednesday: 9:50–10:20 AM(In person) 
-* Thursday: 12:00–2:30 PM(In person) 
-* Friday: 11:10–11:40 AM(In person)
+* Monday: 10 - 11:20 am
+* Thursday: 9 - 10:30 am and 11:30 - 12:20 pm
+* Friday: 10 - 11:20 am
   *Other times are available by appointment via email. Contact by email: duanzx@jmu.edu.
 
 ## Dr. Heydari
