@@ -1,5 +1,19 @@
 # Faculty Office Hours
 
+## Dr. Shrestha (Spring 2026)
+
+### Office Hours
+
+**Location:** 246 D, King Hall
+
+- Monday: 9:00 - 10 am (Online: <https://jmu-edu.zoom.us/j/88998414990>)
+- Tuesday: 8:00 - 9:00 am, 4:00 - 5:00 pm (Online: <https://jmu-edu.zoom.us/j/88998414990>)
+- Wednesday: 1:30 - 2:30 pm
+- Thursday: 8:00  - 9:00 am
+
+Others time/days - By appointment (shrestcx@jmu.edu), or
+Feel free to stop by anytime my door is open!!!
+
 ## Dr. Mohamed S. Aboutabl - Fall 2025
 
 * In-Person, In my office ( KING 255 ), Walk-in FCFS
@@ -123,20 +137,6 @@ Fall 2025 Office Hours (King Hall 253):
 - Wed: 1:00 - 4:00 PM
 - Thurs: 2:30 - 3:30 PM
 - Other times by appointment: elkadima@jmu.edu
-
-## Dr. Shrestha (Fall 2025)
-
-### Office Hours
-
-**Location:** 246 D, King Hall
-
-- Tuesday: 2:30 - 4:00 pm
-- Wednesday: 10:15 - 11: 15 am
-- Thursday: 2:30 - 4:00 pm
-- Friday: 8:00 - 9:30 am (Online: <https://jmu-edu.zoom.us/j/88998414990>)
-
-Others - By appointment (shrestcx@jmu.edu), or
-Feel free to stop by anytime my door is open!!!
 
 ## Dr. Simmons - Fall 2025
 
