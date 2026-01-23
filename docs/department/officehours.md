@@ -153,7 +153,19 @@ Fall 2025 Office Hours (King Hall 253):
 
 ## Dr. Michael Stewart
 
-🍁 Fall 2025: CS 149 🐍, CS 343 🕸️
+### Spring 2026
+<dl>
+   <dt>Mondays</dt>
+   <dd>3:15PM - 4:00PM</dd>
+   <dt>Tuesdays</dt>
+   <dd>3:15PM - 4:00PM</dd>
+   <dt>Wednesdays</dt>
+   <dd>3:15PM - 4:00PM</dd>
+   <dt>Thursdays</dt>
+   <dd><strong>2:15PM - 3:00PM</strong></dd>
+   <dt>Fridays</dt>
+   <dd>9:30AM - 11:30AM</dd>
+</dl>
 
 ### Notes
 
