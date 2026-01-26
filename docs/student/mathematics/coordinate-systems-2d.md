@@ -10,7 +10,7 @@ In a *rectangular coordinate* system the reference frame consists of an *origin*
 
 ### Traditional Cartesian Coordinates
 
-In traditional Cartesian coordinates the origin is at located at the "center" of the plane, the basis consists of the horizontal and vertical axis, and positive values are in the "north east" quadrant (i.e., horizontal coordinates increase from left to right and vertical coordinates increas from down to up). This is illustrated in the following figure.
+In traditional Cartesian coordinates the origin is at located at the "center" of the plane, the basis consists of the horizontal and vertical axis, and positive values are in the "north east" quadrant (i.e., horizontal coordinates increase from left to right and vertical coordinates increase from down to up). This is illustrated in the following figure.
 
 ![Cartesian coordinates](cartesian-coordinates.gif)
 

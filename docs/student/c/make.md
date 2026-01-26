@@ -42,7 +42,7 @@ Multiple targets can be specified in the same dependency line; separate them usi
 
 A dependent is a valid file name. It can contain path information.
 
-Multiple dependents can be specified in the same dependency line; seperate them using spaces or tabs.
+Multiple dependents can be specified in the same dependency line; separate them using spaces or tabs.
 
 Of course, a dependent can also be a target elsewhere in the makefile. The make command will update dependents that are targets first. However, some care needs to be taken when creating makefiles.
 
@@ -68,7 +68,7 @@ The first description block says that the target `test` depends on two files, `t
 
 The second description block says that `test.o` depends on `test.c` and `module1.h` (because `test.c``#include`s `module1.h`), and that it can be created with the [g++ compiler](gpp.md).
 
-The third description block says that `module1.o` depends on `module1.h` (which contains the declarations) and `module1.c` (which contains the implemntations), and that it can be created with the [g++ compiler](gpp.md).
+The third description block says that `module1.o` depends on `module1.h` (which contains the declarations) and `module1.c` (which contains the implementations), and that it can be created with the [g++ compiler](gpp.md).
 
 Assuming that this makefile is named `makefile`, the application `test` can be built with the following command:
 

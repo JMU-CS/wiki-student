@@ -8,4 +8,4 @@ Here is an online tool to check your code for non-ASCII characters: <https://pag
 
 ## Official Tests Won't Compile
 
-This is most likely because your code does not conform to the specifications. Common examples include: misnamed methods/functions, a mis-packaged submission, case problems, missing classes/files, and missing or incorrect use of the static keyword.
+This is most likely because your code does not conform to the specifications. Common examples include: misnamed methods/functions, a mispackaged submission, case problems, missing classes/files, and missing or incorrect use of the static keyword.

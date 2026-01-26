@@ -22,7 +22,7 @@ Variable/attribute names must start with a lowercase letter, and contain only le
 There must be a newline character at the end of every file. Move the cursor to the last character in the file and press Enter. Then, make sure that there are no other characters on the last line - the absolute last character must be a newline. Finally, make sure that your editor/IDE is using the appropriate end of line character.
 
 **'X' should be on a new line. \[OperatorWrap\]**  
-This is usually becase a long line was split and the operator, denoted by 'X', is at the end of a line rather than the beginning of the next one.
+This is usually because a long line was split and the operator, denoted by 'X', is at the end of a line rather than the beginning of the next one.
 
 **Unnecessary parentheses around assignment right-hand side. \[UnnecessaryParentheses\]**  
 The expression on the right-hand side of an assignment operator has unnecessary parentheses that must be removed. For example, x = (x + 1); must be x = x + 1;.

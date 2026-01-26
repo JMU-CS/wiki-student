@@ -94,7 +94,7 @@ To change the information that is included in a Sequence Diagram, right-click on
 
 To make a message asynchronous, right-click on the message, pull down to "Open Specification" and check "Asynchronous" on the "General" tab.
 
-Sequence numbers can either be automated or entered manually. Simialrly, they can be hierarchical or not. To change the default, right-click on the diagram and pull down to "Sequence Numbers". If the sequence numbers get out of order they can be fixed (sometimes) by right-clicking on the diagram, pulling down to "Recalculate", and over to "Sequence Numbers".
+Sequence numbers can either be automated or entered manually. Similarly, they can be hierarchical or not. To change the default, right-click on the diagram and pull down to "Sequence Numbers". If the sequence numbers get out of order they can be fixed (sometimes) by right-clicking on the diagram, pulling down to "Recalculate", and over to "Sequence Numbers".
 
 To create a Combined Fragment, select the messages to cover, right-click on the selection, pull down to "Create Combined Fragment", and pull over to the type.
 
@@ -106,11 +106,11 @@ To change the way an artifact is displayed, right-click on it, pull down to "Pre
 
 ### Editing Multi-line Text Fields
 
-One way to edit multi-line text fields is to slect the field, right-click on the field, pull down to "Open Specification", and click on "..." next to the "Value" field.
+One way to edit multi-line text fields is to select the field, right-click on the field, pull down to "Open Specification", and click on "..." next to the "Value" field.
 
 ### Customization
 
-Requirement elements can be customized in a variety of different ways. To get started, click on the "Windows" menu, and then click on "Configuation" and pull-down to "Configure Requirements".
+Requirement elements can be customized in a variety of different ways. To get started, click on the "Windows" menu, and then click on "Configuration" and pull-down to "Configure Requirements".
 
 To edit an existing Requirement element, select it and change its attributes as appropriate.
 

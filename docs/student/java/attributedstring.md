@@ -13,7 +13,7 @@ the following snippet will create an `AttributedString` in which the characters 
 
 ## Rendering an AttributedString
 
-Most GUI components do not support the rendering of `AttributedSTring` objects. Fortunately, it is easy to create one that does. For example:
+Most GUI components do not support the rendering of `AttributedString` objects. Fortunately, it is easy to create one that does. For example:
 
     import java.awt.*;
     import java.text.*;

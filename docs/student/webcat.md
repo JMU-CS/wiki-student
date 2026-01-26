@@ -24,11 +24,11 @@ Additional details are provided below.
 
 ## Understanding Web-CAT Reports
 
-Web-CAT analyzes your code in several different ways and provdes a "score" for each. Do not confuse Web-CAT's score with your grade -- make sure you read the course "Policies" page and understand how programming assignments are graded.
+Web-CAT analyzes your code in several different ways and provides a "score" for each. Do not confuse Web-CAT's score with your grade -- make sure you read the course "Policies" page and understand how programming assignments are graded.
 
 ### Style/Coding
 
-The Style/Coding score is based on your adherance to the course style guide. The "Full Printable Report" contains detailed information about the Style/Coding defects in your submission. In general, each "Error Box" contains an "Expected" line that describes the defect.
+The Style/Coding score is based on your adherece to the course style guide. The "Full Printable Report" contains detailed information about the Style/Coding defects in your submission. In general, each "Error Box" contains an "Expected" line that describes the defect.
 
 Note that you must include a blank line at the end of all of your .java files so that Web-CAT is able to insert information about Style/Coding defects.
 

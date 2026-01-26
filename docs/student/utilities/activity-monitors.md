@@ -2,7 +2,7 @@
 
 When writing both applications programs and systems programs it is
 sometimes necessary to monitor memory usage (e.g., for leaks) and/or
-CPU usage (e.g., for bottlenecks). All operatings systems have some tools
+CPU usage (e.g., for bottlenecks). All operating systems have some tools
 that can perform basic monitoring.
 
 ## MS Windows

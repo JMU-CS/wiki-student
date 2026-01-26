@@ -1,0 +1,12 @@
+[default.extend-words]
+Sur = "Sur" # Proper Noun
+Mata = "Mata" # Name of professor
+Gatin = "Gatin" # Name of professor
+Messager = "Messager" # This is valid because Java.
+
+[files]
+extend-exclude = [
+    "docs/department/computer_labs/jmucs-known_hosts.txt",
+    "archive/**",
+    "docs/department/cs-success.md" # This file is ignored because of false positives.
+    ]

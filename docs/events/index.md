@@ -35,7 +35,7 @@
 
 - N/A
 
-### Feburary
+### February
 
 - N/A
 

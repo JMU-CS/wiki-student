@@ -68,11 +68,11 @@ You may want to include files other than `.class` files in a `.jar` file (e.g., 
 
 By default, executable `.jar` files use the Java icon.
 
-To change the icon in OS X, copy the icon you want to use (using "Commmand"+"c"), right-click on the `.jar` file, pull down to "Get Info", click on the icon in the upper-left corner of the dialog box, and paste the icon (using "Command"+"v").
+To change the icon in OS X, copy the icon you want to use (using "Command"+"c"), right-click on the `.jar` file, pull down to "Get Info", click on the icon in the upper-left corner of the dialog box, and paste the icon (using "Command"+"v").
 
 To change the icon in many Linux distributions, right-click on the `.jar` file, pull down to "Properties", click on the "Basic" tab, and then click-and-drag the icon you want to use to the icon in the upper-left corner of the dialog box.
 
-In MS-Windows you can't change the icon of the `.jar` file directly. However, you can create a shortcut and change it's icon. To do so, right-click on the `.jar` file and pull down to "Create shortuct". Then, right-click on the shortcut, pull down to "Properties", click on the "Shortcut" tab, click on "Change Icon...", navigate to the `.ico` file, click on "OK", and click on "OK".
+In MS-Windows you can't change the icon of the `.jar` file directly. However, you can create a shortcut and change it's icon. To do so, right-click on the `.jar` file and pull down to "Create shortcut". Then, right-click on the shortcut, pull down to "Properties", click on the "Shortcut" tab, click on "Change Icon...", navigate to the `.ico` file, click on "OK", and click on "OK".
 
 ## For More Information
 
