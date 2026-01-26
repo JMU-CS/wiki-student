@@ -190,16 +190,15 @@ TTh 2:00-3:00 and by appointment
 
 ## Dr. Isaac Wang
 
-(Fall 2025)
+(Sprinig 2026)
 
 **Location:** King Hall 246C
 
 Office Hours:
 
-- **Monday**: 1 – 2 PM
-- **Tuesday**: 1:30 – 3 PM
-- **Thursday**: 1:30 – 3 PM
-- **Friday**: 1 – 2 PM
+- **Monday**: 2 – 4 PM
+- **Wednesday**: 12:30 – 2:30 PM
+- **Thursday**: 3:40 – 4:40 PM
 
 And other times by appointment. First, check [my calendar](https://outlook.office365.com/calendar/published/d44e7f2373954712bd915e495a13eb49@jmu.edu/6ecf3b1679f64582be5cec4e1704c34e12626445264242444421/calendar.html) to find appropriate times to suggest, then [email me](mailto:wangid@jmu.edu?subject=office_hours_appointment) to ask if we can meet then. Zoom meetings are also possible to arrange!
 
