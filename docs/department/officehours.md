@@ -118,10 +118,9 @@ Spring 2026: CS 159 and CS 343
 - TTh 1:00-2:00
 - By appointment (email: mccoy2ba@jmu.edu)
 
-## Dr. Molloy - CS 354, CS 412
+## Dr. Molloy 
 
-- General office hours: <http://w3.cs.jmu.edu/molloykp>
-- Other times by appointment (email: molloykp@jmu.edu)
+- On academic leave for the Spring 2026 semester.  Contact me at email: molloykp@jmu.edu
 
 ## Prof. Riley
 
