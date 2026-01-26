@@ -93,7 +93,7 @@ For each Eclipse project in a course, you will create the project on one machine
 3.  Create the new project.
 4.  Add the project to source control by right-clicking on the package name, pulling down to \[Team\] and across to \[Share project\]. Note: At this point, a directory/folder with the name of the project will be added to the workspace.
 5.  Click on the "Repository:" dropdown and select the Git repository for this course (e.g., `/home/bernstdh/cs999/git`).
-6.  Click on "Finish". Note: At this point, the directory/folder for the project will be moved from the worskapce directory/folder to the Git respoitory folder/directory.
+6.  Click on "Finish". Note: At this point, the directory/folder for the project will be moved from the workspace directory/folder to the Git respoitory folder/directory.
 7.  Commit and push.
 
 ### Import the Project On Other Machine(s)
