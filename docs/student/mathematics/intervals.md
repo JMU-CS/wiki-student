@@ -14,7 +14,7 @@ $$
 [a,b] = \{ x \in \mathbb{R} : a \leq x \leq b \}
 $$
 
-Simlarly, the notation $(a , b)$ is often used to denote the open interval of real numbers with lower bound $a$ and upper bound $b$. That is:
+Similarly, the notation $(a , b)$ is often used to denote the open interval of real numbers with lower bound $a$ and upper bound $b$. That is:
 
 $$
 (a,b) = \{ x \in \mathbb{R} : a \lt x \lt b \}

@@ -15,7 +15,7 @@ g++ -c -g Driver.cpp
 
 ## Starting gdb
 
-To start gdb, simply enter the gdb command in a terminal window. It has one paramter, the name of the executable. For example:
+To start gdb, simply enter the gdb command in a terminal window. It has one parameter, the name of the executable. For example:
 
     gdb Driver
 

@@ -208,7 +208,7 @@ To fix the indentation of a file:
 
 Type "Ctrl"+"Space" to see a list of suggested completions. (Typing one or more characters before doing so will shorten the list.)
 
-When the cursor is in a method, type "Ctrl"+"Shift"+"Space" to see a list of parmeter "hints".
+When the cursor is in a method, type "Ctrl"+"Shift"+"Space" to see a list of parameter "hints".
 
 ### Matching Braces/Curly Brackets
 
@@ -274,7 +274,7 @@ To create a run configuration, select the appropriate type and click on the \[Ne
 
 ### Command-Line Arguments
 
-It is sometimes necessary to pass parameters to an application at start-up. Such parameters are typically called command-line arguments because applications used to be started only from the command line. You can instruct Eclispe to pass the a `main()` method arguments as follows.
+It is sometimes necessary to pass parameters to an application at start-up. Such parameters are typically called command-line arguments because applications used to be started only from the command line. You can instruct Eclipse to pass the a `main()` method arguments as follows.
 
 1.  Expand the "Run" button (or click on the "Run" menu) and pull down to "Run Configurations...".
 2.  On the "Main" tab, select the project and the main class (i.e., the class that contains the `main()` method).
@@ -284,7 +284,7 @@ Of course, since the only parameter of `main()` is a `String[]`, all such argume
 
 ## Testing Using JUnit
 
-The JUnit view (i.e., tab) can be configrued in a variety of ways.
+The JUnit view (i.e., tab) can be configured in a variety of ways.
 
 If you click on the "expand" arrow, you can select "Activate on Error/Failure Only" in which case the JUNIT view will only be come visible when there are failed tests.
 
@@ -360,7 +360,7 @@ Though it is possible to create an executable/runnable `.jar` using the wizard f
 
 1.  Click on "File"-"Export" and expand "Java".
 2.  Select the "JAR File" wizard and click on "Next".
-3.  In the "Select the resources to export" tree, select the appropriate packages and the appropriate resource directories/folders. **Note that the `.jar` file will include a directory/folder containing the resources. You will need to take this into account when loading resources withing the program (i.e., you will need to include the directory in the path). See the section on [using resources](../java/resources.md)**
+3.  In the "Select the resources to export" tree, select the appropriate packages and the appropriate resource directories/folders. **Note that the `.jar` file will include a directory/folder containing the resources. You will need to take this into account when loading resources within the program (i.e., you will need to include the directory in the path). See the section on [using resources](../java/resources.md)**
 4.  Deselect the Eclipse-related files (e.g., `.classpath`, `.project`).
 5.  Select **only** "Export generated class files and resources" and "Compress the contents of the JAR file".
 6.  Enter the name of the "JAR file:".

@@ -1,0 +1,7 @@
+[default.extend-words]
+Sur = "Sur" # Proper Noun
+mornin = "mornin" # informal but valid
+Mata = "Mata" # Name of professor
+
+[files]
+extend-exclude = ["docs/department/computer_labs/jmucs-known_hosts.txt", "archive/**"]

@@ -18,7 +18,7 @@ Format specifiers have the following syntax.
 
 Common values of *conversion* include `b` for `boolean`, `c` for `char`, `d` for `int`, `e` for `double` in scientific notation, `f` for `double`, and `s` for `String`.
 
-Common values of the optional *flag* include `-` for left-justified, `+` to always include the sign, `0` to pad with zeros, `,` to use grouping separators, `(` to put negative numbers in parentheses, and a space character to use a space for the sign of a postive number (as opposed to omitting it).
+Common values of the optional *flag* include `-` for left-justified, `+` to always include the sign, `0` to pad with zeros, `,` to use grouping separators, `(` to put negative numbers in parentheses, and a space character to use a space for the sign of a positive number (as opposed to omitting it).
 
 The optional *width* determines the total number of characters that this portion of the `String` will contain. The optional *precision* determines the nnumbenr of digits to the right of the decimal point for `double` values.
 
@@ -49,7 +49,7 @@ Obviously, once you have a formatted `String` there are many things that you can
  System.out.println(s);
 ```
 
-However, when all you want to do is print a formatted `String`, it is easier to do it in one step, rather than two (i.e., first calling `format()` and then calling `println()`. To accomodate this, all objects that have a `println()` method also have a `printf()` method that has the same syntax as the `format()` method. Hence, the previous example could also be implemented as follows.
+However, when all you want to do is print a formatted `String`, it is easier to do it in one step, rather than two (i.e., first calling `format()` and then calling `println()`. To accommodate this, all objects that have a `println()` method also have a `printf()` method that has the same syntax as the `format()` method. Hence, the previous example could also be implemented as follows.
 
 ``` java
  int  year = 2017;

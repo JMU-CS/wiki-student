@@ -78,7 +78,7 @@ Note that the `javadoc` tool generates a large number of "supporting" files even
 
 ## Troubleshooting
 
-If you're style-checker gives you a message like `@param tag must be preceeded by a blank line`, it probably means that there is extra whitespace on the line the line containing the `@param` tag. Delete anything (even if you can't see it) that is after the asterisk on the "blank" line.
+If you're style-checker gives you a message like `@param tag must be proceeded by a blank line`, it probably means that there is extra whitespace on the line the line containing the `@param` tag. Delete anything (even if you can't see it) that is after the asterisk on the "blank" line.
 
 ## For More Information
 

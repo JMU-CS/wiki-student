@@ -68,7 +68,7 @@ You may want to include files other than `.class` files in a `.jar` file (e.g., 
 
 By default, executable `.jar` files use the Java icon.
 
-To change the icon in OS X, copy the icon you want to use (using "Commmand"+"c"), right-click on the `.jar` file, pull down to "Get Info", click on the icon in the upper-left corner of the dialog box, and paste the icon (using "Command"+"v").
+To change the icon in OS X, copy the icon you want to use (using "Command"+"c"), right-click on the `.jar` file, pull down to "Get Info", click on the icon in the upper-left corner of the dialog box, and paste the icon (using "Command"+"v").
 
 To change the icon in many Linux distributions, right-click on the `.jar` file, pull down to "Properties", click on the "Basic" tab, and then click-and-drag the icon you want to use to the icon in the upper-left corner of the dialog box.
 

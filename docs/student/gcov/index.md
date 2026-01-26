@@ -115,7 +115,7 @@ This will create a machine readable `.gcda` file for each instrumented `.o` file
 
 ## Executing gcov
 
-`gcov` creates a human-readble `.gcov` file for each instrumented `.o` file. that contains coverage information. For example, the command:
+`gcov` creates a human-readable `.gcov` file for each instrumented `.o` file. that contains coverage information. For example, the command:
 
 ``` bash
 gcov ShopperTest.cpp Shopper.cpp -m
