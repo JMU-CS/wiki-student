@@ -190,7 +190,7 @@ TTh 2:00-3:00 and by appointment
 
 ## Dr. Isaac Wang
 
-(Sprinig 2026)
+(Spring 2026)
 
 **Location:** King Hall 246C
 
