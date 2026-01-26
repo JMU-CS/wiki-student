@@ -143,10 +143,10 @@ Fall 2025 Office Hours (King Hall 253):
 
 ## Dr. Sprague
 
-**Fall 2025**
+**Spring 2026**
 
 - Office: King 226
-- Office Hours: M/W 1:00-2:30, T/TH 10:00-11:00
+- Office Hours: M/W 2:00-3:30, T/TH 10:00-11:00
 - Calendar: <https://w3.cs.jmu.edu/spragunr/schedule.html>
 - Zoom URL: Available through Canvas, or email me for the link.
 
