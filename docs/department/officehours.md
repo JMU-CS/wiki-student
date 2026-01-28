@@ -86,9 +86,9 @@
 
 Drop-in Office Hours (King Hall 227 or [join virtually](https://bit.ly/lam-office-hours-fa25)):
 
-* Tue 1-3pm and Thu 9:30-11:30
+* Tue 2:30-4:00pm and Thu noon-2:00pm
 
-By appointment: Tue 3:00-4:30pm (send email to schedule)
+By appointment: Tue 4:00-5:00pm (send email to schedule)
 
 ## Dr. Mayfield
 
