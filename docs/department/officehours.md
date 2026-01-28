@@ -1,19 +1,5 @@
 # Faculty Office Hours
 
-## Dr. Shrestha (Spring 2026)
-
-### Office Hours
-
-**Location:** 246 D, King Hall
-
-- Monday: 9:00 - 10 am (Online: <https://jmu-edu.zoom.us/j/88998414990>)
-- Tuesday: 8:00 - 9:00 am (in-person), 4:00 - 5:00 pm (Online: <https://jmu-edu.zoom.us/j/88998414990>)
-- Wednesday: 1:30 - 2:30 pm (in-person)
-- Thursday: 8:00  - 9:00 am (in-person)
-
-Others time/days - By appointment (shrestcx@jmu.edu), or
-Feel free to stop by anytime my door is open!!!
-
 ## Dr. Mohamed S. Aboutabl - Fall 2025
 
 * In-Person, In my office ( KING 255 ), Walk-in FCFS
@@ -36,7 +22,7 @@ Feel free to stop by anytime my door is open!!!
 
 - Office Hours: <https://users.cs.jmu.edu/bernstdh/Web/officehours.html>
 
-## Dr. Bowers - ON LEAVE
+## Dr. Bowers
 
 - Dr. Bowers is on leave Spring 2025. [johncbowers.com](http://johncbowers.com)
 
@@ -50,7 +36,7 @@ Feel free to stop by anytime my door is open!!!
     - and by appointment.
 - Email buchhofp@jmu.edu for access to virtual office hours
 
-## Dr. Byrd -Spring 2025 - IT480 Sections 1
+## Dr. Byrd - Spring 2025 - IT480 Sections 1
 
 - King Hall Room 221
 - Office hours:
@@ -118,7 +104,7 @@ Spring 2026: CS 159 and CS 343
 - TTh 1:00-2:00
 - By appointment (email: mccoy2ba@jmu.edu)
 
-## Dr. Molloy 
+## Dr. Molloy
 
 - On academic leave for the Spring 2026 semester.  Contact me at email: molloykp@jmu.edu
 
@@ -135,6 +121,18 @@ Fall 2025 Office Hours (King Hall 253):
 - Wed: 1:00 - 4:00 PM
 - Thurs: 2:30 - 3:30 PM
 - Other times by appointment: elkadima@jmu.edu
+
+## Dr. Shrestha (Spring 2026)
+
+**Location:** 246 D, King Hall
+
+- Monday: 9:00 - 10 am (Online: <https://jmu-edu.zoom.us/j/88998414990>)
+- Tuesday: 8:00 - 9:00 am (in-person), 4:00 - 5:00 pm (Online: <https://jmu-edu.zoom.us/j/88998414990>)
+- Wednesday: 1:30 - 2:30 pm (in-person)
+- Thursday: 8:00  - 9:00 am (in-person)
+
+Others time/days - By appointment (shrestcx@jmu.edu), or
+Feel free to stop by anytime my door is open!!!
 
 ## Dr. Simmons - Fall 2025
 
