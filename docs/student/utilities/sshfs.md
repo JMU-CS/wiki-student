@@ -4,7 +4,7 @@ It can often be beneficial to mount a remote filesystem locally to your computer
 
 ## Prerequisites
 
-1.  SSH access to the server hosting the filesystem you wish to mount. It can be helpful to set up [ssh keypairs](start/keypairs.md) as well.
+1.  SSH access to the server hosting the filesystem you wish to mount. It can be helpful to set up [ssh keypairs](keypairs.md) as well.
 2.  Install the sshfs client on your local machine. See the appropriate section below for your Operating System.
 
 ## Linux

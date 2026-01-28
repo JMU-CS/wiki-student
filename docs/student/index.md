@@ -120,7 +120,7 @@ In addition to using this page to find information, you can search the Wiki usin
 - [Python Virtual Environments](python/virtualenv.md)
 - [ScrumBoard](scrumboard.md)
 - [scrumj](scrumj/index.md)
-- [SSH Key Pairs](utilities/start/keypairs.md)
+- [SSH Key Pairs](utilities/keypairs.md)
 - [Typographic Conventions](typographic-conventions.md)
 - [VisualParadigm](visualparadigm/index.md)
 - [VivifyScrum](vivifyscrum/index.md)

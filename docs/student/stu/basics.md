@@ -15,7 +15,7 @@ Enter your password when prompted. Nothing will appear on the screen so type car
 
 ### Keypairs
 
-You can avoid the need to authenticate yourself (with your eID and password) each time you login [using a public/private key pair](../utilities/start/keypairs.md). This is particularly useful when using another protocol (e.g., Subversion or Git) on top of SSH.
+You can avoid the need to authenticate yourself (with your eID and password) each time you login [using a public/private key pair](../utilities/keypairs.md). This is particularly useful when using another protocol (e.g., Subversion or Git) on top of SSH.
 
 ### Timeout
 

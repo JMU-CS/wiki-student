@@ -1,4 +1,4 @@
-# CS Sticker Contest
+# CS Sticker Contest 2025
 
 Submit your design for our **Fifth Annual CS Sticker Contest!** You could win up to \$75 and have your design printed and distributed to CS students. We’re offering prizes for 1st, 2nd, and 3rd place.
 
@@ -29,7 +29,7 @@ Here are the details. Feel free to email [Dr. Mayfield](mailto:mayfiecs@jmu.edu)
 - No profanity or inappropriate content
 - Optional: include “JMU,” “CS,” and “2025” in the design
 - Optional: JMU branding, <https://www.jmu.edu/identity/>
-- Optional: CS Dept branding, <https://wiki.cs.jmu.edu/student/cs-branding/start>
+- Optional: CS Dept branding, <https://wiki.cs.jmu.edu/student/cs-branding/>
 
 **Design Submissions**
 

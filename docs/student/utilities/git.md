@@ -2,7 +2,7 @@
 
 [Git](https://git-scm.com/) is a powerful, distributed version control system. Consider installing it as specified on the linked site.
 
-Likely you'll wish to have [ssh keypairs](start/keypairs.md) in place when using git to coordinate source code between multiple machines (which are called "remotes" in git terms).
+Likely you'll wish to have [ssh keypairs](keypairs.md) in place when using git to coordinate source code between multiple machines (which are called "remotes" in git terms).
 
 There are a few settings that you must set to prevent having to have a ton of flags on the command line for your git commands, then there are many more that you may just like to have in place. Consider those in the sample below.
 
@@ -24,8 +24,8 @@ You can also open the file `~/.gitconfig` and edit it to match the formatting be
         ui = true
     [core]
         excludesfile = /usuallyThePathToYourUserHomeDirectory/.gitignore_global
-        editor = code --wait    # this will use vscode as the default editor. 
-                    # it assumes that you have the code command installed 
+        editor = code --wait    # this will use vscode as the default editor.
+                    # it assumes that you have the code command installed
                     # and in your PATH. Note: because of the --wait option,
                     # you will need to close the editor tab that git opens
                     # before the git task will complete (e.g. if you commit

@@ -8,7 +8,7 @@ Undergraduate Teaching Assistants are available for drop-in hours Sunday-Thursda
 
 ## Office Hours
 
-Our faculty are here to support your learning. The most detailed information for meeting with your professor will be in your course syllabus, but we keep information about faculty's availability here: [department/officehours/start](../department/officehours.md)
+Our faculty are here to support your learning. The most detailed information for meeting with your professor will be in your course syllabus, but we keep information about faculty's availability here: [department/officehours](../department/officehours.md)
 
 ## Departmental Advisors
 
@@ -39,4 +39,4 @@ Ambassadors are available for to field questions and share their perspective as 
 ## Departmental Clubs
 
 One of the best ways to succeed in CS is to get involved! If you are interested in getting more experience with a particular area of CS, the clubs are a fantastic way to get connected to the projects, activities, and outreach within the field. Students are welcome to join clubs at any point in the semester.
-See full list here: [student/clubs/start](clubs.md)
+See full list here: [student/clubs](clubs.md)

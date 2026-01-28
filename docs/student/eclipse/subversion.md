@@ -63,7 +63,7 @@ The plugin will need to authenticate with `stu` every time an operation is perfo
 
 - You may (it varies with the plugin) be given the opportunity to "Save authentication" information in which case you will not be prompted for it in the future. In this case, you will be asked to create a central Eclipse password if you have not done so already.
 
-- You can create an [SSH Key Pair](../utilities/start/keypairs.md) to avoid having to repeatedly enter authentication information. In this case, you will need to tell Eclipse to use your private key by clicking on "Preferences"-"General"-"Network Connections"-"SSH2" and entering the path and file name on the `General` tab.
+- You can create an [SSH Key Pair](../utilities/keypairs.md) to avoid having to repeatedly enter authentication information. In this case, you will need to tell Eclipse to use your private key by clicking on "Preferences"-"General"-"Network Connections"-"SSH2" and entering the path and file name on the `General` tab.
 
 In either case, **should not save your authentication information on a "public" machine**.
 
