@@ -192,7 +192,9 @@ Office Hours in King 253:
 
 ## Dr. Ahmad Salman
 
-- TBD
+- Office: King Hall 116
+- Wednesdays 3:00 – 5:00 PM
+- Fridays 2:00 – 4:00 on Zoom
 
 ## Dr. Chandani Shrestha
 
