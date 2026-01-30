@@ -12,69 +12,77 @@ RewriteRule ^start/?$ / [R=301,L]
 # Redirect ANY sub-page under keypairs to the new utilities path
 RewriteRule ^student/utilities/start/keypairs/(.*)$ /student/utilities/$1 [R=301,L]
 
+#for student sites?
+RewriteRule ^student/.*/([^/]+)/?$ /student/$1 [R=301,L]
+
 # ------------------------------------------------------------
 # Explicit legacy redirects (generated / maintained)
 # ------------------------------------------------------------
 
-#Redirect 301 /department /department
-#Redirect 301 /department/admissionfaq /department/admissionfaq
-#Redirect 301 /department/advising-dualmath /department/advising-dualmath
-#Redirect 301 /department/advising/admissions-criteria /department/advising/admissions-criteria
-#Redirect 301 /department/advising/changing-majors /department/advising/changing-majors
-#Redirect 301 /department/advising/withdraw /department/advising/withdraw
-#Redirect 301 /department/computer_labs /department/computer_labs
-#Redirect 301 /department/cs_research_seminar_talks /department/cs_research_seminar_talks
-#Redirect 301 /department/cs-advising /department/cs-advising
-#Redirect 301 /department/cs-success /department/cs-success
-#Redirect 301 /department/curriculum /department/curriculum
-#Redirect 301 /department/curriculum/plana /department/curriculum/plana
-#Redirect 301 /department/enrollment-fest /department/enrollment-fest
-#Redirect 301 /department/evaluation_timelines /department/evaluation_timelines
-#Redirect 301 /department/facultyguide /department/facultyguide
-#Redirect 301 /department/fall20admission /department/fall20admission
-#Redirect 301 /department/fall20faq /department/fall20faq
-#Redirect 301 /department/fall20updates /department/fall20updates
-#Redirect 301 /department/firstyear-advising /department/firstyear-advising
-#Redirect 301 /department/fya /department/fya
-#Redirect 301 /department/graduation /department/graduation
-#Redirect 301 /department/honors_capstone /department/honors_capstone
-#Redirect 301 /department/inactive_research_projects /department/inactive_research_projects
-#Redirect 301 /department/listserv /department/listserv
-#Redirect 301 /department/news/2025/spring /department/news/2025/spring
-#Redirect 301 /department/officehours /department/officehours
-#Redirect 301 /department/remote_access /department/remote_access
-#Redirect 301 /department/research /department/research
-#Redirect 301 /department/schedule_fall2021 /department/schedule_fall2021
-#Redirect 301 /department/schedule_fall2022 /department/schedule_fall2022
-#Redirect 301 /department/schedule_fall2023 /department/schedule_fall2023
-#Redirect 301 /department/schedule_fall2024 /department/schedule_fall2024
-#Redirect 301 /department/schedule_fall2025 /department/schedule_fall2025
-#Redirect 301 /department/schedule_spring2021 /department/schedule_spring2021
-#Redirect 301 /department/schedule_spring2022 /department/schedule_spring2022
-#Redirect 301 /department/schedule_spring2023 /department/schedule_spring2023
-#Redirect 301 /department/schedule_spring2024 /department/schedule_spring2024
-#Redirect 301 /department/schedule_spring2025 /department/schedule_spring2025
-#Redirect 301 /department/schedule_spring2026 /department/schedule_spring2026
-#Redirect 301 /department/scholarships /department/scholarships
-#Redirect 301 /department/sp20updates /department/sp20updates
-#Redirect 301 /department/spring20admission /department/spring20admission
-#Redirect 301 /department/student-events /department/student-events
-#Redirect 301 /department/ta-program /department/ta-program
-#Redirect 301 /department/ta-program/schedules /department/ta-program/schedules
-#Redirect 301 /department/ta-program/schedules /department/ta-program/schedules
-#Redirect 301 /department/ta-program/schedules/2024-08 /department/ta-program/schedules/2024-08
-#Redirect 301 /department/ta-program/schedules/2025-01 /department/ta-program/schedules/2025-01
-#Redirect 301 /department/ta-program/schedules/2025-08 /department/ta-program/schedules/2025-08
+# ------------------------------------------------------------
+# Individual Legacy Redirects (Commented Out / Inactive)
+# ------------------------------------------------------------
+
+#Redirect 301 /department /student
+#Redirect 301 /department/admissionfaq /student
+#Redirect 301 /department/advising-dualmath /student
+#Redirect 301 /department/advising/admissions-criteria /student
+#Redirect 301 /department/advising/changing-majors /student
+#Redirect 301 /department/advising/withdraw /student
+#Redirect 301 /department/computer_labs /student
+#Redirect 301 /department/cs_research_seminar_talks /student
+#Redirect 301 /department/cs-advising /student
+#Redirect 301 /department/cs-success /student
+#Redirect 301 /department/curriculum /student
+#Redirect 301 /department/curriculum/plana /student
+#Redirect 301 /department/enrollment-fest /student
+#Redirect 301 /department/evaluation_timelines /student
+#Redirect 301 /department/facultyguide /student
+#Redirect 301 /department/fall20admission /student
+#Redirect 301 /department/fall20faq /student
+#Redirect 301 /department/fall20updates /student
+#Redirect 301 /department/firstyear-advising /student
+#Redirect 301 /department/fya /student
+#Redirect 301 /department/graduation /student
+#Redirect 301 /department/honors_capstone /student
+#Redirect 301 /department/inactive_research_projects /student
+#Redirect 301 /department/listserv /student
+#Redirect 301 /department/news/2025/spring /student
+#Redirect 301 /department/officehours /student
+#Redirect 301 /department/remote_access /student
+#Redirect 301 /department/research /student
+#Redirect 301 /department/schedule_fall2021 /student
+#Redirect 301 /department/schedule_fall2022 /student
+#Redirect 301 /department/schedule_fall2023 /student
+#Redirect 301 /department/schedule_fall2024 /student
+#Redirect 301 /department/schedule_fall2025 /student
+#Redirect 301 /department/schedule_spring2021 /student
+#Redirect 301 /department/schedule_spring2022 /student
+#Redirect 301 /department/schedule_spring2023 /student
+#Redirect 301 /department/schedule_spring2024 /student
+#Redirect 301 /department/schedule_spring2025 /student
+#Redirect 301 /department/schedule_spring2026 /student
+#Redirect 301 /department/scholarships /student
+#Redirect 301 /department/sp20updates /student
+#Redirect 301 /department/spring20admission /student
+#Redirect 301 /department/student-events /student
+#Redirect 301 /department/ta-program /student
+#Redirect 301 /department/ta-program/schedules /student
+#Redirect 301 /department/ta-program/schedules/2024-08 /student
+#Redirect 301 /department/ta-program/schedules/2025-01 /student
+#Redirect 301 /department/ta-program/schedules/2025-08 /student
+#Redirect 301 /department/waitlist /student
+
 Redirect 301 /department/teachinginterests /faculty/teaching/teaching_interests/
-#Redirect 301 /department/waitlist /department/waitlist
+
 
 #Redirect 301 /events /events
-#Redirect 301 /events/2025-09-25-progressing_on_programming_problems /events/2025-09-25-progressing_on_programming_problems
-#Redirect 301 /events/2025-10-08-kickstarting-professional-experience /events/2025-10-08-kickstarting-professional-experience
-#Redirect 301 /events/2025-11-01-digital /events/2025-11-01-digital
-#Redirect 301 /events/2025-11-13-game_night /events/2025-11-13-game_night
-#Redirect 301 /events/2025-11-14-stock_photos /events/2025-11-14-stock_photos
-#Redirect 301 /events/2025-11-17-spirit_week /events/2025-11-17-spirit_week
+#Redirect 301 /events/2025-09-25-progressing_on_programming_problems /archive/2025-09-25-progressing_on_programming_problems
+#Redirect 301 /events/2025-10-08-kickstarting-professional-experience /archive/2025-10-08-kickstarting-professional-experience
+#Redirect 301 /events/2025-11-01-digital /archive/2025-11-01-digital
+#Redirect 301 /events/2025-11-13-game_night /archive/2025-11-13-game_night
+#Redirect 301 /events/2025-11-14-stock_photos /archive/2025-11-14-stock_photos
+#Redirect 301 /events/2025-11-17-spirit_week /archive/2025-11-17-spirit_week
 
 #Redirect 301 /student /student
 #Redirect 301 /student/advising /student/advising
