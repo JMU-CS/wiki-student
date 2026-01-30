@@ -12,4 +12,3 @@ RewriteRule ^start/?$ / [R=301,L]
 # Redirect ANY sub-page under keypairs to the new utilities path
 RewriteRule ^student/utilities/start/keypairs/(.*)$ /student/utilities/$1 [R=301,L]
 
-RewriteRule 
