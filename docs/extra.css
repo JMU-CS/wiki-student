@@ -76,3 +76,32 @@
 @page {
   margin: 0.5in;
 }
+
+
+/* highlight the linked heading */
+@keyframes highlight {
+    0% {
+        background: none;
+        color:var(--md-typeset-color);
+        text-decoration: none;
+    }
+    50%{
+        background: #7E56C2;
+        color: #fff;
+        text-decoration: underline;
+    }
+    100% {
+        background: none;
+        color:var(--md-typeset-color);
+        text-decoration: none;
+    }
+}
+
+:target {
+  /* animation: 3s ease-in-out 0s highlight; */
+  /* animation: 3s cubic-bezier(0.4, 0, 0.6, 1) 0s highlight; */
+  /* animation: 3s cubic-bezier(0.2, 0, 0.8, 1) 0s highlight; */
+  /* https://cubic-bezier.com/#.75,0,.25,1 this thing was helpful.  */
+  /* animation: 3s cubic-bezier(1, 0, 0, 1) 0s highlight; */
+  animation: 3s cubic-bezier(.75,0,.25,1) 0s highlight;
+}
