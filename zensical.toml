@@ -62,6 +62,7 @@ edit_uri = "edit/main/docs/"
 #   { "Events" = "events/index.md" },
 #   { "Student" = "student/index.md" },
 #   { "Help" = "help/index.md" },
+#   { "Archive = "archive/index.md" },
 # ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
