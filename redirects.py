@@ -69,9 +69,8 @@ def main() -> None:
             if (SITE_DIR / old_url / "index.html").exists():
                 print(old_url, "exists, skipping redirect")
                 continue
-            # The old URL should not end with a slash, because Apache matches prefixes.
-            # The new URL should end with a slash, because it represents a directory.
-            line = f"Redirect 301 /{old_url} /{new_url}/"
+            # The new URL should end with a slash, because it represents a directory
+            line = f"RedirectMatch 301 ^/{old_url}/*$ /{new_url}/"
             print("+", line)
             file.write(line + "\n")
 
