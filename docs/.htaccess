@@ -1,14 +1,6 @@
-RewriteEngine On
-
-# Fix misspelling: cs-sucess → cs-success
-RewriteRule ^(.*/)cs-sucess(/.*)?$ /$1cs-success$2 [R=301,L]
-
 # Remove trailing /start from any path
-RewriteRule ^(.*/)start/?$ /$1 [R=301,L]
+RedirectMatch 301 ^/(.*/)?start/*$ /$1
 
-# Redirect optional start on root page
-RewriteRule ^start/?$ / [R=301,L]
-
-# Redirect ANY sub-page under keypairs to the new utilities path
-RewriteRule ^student/utilities/start/keypairs/(.*)$ /student/utilities/$1 [R=301,L]
-
+# Pages moved to faculty side of wiki
+RedirectMatch 301 ^/department/evaluation_timelines/*$ /faculty/reference/evaluation_timelines/
+RedirectMatch 301 ^/department/teachinginterests/*$ /faculty/teaching/teaching_interests/
