@@ -1,10 +1,6 @@
-RewriteEngine On
-
 # Remove trailing /start from any path
-RewriteRule ^(.*/)start/?$ /$1 [R=301,L]
-
-# Redirect optional start on root page
-Redirect 301 /start /
+RedirectMatch 301 ^/(.*/)?start/*$ /$1
 
 # Pages moved to faculty side of wiki
-Redirect 301 /department/teachinginterests /faculty/teaching/teaching_interests/
+RedirectMatch 301 ^/department/evaluation_timelines/*$ /faculty/reference/evaluation_timelines/
+RedirectMatch 301 ^/department/teachinginterests/*$ /faculty/teaching/teaching_interests/
