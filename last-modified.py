@@ -2,7 +2,7 @@
 """
 Post-build script that adds or updates a last-modified footer in each HTML
 page under site/, using Git history of the corresponding Markdown source.
-Commits on IMPORT_DATE are ignored, and history is followed across renames.
+Commits on SKIP_DATE are ignored, and history is followed across renames.
 """
 
 import re

@@ -20,7 +20,9 @@ jobs:
       - name: Install Zensical
         run: source venv/bin/activate && pip install zensical==0.0.*
       - name: Build public site
-        run: source venv/bin/activate && zensical build --clean && ./last-modified.py
+        run: source venv/bin/activate && zensical build --clean
+      - name: Post-build scripts
+        run: ./last-modified.py && ./redirects.py
       - name: Group permissions
         run: chown -R :wiki ./site && chmod -R g+w ./site
       - name: Deploy via rsync
