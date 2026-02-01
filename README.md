@@ -24,3 +24,12 @@ To preview the site locally while editing:
 ``` sh
 zensical serve
 ```
+
+## Redirects
+
+Before pushing changes, please make sure you perform these steps:
+
+1. Execute `/redirects.py`
+2. Copy the output of that file to your clipboard.
+3. Inside `/docs/.htaccess` paste the output to replace all lines in the file **except the first redirect line.**
+4. Make sure to remove '+' from each line before committing and pushing.
