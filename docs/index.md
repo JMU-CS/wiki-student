@@ -24,7 +24,7 @@ title: Home
     <p style="margin-top: 8px; font-weight: 600; font-size: 0.9em;">Schedules</p>
   </a>
 
-  <a href="./student/" style="text-decoration: none; color: inherit;">
+  <a href="./student/advising/" style="text-decoration: none; color: inherit;">
     <img src="student/advising.png" alt="Advising" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <p style="margin-top: 8px; font-weight: 600; font-size: 0.9em;">Advising</p>
   </a>
