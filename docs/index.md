@@ -10,6 +10,24 @@ title: Home
 [![For Current Students](student/students.png)](student/index.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![For Faculty & Staff (Requires Login)](student/faculty.png)](faculty/index.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Office Hours](student/students.png)](student/index.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Clubs](student/students.png)](student/index.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Schedules](student/students.png)](student/index.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Advising](student/students.png)](student/index.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Events](student/students.png)](student/index.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Department Info](student/students.png)](student/index.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![First Years](student/students.png)](student/index.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Seniors](student/students.png)](student/index.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Technical References](student/students.png)](student/index.md)
 
 ------------------------------------------------------------------------
 

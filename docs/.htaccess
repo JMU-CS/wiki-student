@@ -4,3 +4,20 @@ RedirectMatch 301 ^/(.*/)?start/*$ /$1
 # Pages moved to faculty side of wiki
 RedirectMatch 301 ^/department/evaluation_timelines/*$ /faculty/reference/evaluation_timelines/
 RedirectMatch 301 ^/department/teachinginterests/*$ /faculty/teaching/teaching_interests/
+RedirectMatch 301 ^/events/2025-09-25-progressing_on_programming_problems/*$ /archive/files/2025-09-25-progressing_on_programming_problems/
+RedirectMatch 301 ^/events/2025-10-08-kickstarting-professional-experience/*$ /archive/files/2025-10-08-kickstarting-professional-experience/
+RedirectMatch 301 ^/events/2025-11-01-digital/*$ /archive/files/2025-11-01-digital/
+RedirectMatch 301 ^/events/2025-11-13-game_night/*$ /archive/files/2025-11-13-game_night/
+RedirectMatch 301 ^/events/2025-11-14-stock_photos/*$ /archive/files/2025-11-14-stock_photos/
+RedirectMatch 301 ^/events/2025-11-17-_21game_night/*$ /archive/files/2025-11-17-spirit_week/
+RedirectMatch 301 ^/events/2025-11-17-spirit_week/*$ /archive/files/2025-11-17-spirit_week/
+RedirectMatch 301 ^/student/autolab/*$ /help/autolab/
+RedirectMatch 301 ^/student/autolab/index/*$ /help/autolab/
+RedirectMatch 301 ^/student/autolab/common-tasks/*$ /help/autolab/common-tasks/
+RedirectMatch 301 ^/student/autolab/grade-report/*$ /help/autolab/grade-report/
+RedirectMatch 301 ^/student/autolab/gradingtier-summarizers/*$ /help/autolab/gradingtier-summarizers/
+RedirectMatch 301 ^/student/autolab/sidebar/*$ /help/autolab/sidebar/
+RedirectMatch 301 ^/student/autolab/troubleshooting/*$ /help/autolab/troubleshooting/
+RedirectMatch 301 ^/student/cs-sucess/*$ /student/cs-success/
+RedirectMatch 301 ^/student/utilities/start/keypairs/beginner/*$ /student/utilities/beginner/
+RedirectMatch 301 ^/student/utilities/start/keypairs/*$ /student/utilities/keypairs/
