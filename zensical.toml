@@ -253,7 +253,7 @@ features = [
 
     # When search highlighting is enabled and a user clicks on a search result,
     # Zensical will highlight all occurrences after following the link.
-    # https://zensical.org/docs/setup/search/#search-highlighting
+    # https://zensical.org/docs/setup/=/#search-highlighting
     "search.highlight",
 
     # When anchor following for the table of contents is enabled, the sidebar
