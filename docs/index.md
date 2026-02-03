@@ -8,8 +8,6 @@ title: Home
 # JMU Department of Computer Science Wiki
 
 <style>
-
-
   .grid.cards > ul > li {
     border: 1px solid #e0e0e0;
     border-radius: 16px;
@@ -43,15 +41,16 @@ title: Home
 
 <div class="grid cards" markdown>
 
-- [![Office Hours](student/officehours.png){.hello} Office Hours](./student/officehours/)
-- [![Clubs](student/clubs.png){.hello} Clubs](./student/clubs)
-- [![Schedules](student/schedule.png){.hello} Schedules](./student/schedule_spring2026)
-- [![Advising](student/advising.png){.hello} Advising](./student/advising/)
-- [![Events](student/events.png){.hello} Events](./events/)
-- [![Dept. Info](student/department.png){.hello} Dept. Info](./student/)
-- [![First Years](student/firstyear.png){.hello} First Years](./student/)
-- [![Seniors](student/seniors.png){.hello} Seniors](./student/)
-- [![Tech Refs](student/technical.png){.hello} Tech Refs](./student/)
+- [![Advising](student/images/advising.png){.hello} Advising](./student/department/cs-advising.md)
+- [![Clubs](student/images/clubs.png){.hello} Clubs](./student/clubs)
+- [![Dept. Info](student/images/department.png){.hello} Dept. Info](./student/)
+- [![Events](student/images/events.png){.hello} Events](./events/)
+- [![First Years](student/images/firstyear.png){.hello} First Years](./student/)
+- [![Office Hours](student/images/officehours.png){.hello} Office Hours](./student/images/officehours/)
+- [![Schedules](student/images/schedule.png){.hello} Schedules](./student/schedule_spring2026)
+- [![Seniors](student/images/seniors.png){.hello} Seniors](./student/)
+- [![TA Hours](student/images/presentation.png){.hello} TA Hours](./student/department/cs-success.md)
+- [![Tech Refs](student/images/technical.png){.hello} Tech Refs](./student/)
 
 </div>
 
