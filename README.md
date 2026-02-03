@@ -25,15 +25,6 @@ To preview the site locally while editing:
 zensical serve
 ```
 
-## Redirects
-
-Before pushing changes, please make sure you perform these steps:
-
-1. Execute `/redirects.py`
-2. Copy the output of that file to your clipboard.
-3. Inside `/docs/.htaccess` paste the output to replace all lines in the file **except the first redirect line.**
-4. Make sure to remove '+' from each line before committing and pushing.
-
 ## Attributions
 
 <a href="https://www.flaticon.com/free-icons/working-hours" title="working hours icons">Working hours icons created by Uniconlabs - Flaticon</a>
