@@ -43,14 +43,14 @@ title: Home
 
 - [![Advising](student/images/advising.png){.hello} Advising](./student/department/cs-advising.md)
 - [![Clubs](student/images/clubs.png){.hello} Clubs](./student/clubs)
-- [![Dept. Info](student/images/department.png){.hello} Dept. Info](./student/)
+- [![Dept. Info](student/images/department.png){.hello} Dept. Info](./department/)
 - [![Events](student/images/events.png){.hello} Events](./events/)
-- [![First Years](student/images/firstyear.png){.hello} First Years](./student/)
-- [![Office Hours](student/images/officehours.png){.hello} Office Hours](./student/images/officehours/)
-- [![Schedules](student/images/schedule.png){.hello} Schedules](./student/schedule_spring2026)
-- [![Seniors](student/images/seniors.png){.hello} Seniors](./student/)
+- [![First Years](student/images/firstyear.png){.hello} First Years](./firstyear/)
+- [![Office Hours](student/images/officehours.png){.hello} Office Hours](./department/files/officehours.md)
+- [![Schedules](student/images/schedule.png){.hello} Schedules](./department/files/schedule_spring2026)
+- [![Seniors](student/images/seniors.png){.hello} Seniors](./seniors/)
 - [![TA Hours](student/images/presentation.png){.hello} TA Hours](./student/department/cs-success.md)
-- [![Tech Refs](student/images/technical.png){.hello} Tech Refs](./student/)
+- [![Tech Refs](student/images/technical.png){.hello} Tech Refs](./technical-ref/)
 
 </div>
 
