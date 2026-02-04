@@ -3,11 +3,12 @@
 ## Competitive Programming
 
 - Faculty contact: Chris Johnson (johns8cr)
-- Student contact: Nate Baker
-- Weekly meetings: Tuesdays, 4:00-5:30pm in King 236
+- Student contact: Nate Baker (baker2na)
+- Weekly meetings (S26): Mondays, 4:30-5:30pm in King 143
 - Discord: <https://discord.gg/Uwwqbj4TEe>
+- Instagram: <https://www.instagram.com/jmucpc/>
 
-Do you love to solve challenging problems? Would you like to increase your programming skills? Are you a competitive person? Do you want to prepare for interview exercises that companies like Google, Facebook, Amazon, Microsoft, Apple, and others give their future employees? Would you like to improve your ability to work in teams? If you answered “YES!” to any of these questions, then we have the perfect club for you! We solve programming problems in online and in-person team competitions. We meet weekly for practices and participate in several contests every year.
+Do you love to solve problems? Would you like to level up your programming skills? Do you want to prepare for the interview exercises that companies give their future employees? Would you like to improve your ability to work in teams? If you answered “YES!” to any one of these questions, then we are the perfect club for you! We work together to solve programming problems in both online and in-person formats. We meet weekly and participate in several coding events every year. *ALL experience levels welcome!*
 
 ## Cyber Defense
 
