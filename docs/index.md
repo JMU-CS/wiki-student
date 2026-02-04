@@ -8,12 +8,6 @@ title: Home
 # JMU Department of Computer Science Wiki
 
 <style>
-  .grid.cards > ul > li {
-    border: 1px solid #e0e0e0;
-    border-radius: 16px;
-    padding: 1.25rem !important;
-  }
-
   .grid.cards > ul > li:hover {
     transform: translateY(-4px);
   }
@@ -22,18 +16,16 @@ title: Home
     width: 100px;
     height: auto;
     margin-bottom: 12px;
-    display: block;
   }
 
   .grid.cards > ul > li a {
     font-size: 0.9em;
     font-weight: 700;
     text-decoration: none;
-    color: #ffffff;
+    color: var(--md-typeset-color);
     display: flex;
     flex-direction: column;
     align-items: center;
-    line-height: 1.2;
   }
 </style>
 
@@ -48,7 +40,7 @@ title: Home
 - [![First Years](student/images/firstyear.png){.hello} First Years](./firstyear/)
 - [![Office Hours](student/images/officehours.png){.hello} Office Hours](./department/files/officehours.md)
 - [![Schedules](student/images/schedule.png){.hello} Schedules](./department/files/schedule_spring2026)
-- [![Seniors](student/images/seniors.png){.hello} Seniors](./seniors/)
+- [![Seniors](student/images/seniors.png){.hello} Seniors](./seniors/))
 - [![TA Hours](student/images/presentation.png){.hello} TA Hours](./department/files/cs-success.md)
 - [![Tech Refs](student/images/technical.png){.hello} Tech Refs](./technical-ref/)
 

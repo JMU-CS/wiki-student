@@ -57,13 +57,13 @@ edit_uri = "edit/main/docs/"
 # ]
 
 nav = [
+    { "Home" = "index.md" },
     { "Archive" = "archive/index.md" },
     { "Clubs" = "firstyear/index.md" },
     { "Department" = "department/index.md" },
     { "Events" = "events/index.md" },
     { "First Year" = "firstyear/index.md" },
     { "Help" = "help/index.md" },
-    { "Home" = "index.md" },
     { "Schedules" = "firstyear/index.md" },
     { "Seniors" = "firstyear/index.md" },
     { "TA Hours" = "firstyear/index.md" },

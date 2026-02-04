@@ -1,4 +1,4 @@
-# First-Year Advising FAQ
+# First-Year FAQ
 
 Q. Where are the slides for the First Year Kickoff on Sep 16, 2025?
 
