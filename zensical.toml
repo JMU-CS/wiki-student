@@ -58,6 +58,7 @@ edit_uri = "edit/main/docs/"
 
 nav = [
     { "Home" = "index.md" },
+    { "Advising" = "department/files/cs-advising.md" },
     { "Archive" = "archive/index.md" },
     { "Clubs" = "student/files/clubs.md" },
     { "Department" = "department/index.md" },

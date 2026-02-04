@@ -5,7 +5,6 @@
     .md-typeset .department {
         text-decoration: none;
     }
-    /* Optional: adds a bit of breathing room between the list items */
     .md-typeset ul li:has(.department) {
         margin-bottom: 0.5em;
     }

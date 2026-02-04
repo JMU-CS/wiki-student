@@ -1,4 +1,4 @@
-# CS Advising Canvas Site
+# ![Advising](../../student/images/CSadvising.png)
 
 All CS Advising information and resources are on the CS Advising Canvas site.
 
