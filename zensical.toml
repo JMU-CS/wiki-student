@@ -59,14 +59,15 @@ edit_uri = "edit/main/docs/"
 nav = [
     { "Home" = "index.md" },
     { "Archive" = "archive/index.md" },
-    { "Clubs" = "firstyear/index.md" },
+    { "Clubs" = "student/files/clubs.md" },
     { "Department" = "department/index.md" },
     { "Events" = "events/index.md" },
     { "First Year" = "firstyear/index.md" },
     { "Help" = "help/index.md" },
-    { "Schedules" = "firstyear/index.md" },
-    { "Seniors" = "firstyear/index.md" },
-    { "TA Hours" = "firstyear/index.md" },
+    { "Schedules" = "department/files/schedule_spring2026" },
+    { "Seniors" = "seniors/index.md" },
+    { "TA Hours" = "department/files/cs-success.md" },
+    { "Tech Refs" = "technical-ref/index.md" },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize

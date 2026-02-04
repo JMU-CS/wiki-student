@@ -40,7 +40,7 @@ title: Home
 - [![First Years](student/images/firstyear.png){.hello} First Years](./firstyear/)
 - [![Office Hours](student/images/officehours.png){.hello} Office Hours](./department/files/officehours.md)
 - [![Schedules](student/images/schedule.png){.hello} Schedules](./department/files/schedule_spring2026)
-- [![Seniors](student/images/seniors.png){.hello} Seniors](./seniors/))
+- [![Seniors](student/images/seniors.png){.hello} Seniors](./seniors/)
 - [![TA Hours](student/images/presentation.png){.hello} TA Hours](./department/files/cs-success.md)
 - [![Tech Refs](student/images/technical.png){.hello} Tech Refs](./technical-ref/)
 

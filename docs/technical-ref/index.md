@@ -23,19 +23,16 @@
 - [jGRASP](./files/jgrasp/index.md){.department}
 - [JUnit](./files/junit/index.md){.department}
 - [KDiff3](./files/kdiff.md){.department}
-- [Mounting a Remote Filesystem Locally](./files/utilities/sshfs.md){.department}
-- [Mathematical Foundations](#){.department}
-- [Mounting Remote Directories Locally](#){.department}
-- [Operating System Utilities](#){.department}
-- [Managing your Personal Space of Information (Ψ)](#){.department}
-- [Python Virtual Environments](#){.department}
-- [ScrumBoard](#){.department}
-- [scrumj](#){.department}
-- [SSH Key Pairs](#){.department}
-- [Typographic Conventions](#){.department}
-- [VisualParadigm](#){.department}
-- [VivifyScrum](#){.department}
-- [Web Browsers](#){.department}
-- [XML](#){.department}
-- [.zip Files](#){.department}
-- [Library Resources](#){.department}
+- [Mathematical Foundations](./files/mathematics/index.md){.department}
+- [Mounting Remote Directories Locally](./files/utilities/sshfs.md){.department}
+- [Operating System Utilities](./files/utilities/index.md){.department}
+- [Python Virtual Environments](./files/python/virtualenv.md){.department}
+- [ScrumBoard](./files/scrumboard.md){.department}
+- [scrumj](./files/scrumj/index.md){.department}
+- [SSH Key Pairs](./files/utilities/keypairs.md){.department}
+- [Typographic Conventions](./files/typographic-conventions.md){.department}
+- [VisualParadigm](./files/visualparadigm/index.md){.department}
+- [VivifyScrum](./files/vivifyscrum/index.md){.department}
+- [Web Browsers](./files/web_browsers.md){.department}
+- [XML](./files/xml/basics.md){.department}
+- [.zip Files](./files/zip/index.md){.department}
