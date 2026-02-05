@@ -23,4 +23,4 @@
 - Enrollment errors [FAQ](https://www.jmu.edu/registrar/students/FAQ.shtml#Set-2-A)
 - [MyMadison Tutorials](https://www.jmu.edu/computing/mymadison/tutorials/tutorials-students.shtml)
 - [Using the wait list correctly](waitlist/index.md)
-- What to do with [Enrollment Issues](advising/enrollment101.md#when_you_enroll)
+<!-- - What to do with [Enrollment Issues](advising/enrollment101.md#when_you_enroll) -->

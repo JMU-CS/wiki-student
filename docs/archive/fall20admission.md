@@ -6,7 +6,7 @@ You will be guaranteed full admission to the CS major or minor, if your average 
 
 Application to the CS Major or Minor: <https://www.questionpro.com/t/ARXgAZjXmj>
 
-Please also see our [Frequently Asked Questions](admissionfaq.md) about the Full Admission to the Major or Minor page.
+Please also see our [Frequently Asked Questions](./) about the Full Admission to the Major or Minor page.
 
 Any student may declare a CS major or minor, but students can only enroll in CS courses 240, 261, 345 and beyond if they are fully admitted to the CS major or minor.
 
