@@ -7,15 +7,11 @@ title: Home
 
 # JMU Department of Computer Science Wiki
 
+This wiki contains information that is relevant to students, faculty, and staff at the JMU Department of Computer Science. All members of the department community are welcome to contribute to building this knowledge base and keeping it up to date.
+
 <style>
   .grid.cards > ul > li:hover {
     transform: translateY(-4px);
-  }
-
-  .md-typeset .hello {
-    width: 100px;
-    height: auto;
-    margin-bottom: 12px;
   }
 
   .grid.cards > ul > li a {
@@ -27,29 +23,35 @@ title: Home
     flex-direction: column;
     align-items: center;
   }
+
+  .md-typeset .icon {
+    width: 100px;
+    height: auto;
+    margin-bottom: 12px;
+  }
 </style>
 
 ## Quick Links
 
 <div class="grid cards" markdown>
 
-- [![Advising](student/images/advising.png){.hello} Advising](./department/files/cs-advising.md)
-- [![Clubs](student/images/clubs.png){.hello} Clubs](./student/files/clubs.md)
-- [![Dept. Info](student/images/department.png){.hello} Dept. Info](./department/)
-- [![Events](student/images/events.png){.hello} Events](./events/)
-- [![First Years](student/images/firstyear.png){.hello} First Years](./firstyear/)
-- [![Office Hours](student/images/officehours.png){.hello} Office Hours](./department/files/officehours.md)
-- [![Schedules](student/images/schedule.png){.hello} Schedules](./department/files/schedule_spring2026)
-- [![Seniors](student/images/seniors.png){.hello} Seniors](./seniors/)
-- [![TA Hours](student/images/presentation.png){.hello} TA Hours](./department/files/cs-success.md)
-- [![Tech Refs](student/images/technical.png){.hello} Tech Refs](./technical-ref/)
+- [![Icon](student/images/advising.png){.icon} Advising](./department/files/cs-advising.md)
+- [![Icon](student/images/clubs.png){.icon} Clubs](./student/files/clubs.md)
+- [![Icon](student/images/department.png){.icon} Department](./department/)
+- [![Icon](student/images/events.png){.icon} Events](./events/)
+- [![Icon](student/images/firstyear.png){.icon} First Year](./firstyear/)
+- [![Icon](student/images/officehours.png){.icon} Office Hours](./department/files/officehours.md)
+- [![Icon](student/images/schedule.png){.icon} Schedules](./department/files/schedule_spring2026)
+- [![Icon](student/images/seniors.png){.icon} Seniors](./seniors/)
+- [![Icon](student/images/presentation.png){.icon} TA Hours](./department/files/cs-success.md)
+- [![Icon](student/images/technical.png){.icon} Tech Refs](./technical-ref/)
 
 </div>
 
-[Faculty Login](./faculty){ .md-button }
+<div class="grid" style="place-items: center;" markdown>
 
----
+[![JMU Department of Computer Science](student/images/jmu-computer_science-horiz-purple.png){width="400"}](https://www.jmu.edu/cise/cs/)
 
-This wiki contains information that is relevant to students, faculty, and staff at the JMU Department of Computer Science. All members of the department community are welcome to contribute to building this knowledge base and keeping it up to date. 
+[Faculty Login](./faculty){.md-button style="margin-bottom: 1em;"}
 
-<img src="./student/images/jmu-computer_science-horiz-purple.png" width="400" style="margin-top: 20px; display: block;">
+</div>
