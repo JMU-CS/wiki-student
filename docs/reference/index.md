@@ -1,37 +1,29 @@
 # Technical References
 
 ---
-<style>
-    .md-typeset .department {
-        text-decoration: none;
-    }
-    .md-typeset ul li:has(.department) {
-        margin-bottom: 0.5em;
-    }
-</style>
 
-- [C/C++](./files/c/index.md){.department}
-- [Remote Access](./files/remote_access.md){.department}
-- [Canvas](./files/canvas/index.md){.department}
-- [Checkstyle](./files/checkstyle/index.md){.department}
-- [Command Line Help](){.department}
-- [Eclipse](./files/eclipse/index.md){.department}
-- [gcov/lcov](./files/gcov/index.md){.department}
-- [GitHub for Personal Use](./files/personalgithub/index.md){.department}
-- [Java](./files/java/index.md){.department}
-- [jGRASP](./files/jgrasp/index.md){.department}
-- [JUnit](./files/junit/index.md){.department}
-- [KDiff3](./files/kdiff.md){.department}
-- [Mathematical Foundations](./files/mathematics/index.md){.department}
-- [Mounting Remote Directories Locally](./files/utilities/sshfs.md){.department}
-- [Operating System Utilities](./files/utilities/index.md){.department}
-- [Python Virtual Environments](./files/python/virtualenv.md){.department}
-- [ScrumBoard](./files/scrumboard.md){.department}
-- [scrumj](./files/scrumj/index.md){.department}
-- [SSH Key Pairs](./files/utilities/keypairs.md){.department}
-- [Typographic Conventions](./files/typographic-conventions.md){.department}
-- [VisualParadigm](./files/visualparadigm/index.md){.department}
-- [VivifyScrum](./files/vivifyscrum/index.md){.department}
-- [Web Browsers](./files/web_browsers.md){.department}
-- [XML](./files/xml/basics.md){.department}
-- [.zip Files](./files/zip/index.md){.department}
+- [C/C++](./files/c/index.md)
+- [Remote Access](./files/remote_access.md)
+- [Canvas](./files/canvas/index.md)
+- [Checkstyle](./files/checkstyle/index.md)
+- [Command Line Help]()
+- [Eclipse](./files/eclipse/index.md)
+- [gcov/lcov](./files/gcov/index.md)
+- [GitHub for Personal Use](./files/personalgithub/index.md)
+- [Java](./files/java/index.md)
+- [jGRASP](./files/jgrasp/index.md)
+- [JUnit](./files/junit/index.md)
+- [KDiff3](./files/kdiff.md)
+- [Mathematical Foundations](./files/mathematics/index.md)
+- [Mounting Remote Directories Locally](./files/utilities/sshfs.md)
+- [Operating System Utilities](./files/utilities/index.md)
+- [Python Virtual Environments](./files/python/virtualenv.md)
+- [ScrumBoard](./files/scrumboard.md)
+- [scrumj](./files/scrumj/index.md)
+- [SSH Key Pairs](./files/utilities/keypairs.md)
+- [Typographic Conventions](./files/typographic-conventions.md)
+- [VisualParadigm](./files/visualparadigm/index.md)
+- [VivifyScrum](./files/vivifyscrum/index.md)
+- [Web Browsers](./files/web_browsers.md)
+- [XML](./files/xml/basics.md)
+- [.zip Files](./files/zip/index.md)

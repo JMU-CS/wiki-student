@@ -61,7 +61,7 @@ In addition to using this page to find information, you can search the Wiki usin
 
 - [Scholarships](../department/scholarships.md)
 
----------------------------------------------------------------------------------------------
+---
 
 ## CS Student Resources and Information
 
@@ -97,33 +97,4 @@ In addition to using this page to find information, you can search the Wiki usin
 - [Travel Request Form](https://forms.office.com/r/ijGJwXPiHB)
 - [Undergraduate Research](../department/research.md)
 
----------------------------------------------------------------------------------------------
-
-## Technical Topics / Miscellaneous
-
-- [C/C++](c/index.md)
-- [Canvas](canvas/index.md)
-- [Checkstyle](checkstyle/index.md)
-- [Command Line Help](https://ss64.com/)
-- [Eclipse](eclipse/index.md)
-- [gcov/lcov](gcov/index.md)
-- [GitHub for Personal Use](personalgithub/index.md)
-- [Java](java/index.md)
-- [jGRASP](jgrasp/index.md)
-- [JUnit](junit/index.md)
-- [KDiff3](kdiff.md)
-- [MacOS Setup for Developers](macdev.md)
-- [Mathematical Foundations](mathematics/index.md)
-- [Mounting Remote Directories Locally](utilities/sshfs.md)
-- [Operating System Utilities](utilities/index.md)
-- [Managing your Personal Space of Information (Ψ)](psi.md)
-- [Python Virtual Environments](python/virtualenv.md)
-- [ScrumBoard](scrumboard.md)
-- [scrumj](scrumj/index.md)
-- [SSH Key Pairs](utilities/keypairs.md)
-- [Typographic Conventions](typographic-conventions.md)
-- [VisualParadigm](visualparadigm/index.md)
-- [VivifyScrum](vivifyscrum/index.md)
-- [Web Browsers](web_browsers.md)
-- [XML](xml/index.md)
-- [.zip Files](zip/index.md)
+---
