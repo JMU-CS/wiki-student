@@ -35,13 +35,13 @@ def previous_paths(path: Path) -> list[Path]:
     return [Path(line.split()[1]) for line in output if line.startswith("R")]
 
 
-def path_to_url(path: Path, index_name: str) -> str:
+def path_to_url(path: Path) -> str:
     """Convert a source file path to a normalized url."""
     # Remove docs root if present
     if path.is_relative_to(DOCS_DIR):
         path = path.relative_to(DOCS_DIR)
     # Remove index file if present
-    if path.name == index_name:
+    if path.name in ("start.txt", "index.md"):
         return str(path.parent)
     # Remove extension (txt or md)
     return str(path.with_suffix(""))
@@ -54,12 +54,13 @@ def main() -> None:
     # Discover the redirect rules
     for new_path in current_pages():
         for old_path in previous_paths(new_path):
-            # Convert the source file paths to urls
-            old_url = path_to_url(old_path, "start.txt")
-            new_url = path_to_url(new_path, "index.md")
-            # Emit rule only if the path has changed
-            if old_url != new_url:
-                rules.add((old_url, new_url))
+            if "files" not in old_path.parts:
+                # Convert the source file paths to urls
+                old_url = path_to_url(old_path)
+                new_url = path_to_url(new_path)
+                # Emit rule only if the path has changed
+                if old_url != new_url:
+                    rules.add((old_url, new_url))
 
     # Append the server config file
     with open(SITE_DIR / ".htaccess", "a") as file:
