@@ -7,3 +7,6 @@
 .cache/
 .venv/
 site/
+
+# other
+.vscode/
