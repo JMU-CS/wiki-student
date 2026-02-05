@@ -29,13 +29,13 @@ zensical serve
 
 The icons on the front page are from [Flaticon.com](https://www.flaticon.com/):
 
-- [Working hours icons created by Uniconlabs](https://www.flaticon.com/free-icons/working-hours)
-- [Discussion icons created by Freepik](https://www.flaticon.com/free-icons/discussion)
-- [Schedule icons created by Freepik](https://www.flaticon.com/free-icons/schedule)
-- [Advise icons created by juicy_fish](https://www.flaticon.com/free-icons/advise)
-- [Time and date icons created by Rooman12](https://www.flaticon.com/free-icons/time-and-date)
-- [Government icons created by Eucalyp](https://www.flaticon.com/free-icons/government)
-- [1st icons created by Freepik](https://www.flaticon.com/free-icons/1st)
-- [Graduation cap icons created by Freepik](https://www.flaticon.com/free-icons/graduation-cap)
-- [Technical Support icons created by Freepik](https://www.flaticon.com/free-icons/technical-support)
-- [Teacher icons created by adityayoga](https://www.flaticon.com/free-icons/teacher)
+- [Office Hour Icon created by Uniconlabs](https://www.flaticon.com/free-icons/working-hours)
+- [Clubs Icon created by Freepik](https://www.flaticon.com/free-icons/discussion)
+- [Schedule Icon created by Freepik](https://www.flaticon.com/free-icons/schedule)
+- [Advising Icon created by juicy_fish](https://www.flaticon.com/free-icons/advise)
+- [Events Icon by Rooman12](https://www.flaticon.com/free-icons/time-and-date)
+- [Department Icon created by Eucalyp](https://www.flaticon.com/free-icons/government)
+- [First Year Icon created by Freepik](https://www.flaticon.com/free-icons/1st)
+- [Senior Icon created by Freepik](https://www.flaticon.com/free-icons/graduation-cap)
+- [Technical References Icon created by Freepik](https://www.flaticon.com/free-icons/technical-support)
+- [TA Hours Icon created by adityayoga](https://www.flaticon.com/free-icons/teacher)

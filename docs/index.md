@@ -35,16 +35,16 @@ This wiki contains information that is relevant to students, faculty, and staff 
 
 <div class="grid cards" markdown>
 
-- [![Icon](student/images/advising.png){.icon} Advising](./department/files/cs-advising.md)
-- [![Icon](student/images/clubs.png){.icon} Clubs](./student/files/clubs.md)
+- [![Icon](student/images/advising.png){.icon} Advising](./department/cs-advising.md)
+- [![Icon](student/images/clubs.png){.icon} Clubs](./student/clubs.md)
 - [![Icon](student/images/department.png){.icon} Department](./department/)
 - [![Icon](student/images/events.png){.icon} Events](./events/)
-- [![Icon](student/images/firstyear.png){.icon} First Year](./firstyear/)
-- [![Icon](student/images/officehours.png){.icon} Office Hours](./department/files/officehours.md)
-- [![Icon](student/images/schedule.png){.icon} Schedules](./department/files/schedule_spring2026)
-- [![Icon](student/images/seniors.png){.icon} Seniors](./seniors/)
-- [![Icon](student/images/presentation.png){.icon} TA Hours](./department/files/cs-success.md)
-- [![Icon](student/images/technical.png){.icon} Tech Refs](./technical-ref/)
+- [![Icon](student/images/firstyear.png){.icon} First Year](./student/firstyear/)
+- [![Icon](student/images/officehours.png){.icon} Office Hours](./department/officehours.md)
+- [![Icon](student/images/schedule.png){.icon} Schedules](./department/schedule_spring2026)
+- [![Icon](student/images/seniors.png){.icon} Seniors](./student/seniors/)
+- [![Icon](student/images/presentation.png){.icon} TA Hours](./department/cs-success.md)
+- [![Icon](student/images/technical.png){.icon} Tech Refs](./reference/)
 
 </div>
 
