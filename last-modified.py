@@ -33,8 +33,9 @@ def git_stamp(src_path: Path) -> str:
     result = subprocess.run(
         [
             "git", "log", "--follow",
-            "--format=%ad by %an (%h)",
+            "--format=%n%n%ad by %an (%h)",
             "--date=format:%Y-%m-%d %H:%M",
+            "--name-status",
             "--", str(src_path),
         ],
         capture_output=True,
@@ -42,18 +43,35 @@ def git_stamp(src_path: Path) -> str:
         check=True,
     )
 
-    # Validate the output from git
-    lines = result.stdout.strip().splitlines()
-    if not lines:
+    # The %n%n in --format puts two blank lines between each commit
+    blocks = result.stdout.strip().split("\n\n\n")
+    if not blocks:
         return "Unknown"
 
-    # Find the most recent commit after/before the import date
-    for line in lines:
-        if not line.startswith(SKIP_DATE):
-            return line
+    # Find the most recent commit that was an actual page edit
+    for block in blocks:
+        lines = block.splitlines()
+        header = lines[0]
 
-    # All commits on import date; return the most recent commit
-    return lines[0]
+        # Skip commits on the original import date
+        if header.startswith(SKIP_DATE):
+            continue
+
+        # Collect file status lines (e.g., R100, M, A)
+        statuses = [
+            line.split()[0]
+            for line in lines[1:]
+            if line and line[0].isalpha()
+        ]
+
+        # Ignore commits that were only renames
+        if statuses and all(status.startswith("R") for status in statuses):
+            continue
+
+        return header
+
+    # Fallback: return the most recent commit header
+    return blocks[0].splitlines()[0]
 
 
 def inject_footer(html: str, stamp: str, src_path: Path) -> str:
