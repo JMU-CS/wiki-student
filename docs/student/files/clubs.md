@@ -3,11 +3,12 @@
 ## Competitive Programming
 
 - Faculty contact: Chris Johnson (johns8cr)
-- Student contact: Nate Baker
-- Weekly meetings: Tuesdays, 4:00-5:30pm in King 236
+- Student contact: Nate Baker (baker2na)
+- Weekly meetings (S26): Mondays, 4:30-5:30pm in King 143
 - Discord: <https://discord.gg/Uwwqbj4TEe>
+- Instagram: <https://www.instagram.com/jmucpc/>
 
-Do you love to solve challenging problems? Would you like to increase your programming skills? Are you a competitive person? Do you want to prepare for interview exercises that companies like Google, Facebook, Amazon, Microsoft, Apple, and others give their future employees? Would you like to improve your ability to work in teams? If you answered “YES!” to any of these questions, then we have the perfect club for you! We solve programming problems in online and in-person team competitions. We meet weekly for practices and participate in several contests every year.
+Do you love to solve problems? Would you like to level up your programming skills? Do you want to prepare for the interview exercises that companies give their future employees? Would you like to improve your ability to work in teams? If you answered “YES!” to any one of these questions, then we are the perfect club for you! We work together to solve programming problems in both online and in-person formats. We meet weekly and participate in several coding events every year. *ALL experience levels welcome!*
 
 ## Cyber Defense
 
@@ -86,8 +87,8 @@ Upsilon Pi Epsilon was founded in 1967 at Texas A&M University and is the first 
 
 - Contact: jmuwit@gmail.com
 - Faculty contact: Dr. Dee Weikle(weikleda) && Dr. Zhuojun Duan (duanzx)
-- Student contact: Kendall Coleman(colem7ka@dukes.jmu.edu)
-- meetings are bi-weekly at 6:30 in King 348 (Sep 6, Sep. 20, Oct. 4, Oct. 25, Nov. 6, Nov. 29, Dec. 6)
+- Student contact: Emily Waters(water2et@dukes.jmu.edu)
+- meetings are bi-weekly
 - Links: [Website](https://weikleda.github.io/jmuwit) \| [BeInvolved](https://beinvolved.jmu.edu/organization/wit)
 
 WIT's goal is to celebrate an active network of women in the technology industries by facilitating career development and empowering women to be the architects of change in the STEM field, and to create opportunities for personal and professional development inside and outside of the classroom.
