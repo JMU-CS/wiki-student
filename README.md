@@ -39,3 +39,4 @@ The icons on the front page are from [Flaticon.com](https://www.flaticon.com/):
 - [Senior Icon created by Freepik](https://www.flaticon.com/free-icons/graduation-cap)
 - [Technical References Icon created by Freepik](https://www.flaticon.com/free-icons/technical-support)
 - [TA Hours Icon created by adityayoga](https://www.flaticon.com/free-icons/teacher)
+- [Student Icon created by Freepik](https://www.flaticon.com/free-icons/student)
