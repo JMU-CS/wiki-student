@@ -41,7 +41,7 @@ Sometimes it is useful to run a program and perform a "shadow" calculation for e
 
 Ordinary Differential Equations (ODEs) are used to model changes in real-world systems using numerical simulation. Often, mathematicians and scientists wish to visualize the results of these simulations and see what happens when particular parameters are changed. This is also useful to students who are learning about these systems. This project would involve extending a rudimentary tool written as part of a Summer 2021 project that was a collaboration between Dr. Lam and faculty in the Department of Mathematics and Statistics.
 
-![Screenshot of app plotting a differential equation: x'' = a(x^2 - 1)x' + x](odeviewer.png){width="400" class="align-center"}
+<!--![Screenshot of app plotting a differential equation: x'' = a(x^2 - 1)x' + x](./odeviewer.png){width="400" class="align-center"}-->
 
 - Faculty contact: Dr. Lam
 - Repository: [GitHub](https://github.com/huberbp/jmodev)

@@ -2,6 +2,6 @@
  
  ---
  
- - [Graduation Process](files/graduation.md){.department}
- - [Graduation Requirements](files/graduation-preparation/index.md){.department}
+ - [Graduation Process](graduation.md){.department}
+ - [Graduation Requirements](graduation-preparation/index.md){.department}
  

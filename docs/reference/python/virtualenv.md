@@ -43,7 +43,7 @@ However, sometimes you need more control over the version of python; perhaps you
 
 ### Changing pip's cache directory
 
-This is only necessary on systems like the [HPC Cluster](../cluster.md) that have restrictive file system quotas on your home directory. This is not necessary on lab machines or stu. This example places the cache on the cluster's scratch partition but you should adjust the paths as necessary.
+This is only necessary on systems like the [HPC Cluster](../../student/cluster.md) that have restrictive file system quotas on your home directory. This is not necessary on lab machines or stu. This example places the cache on the cluster's scratch partition but you should adjust the paths as necessary.
 
 Create a `pip.conf` file with the following contents inside of your virtualenv directory.
 

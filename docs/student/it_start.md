@@ -13,12 +13,12 @@ TODO: Advising
 TODO: Changing Majors
 
 Enrollment  
-[Using the Waitlist Correctly](../department/waitlist/index.md)  
+[Using the Waitlist Correctly](../archive/waitlist/index.md)  
 Students taking CS 149 or IT 160  
-[First Year Advising FAQ](../department/fya/index.md)  
+[First Year Advising FAQ](./firstyear/fya/index.md)  
 IT Seniors  
 TODO: IT Graduation Requirements  
-[Graduation Process and Forms](../department/graduation.md)  
+[Graduation Process and Forms](../student/seniors/graduation.md)  
 
 Scholarships  
 TODO: IT Scholarships  
@@ -27,67 +27,36 @@ TODO: IT Scholarships
 
 - TODO: IT Success Guide
 - TODO: IT First-Year Start-up Guide
-- [CS149 Start-up Guide](cs149startup.md)
-- [First Year Finals Guide](firstyearfinals.md)
-
+  
 ### University/Department-Specific Resources
 
-- [Building Maps](building_maps.md) (King Hall and EnGeo)
-- [Clubs](clubs.md)
-- [Cluster](cluster.md)
+- [Building Maps](../department/building_maps.md) (King Hall and EnGeo)
+- [Clubs](./clubs.md)
+- [Cluster](./cluster.md)
 - [Computer Labs](../department/computer_labs/index.md)
 - TODO: IT Listserv
 - TODO: IT Faculty Office Hours
 - [Free Software](freesoftware.md)
-- [Gradescope](gradescope/index.md)
+- [Gradescope](../reference/gradescope/index.md)
 - TODO: IT Honors
 - [Library Resources](https://jmu.libwizard.com/f/compsci-guide-basic) (including off-campus access info)
-- [Remote Access](../department/remote_access.md)
+- [Remote Access](../reference/remote_access.md)
 - [Research Seminar Talks](../department/cs_research_seminar_talks.md)
-- [Student Server](stu/index.md) (stu.cs.jmu.edu)
+- [Student Server](../reference/stu//index.md) (stu.cs.jmu.edu)
 - [CS TA Hours](../department/cs-success.md)
 - TODO: IT TA Hours?
 - [Undergraduate Research](../department/research.md)
 - [Virtual Machine](vm.md)
 - [VPN](vpn.md)
-- [Wireless](wireless.md)
+- [Wireless](../department/wireless.md)
 
-### Technical Topics
-
-- [C/C++](c/index.md)
-- [Canvas](canvas/index.md)
-- [Checkstyle](checkstyle/index.md)
-- [Command Line Help](https://ss64.com/)
-- [Eclipse](eclipse/index.md)
-- [gcov/lcov](gcov/index.md)
-- [GitHub for Personal Use](personalgithub/index.md)
-- [Java](java/index.md)
-- [jGRASP](jgrasp/index.md)
-- [JUnit](junit/index.md)
-- [KDiff3](kdiff.md)
-- [MacOS Setup for Developers](macdev.md)
-- [Mathematical Foundations](mathematics/index.md)
-- [Mounting Remote Directories Locally](utilities/sshfs.md)
-- [Operating System Utilities](utilities/index.md)
-- [Managing your Personal Space of Information (Ψ)](psi.md)
-- [Python Virtual Environments](python/virtualenv.md)
-- [ScrumBoard](scrumboard.md)
-- [scrumj](scrumj/index.md)
-- [SSH Key Pairs](utilities/keypairs.md)
-- [Typographic Conventions](typographic-conventions.md)
-- [VisualParadigm](visualparadigm/index.md)
-- [VivifyScrum](vivifyscrum/index.md)
-- [Web Browsers](web_browsers.md)
-- [Web Development](webdev.md)
-- [XML](xml/index.md)
-- [.zip Files](zip/index.md)
 
 ### Community
 
 - TODO: IT Sticker Contest
 - [IT Ambassadors](https://www.jmu.edu/cise/information-technology/people/ambassadors/index.shtml)
-- [CISE Career & Internship Fair](career-fair.md)
-- [JMU CS Branding Resources](cs-branding/index.md)
+- [CISE Career & Internship Fair](https://www.jmu.edu/career/events/career-fairs/cise.shtml)
+- [JMU CS Branding Resources](../department/cs-branding/index.md)
 
 ### Etiquette
 

@@ -1,6 +1,6 @@
 # Computer Labs
 
-The Computer Science department maintains multiple computer labs running Linux Mint 22.1. Desktop machines may be accessed over the network. See the article on [stu](../../student/stu/basics.md) for more information. You are free to use these labs whenever there is no class scheduled there. These labs are located in:
+The Computer Science department maintains multiple computer labs running Linux Mint 22.1. Desktop machines may be accessed over the network. See the article on [stu](../../reference/stu/basics.md) for more information. You are free to use these labs whenever there is no class scheduled there. These labs are located in:
 
 1.  King 248 (where [TA Hours](../cs-success.md) are held)
 2.  King 250

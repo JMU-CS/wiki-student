@@ -6,7 +6,7 @@ Nov 2, 2024, James Madison University
 
 ## 2024 Schedule
 
-![The Schedule](digital2024_schedule.png){width="800"}
+![The Schedule](./digital2024_schedule.png){width="800"}
 
 [Participants Pre Survey](https://jmu.co1.qualtrics.com/jfe/form/SV_9WXKSHSRjDoKKKG)
 
@@ -36,6 +36,5 @@ Nov 2, 2024, James Madison University
 
 A pocket-sized computer that introduces you to the fundamentals of software and hardware interaction. In this hands-on session, you'll explore coding and electronics through fun projects, learning how to bring your ideas to life with this versatile device. Whether you're a beginner or looking to expand your skills, these activities are perfect for anyone interested in the exciting world of technology!
 
-![Map of the First Floor](1stfloor.jpg){width="600"}
+![Map](../../department/building_maps.md){width="600"}
 
-![Map of the Second Floor](2ndfloor.jpg){width="600"}

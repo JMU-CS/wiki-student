@@ -16,7 +16,7 @@ Many students who become involved in research elect to do an "[Honors Capstone P
 
 The honors thesis generally consists of a three-semester sequence beginning in the Spring of your Junior year, where you enroll in a 1-credit CS499A course and work with your faculty advisor to do some preliminary research and write a project proposal. In the Fall of your Senior year, you enroll in a 3-credit CS499B and do the majority of the work. Finally, in the Spring of your Senior year, you enroll in a 2-credit CS499C and finish any leftover work while writing and finalizing your final report and/or software deliverable. You will also present your work as part of the research seminar series in your final semester.
 
-If you are interested in this option, you should find a project or problem that you'd like to work on and request a meeting with a faculty member who might be interested in advising you. You should also look at the [CS Honors Capstone Guidelines](honors_capstone/index.md).
+If you are interested in this option, you should find a project or problem that you'd like to work on and request a meeting with a faculty member who might be interested in advising you. You should also look at the [CS Honors Capstone Guidelines](../archive/honors_capstone/index.md).
 
 ### Independent Study
 
@@ -78,4 +78,4 @@ In collaboration with researchers, practitioners, and students of Computer Scien
 - Faculty contact: [Dr. Stewart](https://hcientist.com)
 - Status: Ongoing and looking for new students!
 
-[Inactive Research Projects](inactive_research_projects.md)
+[Inactive Research Projects](../archive/inactive_research_projects.md)

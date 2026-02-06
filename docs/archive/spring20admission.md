@@ -2,7 +2,7 @@
 
 For the Spring 2020 semester, the Computer Science department has changed the admission criteria for full admission to the CS Major or Minor to take into consideration the credit/no credit (CR/NC) grading option. The modified criteria are listed below. Tentatively, they only apply for applications submitted during the Spring 2020 semester, and for students who took CS 149 during the Spring 2020 semester.
 
-Please also see our [Frequently Asked Questions about the Full Admission to the Major or Minor](admissionfaq.md) page.
+<!--Please also see our [Frequently Asked Questions about the Full Admission to the Major or Minor](./admissionfaq.md) page -->
 
 Any student may declare a CS major or minor, but students may enroll in CS courses beyond CS 149, CS 159, and CS/MATH 227 only if they are fully admitted to the CS major or minor. Full admission to the major or minor is granted as described below.
 

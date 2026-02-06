@@ -61,7 +61,7 @@ The page for an assignment looks something like the following.
 
 ![Screenshot of assignment page with 8 arrows labeling each part](assignment.png)
 
-You can submit your code by (1) affirming that you have complied with the JMU honor code and all course-specific policies, and (2) clicking on "SUBMIT" (which will then prompt you to select the file to submit). The kind of file you must submit will vary from assignment to assignment. If you must submit a .zip file, make sure you understand how it must be structured and then see the [help page on creating .zip files](../zip/creating.md).
+You can submit your code by (1) affirming that you have complied with the JMU honor code and all course-specific policies, and (2) clicking on "SUBMIT" (which will then prompt you to select the file to submit). The kind of file you must submit will vary from assignment to assignment. If you must submit a .zip file, make sure you understand how it must be structured and then see the [help page on creating .zip files](../../reference/zip/index.md).
 
 You can also see information about due dates/times, the number of
 times you can still submit (which may be infinite depending on the

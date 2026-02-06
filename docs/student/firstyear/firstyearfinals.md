@@ -2,11 +2,11 @@
 
 ## Plan out the week
 
-- View the [JMU Exam Schedule](https://www.jmu.edu/registrar/wm_library/1208_exam_schedule.pdf) and add all of your final times into your calendar (and set reminders!). Double check with your courses' Canvas pages to see if your professor has made any changes to the Final Exam Time.
+- View the [JMU Exam Schedule](https://www.jmu.edu/registrar/wm_library/spring_exam_schedule.pdf) and add all of your final times into your calendar (and set reminders!). Double check with your courses' Canvas pages to see if your professor has made any changes to the Final Exam Time.
 
 - Now block off your study time. Be strategic about planning your study time for when your Final will be.
 
-- Note: The CS TAs will not be available during Finals' Week. First time using the TAs? Check out [this guide](../department/cs-success.md).
+- Note: The CS TAs will not be available during Finals' Week. First time using the TAs? Check out [this guide](../../department/cs-success.md).
 
 ### What to study
 

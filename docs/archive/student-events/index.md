@@ -12,10 +12,10 @@ Required for all CS students who plan to graduate in December '22, May '23, or S
 
 **Agenda**
 
-- [Graduation Requirements](../../student/graduation-preparation/index.md)
+- [Graduation Requirements](../../student/seniors/graduation-preparation/index.md)
 - Catalogs and course substitutions
 - Graduation Process (application, audit)
-- [Graduation Applications](../graduation.md)
+- [Graduation Applications](../../student/seniors/graduation.md)
 - Finishing late, missing courses, raising GPAs
 - CISE Career Fair
 - Technical Interview support

@@ -51,7 +51,7 @@ The following general rules apply:
     - If you are currently taking MATH 231, enroll in MATH 232.
 - Gen-Ed
     - Enroll in any remaining Madison Foundation courses (you must take all three during your first year).
-    - See the [General Education Planner](https://www.jmu.edu/gened/_files/general-education-planner-2023-24.pdf) for other course options.
+    - See the [General Education Planner](https://www.jmu.edu/gened/_general-education-planner-2023-24.pdf) for other course options.
 
 If you are unsure what to sign up for, please make an appointment with your advisor.
 During OPEN ENROLLMENT, you can expect SOME movement in courses.
