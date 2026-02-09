@@ -1,4 +1,4 @@
-# ![Advising](./cs-advising.md)
+# ![Advising](./CSadvising.png)
 
 All CS Advising information and resources are on the CS Advising Canvas site.
 
