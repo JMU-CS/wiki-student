@@ -26,7 +26,7 @@ If you are on the Mac, the shell can be used from within the Terminal app. This 
 
 ### Using the shell to access Autolab
 
-<!--Autolab is the software you will use to submit your code for programming assignments in CS 149. If you are on campus, or on the campus network, you simply go to <https://autolab.cs.jmu.edu> and log in with your EID.-->
+Autolab is the software you will use to submit your code for programming assignments in CS 149. If you are on campus, or on the campus network, you simply go to <https://autolab.cs.jmu.edu> and log in with your EID.
 
 Guides on using Autolab can be found [here](../autolab/index.md).
 

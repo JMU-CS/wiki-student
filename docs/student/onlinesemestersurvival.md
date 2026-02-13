@@ -14,4 +14,4 @@ Many of the computing services used in CS classes, like [Autolab](autolab/index.
 
 ## How do I access the student server (“stu”) from home to do my coursework?
 
-Many classes require the use of the gcc compiler for compiling C programs, which are available on the CS lab machines on campus. To access stu and the lab machines virtually at home, follow the guide written [here](../reference/stu/index.md). Don't want to use vim or nano to edit your program files? Mount your remote directory from stu onto your local machine and then open into the editor of your choice on your local machine by using our guide [here](../reference/utilities/sshfs.md).
+Many classes require the use of the gcc compiler for compiling C programs, which are available on the CS lab machines on campus. To access stu and the lab machines virtually at home, follow the guide written [here](../reference/stu/basics.md). Don't want to use vim or nano to edit your program files? Mount your remote directory from stu onto your local machine and then open into the editor of your choice on your local machine by using our guide [here](../reference/utilities/sshfs.md).

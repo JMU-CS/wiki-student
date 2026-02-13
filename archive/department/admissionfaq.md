@@ -1,4 +1,3 @@
-
 # Frequently Asked Questions about the Full Admission to the Major/Minor Process
 
 ## Application Process

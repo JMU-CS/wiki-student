@@ -38,7 +38,7 @@ In addition to using this page to find information, you can search the Wiki usin
 
 ### TA Hours / Office Hours
 
-- [TA Hours](../department/ta-program/schedules/2025-08.md)
+- [TA Hours](../department/ta-program/schedules/2025-08.md) (Fall 2025)
 - [Faculty Office Hours](../department/officehours.md)
 
 ### Events / Clubs

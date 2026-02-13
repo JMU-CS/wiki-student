@@ -47,10 +47,10 @@ The following command first defines the symbol `DEBUG` in the C++ source file na
 g++ -DDEBUG=VERBOSE Demo.cpp -o Demo
 ```
 
-The following command "includes" files from the directory `/myinclude` in addition to the standard INCLUDE directory.
+The following command "includes" files from the directory `/myfiles/include` in addition to the standard INCLUDE directory.
 
 ``` bash
-g++ -I/myinclude Demo.cpp -o Demo
+g++ -I/myfiles/include Demo.cpp -o Demo
 ```
 
 The following commands first compile the source files for a small application (written in C) and then links them into an executable named `example`.
