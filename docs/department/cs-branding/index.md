@@ -2,7 +2,7 @@
 
 ## CS Department branded colors
 
-![Five adjacent color-filled rectangles with HTML codes](./cs_branded_colors.png){width="1000"}
+![Five adjacent color-filled rectangles with HTML codes](cs_branded_colors.png){width="1000"}
 
 - **JMU Slate Gray**: `#333333`
 - **Ice Blue**: `#8EE4D7`

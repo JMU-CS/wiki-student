@@ -16,7 +16,7 @@ Also note that Apple has recently switched from Intel chips to Apple-made silico
 
 Each professor at JMU holds at least 5 scheduled office hours per week. This means that the professor is available at that time to meet *without an appointment*. To attend office hours, you simply show up to your professor's office within the scheduled time. It is generally a good idea to get there as early as possible, especially if something is due, because office hours can be quite busy. You should not feel like you are taking the professors time when you attend office hours. Part of the reason faculty members join a teaching school like JMU is that they love working with and advising students. One-on-one interactions during office hours are certainly a part of what makes the job great. If you are not going to office hours then you are missing out on an essential part of JMU.
 
-You can find CS professor office hours on the [Faculty Office Hours](./officehours.md) page. Additionally, the syllabus for each of your courses should list the office hours for that professor. Always check the syllabus before sending an email asking when office hours are.
+You can find CS professor office hours on the [Faculty Office Hours](officehours.md) page. Additionally, the syllabus for each of your courses should list the office hours for that professor. Always check the syllabus before sending an email asking when office hours are.
 
 ## Departmental Clubs
 

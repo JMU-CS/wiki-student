@@ -20,19 +20,19 @@ IT Seniors
 TODO: IT Graduation Requirements  
 [Graduation Process and Forms](../student/seniors/graduation.md)  
 
-Scholarships  
-TODO: IT Scholarships  
+Scholarships
+TODO: IT Scholarships
 
 ### Start-up Guides
 
 - TODO: IT Success Guide
 - TODO: IT First-Year Start-up Guide
-  
+
 ### University/Department-Specific Resources
 
 - [Building Maps](../department/building_maps.md) (King Hall and EnGeo)
-- [Clubs](./clubs.md)
-- [Cluster](./cluster.md)
+- [Clubs](clubs.md)
+- [Cluster](cluster.md)
 - [Computer Labs](../department/computer_labs/index.md)
 - TODO: IT Listserv
 - TODO: IT Faculty Office Hours

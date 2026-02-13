@@ -35,18 +35,18 @@ This wiki contains information that is relevant to students, faculty, and staff 
 
 <div class="grid cards" markdown>
 
-- [![Icon](images/advising.png){.icon} Advising](./department/cs-advising/)
-- [![Icon](images/clubs.png){.icon} Clubs](./student/clubs.md)
-- [![Icon](images/department.png){.icon} Department](./department/)
-- [![Icon](images/events.png){.icon} Events](./events/)
-- [![Icon](images/firstyear.png){.icon} First Year](./student/firstyear/)
-- [![Icon](images/officehours.png){.icon} Office Hours](./department/officehours.md)
-- [![Icon](images/schedule.png){.icon} Schedules](./department/schedule_spring2026)
-- [![Icon](images/seniors.png){.icon} Seniors](./student/seniors/)
-- [![Icon](images/student.png){.icon} Student](./student/)
-- [![Icon](images/presentation.png){.icon} TA Hours](./department/cs-success.md)
-- [![Icon](images/technical.png){.icon} Tech Refs](./reference/)
-- [![Icon](images/help.png){.icon} Help](./help/)
+- [![Icon](images/advising.png){.icon} Advising](department/cs-advising/index.md)
+- [![Icon](images/clubs.png){.icon} Clubs](student/clubs.md)
+- [![Icon](images/department.png){.icon} Department](department/index.md)
+- [![Icon](images/events.png){.icon} Events](events/index.md)
+- [![Icon](images/firstyear.png){.icon} First Year](student/firstyear/index.md)
+- [![Icon](images/officehours.png){.icon} Office Hours](department/officehours.md)
+- [![Icon](images/schedule.png){.icon} Schedules](department/schedule_spring2026.md)
+- [![Icon](images/seniors.png){.icon} Seniors](student/seniors/index.md)
+- [![Icon](images/student.png){.icon} Student](student/index.md)
+- [![Icon](images/presentation.png){.icon} TA Hours](department/cs-success.md)
+- [![Icon](images/technical.png){.icon} Tech Refs](reference/index.md)
+- [![Icon](images/help.png){.icon} Help](help/index.md)
 
 </div>
 
@@ -54,6 +54,6 @@ This wiki contains information that is relevant to students, faculty, and staff 
 
 [![JMU Department of Computer Science](images/jmu-computer_science-horiz-purple.png){width="400"}](https://www.jmu.edu/cise/cs/)
 
-[Faculty Login](./faculty){.md-button style="margin-bottom: 1em;"}
+[Faculty Login](faculty/){.md-button style="margin-bottom: 1em;"}
 
 </div>

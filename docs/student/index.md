@@ -27,14 +27,14 @@ In addition to using this page to find information, you can search the Wiki usin
 
 ### First Year Information (CS 149 / CS 159)
 
-- [First Year FAQ](./firstyear/fya/index.md)
-- [CS149 Start-up](./firstyear/cs149startup.md)
-- [First Year Finals](./firstyear/firstyearfinals.md)
+- [First Year FAQ](firstyear/fya/index.md)
+- [CS149 Start-up](firstyear/cs149startup.md)
+- [First Year Finals](firstyear/firstyearfinals.md)
 
 ### CS Seniors
 
-- [Graduation Requirements](./seniors/graduation-preparation/index.md)
-- [Graduation Process and Forms](./seniors/graduation.md)
+- [Graduation Requirements](seniors/graduation-preparation/index.md)
+- [Graduation Process and Forms](seniors/graduation.md)
 
 ### TA Hours / Office Hours
 

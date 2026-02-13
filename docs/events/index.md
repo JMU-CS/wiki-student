@@ -4,4 +4,4 @@
 
 --------------------------------------------------------------------
 
-- [Elevator Pitches (02/06)](./elevator.md)
+- [Elevator Pitches (02/06)](elevator.md)
