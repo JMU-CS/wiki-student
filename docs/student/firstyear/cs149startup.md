@@ -28,7 +28,7 @@ If you are on the Mac, the shell can be used from within the Terminal app. This 
 
 Autolab is the software you will use to submit your code for programming assignments in CS 149. If you are on campus, or on the campus network, you simply go to <https://autolab.cs.jmu.edu> and log in with your EID.
 
-Guides on using Autolab can be found [here](../autolab/index.md).
+Guides on using Autolab can be found [here](../../archive/autolab/index.md).
 
 Direct access to Autolab is blocked from off campus for security reasons. In order to access Autolab from off campus you must either [install and run the VPN](../vpn.md) or you must create an SSH tunnel through the shell. This sounds really complicated and fancy, but is actually fairly straightforward. To do this simply run the following command in your shell but make sure to replace "your-username" with your actual username:
 

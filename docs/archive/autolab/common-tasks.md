@@ -8,7 +8,7 @@ Autolab can be loaded into any modern WWW browser from the following URL:
 
 - <https://autolab.cs.jmu.edu/>
 
-It is only available to members of the JMU community. So, if you are off-campus, you will first need to sign into the [JMU Virtual Private Network (VPN)](../vpn.md) .
+It is only available to members of the JMU community. So, if you are off-campus, you will first need to sign into the [JMU Virtual Private Network (VPN)](../../student/vpn.md) .
 
 ### Disable non-JMU VPN
 
