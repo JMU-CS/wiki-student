@@ -35,24 +35,24 @@ This wiki contains information that is relevant to students, faculty, and staff 
 
 <div class="grid cards" markdown>
 
-- [![Icon](student/images/advising.png){.icon} Advising](./department/cs-advising/)
-- [![Icon](student/images/clubs.png){.icon} Clubs](./student/clubs.md)
-- [![Icon](student/images/department.png){.icon} Department](./department/)
-- [![Icon](student/images/events.png){.icon} Events](./events/)
-- [![Icon](student/images/firstyear.png){.icon} First Year](./student/firstyear/)
-- [![Icon](student/images/officehours.png){.icon} Office Hours](./department/officehours.md)
-- [![Icon](student/images/schedule.png){.icon} Schedules](./department/schedule_spring2026)
-- [![Icon](student/images/seniors.png){.icon} Seniors](./student/seniors/)
-- [![Icon](student/images/student.png){.icon} Student](./student/index.md)
-- [![Icon](student/images/presentation.png){.icon} TA Hours](./department/cs-success.md)
-- [![Icon](student/images/technical.png){.icon} Tech Refs](./reference/)
-- [![Icon](student/images/help.png){.icon} Help](./help/index.md)
+- [![Icon](images/advising.png){.icon} Advising](./department/cs-advising/)
+- [![Icon](images/clubs.png){.icon} Clubs](./student/clubs.md)
+- [![Icon](images/department.png){.icon} Department](./department/)
+- [![Icon](images/events.png){.icon} Events](./events/)
+- [![Icon](images/firstyear.png){.icon} First Year](./student/firstyear/)
+- [![Icon](images/officehours.png){.icon} Office Hours](./department/officehours.md)
+- [![Icon](images/schedule.png){.icon} Schedules](./department/schedule_spring2026)
+- [![Icon](images/seniors.png){.icon} Seniors](./student/seniors/)
+- [![Icon](images/student.png){.icon} Student](./student/)
+- [![Icon](images/presentation.png){.icon} TA Hours](./department/cs-success.md)
+- [![Icon](images/technical.png){.icon} Tech Refs](./reference/)
+- [![Icon](images/help.png){.icon} Help](./help/)
 
 </div>
 
 <div class="grid" style="place-items: center;" markdown>
 
-[![JMU Department of Computer Science](student/images/jmu-computer_science-horiz-purple.png){width="400"}](https://www.jmu.edu/cise/cs/)
+[![JMU Department of Computer Science](images/jmu-computer_science-horiz-purple.png){width="400"}](https://www.jmu.edu/cise/cs/)
 
 [Faculty Login](./faculty){.md-button style="margin-bottom: 1em;"}
 
