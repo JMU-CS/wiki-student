@@ -17,7 +17,7 @@ In addition to using this page to find information, you can search the Wiki usin
 - [Fall 2025 Schedule](../archive/schedule_fall2025.md)
 - [Spring 2025 Schedule](../archive/schedule_spring2025.md)
 - [CS Curriculum](../department/curriculum/index.md)
-- [CS Advising](../department/cs-advising/cs-advising.md)
+- [CS Advising](../department/cs-advising/index.md)
 - [Honors Capstone](../archive/honors_capstone/index.md)
 
 ### Enrollment
@@ -30,7 +30,7 @@ In addition to using this page to find information, you can search the Wiki usin
 - [First Year FAQ](./firstyear/fya/index.md)
 - [CS149 Start-up](./firstyear/cs149startup.md)
 - [First Year Finals](./firstyear/firstyearfinals.md)
-  
+
 ### CS Seniors
 
 - [Graduation Requirements](./seniors/graduation-preparation/index.md)

@@ -35,7 +35,7 @@ This wiki contains information that is relevant to students, faculty, and staff 
 
 <div class="grid cards" markdown>
 
-- [![Icon](student/images/advising.png){.icon} Advising](./department/cs-advising/cs-advising.md)
+- [![Icon](student/images/advising.png){.icon} Advising](./department/cs-advising/)
 - [![Icon](student/images/clubs.png){.icon} Clubs](./student/clubs.md)
 - [![Icon](student/images/department.png){.icon} Department](./department/)
 - [![Icon](student/images/events.png){.icon} Events](./events/)

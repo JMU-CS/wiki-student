@@ -27,7 +27,7 @@ This section contains archived materials and historical information for the Comp
 
 ### Events
 - [Digital 2021](./digital2021/index.md)
-- [Digital 2024](./digital2024/digital_2024.md)
+- [Digital 2024](./digital2024/index.md)
 - [Older Student Events](./student-events/index.md)
 - [Fall 2025](fall25events.md)
 
