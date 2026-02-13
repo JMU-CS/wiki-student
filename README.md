@@ -24,3 +24,20 @@ To preview the site locally while editing:
 ``` sh
 zensical serve
 ```
+
+## Attributions
+
+The icons on the front page are from [Flaticon.com](https://www.flaticon.com/):
+
+- [Advising icon created by juicy_fish](https://www.flaticon.com/free-icons/advise)
+- [Clubs icon created by Freepik](https://www.flaticon.com/free-icons/discussion)
+- [Department icon created by Eucalyp](https://www.flaticon.com/free-icons/government)
+- [Events icon by Rooman12](https://www.flaticon.com/free-icons/time-and-date)
+- [First Year icon created by Freepik](https://www.flaticon.com/free-icons/1st)
+- [Office Hours icon created by Uniconlabs](https://www.flaticon.com/free-icons/working-hours)
+- [Schedules icon created by Freepik](https://www.flaticon.com/free-icons/schedule)
+- [Seniors icon created by Freepik](https://www.flaticon.com/free-icons/graduation-cap)
+- [Student icon created by Freepik](https://www.flaticon.com/free-icons/student)
+- [TA Hours icon created by adityayoga](https://www.flaticon.com/free-icons/teacher)
+- [Tech Refs icon created by Freepik](https://www.flaticon.com/free-icons/technical-support)
+- [Help icon created by Freepik](https://www.flaticon.com/free-icons/question)

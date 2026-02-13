@@ -1,0 +1,4 @@
+# This file exists only to run `mkdocs build` to detect broken links.
+# Delete it once `zensical build` provides the same functionality.
+
+site_name: "JMU CS Wiki"

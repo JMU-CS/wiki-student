@@ -1,3 +1,7 @@
-# Department
+# Department Links
 
-Namespace for CS department items that require more restrictive ACLs
+---
+- [Curriculum](curriculum/index.md)
+- [Wifi](wireless.md)
+- [Building Maps](building_maps.md)
+- [Computer Labs](computer_labs/index.md)
