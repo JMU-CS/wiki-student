@@ -41,7 +41,7 @@ This wiki contains information that is relevant to students, faculty, and staff 
 - [![Icon](images/events.png){.icon} Events](events/index.md)
 - [![Icon](images/firstyear.png){.icon} First Year](student/firstyear/index.md)
 - [![Icon](images/officehours.png){.icon} Office Hours](department/officehours.md)
-- [![Icon](images/schedule.png){.icon} Schedules](department/schedule_spring2026.md)
+- [![Icon](images/schedule.png){.icon} Schedules](department/schedules/spring2026.md)
 - [![Icon](images/seniors.png){.icon} Seniors](student/seniors/index.md)
 - [![Icon](images/student.png){.icon} Student](student/index.md)
 - [![Icon](images/presentation.png){.icon} TA Hours](department/cs-success.md)

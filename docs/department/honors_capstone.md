@@ -30,7 +30,7 @@ In all cases, students must complete and deliver a properly formatted (see the [
 
 In many cases, students must also deliver the artifacts (e.g., source code, hardware, documentation, data) that were produced/developed/used during the process.
 
-Finally, students must present their results in a public forum. Currently the venue most commonly used for this purpose is the Friday research seminar series (see the [research page](../../department/research.md) for more info).
+Finally, students must present their results in a public forum. Currently the venue most commonly used for this purpose is the Friday research seminar series (see the [research page](../department/research.md) for more info).
 
 ### Timeline
 

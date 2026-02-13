@@ -13,16 +13,15 @@ In addition to using this page to find information, you can search the Wiki usin
 
 ### Schedules & Advising
 
-- [Spring 2026 Schedule](../department/schedule_spring2026.md)
-- [Fall 2025 Schedule](../archive/schedule_fall2025.md)
-- [Spring 2025 Schedule](../archive/schedule_spring2025.md)
+- [Spring 2026 Schedule](../department/schedules/spring2026.md)
+- [Fall 2025 Schedule](../department/schedules/fall2025.md)
 - [CS Curriculum](../department/curriculum/index.md)
 - [CS Advising](../department/cs-advising/index.md)
-- [Honors Capstone](../archive/honors_capstone/index.md)
+- [Honors Capstone](../department/honors_capstone.md)
 
 ### Enrollment
 
-- [Using the Waitlist Correctly](../archive/waitlist/index.md)
+- [Using the Waitlist Correctly](../department/waitlist.md)
 - [MyMadison Schedule Planner](https://jmu.collegescheduler.com/entry)
 
 ### First Year Information (CS 149 / CS 159)
