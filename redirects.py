@@ -11,7 +11,7 @@ DOCS_DIR = Path("docs")
 SITE_DIR = Path("site")
 
 # Redirect window
-SINCE = "6 months ago"
+SINCE = "12 months ago"
 
 
 def run(cmd: list[str]) -> list[str]:
@@ -27,7 +27,7 @@ def current_pages() -> list[Path]:
 def previous_paths(path: Path) -> list[Path]:
     """Get all previous paths to the given Markdown page."""
     output = run([
-        "git", "log", f"--since={SINCE}",
+        "git", "log", "--first-parent", "main", f"--since={SINCE}",
         "--follow", "--name-status", "--format=",
         "--", str(path)
     ])
