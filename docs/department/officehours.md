@@ -200,10 +200,10 @@ Office Hours in King 253:
 
 **Location:** 246 D, King Hall
 
-- Monday: 9:00 - 10 am (Online: <https://jmu-edu.zoom.us/j/88998414990>)
-- Tuesday: 8:00 - 9:00 am (in-person), 4:00 - 5:00 pm (Online: <https://jmu-edu.zoom.us/j/88998414990>)
+- Monday: 8:00 - 9 am (Online: <https://jmu-edu.zoom.us/j/88998414990>)
+- Tuesday: 11:00 - 12:00 pm (in-person), 4:00 - 5:00 pm (Online: <https://jmu-edu.zoom.us/j/88998414990>)
 - Wednesday: 1:30 - 2:30 pm (in-person)
-- Thursday: 8:00 - 9:00 am (in-person)
+- Thursday: 11:00 - 12:00 pm (in-person)
 
 Others time/days - By appointment (shrestcx@jmu.edu), or
 Feel free to stop by anytime my door is open!!!
