@@ -26,4 +26,4 @@ jobs:
       - name: Group permissions
         run: chown -R :wiki ./site && chmod -R g+w ./site
       - name: Deploy via rsync
-        run: rsync -vcaOz --delete --safe-links --exclude=faculty ./site/ /data/wiki/
+        run: rsync -vcaOz --delete --safe-links --exclude=faculty --exclude=sysdocs ./site/ /data/wiki/
