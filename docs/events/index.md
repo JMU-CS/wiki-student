@@ -5,6 +5,7 @@
 - [02/24 - Trivia Night](2026-02-24_trivia-night.md)
 - [02/20 - Hired Education](2026-02-20_hired-education.md)
 - [02/06 - Pitch Perfect](2026-02-06_pitch-perfect.md)
+- [02/04 - Prep & Pitch](2026-02-04_prep-and-pitch.md)
 
 ## Fall 2025
 
