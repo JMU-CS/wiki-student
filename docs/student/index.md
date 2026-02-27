@@ -37,7 +37,7 @@ In addition to using this page to find information, you can search the Wiki usin
 
 ### TA Hours / Office Hours
 
-- [TA Hours](../department/cs-success/))
+- [TA Hours](../department/cs-success/index.md)
 - [Faculty Office Hours](../department/officehours.md)
 
 ### Events / Clubs
