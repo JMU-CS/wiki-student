@@ -2,6 +2,7 @@
 
 ## Spring 2026
 
+- [03/04 - Kahoot Night](2026-03-04_kahoot-night.md)
 - [02/24 - Trivia Night](2026-02-24_trivia-night.md)
 - [02/20 - Hired Education](2026-02-20_hired-education.md)
 - [02/16 - IT Pickleball Social](2026-02-16_it_pickleball.md)
