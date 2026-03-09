@@ -1,5 +1,7 @@
 # Spring 2026 Schedule
 
+<div id="table-filter"></div>
+
 | Course | Section | Time                     | Room | Instructors |
 |--------|---------|--------------------------|------|-------------|
 | 149    | 1       | MWF 9:10 AM - 10:00 AM   | 243  | Duan        |
