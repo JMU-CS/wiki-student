@@ -63,7 +63,9 @@ edit_uri = "edit/main/docs/"
 # The path provided should be relative to the "docs_dir".
 #
 # Read more: https://zensical.org/docs/customization/#additional-css
-extra_css = ["extra.css"]
+extra_css = [
+    "extra.css?v=2026-03-09"
+]
 
 # With the `extra_javascript` option you can add your own JavaScript to your
 # project to customize the behavior according to your needs.
@@ -73,8 +75,10 @@ extra_css = ["extra.css"]
 # Read more: https://zensical.org/docs/customization/#additional-javascript
 extra_javascript = [
     "fixhash.js",
+    "table-filter.js?v=2026-03-09",
+    "table-merge.js?v=2026-03-09",
     "mathjax.js",
-    "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js",
+    "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"
 ]
 
 # ----------------------------------------------------------------------------

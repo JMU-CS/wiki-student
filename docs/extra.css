@@ -45,6 +45,16 @@
   margin-right: auto;
 }
 
+/* table filter */
+
+.table-filter {
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 0.9rem;
+  padding: 0.4em 0.6em;
+}
+
 /* footers */
 
 .last-modified {

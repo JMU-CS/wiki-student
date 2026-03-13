@@ -113,8 +113,8 @@ def main() -> None:
         # Add last-modified to html file
         stamp = git_stamp(src)
         html = html_path.read_text(encoding="utf-8")
-        updated = inject_footer(html, stamp, src)
-        html_path.write_text(updated, encoding="utf-8")
+        html = inject_footer(html, stamp, src)
+        html_path.write_text(html, encoding="utf-8")
 
 
 if __name__ == "__main__":

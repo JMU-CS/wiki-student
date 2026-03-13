@@ -100,4 +100,7 @@ If you want to do things with GitHub, you must first have an account. If you don
     This key is not known by any other names.
     Are you sure you want to continue connecting (yes/no/[fingerprint])?
     ```
-    - you should see a message like ''%%Hi hcientist! You've successfully authenticated, but GitHub does not provide shell access.%%''
+    - you should see a message like
+        ```
+        Hi hcientist! You've successfully authenticated, but GitHub does not provide shell access.
+        ```
