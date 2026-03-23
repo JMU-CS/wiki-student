@@ -21,7 +21,7 @@ This should work on most Linux distributions though the path to the CA certifica
 
 ## eduroam
 
-For a more automated connection setup, you can use the `eduroam` SSID and the [eduroam CAT tool](https://cat.eduroam.org). Read the [JMU IT webpage](http://www.jmu.edu/computing/network/eduroam.shtml) for eduroam.
+For a more automated connection setup, you can use the `eduroam` SSID and the [eduroam CAT tool](https://cat.eduroam.org). Read the [JMU IT webpage](https://www.jmu.edu/computing/internet-and-network/eduroam.shtml) for eduroam.
 
 1.  Go to <https://cat.eduroam.org>
 2.  Choose 'James Madison University'
