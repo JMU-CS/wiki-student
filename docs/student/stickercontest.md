@@ -1,10 +1,14 @@
 # CS Sticker Contest 2026
 
-Submit your design for our **Sixth Annual CS Sticker Contest!** You could win up to \$75 and have your design printed and distributed to CS students. We’re offering prizes for 1st, 2nd, and 3rd place.
+Submit your design for our **Sixth Annual CS Sticker Contest!**
+You could win up to $75 and have your design printed and distributed to CS students.
+We're offering prizes for 1st, 2nd, and 3rd place.
 
-We’re looking for students to design a sticker that reflects the spirit of the CS Department for the 25-26 year. Accepting submissions through **March 25, 2026**.
+We're looking for students to design a sticker that reflects the spirit of the CS Department for the 2025-26 year.
+Accepting submissions through **Friday, April 3, 2026.**
 
-Here are the details. Feel free to email [Dr. Mayfield](mailto:mayfiecs@jmu.edu) if you have any questions.
+Here are the details.
+Feel free to email [Dr. Mayfield](mailto:mayfiecs@jmu.edu) if you have any questions.
 
 **Judging**
 
@@ -13,9 +17,9 @@ Here are the details. Feel free to email [Dr. Mayfield](mailto:mayfiecs@jmu.edu)
 
 **Awards**
 
-- First place: \$75 prize, and the sticker will be printed and distributed by the CS department.
-- Second place: \$50 prize
-- Third place: \$25 prize
+- First place: $75 prize, and the sticker will be printed and distributed by the CS department.
+- Second place: $50 prize
+- Third place: $25 prize
 
 **Eligibility**
 
@@ -23,19 +27,19 @@ Here are the details. Feel free to email [Dr. Mayfield](mailto:mayfiecs@jmu.edu)
 
 **Design Specs**
 
-- Design should reflect the spirit of the CS department for the 25-26 year
+- Design should reflect the spirit of the CS department for the 2025-26 year
 - Dimensions: circle, square, or 2:3 rectangle with a minimum width of 1000px
 - Design must abide by copyright regulations
 - No profanity or inappropriate content
-- Optional: include “JMU,” “CS,” and “2026” in the design
+- Optional: include JMU, CS, and 2026 in the design
 - Optional: JMU branding, <https://www.jmu.edu/identity/>
 - Optional: CS Dept branding, <https://wiki.cs.jmu.edu/student/cs-branding/>
 
 **Design Submissions**
 
 - PNG of the design
-- A short description of your inspiration/story for your design
+- A short description of the inspiration/story for your design
 - Include what CS class(es) you are currently enrolled in
-- Submit your design: <https://jmu.questionpro.com/t/AR5GmZ4hHQ>
+- Submit your design here: <https://jmu.questionpro.com/t/ARXgAZ8XYp>
 
 If you win the contest, we will need a vector version of the design for printing.
