@@ -17,7 +17,10 @@ Most of the sections of this document assume you have first followed the precedi
 ## Generating a Key Pair
 
 1.  Open a terminal window (specifically as specified above in the prerequisites).
-2.  In the terminal Type `ssh-keygen -t ed25519 -b 4096 -C "Generated $(date -I)"`
+2.  In the terminal Type 
+    ```sh
+    ssh-keygen -t ed25519 -b 4096 -C "Generated $(date -I)"
+    ```
     1.  when prompted for where to save the key, press Enter to save it in the default location.
     2.  when prompted for a passphrase, do not enter one, just press enter to leave it blank.
         - the whole reason we're setting this keypair authentication up is to avoid having to enter a password every time we perform actions that communicate with a server, which in some cases may be quite frequently.
@@ -47,7 +50,10 @@ Most of the sections of this document assume you have first followed the precedi
 Tell your computer you'd like to use this key to connect to JMU CS's student server, "stu".
 
 1.  Edit your ssh config (located at `~/.ssh/config`) to include the following lines:
-    - If you're not sure how to edit your ssh config, try entering the following in your terminal (see prerequisite above for help opening the correct terminal for our purposes on your OS): `code ~/.ssh`
+    - If you're not sure how to edit your ssh config, try entering the following in your terminal (see prerequisite above for help opening the correct terminal for our purposes on your OS): 
+    ```sh
+    code ~/.ssh
+    ```
     - If you don't have a file named `config` in this location create one
     ```
     Host *
@@ -65,16 +71,38 @@ Tell your computer you'd like to use this key to connect to JMU CS's student ser
               # user@ when connecting via ssh
     ```
 
-**NOTICE THE PART YOU HAVE TO REPLACE ABOVE, FOR MOST IT'S IN JUST THE LAST LINE WHERE IT SAYS "YOUR_EID"**
+    !!! bug "Use your EID!"
+        Notice the part you have to replace above, for most it's in just the last line where it says `YOUR_EID_BUT_DONT_CAPITALIZE_IT`
 
 ## Tell stu this is all legit
 
-1.  in your terminal (see [prerequisite above for help opening the correct terminal for our purposes on your OS](#prerequisites)), enter `ssh-copy-id stu`
-    1.  you may see a message like `%%The authenticity of host 'stu.cs.jmu.edu (134.126.141.221)' can't be established. ED25519 key fingerprint is SHA256:RYxaUOHGdifpo+JaJeE6JHWVqiji+in1GI5lvbJluPk. This key is not known by any other names. Are you sure you want to continue connecting (yes/no/[fingerprint])?%%`, if you do, enter "yes"
-    2.  you will be prompted for your (JMU EID) password. Enter it. **NOTE: As you type your password, it is possible that nothing will be displayed in the terminal to protect your security.**
-    3.  you should see a message like `Number of key(s) added: 1`
-    4.  you should now be able to ssh to stu without entering a password. try it: `ssh stu`
-        - logout before proceeding to the next step by entering `logout`
+1.  in your terminal (see [prerequisite above for help opening the correct terminal for our purposes on your OS](#prerequisites)), enter:
+    ```sh
+    ssh-copy-id stu
+    ```
+2.  you may see a message like the following, if you do, enter `yes`.
+    ```
+    The authenticity of host
+    'stu.cs.jmu.edu (134.126.141.221)'
+    can't be established. ED25519 key
+    fingerprint is
+    SHA256:RYxaUOHGdifpo+JaJeE6JHWVqiji+in1GI5lvbJluPk.
+    This key is not known by any other names.
+    Are you sure you want to
+    continue connecting (yes/no/[fingerprint])?
+    ```
+3.  you will be prompted for your (JMU EID) password. Enter it. 
+    
+    !!! question "Why isn't it typing?!"
+        As you type your password, it is possible that nothing will be displayed in the terminal to protect your security.
+        This is common for many command line interfaces.
+
+4.  you should see a message like `Number of key(s) added: 1`
+5.  you should now be able to ssh to stu without entering a password. try it:
+    ```sh
+    ssh stu
+    ```
+6. logout before proceeding to the next step by entering `logout`
 
 ## Tell Github to join the party
 
@@ -88,11 +116,17 @@ If you want to do things with GitHub, you must first have an account. If you don
     - authenticate with GitHub if necessary.
 2.  Enter a name for the SSH key.
     - I suggest naming it based on the current computer you are using (try to be imaginative here. Imagine that this is but the first of many of ThatBrand™️ LapFlaps®️ that you will own in your long, laudable career). Consider something like, `ThatDellWithThatOSv42`.
-3.  leave the browser there for a sec, and go back to your terminal and show your PUBLIC key to yourself by entering `cat ~/.ssh/id_ed25519.pub`
+3.  leave the browser there for a sec, and go back to your terminal and show your PUBLIC key to yourself by entering
+    ```sh
+    cat ~/.ssh/id_ed25519.pub
+    ```
     - copy ALL of the output (not just the key string of numbers and letters) of that command.
-4.  go back to the browser and paste your PUBLIC key's contents into the "Key" field.
-5.  click "Add SSH key".
-6.  test that all is well by entering `ssh -T git@github.com`
+5.  go back to the browser and paste your PUBLIC key's contents into the "Key" field.
+6.  click "Add SSH key".
+7.  test that all is well by entering
+    ```sh
+    ssh -T git@github.com
+    ```
     - you may get a message like this when first connecting to GitHub (It's okay to say yes to this):
     ```
     The authenticity of host 'github.com (140.82.114.4)' can't be established.
@@ -102,5 +136,6 @@ If you want to do things with GitHub, you must first have an account. If you don
     ```
     - you should see a message like
         ```
-        Hi hcientist! You've successfully authenticated, but GitHub does not provide shell access.
+        Hi hcientist! You've successfully authenticated,
+        but GitHub does not provide shell access.
         ```
