@@ -67,12 +67,12 @@ We strive to empower our members with the skills, knowledge, and networks needed
 ## UUG (Unix Users Group)
 
 - Faculty/staff contacts: Mike Lam (lam2mo) & Mike Ripley (ripleymj)
-- Student contact: Ray Steen
+- Student contact: Connor Sample
 - Weekly meetings: Wednesdays at 6:30pm in King 236
 - Website: www.jmunixusers.org
 - Discord: <https://discord.gg/gVSfrZWnbu>
 
-UUG is an organization for computer enthusiasts, and users of Unix-like operating systems such as Linux and macOS. Meetings are typically Wednesday nights, with an InstallFest to kick off each semester. Fall semester meeetings focus on Linux development tools and processes, and Spring semester meetings focus more on Linux internals and contemporary topics in the open source community.
+UUG is an organization for computer enthusiasts, and users of Unix-like operating systems such as Linux and macOS. Meetings are Wednesday nights, with the fall semester focusing on getting started with Linux, development tools, and processes. Spring semester meetings focus more on Linux internals and contemporary topics in the open source community.
 
 ## UPE (Upsilon Pi Epsilon)
 
