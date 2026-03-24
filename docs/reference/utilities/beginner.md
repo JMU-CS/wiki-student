@@ -11,6 +11,11 @@ Most of the sections of this document assume you have first followed the precedi
             1.  use the built-in search feature of your operating system to search for "terminal" and launch it.
             2.  type `git --version` and press Enter. Keep this terminal around for all the future steps!
         2.  Windows:
+
+            !!! example "Watch Dr. Stewart do all this..."
+
+                [On a really slow Windows laptop though 😬.](https://youtu.be/0uLspRr3nbY)
+
             1.  Press the windows key on the keyboard and search for "bash". If git bash is found and installed, launch it.
             2.  type `git --version` and press Enter. Keep this terminal around for all the future steps!
 
@@ -139,3 +144,19 @@ If you want to do things with GitHub, you must first have an account. If you don
         Hi hcientist! You've successfully authenticated,
         but GitHub does not provide shell access.
         ```
+
+## Use your SSH key to transfer files via GUI
+
+[Cyberduck](https://cyberduck.io/) is a file transfer client like `scp` or `rsync`, but graphical.
+
+You can use your ssh key to authenticate with the remote server in Cyberduck... if you have a `ppk` or `pem` format of your private key 😅.
+The key we made is in a modern format, so it's great! It's just not in the format that Cyberduck needs 😩.
+
+You can make a copy that is in the format Cyberduck needs:
+
+* [Windows users can do this](https://youtu.be/0uLspRr3nbY?t=410) with [PuTTYgen](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+* Others can
+    ```sh
+    cp ~/.ssh/id_ed25519 ~/.ssh/id_ed25519_pem
+    ssh-keygen -p -m PEM -f ~/.ssh/id_ed25519_pem -N "" -P ""
+    ```
