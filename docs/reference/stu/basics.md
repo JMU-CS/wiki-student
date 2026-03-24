@@ -50,7 +50,7 @@ Setting up keypairs is highly recommended if you're doing this regularly to avoi
 
 ## Transferring Files to and From stu
 
-You can transfer files to "stu" using an SCP client (and the host name `stu.cs.jmu.edu`). Modern operating systems include a command-line scp client named `scp`. See [this article](http://www.hypexr.org/linux_scp_help.php) for some usage examples. There are also GUI clients available that work like a file explorer. Options include [FileZilla](https://filezilla-project.org/), [WinSCP](https://winscp.net/eng/index.php) and [Cyberduck](https://cyberduck.io/). Both SCP and SFTP use port 22 (see more detailed instructions on [Transferring Files from Your JMU CS Account with FileZilla](filezilla.md).
+You can transfer files to "stu" using an SCP client (and the host name `stu.cs.jmu.edu`). Modern operating systems include a command-line scp client named `scp`. See [this article](https://hypexr.org/linux_scp_help.html) for some usage examples. There are also GUI clients available that work like a file explorer. Options include [FileZilla](https://filezilla-project.org/), [WinSCP](https://winscp.net/eng/index.php) and [Cyberduck](https://cyberduck.io/). Both SCP and SFTP use port 22 (see more detailed instructions on [Transferring Files from Your JMU CS Account with FileZilla](filezilla.md).
 
 If you want a more seamless experience or the ability to edit files on "stu" using a local editor like Eclipse or VS Code, you can [mount your home folder locally](../utilities/sshfs.md).
 

@@ -11,7 +11,7 @@ Consider visiting <https://canvas.jmu.edu/profile/communication> and:
 
 ## Email Filters
 
-Everyone [gets Lost in Email](https://dl.acm.org/doi/abs/10.1145/2702123.2702351?casa_token=WimbfJIOzRgAAAAA%3AISp9O8YjyBv8Eb3Zd3fVPodzfQhvQSwGzxaJrumSGSKu2ViSR6FvXwCdpcbKyOsGFde38WF--BwaBYQ) sometimes. [Email Filtering](https://en.wikipedia.org/wiki/Email_filtering) can help! consider using Outlook's Email Filtering Feature as suggested by [Dr. Mayfield](https://w3.cs.jmu.edu/mayfiecs/cs149/notes/wk02/0830/#email-filters):
+Everyone [gets Lost in Email](https://dl.acm.org/doi/abs/10.1145/2702123.2702351?casa_token=WimbfJIOzRgAAAAA%3AISp9O8YjyBv8Eb3Zd3fVPodzfQhvQSwGzxaJrumSGSKu2ViSR6FvXwCdpcbKyOsGFde38WF--BwaBYQ) sometimes. [Email Filtering](https://en.wikipedia.org/wiki/Email_filtering) can help! consider using Outlook's Email Filtering Feature as suggested by [Dr. Mayfield](https://w3.cs.jmu.edu/mayfiecs/cs149/notes/wk02/0827/):
 
 ### Are you tired of getting emails from Gradescope?
 

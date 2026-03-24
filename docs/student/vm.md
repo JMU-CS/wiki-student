@@ -6,7 +6,7 @@ For several years, the Unix Users Group (UUG) maintained a [virtual machine](htt
 
 ## VM Instructions
 
-First, you will need to download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) if you do not already have it. Then, download the [VM image](https://w3.cs.jmu.edu/uug/latest.ova) (warning: it is a large file!) and double-click it to begin the setup process.
+First, you will need to download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) if you do not already have it. Then, download the [VM image](https://web.archive.org/web/20240727104122/https://w3.cs.jmu.edu/uug/image-fa21.ova) (archive link) (warning: it is a large file!) and double-click it to begin the setup process.
 
 There is a [CS 101 tutorial](https://w3.cs.jmu.edu/cs101/virtual/index.html) about the setup process, and the UUG also maintains a [getting started guide](https://www.jmunixusers.org/presentations/vm/welcome-to-vm.html) and a [troubleshooting common problems guide](https://www.jmunixusers.org/presentations/vm/common-troubleshooting.html). If you run into other issues or have questions, feel free to attend a UUG meeting (see the [CS clubs page](clubs.md) for dates and times).
 

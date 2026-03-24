@@ -6,4 +6,4 @@ Graduation applications generally open up mid-semester in the semester preceding
 
 The online application can be accessed off the Registrar's website:
 
-<https://www.jmu.edu/registrar/students/graduation_applyUG.shtml>
+<https://www.jmu.edu/registrar/students/graduation/undergrad-graduation-application.shtml>

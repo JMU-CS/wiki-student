@@ -1,6 +1,6 @@
 # CS Graduation Checklist
 
-- Apply to graduate: <https://www.jmu.edu/registrar/students/graduation_applyug.shtml>
+- Apply to graduate: <https://www.jmu.edu/registrar/students/graduation/undergrad-graduation-application.shtml>
 - Sign up for a CS Senior Exit Interview: <https://jmu-cs.as.me/cs-seniors>
 - Fill out the Senior Survey for the Department: <https://jmu.questionpro.com/t/AR5GmZxklB>
 - Fill out the Contact and Career survey: <https://jmu.questionpro.com/t/AR5GmZviD8>
