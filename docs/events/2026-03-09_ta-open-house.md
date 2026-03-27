@@ -1,10 +1,6 @@
 # TA Open House (03/09)
 
-![Flyer](TA_OpenHouse.jpg)
-
----
-
-**TA HOURS Open House**
+## TA HOURS Open House
 
 The TAs miss you! Join us **in the King 248 lab** for
 **pizza**, questions, and good vibes. Bring your questions, your
@@ -22,3 +18,7 @@ What we help with:
 **MONDAY, MARCH 9TH 5:00PM - 9:00PM**
 
 🍕PIZZA PROVIDED!🍕
+
+---
+
+![Flyer](TA_OpenHouse.jpg)
