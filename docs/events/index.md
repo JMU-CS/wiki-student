@@ -2,6 +2,7 @@
 
 ## Spring 2026
 
+- [04/01 - LinkedIn Workshop](2026-04-01_linkedin.md)
 - [03/25 - Game Night](2026-03-25_game-night.md)
 - [03/09 - TA Open House](2026-03-09_ta-open-house.md)
 - [03/04 - Kahoot Night](2026-03-04_kahoot-night.md)
