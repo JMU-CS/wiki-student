@@ -2,6 +2,7 @@
 
 ## Spring 2026
 
+- [04/25 - Department Picnic](2026-04-25_cs-picnic.md)
 - [04/06 - Duck Decorating](2026-04-06_duck-decorating.md)
 - [04/01 - LinkedIn Workshop](2026-04-01_linkedin.md)
 - [03/25 - Game Night](2026-03-25_game-night.md)
