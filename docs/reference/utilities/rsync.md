@@ -12,6 +12,10 @@ Follow these steps to get `rsync` working in Git Bash (without having to install
 !!! info git bash prerequisite
     If you don't already have git and git bash installed, [get it first](./beginner.md#prerequisites).
 
+!!! example "Watch Dr. Stewart do all this..."
+
+    [On a really slow Windows laptop though 😬.](https://youtu.be/vzJyP6hbkCE)
+
 1. Download and open the latest [rsync package][R] from MSYS2.
 2. Copy the `usr` folder (from `rsync...tar.zst`) into `C:\Program Files\Git`.
     * This should merge the files into the existing `C:\Program Files\Git\usr` folder.

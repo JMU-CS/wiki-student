@@ -264,6 +264,6 @@ And other times by appointment. First, check [my calendar](https://outlook.offic
 
 ## Dr. Dee Weikle
 
-- Mon/Wed 3-4 pm, Thurs. 2-4 pm King Hall 205 and Zoom, Fri 3-4 EnGeo 2203
+- Mon/Wed 3-4 pm, Thurs. 2-4 pm King Hall 205 and Zoom, in person only Fri 3-4 EnGeo 2203
 - Other times by appointment, email [weikleda@jmu.edu](mailto:weikleda@jmu.edu?subject=office_hours_appointment)
 - Office King Hall 205, [Zoom Link](https://jmu-edu.zoom.us/j/82736232468?pwd=Y1JUMXZCLzlwTnIvM0gvZ3NOTDFUQT09)
