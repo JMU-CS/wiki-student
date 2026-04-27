@@ -227,13 +227,16 @@ Feel free to stop by anytime my door is open!!!
 
 Office: 212 King Hall 👑
 
-Or on [Zoom](http://tiny.cc/stewart-hours) by appointment (typically during the hours listed below)
+??? warning "Dr. Stewart is traveling through 30 Apr 2026"
+    
+    FYI: he's attending [the Dagstuhl Seminar - Rethinking Research Methods in HCI: New Perspectives for and with AI Tools](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26182)
+    Or on [Zoom](http://tiny.cc/stewart-hours) by appointment (typically during the hours listed below)
 
-- Mondays: 3:15PM - 4:00PM
-- Tuesdays: 3:15PM - 4:00PM
-- Wednesdays: 3:15PM - 4:00PM
-- Thursdays: **2:15PM - 3:00PM**
-- Fridays: 9:30AM - 11:30AM
+    - Mondays: 3:15PM - 4:00PM
+    - Tuesdays: 3:15PM - 4:00PM
+    - Wednesdays: 3:15PM - 4:00PM
+    - Thursdays: **2:15PM - 3:00PM**
+    - Fridays: 9:30AM - 11:30AM
 
 ## Dr. Brett Tjaden
 
