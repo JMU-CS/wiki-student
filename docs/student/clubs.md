@@ -16,6 +16,7 @@ Do you love to solve problems? Would you like to level up your programming skill
 - Student contact: Cole Walther
 - Weekly meetings: Thursdays at 5:30pm in King 236
 - Instagram (Follow us!): <https://www.instagram.com/jmu_cdc/>
+- LinkedIn: <https://www.linkedin.com/company/cdcjmu/>
 - Discord: <https://discord.gg/RtdrCqFese>
 - Website: [BeInvolved](https://beinvolved.jmu.edu/organization/CyberDefenseClub)
 
@@ -33,6 +34,7 @@ We aim to create a friendly environment for students to learn and discuss everyt
 If you can't make it to regular meetings, we hold events (workshops, gamejams, etc.) throughout the year! You can also hang out and chat on our Discord!
 
 - Discord - <https://discord.gg/vunEFrtneA>
+- LinkedIn - <https://www.linkedin.com/company/dukedevs/>
 - Instagram - <https://www.instagram.com/dukedevs/>
 - Itch.io - <https://dukedevs.itch.io>
 
@@ -71,6 +73,8 @@ We strive to empower our members with the skills, knowledge, and networks needed
 - Weekly meetings: Wednesdays at 6:30pm in King 236
 - Website: www.jmunixusers.org
 - Discord: <https://discord.gg/gVSfrZWnbu>
+- LinkedIn: <https://www.linkedin.com/company/jmunixusers/>
+- Instagram: <https://www.instagram.com/jmunixusers>
 
 UUG is an organization for computer enthusiasts, and users of Unix-like operating systems such as Linux and macOS. Meetings are Wednesday nights, with the fall semester focusing on getting started with Linux, development tools, and processes. Spring semester meetings focus more on Linux internals and contemporary topics in the open source community.
 
@@ -89,7 +93,10 @@ Upsilon Pi Epsilon was founded in 1967 at Texas A&M University and is the first 
 - Faculty contact: Dr. Dee Weikle(weikleda) && Dr. Zhuojun Duan (duanzx)
 - Student contact: Emily Waters(water2et@dukes.jmu.edu)
 - meetings are bi-weekly
-- Links: [Website](https://weikleda.github.io/jmuwit) \| [BeInvolved](https://beinvolved.jmu.edu/organization/wit)
+- Website: <https://weikleda.github.io/jmuwit>
+- BeInvolved: <https://beinvolved.jmu.edu/organization/wit>
+- LinkedIn: <https://www.linkedin.com/company/jmuwit/>
+- Instagram: <https://www.instagram.com/jmu_wit/>
 
 WIT's goal is to celebrate an active network of women in the technology industries by facilitating career development and empowering women to be the architects of change in the STEM field, and to create opportunities for personal and professional development inside and outside of the classroom.
 
