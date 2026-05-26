@@ -18,7 +18,7 @@ jobs:
       - name: Virtual environment
         run: python -m venv venv && source venv/bin/activate && pip install --upgrade pip
       - name: Install Zensical
-        run: source venv/bin/activate && pip install zensical==0.0.*
+        run: source venv/bin/activate && pip install zensical==0.0.* termynal
       - name: Build public site
         run: source venv/bin/activate && zensical build --clean
       - name: Post-build scripts

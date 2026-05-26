@@ -17,7 +17,7 @@ For extended features supported by this site, see the [Zensical Docs](https://ze
 
 To install / upgrade to the latest version:
 ``` sh
-pip install --upgrade --force-reinstall zensical
+pip install --upgrade --force-reinstall zensical termynal
 ```
 
 To preview the site locally while editing:

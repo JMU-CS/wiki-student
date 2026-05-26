@@ -29,4 +29,4 @@ Everyone [gets Lost in Email](https://dl.acm.org/doi/abs/10.1145/2702123.2702351
 4. Optional: Repeat steps 2 and 3 for:
     * Canvas Notifications: notifications@instructure.com
     * Piazza Notifications: no-reply@piazza.com
-    * Subject includes [JMU INFORMATIONAL E-MAIL]
+    * Subject includes \[JMU INFORMATIONAL E-MAIL\]

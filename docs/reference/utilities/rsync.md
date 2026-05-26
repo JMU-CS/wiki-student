@@ -2,7 +2,7 @@
 
 ## Setup
 
-If you aren't on windows, you probably have `rsync` installed already (or if it isn't, you can use your OS's package manager [or homebrew on macOS] to install it).
+If you aren't on windows, you probably have `rsync` installed already (or if it isn't, you can use your OS's package manager \[or homebrew on macOS\] to install it).
 
 ### Windows
 
