@@ -59,10 +59,10 @@ The Robotics club enables students who wish to either continue robotics work out
 ## Madison Tech Society
 
 - Faculty contact: Livia Griffith
-- Student contact: Will Jedrzejczak
+- Student contact: Sam Briggs
 - Weekly meetings: TBD
 
-JMU Madison Tech Society(MTS) aims to build a thriving community of IT enthusiasts and professionals by fostering connections, providing educational resources, and creating opportunities for collaboration.
+JMU Madison Tech Society(MTS) aims to build a thriving community of CS/IT enthusiasts and professionals by fostering connections, providing educational resources, and creating opportunities for collaboration.
 
 We strive to empower our members with the skills, knowledge, and networks needed to excel academically and professionally in the tech industry. Through a range of networking events, mentorship programs, and skill-building activities, we seek to support our members' personal and professional growth, bridging the gap between academia and industry. Our ultimate goal is to cultivate a supportive environment where members can learn, connect, and thrive together.
 
