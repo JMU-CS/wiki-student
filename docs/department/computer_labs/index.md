@@ -1,10 +1,13 @@
 # Computer Labs
 
-The Computer Science department maintains multiple computer labs running Linux Mint 22.1. Desktop machines may be accessed over the network. See the article on [stu](../../reference/stu/basics.md) for more information. You are free to use these labs whenever there is no class scheduled there. These labs are located in:
+The Computer Science department maintains multiple computer labs running Ubuntu
+Linux 26.04. Desktop machines may be accessed over the network. See the article
+on [stu](../../reference/stu/basics.md) for more information. You are free to
+use these labs whenever there is no class scheduled there. These labs are
+located in:
 
 1.  King 248 (where [TA Hours](../cs-success.md) are held)
 2.  King 250
-3.  King 336
 4.  EnGeo 2204
 
 ## Lab Hardware
@@ -14,49 +17,48 @@ The Computer Science department maintains multiple computer labs running Linux M
 | King 224   | Laptop  | 22  | Dell Precision 5290, Intel Core Ultra 5 125H, 16GB RAM                                  |
 | King 248   | Desktop | 31  | Dell Precision Workstation 3640, Intel Core i9-13900, 32GB RAM                          |
 | King 250   | Desktop | 31  | Dell Precision Workstation 3660, Intel Core i9-12900, 32GB RAM, Nvidia RTX A2000 (12GB) |
-| King 336   | Desktop | 32  | Dell Precision Workstation 3640, Intel Core i9-13900, 32GB RAM                          |
 | EnGeo 2204 | Desktop | 32  | Dell Precision Workstation 3460, Intel Core i9-12900, 32GB RAM                          |
 
 ## Lab Software
 
 All labs have the same software, including but not limited to the following:
 
-- Kernel 6.8.0
-- Arduino IDE 2.3.6
-- CUDA 12.9 (King 250, ENGEO 2203 only)
-- Eclipse 2025-06
-- Emacs 29.3
-- GCC 13.3.0
-- GHC 9.4.7
-- Git 2.43.0
-- Go 1.22.2
-- IntelliJ IDEA 2025.1.3
-- Java 21.0.8 (OpenJDK)
-- Meld 3.22.2
-- Mercurial 6.7.2
-- Pandoc 3.1.3
-- Processing 4.4.4
-- Prolog SWI-Prolog 9.0.4
-- Python 3.12.3
-- Ruby 3.2.3
-- Rust 1.80.1 (Stu only)
+- Kernel 7.0.0
+- Arduino IDE 2.3.10
+- CUDA 13.2 / Nvidia 595 (King 250 only)
+- Eclipse 2026-06
+- Emacs 30.2
+- GCC 15.2.0
+- GHC 9.10.3
+- Git 2.53.0
+- Go 1.26.0
+- IntelliJ IDEA 2026.1.3
+- Java 25.0.3 (OpenJDK)
+- Meld 3.22.3
+- Mercurial 7.2
+- Pandoc 3.7.0.2
+- Processing 4.5.2-1313
+- Prolog SWI-Prolog 9.2.9
+- Python 3.14.4
+- Ruby 3.3.8
+- Rust 1.97.1 (Stu only)
 - Sagemath 10.4 (Stu only)
-- Sqlite 3.45.1
-- Subversion 1.14.3
-- Tcl/Tk 8.6.14
-- Texlive 2023.20240207
-- Thonny 4.0.1
+- Sqlite 3.46.1
+- Subversion 1.15.5
+- Tcl/Tk 8.6.16
+- Texlive 2025.20260124
+- Thonny 4.1.7
 - Vim 9.1
-- Visual Paradigm 17.2
-- Visual Studio Code 1.102.3
-- VMware Workstation 17.6.4 (Desktops only)
-- Zoom 6.5.3.2773
+- Visual Paradigm 18.1
+- Visual Studio Code 1.128.0
+- VMware Workstation 26.0.0 (Desktops only)
+- Zoom 7.1.0.3715
 
 ## Known Hosts
 
 See below for the current `known_hosts` file for all JMUCS lab machines. You'll need to replace or merge it with your existing `~/.ssh/known_hosts`, removing any duplicate hosts.
 
-[jmucs-known_hosts.txt](jmucs-known_hosts.txt) Last updated: 2025-08-13
+[jmucs-known_hosts.txt](jmucs-known_hosts.txt) Last updated: 2026-08-11
 
 ## Student Account Home Directory
 
