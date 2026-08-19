@@ -1,0 +1,2 @@
+termynal==0.14.0
+zensical==0.0.56
