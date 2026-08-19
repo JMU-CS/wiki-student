@@ -109,3 +109,42 @@
   /* animation: 3s cubic-bezier(1, 0, 0, 1) 0s highlight; */
   animation: 3s cubic-bezier(.75,0,.25,1) 0s highlight;
 }
+
+/* horizontal definition list */
+/* requires 2 classes to have more specificity than selector: .md-typeset dl */
+
+.dl-horizontal.jmucs {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 1em;
+  align-items: baseline;
+}
+
+.dl-horizontal.jmucs dt {
+  grid-column: 1;
+  text-align: right;
+  margin: 0;
+  font-weight: bold;
+}
+
+.dl-horizontal.jmucs dd {
+  grid-column: 2;
+  margin: 0;
+}
+
+.dl-horizontal.jmucs dd+dd {
+  margin-top: -0.85em;
+}
+
+/* Intermediate dts span both columns so the first dd
+   aligns with the last dt in the group */
+.dl-horizontal.jmucs dt:has(+ dt) {
+  grid-column: 1 / -1;
+  box-sizing: border-box;
+  padding-right: calc((200% + 1em) / 3);
+}
+
+.dl-horizontal.jmucs dt:has(+ dd):after {
+  content: ":";
+  height: 0.5em;
+}
