@@ -1,14 +1,42 @@
 # TA Hours
 
-[TA Program Schedules](ta-program/schedules/index.md)
-
-## In-person TA Support
+## In-person TA Support ("Lab Hours")
 
 TAs are available in **King Hall room 248** for in-person support at the following times:
 
-- **Sunday**: 3 pm - 9 pm
-- **Monday/Tuesday/Thursday**: 5 pm - 9 pm
-- **Wednesday**: **6:15pm** (updated from 6:00PM in Fall 2025) - 9 pm
+- **Sundays**: 3pm &ndash; 9pm
+- **Mondays-Thursdays**: 5pm &ndash; 9pm
+
+!!! tip "New in Fall 2026 🥳"
+    - **Wednesdays**:  Same hours as Mon-Thurs!
+  
+### Fall 2026 TA Program Lab Hours Schedule
+
+<dl class="dl-horizontal jmucs">
+<dt>149 + 159 Setup Celebration</dt>
+<dd><time datetime="2026-08-26">Monday 26 August, 2026</time> <time datetime="18:00">6:00PM</time> &ndash; <time datetime="20:00">8:00PM</time></dd>
+<dd><time datetime="2026-08-27">Monday 27 August, 2026</time> <time datetime="18:00">6:00PM</time> &ndash; <time datetime="20:00">8:00PM</time></dd>
+<dt>In-Person Lab Hours Begin</dt>
+<dd><time datetime="2026-08-31">Monday 31 August, 2026</time></dd>
+<dt>Last day of Lab Hours</dt>
+<dd><time datetime="2026-12-08">Tuesday 8 December, 2026</time></dd>
+<dt>Closed due to <a target="_blank" rel="noopener noreferrer" href="https://www.jmu.edu/registrar/academic-calendar.shtml#fall-semester-2026">JMU Events</a></dt>
+<!-- <dd><time datetime="2026-08-26">2026-08-26</time></dd>
+<dd><time datetime="2026-08-27">2026-08-27</time></dd>
+<dd><time datetime="2026-08-28">2026-08-28</time></dd>
+<dd><time datetime="2026-08-29">2026-08-29</time></dd>
+<dd><time datetime="2026-08-30">2026-08-30</time></dd> -->
+<dd><time datetime="2026-10-07">2026-10-07</time></dd>
+<dd><time datetime="2026-10-08">2026-10-08</time></dd>
+<dd><time datetime="2026-10-11">2026-10-11</time></dd>
+<dd><time datetime="2026-11-19">2026-11-19</time></dd>
+<dd><time datetime="2026-11-22">2026-11-22</time></dd>
+<dd><time datetime="2026-11-23">2026-11-23</time></dd>
+<dd><time datetime="2026-11-24">2026-11-24</time></dd>
+<dd><time datetime="2026-11-25">2026-11-25</time></dd>
+<dd><time datetime="2026-11-26">2026-11-26</time></dd>
+<dd><time datetime="2026-11-29">2026-11-29</time> </dd>
+</dl>
 
 ## Online TA Hours
 
