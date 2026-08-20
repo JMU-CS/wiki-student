@@ -25,7 +25,7 @@ The Cyber Defense club is a student-led group focused on learning about informat
 ## DukeDevs
 
 - Faculty contact: Isaac Wang (wangid)
-- Student contact: Leo Torrijos (torrijld) and Diego Navia Sejas (naviasda)
+- Student contact: Collier Volciak (volciacj)
 - Weekly meetings: Tuesdays, 6-7 PM in Engeo 2208
 - Occasional events on weekends
 
