@@ -262,8 +262,8 @@ And other times by appointment. First, check [my calendar](https://outlook.offic
 
 ## Dr. Xunhua Wang
 
-- Office hours: in-person: \[Mon/Wed\] 12:40 ~ 15:10 \[King Hall 213\]；or by appointment (wangxx@jmu.edu)
-- Office hours: virtual: \[Fri\] 16:00 ~ 17:00, by appointment (wangxx@jmu.edu); Zoom URL: <https://jmu-edu.zoom.us/j/4401425906>
+- Office hours: in-person: \[Tu/Th\] Tu/Th 12:30 ~ 15:00; or by appointment through email \[King Hall 213\]；or by appointment (wangxx@jmu.edu)
+- Virtual by appointment (wangxx@jmu.edu) first and then Zoom URL: <https://jmu-edu.zoom.us/j/4401425906>
 
 ## Dr. Dee Weikle
 
