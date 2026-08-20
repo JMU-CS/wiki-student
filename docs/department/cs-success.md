@@ -13,9 +13,9 @@ TAs are available in **King Hall room 248** for in-person support at the followi
 ### Fall 2026 TA Program Lab Hours Schedule
 
 <dl class="dl-horizontal jmucs">
-<dt>149 + 159 Setup Celebration</dt>
-<dd><time datetime="2026-08-26">Monday 26 August, 2026</time> <time datetime="18:00">6:00PM</time> &ndash; <time datetime="20:00">8:00PM</time></dd>
-<dd><time datetime="2026-08-27">Monday 27 August, 2026</time> <time datetime="18:00">6:00PM</time> &ndash; <time datetime="20:00">8:00PM</time></dd>
+<dt>149 + 159 Lab and Laptop Setup</dt>
+<dd><time datetime="2026-08-26">Wednesday 26 August, 2026</time> <time datetime="18:00">6:00PM</time> &ndash; <time datetime="20:00">8:00PM</time></dd>
+<dd><time datetime="2026-08-27">Thursday 27 August, 2026</time> <time datetime="18:00">6:00PM</time> &ndash; <time datetime="20:00">8:00PM</time></dd>
 <dt>In-Person Lab Hours Begin</dt>
 <dd><time datetime="2026-08-31">Monday 31 August, 2026</time></dd>
 <dt>Last day of Lab Hours</dt>
