@@ -153,7 +153,7 @@ If you run `Planet.class` from the command line with an argument of 175, you get
 
 ## With thanks to Dr. Bernstein...
 
-The following was [stolen from Dr. Bernstein](https://w3.cs.jmu.edu/bernstdh/web/common/lectures/slides_developing-enumerated-types.php).
+The following was [stolen from Dr. Bernstein](https://oldnotebooks.org/bernstdh/web/common/lectures/slides_developing-enumerated-types.php).
 
 Though it is not immediately obvious from the documentation for the [Java API](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html), all enumerated types have the following methods "implemented for them".
 
