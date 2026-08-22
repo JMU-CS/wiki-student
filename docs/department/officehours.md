@@ -30,7 +30,7 @@ No office hours are held during breaks or finals week.
 
 ## Dr. David Bernstein
 
-- Office Hours: <https://users.cs.jmu.edu/bernstdh/Web/officehours.html>
+- Office Hours: <https://oldnotebooks.org/bernstdh/web/officehours.html>
 
 ## Dr. John Bowers
 

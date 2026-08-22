@@ -2,8 +2,6 @@
 
 Details can be found here: <https://www.jmu.edu/ubo/faq-Spring-2020.shtml>
 
-From the email distributed to all students on March 23, 2020. See full list of official [Covid-19 updates](https://www.jmu.edu/news/covid-19-faqs.shtml).
-
 ## Fees for online Summer 2020 classes
 
 Fees will be reduced by 50%.
