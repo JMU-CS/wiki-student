@@ -1,7 +1,8 @@
 # Faculty Office Hours
 
-The times listed below apply only when classes are in session.
-No office hours are held during breaks or finals week.
+!!! warning "Office Hours end on the last day of classes"
+    The times listed below apply only when classes are in session.
+    No office hours are held during breaks or finals week (unless your professor has communicated an exception).
 
 ## Dr. Mohamed Aboutabl
 
@@ -225,18 +226,15 @@ Feel free to stop by anytime my door is open!!!
 
 ## Dr. Michael Stewart
 
+**Updated for Fall 2026**
+
 Office: 212 King Hall 👑
 
 Or on [Zoom](http://tiny.cc/stewart-hours) by appointment (typically during the hours listed below)
 
-!!! warning "Office Hours end Sat May 9"
-    Typically Office Hours should be understood to end on the last day of classes (wed may 6), but I'm not ending mine until Saturday May 9)
-
-- Mondays: 3:15PM - 4:00PM
-- Tuesdays: 3:15PM - 4:00PM
-- Wednesdays: 3:15PM - 4:00PM
-- Thursdays: **2:15PM - 3:00PM** (_including_ Thurs May 7, 2026)
-- Fridays: 9:30AM - 11:30AM  (_including_ Fri May 8, 2026)
+- Mondays: 9:30AM - 11:00AM
+- Tuesdays & Thursdays: 12:45PM - 2:00PM
+- Fridays: 10:00AM - 11:00AM
 
 ## Dr. Brett Tjaden
 
