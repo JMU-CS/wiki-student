@@ -86,15 +86,6 @@ CS Academic Advisor
 - Tu, Th 11:00 am - 12:00 pm
 - By appointment: eltawass@jmu.edu
 
-## Prof. Livia Griffith
-
-- King Hall Room 120
-- Office hours:
-    - Tuesdays and Thursdays: 11:00am-1:30pm
-    - Wednesdays: 12:30pm-1:30pm
-    - and by appointment.
-- Email griffils@jmu.edu to schedule an appointment
-
 ## Prof. Nareman Hamdan
 
 - Office: King Hall 113
