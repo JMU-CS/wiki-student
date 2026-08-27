@@ -119,9 +119,9 @@ IT Advisor and Outreach Coordinator
 ## Dr. Chris Johnson
 
 - M: 9&ndash;11 AM in King 246-E
-- W: 12:35&ndash;1:35 PM in King 246-E
-- Th: 12:30&ndash;1:30 PM in King 246-E
-- F: 1:35&ndash;2:35 PM in King 246-E
+- T: 2&ndash;3 PM in King 246-E
+- Th: 2&ndash;3 PM in King 246-E
+- F: 2&ndash;3 PM in King 246-E
 
 ## Dr. Michael Kirkpatrick
 
