@@ -90,7 +90,7 @@ Upsilon Pi Epsilon was founded in 1967 at Texas A&M University and is the first 
 ## WIT (Women in Technology)
 
 - Contact: jmuwit@gmail.com
-- Faculty contact: Dr. Dee Weikle(weikleda) && Dr. Zhuojun Duan (duanzx)
+- Faculty contact: Dr. Zhuojun Duan (duanzx@jmu.edu) && Prof. Nareman Hamdan(hamdanna@jmu.edu)
 - Student contact: Emily Waters(water2et@dukes.jmu.edu)
 - meetings are bi-weekly
 - Website: <https://weikleda.github.io/jmuwit>
