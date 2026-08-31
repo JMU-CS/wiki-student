@@ -162,7 +162,8 @@ By appointment: Tue 4:00-5:00pm (send email to schedule)
 
 ## Prof. Phil Riley
 
-- TuTh 1-3:30
+- Tu 11-1
+- Th 1-4
 - Also by appointment (rileypb@jmu.edu), zoom or in-person.
 
 ## Dr. Mona El-Kadi Rizvi
