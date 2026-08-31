@@ -58,9 +58,10 @@ The Robotics club enables students who wish to either continue robotics work out
 
 ## Madison Tech Society
 
-- Faculty contact: Livia Griffith
+- Faculty contact: Marijn de Waal
 - Student contact: Sam Briggs
-- Weekly meetings: TBD
+- Weekly meetings: Wednesdays at 6:00 pm-7:00 pm
+- Website: <https://mtsjmu.com>
 
 JMU Madison Tech Society(MTS) aims to build a thriving community of CS/IT enthusiasts and professionals by fostering connections, providing educational resources, and creating opportunities for collaboration.
 
