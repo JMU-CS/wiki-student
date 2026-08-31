@@ -1,5 +1,9 @@
 # JMU CS Student Events
 
+## Fall 2026
+
+- [09/10 - CS & IT Club Mixer](2026-09-10_cs-it-club-mixer.md)
+
 ## Spring 2026
 
 - [04/29 - Build Over Break](2026-04-29_build-over-break.md)
