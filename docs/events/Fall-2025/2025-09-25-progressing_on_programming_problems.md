@@ -1,3 +1,12 @@
+---
+title: Progressing on Programming Problems
+event:
+  start: 2025-09-25 17:30
+  end: 2025-09-25 19:30
+  location: 250 King Hall
+  status: confirmed
+---
+
 # Progressing on Programming Problems
 
 - Thursday, September 25th

@@ -1,3 +1,12 @@
+---
+title: Game Night
+event:
+  start: 2025-11-13 17:00
+  end: 2025-11-13 19:00
+  location: King 140 and King 143
+  status: confirmed
+---
+
 # Game Night
 
 ------------------------------------------------------------------------

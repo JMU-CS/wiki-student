@@ -1,3 +1,12 @@
+---
+title: NEW Stock Photos
+event:
+  start: 2025-11-14 11:30
+  end: 2025-11-14 12:30
+  location: King Hall Atrium
+  status: confirmed
+---
+
 # NEW Stock Photos
 
 ## Summary

@@ -1,3 +1,12 @@
+---
+title: "Hired Education: A Student Internship Panel"
+event:
+  start: 2026-02-20 16:00
+  end: 2026-02-20 17:00
+  location: King 260
+  status: confirmed
+---
+
 # Hired Education (02/20)
 
 The CS Ambassadors are hosting Hired Education: A Student Internship Panel on ==Friday, February 20th at 4:00--5:00pm in King 260==. **All CS and IT students are invited to attend!**

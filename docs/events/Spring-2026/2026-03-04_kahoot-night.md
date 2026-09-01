@@ -1,3 +1,11 @@
+---
+title: Kahoot Night
+event:
+  start: 2026-03-04 17:15
+  location: King 143
+  status: confirmed
+---
+
 # Kahoot Night (03/04)
 
 The CS Ambassadors invite CS & IT students to a Kahoot Night on ==Wednesday, March 4th at 5:15pm in King 143==.

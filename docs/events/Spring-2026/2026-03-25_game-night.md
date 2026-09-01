@@ -1,3 +1,12 @@
+---
+title: Game Night
+event:
+  start: 2026-03-25 17:00
+  end: 2026-03-25 19:00
+  location: King 140 and King 143
+  status: confirmed
+---
+
 # Game Night (03/25)
 
 The CS Ambassadors are hosting a Game Night on ==Wednesday, March 25th at 5:00--7:00pm in King 140 and King 143==.
