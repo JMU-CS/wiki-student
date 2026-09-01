@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{#- Feed autodiscovery, so browsers and readers can find the feeds -#}
+{% block extrahead %}
+  <link rel="alternate" type="application/rss+xml" title="JMU CS Wiki" href="https://wiki.cs.jmu.edu/feed_rss.xml">
+  <link rel="alternate" type="text/calendar" title="JMU CS Wiki events" href="https://wiki.cs.jmu.edu/events.ics">
+{% endblock %}
+
+{% block content %}
+{{ super() }}
+{% include "partials/auto-index.html" %}
+{% endblock %}
