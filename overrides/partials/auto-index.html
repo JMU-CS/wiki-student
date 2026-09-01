@@ -59,7 +59,7 @@
   {%- if item.children is defined and item.children %}
 <h2>{{ item.title }}</h2>
 <ul class="auto-index__list">
-    {%- for child in item.children -%}
+    {%- for child in item.children | reverse -%}
       {%- if child.url is not defined or child.url != page.url -%}
         {%- if child.meta and child.meta.weight is defined -%}
           {#- Skip the index page used only for ordering -#}
