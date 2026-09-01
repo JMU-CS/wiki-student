@@ -1,3 +1,12 @@
+---
+title: Prep & Pitch
+event:
+  start: 2026-02-04 11:30
+  end: 2026-02-04 12:30
+  location: King 236
+  status: confirmed
+---
+
 # Prep & Pitch (02/04)
 
 The CS Ambassadors are hosting a Prep & Pitch event on ==Wednesday, February 4th at 11:30am-12:30pm in King 236==.

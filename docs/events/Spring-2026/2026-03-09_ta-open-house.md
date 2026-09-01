@@ -1,3 +1,12 @@
+---
+title: TA Open House
+event:
+  start: 2026-03-09 17:00
+  end: 2026-03-09 21:00
+  location: King 248
+  status: confirmed
+---
+
 # TA Open House (03/09)
 
 ## TA HOURS Open House

@@ -1,3 +1,12 @@
+---
+title: Spirit Week
+event:
+  start: 2025-11-17
+  end: 2025-11-21
+  location: King Hall
+  status: confirmed
+---
+
 # SPIRIT WEEK!
 
 🎉 JMU CS Department Spirit Week: November 17th - 21st!

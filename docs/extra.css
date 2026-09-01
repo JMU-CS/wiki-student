@@ -148,3 +148,25 @@
   content: ":";
   height: 0.5em;
 }
+
+/* Optional styling for the auto-index block. Add to your docs/ directory and
+   reference it from `extra_css` (mkdocs.yml) or `extra_css` (zensical.toml). */
+
+.auto-index__list {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.auto-index__item {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.auto-index__item svg {
+  width: 1.2em;
+  height: 1.2em;
+  flex: 0 0 auto;
+  fill: currentcolor;
+}

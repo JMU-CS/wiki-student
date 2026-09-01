@@ -1,3 +1,11 @@
+---
+title: Trivia Night
+event:
+  start: 2026-02-24 16:00
+  location: King Hall 148
+  status: confirmed
+---
+
 # Trivia Night (02/24)
 
 The IT Ambassadors invite CS & IT students to a Trivia Night on ==Tuesday, February 24th at 4:00pm in King Hall 148==.

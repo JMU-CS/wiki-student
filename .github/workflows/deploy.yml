@@ -17,10 +17,12 @@ jobs:
           fetch-depth: 0  # fetch all history
       - name: Virtual environment
         run: python -m venv venv && source venv/bin/activate && pip install --upgrade pip
-      - name: Install Zensical
-        run: source venv/bin/activate && pip install zensical==0.0.* termynal
+      - name: Install dependencies
+        run: source venv/bin/activate && pip install -r requirements.txt
       - name: Build public site
         run: source venv/bin/activate && zensical build --clean
+      - name: Generate feeds
+        run: source venv/bin/activate && zensical-feeds
       - name: Post-build scripts
         run: ./last-modified.py && ./redirects.py
       - name: Group permissions

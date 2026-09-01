@@ -1,3 +1,12 @@
+---
+title: Kickstart your Professional Experience
+event:
+  start: 2025-10-08 11:30
+  end: 2025-10-08 12:30
+  location: 236 King Hall
+  status: confirmed
+---
+
 # Kickstart your Professional Experience
 
 - 10/08/2025

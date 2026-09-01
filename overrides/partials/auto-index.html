@@ -1,0 +1,103 @@
+{#-
+  Generate an auto-index of sibling/descendant pages grouped by sub-section.
+
+  Set `auto_index: true` in a page's front matter to append a listing of the
+  section's children, with headings for each sub-directory.
+
+  Sub-sections are sorted by the `weight` front matter of their index page
+  (highest first). Sections without a weight default to 100.
+-#}
+
+{%- macro entry(item) -%}
+  {%- set label = item.title -%}
+  {%- if item.meta and item.meta.event and item.meta.event.start -%}
+    {%- set s = item.meta.event.start | string -%}
+    {%- set mm = s[5:7] -%}
+    {%- set dd = s[8:10] -%}
+    {%- set label = mm ~ "/" ~ dd ~ " - " ~ item.title -%}
+  {%- endif -%}
+  <li class="auto-index__item">
+    {%- if item.meta and item.meta.icon %}
+      {% include ".icons/" ~ item.meta.icon ~ ".svg" %}
+    {%- endif %}
+    <a href="{{ item.url | url }}">{{ label }}</a>
+  </li>
+{%- endmacro -%}
+
+{#- Return the weight of a nav section by inspecting its index page's meta. -#}
+{%- macro _weight(section) -%}
+  {%- set ns = namespace(w = 100) -%}
+  {%- if section.children is defined -%}
+    {%- for child in section.children -%}
+      {%- if child.url is defined and child.url is not none and child.meta and child.meta.weight is defined -%}
+        {%- set ns.w = child.meta.weight -%}
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+  {{ ns.w }}
+{%- endmacro -%}
+
+{#- Walk the active branch of the nav to find the section holding this page. -#}
+{%- set _ = namespace(section = none) -%}
+{%- macro find(items) -%}
+  {%- for item in items -%}
+    {%- if item.children is defined and item.children and _.section is none -%}
+      {%- for child in item.children -%}
+        {%- if child.url is defined and child.url == page.url -%}
+          {%- set _.section = item -%}
+        {%- endif -%}
+      {%- endfor -%}
+      {%- if _.section is none -%}
+        {{- find(item.children) -}}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endmacro -%}
+
+{#- Render a single section: heading + child list -#}
+{%- macro render_section(item) -%}
+  {%- if item.children is defined and item.children %}
+<h2>{{ item.title }}</h2>
+<ul class="auto-index__list">
+    {%- for child in item.children | reverse -%}
+      {%- if child.url is not defined or child.url != page.url -%}
+        {%- if child.meta and child.meta.weight is defined -%}
+          {#- Skip the index page used only for ordering -#}
+        {%- elif child.children is defined and child.children -%}
+          {%- set ns = namespace(index = none) -%}
+          {%- for sub in child.children -%}
+            {%- if ns.index is none and sub.url is not none -%}
+              {%- set ns.index = sub -%}
+            {%- endif -%}
+          {%- endfor -%}
+          {%- if ns.index %}
+  {{ entry(ns.index) }}
+          {%- endif -%}
+        {%- else %}
+  {{ entry(child) }}
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor %}
+</ul>
+  {%- else %}
+<ul class="auto-index__list">
+  {{ entry(item) }}
+</ul>
+  {%- endif -%}
+{%- endmacro -%}
+
+{%- if page.meta and page.meta.auto_index -%}
+  {{- find(nav.items) -}}
+  {%- if _.section and _.section.children -%}
+    {#- Build a weight-keyed list of sections to sort -#}
+    {%- set items = namespace(sections = []) -%}
+    {%- for item in _.section.children -%}
+      {%- if item.url is not defined or item.url != page.url -%}
+        {%- set items.sections = items.sections + [((_weight(item) | trim | int), item)] -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- for pair in items.sections | sort(attribute='0', reverse=true) -%}
+      {{ render_section(pair[1]) }}
+    {%- endfor -%}
+  {%- endif -%}
+{%- endif -%}
