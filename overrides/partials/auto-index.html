@@ -54,12 +54,22 @@
   {%- endfor -%}
 {%- endmacro -%}
 
-{#- Render a single section: heading + child list -#}
+{#- Extract the event.start string for sorting (falls back to "0" so
+    pages without event.start sink to the end). -#}
+{%- macro _event_start(item) -%}
+  {%- if item.meta and item.meta.event and item.meta.event.start -%}
+    {{ item.meta.event.start | string }}
+  {%- else -%}
+    0
+  {%- endif -%}
+{%- endmacro -%}
+
+{#- Render a single section: heading + child list sorted by event.start desc -#}
 {%- macro render_section(item) -%}
-  {%- if item.children is defined and item.children %}
-<h2>{{ item.title }}</h2>
-<ul class="auto-index__list">
-    {%- for child in item.children | reverse -%}
+  {%- if item.children is defined and item.children -%}
+    {#- Collect sortable (start, child) pairs, skipping index/weight pages -#}
+    {%- set entries = namespace(list = []) -%}
+    {%- for child in item.children -%}
       {%- if child.url is not defined or child.url != page.url -%}
         {%- if child.meta and child.meta.weight is defined -%}
           {#- Skip the index page used only for ordering -#}
@@ -70,13 +80,18 @@
               {%- set ns.index = sub -%}
             {%- endif -%}
           {%- endfor -%}
-          {%- if ns.index %}
-  {{ entry(ns.index) }}
+          {%- if ns.index -%}
+            {%- set entries.list = entries.list + [(_event_start(ns.index) | trim, ns.index)] -%}
           {%- endif -%}
-        {%- else %}
-  {{ entry(child) }}
+        {%- else -%}
+          {%- set entries.list = entries.list + [(_event_start(child) | trim, child)] -%}
         {%- endif -%}
       {%- endif -%}
+    {%- endfor %}
+<h2>{{ item.title }}</h2>
+<ul class="auto-index__list">
+    {%- for pair in entries.list | sort(attribute='0', reverse=true) %}
+  {{ entry(pair[1]) }}
     {%- endfor %}
 </ul>
   {%- else %}
