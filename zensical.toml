@@ -371,3 +371,6 @@ include_assets = true
 title = "bash"
 buttons = "macos"
 prompt_literal_start = ["$"]
+
+[feeds]                                                                              
+timezone = "America/New_York"     
