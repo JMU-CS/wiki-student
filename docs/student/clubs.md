@@ -26,7 +26,7 @@ The Cyber Defense club is a student-led group focused on learning about informat
 
 - Faculty contact: Isaac Wang (wangid)
 - Student contact: Collier Volciak (volciacj)
-- Weekly meetings: Tuesdays, 6-7 PM in Engeo 2208
+- Weekly meetings: Tuesdays, 6-7:30 PM in [Engeo 0303](https://www.lib.jmu.edu/tech-classrooms/engeo/0303-2/)
 - Occasional events on weekends
 
 We aim to create a friendly environment for students to learn and discuss everything about game development! In addition to programming, we also look into art, music, design, etc. All majors are welcome!
