@@ -29,10 +29,6 @@
 - We: 2pm -- 4pm
 - By appointment: belsarpp@jmu.edu
 
-## Dr. David Bernstein
-
-- Office Hours: <https://oldnotebooks.org/bernstdh/web/officehours.html>
-
 ## Dr. John Bowers
 
 - [johncbowers.com](http://johncbowers.com)
@@ -145,8 +141,7 @@ By appointment: Tue 4:00-5:00pm (send email to schedule)
 
 ## Dr. Chris Mayfield
 
-- M/W/F 12:30–1:30 and Tu/Th 11:00–12:00
-- In person (King 208) or online (Zoom)
+- M/W/F 1:50–3:30 in King Hall 208
 - <https://forms.gle/b5LCRrobjongdFY99>
 
 ## Dr. Brad McCoy
@@ -175,6 +170,10 @@ Office Hours in King 253:
 - Thurs 1:00–3:00pm
 - OR online by appointment: elkadima@jmu.edu
 
+## Dr. Saurabh Sachdeva
+
+- TBD
+
 ## Dr. Emil Salib
 
 - Mo 11:50 am to 12:50 pm (Zoom)
@@ -200,14 +199,6 @@ Office Hours in King 253:
 
 Others time/days - By appointment (shrestcx@jmu.edu), or
 Feel free to stop by anytime my door is open!!!
-
-## Dr. Sharon Simmons
-
-- Office: King 105
-- Tuesday 12:45pm -- 2:15pm and 3:45pm -- 4:45pm
-- Wednesday 12:30pm -- 2:00pm
-- Thursday 12:45pm -- 2:15pm and 3:45pm -- 4:45pm
-- By appointment: simmonsj@jmu.edu
 
 ## Dr. Nathan Sprague
 
@@ -254,7 +245,7 @@ And other times by appointment. First, check [my calendar](https://outlook.offic
 ## Dr. Xunhua Wang
 
 - Office hours: in-person \[**King Hall 213**\]: \[Tu/Th\] 12:30 ~ 15:00; or by appointment through email (wangxx@jmu.edu)
-- Virtual at Zoom <https://jmu-edu.zoom.us/j/4401425906> by appointment through email (wangxx@jmu.edu) first 
+- Virtual at Zoom <https://jmu-edu.zoom.us/j/4401425906> by appointment through email (wangxx@jmu.edu) first
 
 ## Dr. Dee Weikle
 
