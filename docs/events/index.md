@@ -4,5 +4,5 @@ auto_index: true
 
 # JMU CS Student Events
 
-<!-- does this work? -->
-<!-- [🗓️ Subscribe to our calendar!](webcal://wiki.cs.jmu.edu/events.ics) -->
+!!! example "Subscribe to the JMU CS Event Calendar"
+    [🗓️ Subscribe to our calendar!](webcal://wiki.cs.jmu.edu/events.ics)

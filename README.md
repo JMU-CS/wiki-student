@@ -16,14 +16,25 @@ For extended features supported by this site, see the [Zensical Docs](https://ze
 ## Commands
 
 To install / upgrade to the latest version:
-``` sh
-pip install --upgrade --force-reinstall zensical termynal
+
+```sh
+pip install --upgrade --force-reinstall -r requirements.txt
 ```
 
 To preview the site locally while editing:
-``` sh
+
+```sh
 zensical serve
 ```
+
+To build/preview [the article and event feeds](https://github.com/hcientist/Zensical-Feeds) (if previewing, do the command `serve` command above first):
+
+```sh
+zensical-feeds 
+```
+
+- the article feed is at `/feed_rss.xml`
+- the event feed is at `/events.ics`
 
 ## Attributions
 
