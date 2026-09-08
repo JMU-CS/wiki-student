@@ -104,15 +104,40 @@
 {%- if page.meta and page.meta.auto_index -%}
   {{- find(nav.items) -}}
   {%- if _.section and _.section.children -%}
-    {#- Build a weight-keyed list of sections to sort -#}
-    {%- set items = namespace(sections = []) -%}
+    {#- Check whether children are sections (have children) or leaf pages -#}
+    {%- set has_subsections = namespace(v = false) -%}
     {%- for item in _.section.children -%}
-      {%- if item.url is not defined or item.url != page.url -%}
-        {%- set items.sections = items.sections + [((_weight(item) | trim | int), item)] -%}
+      {%- if item.children is defined and item.children -%}
+        {%- set has_subsections.v = true -%}
       {%- endif -%}
     {%- endfor -%}
-    {%- for pair in items.sections | sort(attribute='0', reverse=true) -%}
-      {{ render_section(pair[1]) }}
-    {%- endfor -%}
+    {%- if has_subsections.v -%}
+      {#- Build a weight-keyed list of sections to sort -#}
+      {%- set items = namespace(sections = []) -%}
+      {%- for item in _.section.children -%}
+        {%- if item.url is not defined or item.url != page.url -%}
+          {%- set items.sections = items.sections + [((_weight(item) | trim | int), item)] -%}
+        {%- endif -%}
+      {%- endfor -%}
+      {%- for pair in items.sections | sort(attribute='0', reverse=true) -%}
+        {{ render_section(pair[1]) }}
+      {%- endfor -%}
+    {%- else -%}
+      {#- Leaf pages: sort by event.start descending and render as a flat list -#}
+      {%- set entries = namespace(list = []) -%}
+      {%- for item in _.section.children -%}
+        {%- if item.url is not defined or item.url != page.url -%}
+          {%- if item.meta and item.meta.weight is defined -%}
+          {%- else -%}
+            {%- set entries.list = entries.list + [(_event_start(item) | trim, item)] -%}
+          {%- endif -%}
+        {%- endif -%}
+      {%- endfor -%}
+<ul class="auto-index__list">
+      {%- for pair in entries.list | sort(attribute='0', reverse=true) %}
+  {{ entry(pair[1]) }}
+      {%- endfor %}
+</ul>
+    {%- endif -%}
   {%- endif -%}
 {%- endif -%}
