@@ -146,8 +146,8 @@ By appointment: Tue 4:00-5:00pm (send email to schedule)
 
 ## Dr. Brad McCoy
 
-- MWF 9:00-10:00
-- TTh 1:00-2:00
+- MWF 1:30-2:30
+- T 10:30-12:30
 - By appointment (email: mccoy2ba@jmu.edu)
 
 ## Dr. Kevin Molloy
