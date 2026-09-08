@@ -30,3 +30,5 @@ Join us for an overview of computer science and information technology research 
 
 !!! tip "Let's Eat!"
     Lunch is provided 🍕
+
+!["Is this" meme with person (labeled "ME") gesturing at butterfly (labeled "CLAUDE?GPT?GEMINI) and asking "IS THIS RESEARCH?](./is-this-research.jpg)
