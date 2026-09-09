@@ -68,11 +68,10 @@ CS Academic Advisor
 
 ## Dr. Zhuojun Duan
 
-**Office hours, in person (King 246B):**
+**Office hours F26, in person (King 246B):**
 
-* Monday: 10 - 11:20 am
-* Thursday: 9 - 10:30 am and 11:30 - 12:20 pm
-* Friday: 10 - 11:20 am
+* Wednesday and Friday: 9:30 - 10:00 am
+* Thursday: 9:20-1:00pm
 
 *Other times are available by appointment via email: duanzx@jmu.edu
 
