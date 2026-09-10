@@ -69,11 +69,10 @@ CS Academic Advisor
 
 ## Dr. Zhuojun Duan
 
-**Office hours, in person (King 246B):**
+**Office hours F26, in person (King 246B):**
 
-* Monday: 10 - 11:20 am
-* Thursday: 9 - 10:30 am and 11:30 - 12:20 pm
-* Friday: 10 - 11:20 am
+* Wednesday and Friday: 9:30 - 10:10 am
+* Thursday: 9:20-1:00pm
 
 * Other times are available by appointment via email: duanzx@jmu.edu
 
@@ -130,9 +129,9 @@ IT Advisor and Outreach Coordinator
 
 Drop-in Office Hours (King Hall 227 or [join virtually](https://bit.ly/lam-office-hours-fa25)):
 
-* Tue 2:30-4:00pm and Thu noon-2:00pm
+* Tue and Thu, 1:30-4:00pm
 
-By appointment: Tue 4:00-5:00pm (send email to schedule)
+By appointment (send email to schedule)
 
 ## Dr. Suk Jin Lee
 
