@@ -7,8 +7,8 @@
 ## Dr. Mohamed Aboutabl
 
 * In-Person, In my office ( KING 255 ), Walk-in FCFS
-    * **Mon** and **Wed** 9:30 AM --> 10:30 AM
-    * **Tue** and **Thu** 11:00 AM --> 12:30 PM
+    * Monday and Wednesday 10:00 AM &ndash; 11:00 AM
+    * Tuesday and Thursday 09:30 AM &ndash; 11:00 AM
 * On Zoom, By Appointment-Only
     * https://jmu-edu.zoom.us/j/88604390066?pwd=L3E0QnpyT3hHYTgxemMrMXJnZnFyZz09
 
@@ -24,9 +24,10 @@
 
 ## Dr. Prajakta Belsare
 
-- Office: King Hall 112
-- Tu, Th: 1pm -- 2pm
-- We: 2pm -- 4pm
+- King Hall Room 112
+- Office Hours:
+    * Monday 11:00 AM &ndash; 12:00 PM
+    * Tuesday and Thursday 10:00 AM &ndash; 12:00 PM
 - By appointment: belsarpp@jmu.edu
 
 ## Dr. John Bowers
@@ -74,7 +75,7 @@ CS Academic Advisor
 * Thursday: 9 - 10:30 am and 11:30 - 12:20 pm
 * Friday: 10 - 11:20 am
 
-*Other times are available by appointment via email: duanzx@jmu.edu
+* Other times are available by appointment via email: duanzx@jmu.edu
 
 ## Dr. Samy El-Tawab
 
@@ -85,14 +86,14 @@ CS Academic Advisor
 ## Prof. Nareman Hamdan
 
 - Office: King Hall 113
-- Tu, Th: 2--3pm
-- M: 10am--1pm
+* Monday and Tuesday 11:00 AM &ndash; 01:00 PM
+* Thursday 11:00 AM &ndash; 12:00 PM
 - By appointment: hamdanna@jmu.edu
 
 ## Dr. Khalid Hasan
 
 - Office: King Hall 109
-- Tu, Wed, Th: 2:30 pm -- 3:30 pm
+- Monday and Wednesday 12:30 PM - 01:30 PM
 - By appointment: dwtn6r@jmu.edu
 
 ## Ellen Hedrick
@@ -105,10 +106,9 @@ IT Advisor and Outreach Coordinator
 
 ## Dr. Hossain Heydari
 
-- Email heydarmh@jmu.edu
-- Work Phone 540-568-8745
-- Office Location King 225
-- Tuesdays, Wednesdays, & Thursdays 12:30 – 2:30
+- Office: King Hall 225
+- Tuesday and Thursday 02:00 PM &ndash; 3:00 PM
+- Wednesday 12:30 PM &ndash; 1:30 PM
 - Other times by appointment. Zoom meetings are available by email appointment.
 - Please feel free to contact me: heydarmh@jmu.edu or call me at 540-214-6381.
 
@@ -136,7 +136,7 @@ By appointment: Tue 4:00-5:00pm (send email to schedule)
 
 ## Dr. Suk Jin Lee
 
-- M, W: 11:00 am -- 1:00 pm
+- M, W: 11:00 am -- 2:00 pm
 - Tu, Th: 9:30 am -- 10:30 am
 
 ## Dr. Chris Mayfield
@@ -152,7 +152,11 @@ By appointment: Tue 4:00-5:00pm (send email to schedule)
 
 ## Dr. Kevin Molloy
 
-- On academic leave for the Spring 2026 semester.
+- Office Hours:
+    * Monday 01:15 PM &ndash; 02:30 PM  (King 216)
+    * Tuesday 02:20 PM &ndash; 03:45 PM (EnGeo 1203)
+    * Wednesday 02:15 PM &ndash; 03:30 PM (King 216)
+    * Thursday 05:15 PM &ndash; 06:30 PM (EnGeo 1203)
 - Contact me at email: molloykp@jmu.edu
 
 ## Prof. Phil Riley
@@ -165,9 +169,8 @@ By appointment: Tue 4:00-5:00pm (send email to schedule)
 
 Office Hours in King 253:
 
-- Mon 1:00–3:00pm,
-- Tues 11:00am–12:00pm,
-- Thurs 1:00–3:00pm
+- Monday 10:00 AM &ndash; 11:00 AM
+- Tuesday 10:00am &ndash; 12:00 PM and 02:00 PM &ndash; 04:00 PM
 - OR online by appointment: elkadima@jmu.edu
 
 ## Dr. Saurabh Sachdeva
@@ -221,7 +224,7 @@ Or on [Zoom](http://tiny.cc/stewart-hours) by appointment (typically during the 
 
 ## Dr. Brett Tjaden
 
-TTh 2:00-3:00 and by appointment
+Monday and Wednesday 02:30 PM &ndash; 03:30 PM or by appointment
 
 ## Dr. Carolina Veiga
 
