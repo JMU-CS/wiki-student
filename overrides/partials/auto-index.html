@@ -10,11 +10,17 @@
 
 {%- macro entry(item) -%}
   {%- set label = item.title -%}
-  {%- if item.meta and item.meta.event and item.meta.event.start -%}
-    {%- set s = item.meta.event.start | string -%}
-    {%- set mm = s[5:7] -%}
-    {%- set dd = s[8:10] -%}
-    {%- set label = mm ~ "/" ~ dd ~ " - " ~ item.title -%}
+  {%- if item.meta and item.meta.event -%}
+    {%- if item.meta.event is mapping and item.meta.event.start -%}
+      {%- set s = item.meta.event.start | string -%}
+    {%- elif item.meta.event is iterable and item.meta.event | length > 0 and item.meta.event[0].start is defined -%}
+      {%- set s = item.meta.event[0].start | string -%}
+    {%- endif -%}
+    {%- if s is defined and s -%}
+      {%- set mm = s[5:7] -%}
+      {%- set dd = s[8:10] -%}
+      {%- set label = mm ~ "/" ~ dd ~ " - " ~ item.title -%}
+    {%- endif -%}
   {%- endif -%}
   <li class="auto-index__item">
     {%- if item.meta and item.meta.icon %}
@@ -57,8 +63,14 @@
 {#- Extract the event.start string for sorting (falls back to "0" so
     pages without event.start sink to the end). -#}
 {%- macro _event_start(item) -%}
-  {%- if item.meta and item.meta.event and item.meta.event.start -%}
-    {{ item.meta.event.start | string }}
+  {%- if item.meta and item.meta.event -%}
+    {%- if item.meta.event is mapping and item.meta.event.start -%}
+      {{ item.meta.event.start | string }}
+    {%- elif item.meta.event is iterable and item.meta.event | length > 0 and item.meta.event[0].start is defined -%}
+      {{ item.meta.event[0].start | string }}
+    {%- else -%}
+      0
+    {%- endif -%}
   {%- else -%}
     0
   {%- endif -%}
