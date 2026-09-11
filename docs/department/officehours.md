@@ -228,7 +228,8 @@ Monday and Wednesday 02:30 PM &ndash; 03:30 PM or by appointment
 ## Dr. Carolina Veiga
 
 - Office: King Hall 224
-- Mon, Wed, Fri: 1pm -- 2pm
+- Tuesday and Thursday 02:15 PM &ndash; 04:15 PM
+- Wednesday 02:00 PM &ndash; 03:00 PM 
 - By appointment: hh8yvn@jmu.edu
 
 ## Dr. Isaac Wang
