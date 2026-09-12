@@ -74,11 +74,11 @@ extra_css = [
 #
 # Read more: https://zensical.org/docs/customization/#additional-javascript
 extra_javascript = [
-    "fixhash.js",
+    "fixhash.js?v=2026-01-31",
+    "mathjax.js?v=2026-01-05",
+    "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js",
     "table-filter.js?v=2026-03-09",
     "table-merge.js?v=2026-03-09",
-    "mathjax.js",
-    "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"
 ]
 
 # ----------------------------------------------------------------------------
@@ -128,21 +128,21 @@ language = "en"
 # of the documentation site.
 features = [
     # Zensical includes an announcement bar. This feature allows users to
-    # dismiss it then they have read the announcement.
+    # dismiss it when they have read the announcement.
     # https://zensical.org/docs/setup/header/#announcement-bar
     "announce.dismiss",
 
     # If you have a repository configured and turn on this feature, Zensical
     # will generate an edit button for the page. This works for common
     # repository hosting services.
-    # https://zensical.org/docs/setup/repository/#code-actions
-    "content.action.edit",
+    # https://zensical.org/docs/setup/repository/#content-actions
+    #"content.action.edit",
 
     # If you have a repository configured and turn on this feature, Zensical
     # will generate a button that allows the user to view the Markdown
     # code for the current page.
-    # https://zensical.org/docs/setup/repository/#code-actions
-    "content.action.view",
+    # https://zensical.org/docs/setup/repository/#content-actions
+    #"content.action.view",
 
     # Code annotations allow you to add an icon with a tooltip to your
     # code blocks to provide explanations at crucial points.
@@ -170,7 +170,8 @@ features = [
     # https://zensical.org/docs/authoring/content-tabs/#linked-content-tabs
     "content.tabs.link",
 
-    # TODO: not sure I understand this one? Is there a demo of this in the docs?
+    # With this feature enabled users can add tooltips to links that will be
+    # displayed when the mouse pointer hovers the link.
     # https://zensical.org/docs/authoring/tooltips/#improved-tooltips
     "content.tooltips",
 
@@ -322,6 +323,12 @@ toggle.name = "Switch to light mode"
 #link = "https://github.com/user/repo"
 
 # ----------------------------------------------------------------------------
+# https://zensical.org/docs/compatibility/mkdocs/plugins/
+# ----------------------------------------------------------------------------
+
+[project.plugins.awesome-nav]
+
+# ----------------------------------------------------------------------------
 # Default configuration for Python Markdown Extensions.
 # https://zensical.org/docs/setup/extensions/about/?h=default+markdown+#default-configuration
 # ----------------------------------------------------------------------------
@@ -332,8 +339,10 @@ toggle.name = "Switch to light mode"
 [project.markdown_extensions.def_list]
 [project.markdown_extensions.footnotes]
 [project.markdown_extensions.md_in_html]
+[project.markdown_extensions.sane_lists]
+[project.markdown_extensions.smarty]
+smart_quotes = false
 [project.markdown_extensions.toc]
-permalink = true
 [project.markdown_extensions.pymdownx.arithmatex]
 generic = true
 [project.markdown_extensions.pymdownx.betterem]
