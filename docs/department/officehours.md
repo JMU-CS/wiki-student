@@ -205,7 +205,7 @@ Feel free to stop by anytime my door is open!!!
 ## Dr. Nathan Sprague
 
 - Office: King 226
-- Office Hours: M/W 2:00-3:30, T/TH 10:00-11:00
+- Office Hours: M/W 9:00-10:00, T/TH 2:00-3:30
 - Calendar: <https://w3.cs.jmu.edu/spragunr/schedule.html>
 - Zoom URL: Available through Canvas, or email me for the link.
 
