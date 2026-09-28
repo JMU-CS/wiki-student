@@ -2,9 +2,102 @@
 
 The CS Research Seminar Talks are talks given by faculty members and undergraduate research assistants on a variety of topics at the cutting edge of computer science research. Talks happen on **Fridays at 11:25am** (Fall 2025) and are usually held in **King 243**. The format is a 40-45 minute research talk with 5-10 minutes reserved for questions. All CS students (and other interested students and faculty) are invited to attend. Email announcements about each seminar will be sent to the CS listserv.
 
+Organizer: John Bowers
+
+## Fall 2026
+
+- Sep 25
+Nathan Sprague
+
+Metric Learning for Ancient Coin Identification
+
+Ancient coin identification is an instance-level recognition problem with a difficult data regime: large public collections provide many coin identities, but usually only one image per physical coin, while confirmed same-coin pairs from independent sources are scarce. Because such paired datasets are costly and likely to remain small, we ask how they can best be combined with abundant single-image public data. We test whether scarce paired data can be used effectively as an adaptation signal for tuning augmentations, which then provide synthetic repeated views of the public single-image identities used to train an embedding model. Our ArcFace-based pipeline tunes augmentation hyperparameters on repeated-image validation data and trains on public coin identities. For controlled evaluation, we introduce a curated dataset of 3,708 images covering 309 coin sides under varied lighting and reproduction conditions, including print--scan catalog-style artifacts. In this controlled setting, direct paired training achieves 98.01% Recall\@1, while augmentation-guided public-data training achieves 94.57% without using paired identities as supervised training classes. Ablations identify augmentation tuning and preservation of intermediate spatial features as the principal contributors to public-data performance.
+
+- Sep 18
+Michael Kirkpatrick
+
+What is Research Integrity?
+Foundations for trustworthy science
+
+Science only works for society if people can trust it. What happens to that trust if someone publishes a paper with fake data? What if journal editors automatically accept research if you pay them? What if peer reviewers just ask ChatGPT how to write the review? Systems built on trust have a lot of opportunities to be attacked, and the goal of research integrity is to protect the best parts of science from these threats.
+
+Since 2017, Dr. Kirkpatrick has served in a variety of research integrity roles for ACM, the world’s largest professional society for computer science. This talk will give a broad overview of the landscape of research and publication misconduct, including (anonymized) exemplars of violations. It will also describe efforts to combat these problems and what we can all do to help out. Whether you’re a faculty member with years of research experience or an undergraduate hoping to get started—or even if you just like hearing about bad things people do—this talk is for you.
+
+- Sep 11
+What is CS/IT research? (15 minutes)
+
+Followed by
+
+Faculty Flash Talks (Roughly 2-3 minutes each)
+
+Join us for an overview of computer science and information technology research followed by 2 to 3-minute flash talks giving you an overview of ongoing research within the JMU Computer Science department. Whether you are looking to get into research or just interested in learning more, you are welcome! 
+
+## Spring 2026
+
+- May 1 Student Talks
+
+Title:  StepWise: An Educational Debugger That Needs Your Help
+
+Speaker: Rafael Dietsch
+
+Abstract: One difficulty a novice programmer faces is mapping programming concepts to code. It's often challenging to develop a clear picture of how languages, such as Python, evaluate expressions, traverse statements, access memory, and perform I/O. Historically, this issue has been tackled using memory diagrams and step-through debugging utilities that allow a programmer to progress through a program's execution step-by-step. Our investigation into these educational tools inspired us to build StepWise, a tool that combines active learning with real-time feedback to help programmers develop accurate yet simple mental models of Python.
+
+Title: Implementing Adaptive Instrument Accessibility into MusicCPR
+
+Speaker: Josh Hairston
+
+Abstract: In the United States, 1 in 7 people, or 44.7 million people, have at least one disability. Each of those 44.7 million people have varying disability statuses. Unfortunately, most web applications do not have web accessibility as their top priority, and, as a result, omit a seventh of the United States population. Due to the lack of urgency in regard to accessibility in web applications, this work implements adaptive instrument accessibility in MusicCPR, a web-based platform that promotes standards-based instrumental music education. Adaptive instruments are devices that are modified to enable anyone with a disability to play music, and although people who use adaptive instruments are a minority of the population of people who play music with instruments, they should be included when creating a web application on music education. The feature added for adaptive instrument users is a settings modal which enables the user to add their adaptive instrument to the web application and use it to record pieces of music.
+
+Title: Classification of Person in WiFi Via Topological Methods
+
+Speaker: Tucker Roberts 
+
+Abstract: Wireless sensing with commodity WiFi signals has become an increasingly attractive framework for device-free human activity recognition due to its low deployment cost, broad indoor availability, and privacy-preserving nature. In this talk, we introduce a novel methodology that combines Topological Data Analysis (TDA) with machine learning to identify individuals, classify human activities, and infer spatial occupancy directly from channel state information (CSI) measurements. 
+
+Title: DSA Express: Learning Data Structures with Mixed-Reality Metaphors
+
+Speaker: Leo Torrijos
+
+Abstract: Data Structures and Algorithms are difficult for students due to their abstract nature. This thesis presents DSA Express, a mixed/augmented reality application that allows users to experiment with nodes and links as virtual objects. We grounded the design of the application through co-design sessions investigating common difficulties in learning data structures and understanding student needs for interactive visualizations. Our work offers an initial exploration of mixed-reality visualizations for DSA learning.
+
+
+- Apr 24
+Will Ponczak
+
+Mapping the Machine Learning Research Landscape: A Knowledge Graph Approach
+
+This talk introduces knowledge graph engineering through a hands-on project that maps the machine learning research landscape. The first half covers foundational concepts — RDF triples, OWL ontologies, and SPARQL — explaining how knowledge graphs store and query structured information, with real-world examples from Google, healthcare, and recommendation systems. The second half presents a research knowledge graph built from 720 arXiv papers, encoding 31,071 RDF triples across 8 entity types including publications, authors, research areas, and topics. Six SPARQL queries demonstrate practical use cases from paper recommendation to expert discovery. TransE graph embeddings trained on the knowledge graph achieve MRR 0.511 and Hits@10 0.672 on link prediction, confirming that the graph structure captures meaningful research relationships. An interactive React web application allows users to explore the graph, run live queries, and navigate connections between entities in real time.
+
+- Apr 10
+Dr. John C. Bowers
+
+Durer’s Problem and Coin Polyhedra
+
+In 1525 the German painter and printmaker Albrecht Dürer posed the question of whether every convex polyhedron (fig. 1) admits of a non-overlapping 2D net (fig. 2). This problem is deceptively easy to understand and state and is a fundamental question in the study of polyhedra, but has eluded researchers attempts to get anything approaching a comprehensive solution. 
+
+In this talk I will give a brief overview of Dürer’s problem and some of its attempted solutions. I will then take you down the rabbit hole of a mathematician’s thought to arrive at the formulation of a new problem—the unfolding of coin polyhedra—and computational experiments we hope will eventually lead to new insights. 
+
+This work comes out of my time on sabbatical last Spring at The Institute for Computational and Experimental Research in Mathematics (ICERM) at Brown and supported by a JMU CISE Academic Leave. It is ongoing work with JMU students Ainsley Ayers, Gabe Carl, Nathan Derby, Joe DiRocco, and David Hilscher. 
+
+- Apr 3
+Dr. Carolina Viega
+
+Data, Computing, and People: Visual Systems and Abstractions for Complex Data Workflows
+
+Modern data workflows are increasingly complex, combining heterogeneous data sources, multi-stage transformations, and interactive analysis. While advances in automation are reshaping how these workflows are constructed, humans remain essential in the loop by guiding interpretation, reasoning about uncertainty, and making decisions. Visualization plays a central role in enabling human interpretation. However, supporting these workflows requires more than visual representations alone. In this talk, I present my research on designing visual systems and abstractions that integrate data, computation, and human reasoning. I show how developing such systems exposes broader challenges in abstraction design, data processing, system architecture, and interaction. I argue that addressing these challenges requires a cross-cutting perspective that connects visualization with systems, programming languages, and human-centered computing. I also discuss emerging directions, including the role of AI in supporting data workflows and scientific communication. While AI offers powerful capabilities, effectively leveraging it depends on designing systems that support human understanding, integration, and control. This work highlights opportunities for collaboration in building integrated, human-centered systems that better support how we explore, understand, and communicate complex data.
+
+- Mar 27
+The first is by former JMU CS professor Dr. Siddharth Bhaskar. His paper won Best Paper at SIGCSE and my understanding is that the ideas of the paper were in part developed through his experience teaching Discrete Mathematics here at JMU. 
+
+The second is by Dr. Chris Mayfield on a paper by the Praxly team—a system for supporting secondary career and technical education teachers who are pursuing CS licensure. 
+
+The third is a flash talk by Dr. Isaac Wang on our approach to AI in our first programming course.
+
 ## Fall 2025
 
 - Sept 19 - What is Research? (11:20-12:30 King 259) [Slides](https://w3.cs.jmu.edu/bowersjc/what_is_research-2025.pdf)
+
+Interim organizer for the remainder of semester: Kevin Molloy
 - Oct 10 - Isaac Wang (11:30-12:20 King 243)
 - Oct 31 - Nathan Sprague (11:30-12:20 King 243)
 - Nov 14 - Prajakta Belsare (11:30-12:20 King 243)
