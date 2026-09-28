@@ -19,7 +19,6 @@ Come hang out and:
 
 - Enjoy free Crumbl Cookies 🍪
 
-**No RSVP needed, just show up and have fun!**
 ---
 
 ![Flyer](2026-09-29_wit-game-night.png)
