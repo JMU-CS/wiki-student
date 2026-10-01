@@ -1,0 +1,3 @@
+# Practicing Productive Professional Participation
+
+The organizers of JMU CS Department hosted events (examples including but not limited to class meetings, office hours, club events, TA Program events, Ambassador-hosted events, research group meetings) may communicate to an attendee that their conduct or topic of communication is disruptive, off-topic, or unwelcome at the event (and any of its future instances). If the attendee continues the indicated behavior they will be asked to leave by those organizers, who will recruit the support of the [campus police](tel:+1-540-568-6913) if necessary. Students asked to leave will be referred to the [Office of Student Accountability and Restorative Practices](https://www.jmu.edu/osarp/index.shtml).
