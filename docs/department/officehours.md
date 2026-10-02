@@ -26,8 +26,8 @@
 
 - King Hall Room 112
 - Office Hours:
-    * Monday 11:00 AM &ndash; 12:00 PM
     * Tuesday and Thursday 10:00 AM &ndash; 12:00 PM
+    * Wednesday 10:15 AM &ndash; 11:15 AM
 - By appointment: belsarpp@jmu.edu
 
 ## Dr. John Bowers
