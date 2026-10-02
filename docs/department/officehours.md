@@ -16,8 +16,8 @@
 
 ## Dr. Adeen Ayub
 
-* Tue/Thur: 10:00 - 11:00 am
-* Thur: 12:45 - 1:15 pm
+* Mon: 12:30 - 1:00 pm
+* Wed: 12:30 - 2.00 pm
 * And by appointment
 * Office: King Hall 252A
 * Email: ayubax@jmu.edu
