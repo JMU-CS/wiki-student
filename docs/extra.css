@@ -45,6 +45,22 @@
   margin-right: auto;
 }
 
+/* event badges */
+
+.auto-index__badge {
+  background-color: #6237AD;
+  border-radius: 1em;
+  color: #fff;
+  font-size: 0.7em;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  margin-left: 0.6em;
+  padding: 0.15em 0.7em;
+  text-transform: uppercase;
+  vertical-align: 0.1em;
+  white-space: nowrap;
+}
+
 /* table filter */
 
 .table-filter {

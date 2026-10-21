@@ -64,7 +64,7 @@ edit_uri = "edit/main/docs/"
 #
 # Read more: https://zensical.org/docs/customization/#additional-css
 extra_css = [
-    "extra.css?v=2026-03-09"
+    "extra.css?v=2026-10-21"
 ]
 
 # With the `extra_javascript` option you can add your own JavaScript to your
@@ -79,6 +79,7 @@ extra_javascript = [
     "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js",
     "table-filter.js?v=2026-03-09",
     "table-merge.js?v=2026-03-09",
+    "auto-index.js?v=2026-10-21",
 ]
 
 # ----------------------------------------------------------------------------

@@ -8,6 +8,39 @@
   (highest first). Sections without a weight default to 100.
 -#}
 
+{#- Extract the event.start string for sorting (falls back to "0" so
+    pages without event.start sink to the end). -#}
+{%- macro _event_start(item) -%}
+  {%- if item.meta and item.meta.event -%}
+    {%- if item.meta.event is mapping and item.meta.event.start -%}
+      {{ item.meta.event.start | string }}
+    {%- elif item.meta.event is iterable and item.meta.event | length > 0 and item.meta.event[0].start is defined -%}
+      {{ item.meta.event[0].start | string }}
+    {%- else -%}
+      0
+    {%- endif -%}
+  {%- else -%}
+    0
+  {%- endif -%}
+{%- endmacro -%}
+
+{#- Extract the end of the event's last occurrence (falls back to that
+    occurrence's start, or "" when there is no event). -#}
+{%- macro _event_end(item) -%}
+  {%- if item.meta and item.meta.event -%}
+    {%- if item.meta.event is mapping -%}
+      {%- set last = item.meta.event -%}
+    {%- elif item.meta.event is iterable and item.meta.event | length > 0 -%}
+      {%- set last = item.meta.event | last -%}
+    {%- endif -%}
+    {%- if last is defined and last.end is defined and last.end -%}
+      {{ last.end | string }}
+    {%- elif last is defined and last.start is defined and last.start -%}
+      {{ last.start | string }}
+    {%- endif -%}
+  {%- endif -%}
+{%- endmacro -%}
+
 {%- macro entry(item) -%}
   {%- set label = item.title -%}
   {%- if item.meta and item.meta.event -%}
@@ -22,7 +55,9 @@
       {%- set label = mm ~ "/" ~ dd ~ " - " ~ item.title -%}
     {%- endif -%}
   {%- endif -%}
-  <li class="auto-index__item">
+  {%- set start = _event_start(item) | trim -%}
+  <li class="auto-index__item"
+    {%- if start != "0" %} data-start="{{ start }}" data-end="{{ _event_end(item) | trim }}"{% endif %}>
     {%- if item.meta and item.meta.icon %}
       {% include ".icons/" ~ item.meta.icon ~ ".svg" %}
     {%- endif %}
@@ -60,22 +95,6 @@
   {%- endfor -%}
 {%- endmacro -%}
 
-{#- Extract the event.start string for sorting (falls back to "0" so
-    pages without event.start sink to the end). -#}
-{%- macro _event_start(item) -%}
-  {%- if item.meta and item.meta.event -%}
-    {%- if item.meta.event is mapping and item.meta.event.start -%}
-      {{ item.meta.event.start | string }}
-    {%- elif item.meta.event is iterable and item.meta.event | length > 0 and item.meta.event[0].start is defined -%}
-      {{ item.meta.event[0].start | string }}
-    {%- else -%}
-      0
-    {%- endif -%}
-  {%- else -%}
-    0
-  {%- endif -%}
-{%- endmacro -%}
-
 {#- Render a single section: heading + child list sorted by event.start desc -#}
 {%- macro render_section(item) -%}
   {%- if item.children is defined and item.children -%}
@@ -101,7 +120,7 @@
       {%- endif -%}
     {%- endfor %}
 <h2>{{ item.title }}</h2>
-<ul class="auto-index__list">
+<ul class="auto-index__list" data-heading="h3">
     {%- for pair in entries.list | sort(attribute='0', reverse=true) %}
   {{ entry(pair[1]) }}
     {%- endfor %}
@@ -145,7 +164,7 @@
           {%- endif -%}
         {%- endif -%}
       {%- endfor -%}
-<ul class="auto-index__list">
+<ul class="auto-index__list" data-heading="h2">
       {%- for pair in entries.list | sort(attribute='0', reverse=true) %}
   {{ entry(pair[1]) }}
       {%- endfor %}
