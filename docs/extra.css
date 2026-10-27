@@ -1,5 +1,9 @@
 /* colors */
 
+:root {
+  --table-filter-error-color: #c62828;
+}
+
 .md-banner {
   background-color: var(--md-warning-bg-color);
   color: var(--md-warning-fg-color);
@@ -69,6 +73,20 @@
   box-sizing: border-box;
   font-size: 0.9rem;
   padding: 0.4em 0.6em;
+}
+
+.table-filter-help {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.75rem;
+  margin-top: 0.3em;
+}
+
+.table-filter-help.table-filter-error::before {
+  content: "⛔️ ";
+}
+
+.table-filter-help.table-filter-error {
+  color: var(--table-filter-error-color, #c62828);
 }
 
 /* footers */

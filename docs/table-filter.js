@@ -16,12 +16,41 @@ document$.subscribe(function () {
     // Place the filter input inside the opt-in div
     var input = document.createElement("input");
     input.type = "text";
-    input.placeholder = "Type to filter rows…";
+    input.placeholder = "Type to filter rows\u2026";
     input.className = "table-filter-input";
     container.appendChild(input);
 
+    // Help text shown when the query is being interpreted as a regex
+    var help = document.createElement("div");
+    help.className = "table-filter-help";
+    help.hidden = true;
+    container.appendChild(help);
+
     input.addEventListener("input", function () {
+      // A query starting with "/" (ignoring leading whitespace) is a regex,
+      // optionally closed with "/flags", e.g. "/cs 1\d\d" or "/smith/i".
+      // Matching is case-insensitive unless flags are given explicitly.
+      var raw = this.value.replace(/^\s+/, "");
       var term = this.value.toLowerCase();
+      var regex = null;
+      if (raw.charAt(0) === "/") {
+        var body = raw.slice(1);
+        var flags = "i";
+        var m = body.match(/^(.*)\/([a-z]*)$/);
+        if (m) { body = m[1]; flags = m[2]; }
+        try {
+          regex = new RegExp(body, flags.replace(/[gy]/g, ""));
+          help.textContent = "Interpreting query as a regular expression: " + regex;
+          help.classList.remove("table-filter-error");
+        } catch (e) {
+          help.textContent = "Invalid regular expression: " + e.message;
+          help.classList.add("table-filter-error");
+          regex = /(?:)/;  // show all rows while the regex is incomplete
+        }
+        help.hidden = false;
+      } else {
+        help.hidden = true;
+      }
       var rows = table.querySelectorAll("tbody tr");
 
       // Collect the full text for each row group (accounting for rowspans).
@@ -42,16 +71,18 @@ document$.subscribe(function () {
           row.querySelectorAll("td").forEach(function (td) {
             if (td.rowSpan > maxSpan) maxSpan = td.rowSpan;
           });
-          groups.push({ rows: [row], span: maxSpan, text: row.textContent.toLowerCase() });
+          groups.push({ rows: [row], span: maxSpan, text: row.textContent });
         } else {
           var g = groups[groups.length - 1];
           g.rows.push(row);
-          g.text += " " + row.textContent.toLowerCase();
+          g.text += " " + row.textContent;
         }
       });
 
       groups.forEach(function (g) {
-        var visible = g.text.includes(term) ? "" : "none";
+        var match = regex ? regex.test(g.text)
+                          : g.text.toLowerCase().includes(term);
+        var visible = match ? "" : "none";
         g.rows.forEach(function (row) { row.style.display = visible; });
       });
     });
