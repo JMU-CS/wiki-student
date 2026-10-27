@@ -1,6 +1,6 @@
 # Spring 2026 Schedule
 
-<div id="table-filter"></div>
+<div class="table-filter"></div>
 
 | Course | Section | Time                     | Room | Instructors |
 |--------|---------|--------------------------|------|-------------|

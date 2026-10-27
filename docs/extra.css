@@ -63,7 +63,7 @@
 
 /* table filter */
 
-.table-filter {
+.table-filter-input {
   border: 1px solid var(--md-default-fg-color--lighter);
   border-radius: 4px;
   box-sizing: border-box;
