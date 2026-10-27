@@ -3,6 +3,7 @@ Sur = "Sur" # Proper Noun
 Mata = "Mata" # Name of professor
 Gatin = "Gatin" # Name of professor
 Messager = "Messager" # This is valid because Java.
+tekn = "tekn" # e.g. https://en.wiktionary.org/wiki/tekn.
 
 [files]
 extend-exclude = [
