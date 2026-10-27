@@ -16,7 +16,7 @@ document$.subscribe(function () {
     // Place the filter input inside the opt-in div
     var input = document.createElement("input");
     input.type = "text";
-    input.placeholder = "Type to filter rows…";
+    input.placeholder = "Type to filter rows\u2026";
     input.className = "table-filter-input";
     container.appendChild(input);
 
