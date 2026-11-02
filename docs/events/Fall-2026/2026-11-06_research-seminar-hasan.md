@@ -1,5 +1,5 @@
 ---
-title: "CS/IT Research Seminar: Moh Hasan — Beyond Connectivity: Intelligence and Trust in Wireless Networks"
+title: "CS/IT Research Seminar: Moh Khalid Hasan — Beyond Connectivity: Intelligence and Trust in Wireless Networks"
 date: 2026-10-21                 # when it was announced
 event:
   start: 2026-11-06 11:25        # local time in feeds.timezone
@@ -8,7 +8,7 @@ event:
   status: confirmed              # tentative | confirmed | cancelled
 ---
 
-Join the JMU CS/IT Research Seminar with **Moh Hasan**.
+Join the JMU CS/IT Research Seminar with **Moh Khalid Hasan**.
 
 ## Details
 
