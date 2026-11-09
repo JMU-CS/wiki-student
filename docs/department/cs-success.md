@@ -91,3 +91,19 @@ Note that TAs are taught to coach you rather than write code for you. It is not 
     2.  `Thumbs up` = has been helped
     3.  **Note:** Queue of helped students will be deleted at the end of shift by the Lead TA
 3.  Students other than TAs should not comment on the queue in the Lab.
+
+
+## CS PASS Program
+
+In collaboration with [the JMU Learning Centers PASS Program](https://www.jmu.edu/learning/pass/index.shtml), the JMU CS TA Program currently offers PASS for CS  101, 149, 159, and 227 as follows:
+
+| Course | Weekly Session | Room      |
+| ------ | -------------- | --------- |
+| 101    | Mondays 4-5    | 248 King  |
+| 101    | Tuesdays 4-5   | 248 King  |
+| 149    | Tuesdays 5-6   | 243 King  |
+| 149    | Wednesdays 5-6 | 243 King  |
+| 159    | Thursdays 12-1 | 140 King  |
+| 159    | Fridays 2-3    | 140 King  |
+| 227    | Mondays 7-8    | 243 King  |
+| 227    | Thursdays 6-7  | 243 King  |
