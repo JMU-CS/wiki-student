@@ -95,7 +95,9 @@ Note that TAs are taught to coach you rather than write code for you. It is not 
 
 ## CS PASS Program
 
-In collaboration with [the JMU Learning Centers PASS Program](https://www.jmu.edu/learning/pass/index.shtml), the JMU CS TA Program currently offers PASS for CS  101, 149, 159, and 227 as follows:
+In collaboration with [the JMU Learning Centers PASS Program](https://www.jmu.edu/learning/pass/index.shtml), the JMU CS TA Program has twice-weekly Peer-Assisted Study Sessions that reviews the most recent content from the corresponding course.
+
+We currently offer PASS for CS  101, 149, 159, and 227 as follows:
 
 | Course | Weekly Session | Room      |
 | ------ | -------------- | --------- |
